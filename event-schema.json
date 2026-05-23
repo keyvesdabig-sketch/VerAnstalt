@@ -1,0 +1,47 @@
+{
+  "type": "object",
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Der Name/Titel der Veranstaltung"
+          },
+          "description": {
+            "type": "string",
+            "description": "Kurze Beschreibung oder Zusammenfassung"
+          },
+          "locationName": {
+            "type": "string",
+            "description": "Name des Veranstaltungsorts in Chur"
+          },
+          "date": {
+            "type": "string",
+            "description": "Datum des Events im Format YYYY-MM-DD"
+          },
+          "time": {
+            "type": "string",
+            "description": "Uhrzeit des Events, z.B. 19:30 oder 10:00 - 17:00"
+          },
+          "price": {
+            "type": "string",
+            "description": "Eintrittspreis, z.B. CHF 15.- oder Eintritt frei"
+          },
+          "image": {
+            "type": "string",
+            "description": "Bild-URL des Events"
+          },
+          "sourceUrl": {
+            "type": "string",
+            "description": "URL zur Event-Detailseite auf chur-kultur.ch"
+          }
+        },
+        "required": ["title", "locationName", "date"]
+      }
+    }
+  },
+  "required": ["events"]
+}

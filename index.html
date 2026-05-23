@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ChurEvents – Das regionale Event-Dashboard</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📍</text></svg>">
+  
+  <!-- SEO Meta-Tags -->
+  <meta name="description" content="Entdecke aktuelle Events, Konzerte, Märkte, Familienaktivitäten und Sportveranstaltungen in Chur und Umgebung. Interaktive Karte und persönliche Favoritenliste.">
+  <meta name="keywords" content="Chur, Events, Graubünden, Konzerte, Märkte, Kultur, Sport, Familie, Ostschweiz, Veranstaltungskalender">
+  <meta name="author" content="Antigravity AI">
+  
+  <!-- Open Graph Meta-Tags -->
+  <meta property="og:title" content="ChurEvents – Das regionale Event-Dashboard">
+  <meta property="og:description" content="Entdecke aktuelle Events, Konzerte, Märkte und mehr in Chur mit unserer interaktiven Karte.">
+  <meta property="og:type" content="website">
+  
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet CSS for Interactive Map -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+     
+  <!-- Custom Styling -->
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- Lucide Icons CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-logo">
+        <div class="logo-icon">
+          <i data-lucide="map-pin"></i>
+        </div>
+        <div class="logo-text">
+          <h1>Chur<span>Events</span></h1>
+          <p>Dein regionaler Entdecker-Hub</p>
+        </div>
+      </div>
+      
+      <div class="header-actions">
+        <button id="btn-add-event" class="btn btn-primary">
+          <i data-lucide="plus-circle"></i>
+          <span>Event eintragen</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Search and Filters Panel -->
+    <section class="filter-panel glass">
+      <div class="filter-top-row">
+        <div class="search-bar-container">
+          <i data-lucide="search" class="search-icon"></i>
+          <input type="text" id="search-input" placeholder="Nach Events, Orten oder Stichworten suchen..." autocomplete="off">
+          <button id="search-clear-btn" class="search-clear-btn hidden">
+            <i data-lucide="x"></i>
+          </button>
+        </div>
+        
+        <div class="region-select-container">
+          <i data-lucide="map-pin" class="region-icon"></i>
+          <select id="region-select" class="region-select">
+            <option value="all">Alle Regionen</option>
+            <option value="Chur">Chur</option>
+            <option value="Domat/Ems">Domat/Ems</option>
+            <option value="Felsberg">Felsberg</option>
+            <option value="Haldenstein">Haldenstein</option>
+            <option value="Trimmis">Trimmis</option>
+            <option value="Untervaz">Untervaz</option>
+            <option value="Zizers">Zizers</option>
+            <option value="Tamins">Tamins</option>
+            <option value="Churwalden">Churwalden & Malix</option>
+            <option value="Tschiertschen-Praden">Tschiertschen-Praden</option>
+            <option value="Bonaduz">Bonaduz</option>
+            <option value="Rhäzüns">Rhäzüns</option>
+            <option value="Malans">Malans</option>
+            <option value="Landquart">Landquart</option>
+            <option value="Thusis">Thusis</option>
+          </select>
+        </div>
+      </div>
+      
+      <div class="filter-categories-container">
+        <div class="filter-label">Kategorien:</div>
+        <div class="category-pills">
+          <button class="pill active" data-category="all">
+            <i data-lucide="layout-grid"></i> Alle
+          </button>
+          <button class="pill" data-category="music">
+            <i data-lucide="music"></i> Musik & Party
+          </button>
+          <button class="pill" data-category="stage">
+            <i data-lucide="ticket"></i> Bühne & Kunst
+          </button>
+          <button class="pill" data-category="markets">
+            <i data-lucide="shopping-bag"></i> Märkte
+          </button>
+          <button class="pill" data-category="family">
+            <i data-lucide="smile"></i> Familie
+          </button>
+          <button class="pill" data-category="sport">
+            <i data-lucide="trophy"></i> Sport
+          </button>
+          <div class="divider"></div>
+          <button class="pill pill-favorites" data-category="favorites">
+            <i data-lucide="heart"></i> Favoriten <span id="fav-count" class="badge">0</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mobile View Selector (Tabs) for Map vs List -->
+    <div class="mobile-view-tabs">
+      <button id="tab-list" class="tab-btn active">
+        <i data-lucide="list"></i> Liste (<span id="event-count-mobile">0</span>)
+      </button>
+      <button id="tab-map" class="tab-btn">
+        <i data-lucide="map"></i> Karte
+      </button>
+    </div>
+
+    <!-- Main Content Layout -->
+    <main class="main-content">
+      <!-- Left Column: Events Grid/List -->
+      <section class="events-section" id="events-section">
+        <div class="section-header">
+          <h2 id="section-title">Alle Veranstaltungen</h2>
+          <span class="results-count" id="results-count">8 Events gefunden</span>
+        </div>
+        
+        <!-- Grid for Event Cards -->
+        <div class="events-grid" id="events-grid">
+          <!-- Dynamically populated -->
+        </div>
+
+        <!-- Empty state -->
+        <div class="empty-state hidden" id="empty-state">
+          <i data-lucide="calendar-x" class="empty-icon"></i>
+          <h3>Keine Events gefunden</h3>
+          <p>Passe deine Filter oder Suche an, um Veranstaltungen in Chur zu entdecken.</p>
+          <button id="btn-reset-filters" class="btn btn-secondary">Filter zurücksetzen</button>
+        </div>
+      </section>
+
+      <!-- Right Column: Interactive Map -->
+      <section class="map-section" id="map-section">
+        <div class="map-wrapper glass">
+          <div id="map"></div>
+          <div class="map-helper-badge hidden" id="map-helper-badge">
+            <i data-lucide="info"></i> Klicke auf die Karte, um den Ort für dein neues Event festzulegen
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>&copy; 2026 ChurEvents. Made with <i data-lucide="heart" class="footer-heart"></i> for Chur, Switzerland.</p>
+    </footer>
+  </div>
+
+  <!-- Detail Modal -->
+  <div class="modal-backdrop hidden" id="detail-modal">
+    <div class="modal-container glass">
+      <button class="modal-close" id="detail-modal-close">
+        <i data-lucide="x"></i>
+      </button>
+      <div class="modal-body" id="detail-modal-body">
+        <!-- Dynamically populated -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Add Event Modal -->
+  <div class="modal-backdrop hidden" id="add-modal">
+    <div class="modal-container add-event-container glass">
+      <button class="modal-close" id="add-modal-close">
+        <i data-lucide="x"></i>
+      </button>
+      <div class="modal-header">
+        <h2>Neues Event eintragen</h2>
+        <p>Teile eine Veranstaltung in Chur mit der Community</p>
+      </div>
+      <form id="add-event-form" class="modal-form">
+        <div class="form-grid">
+          <div class="form-group full-width">
+            <label for="event-title">Event-Titel *</label>
+            <input type="text" id="event-title" required placeholder="z.B. Churer Stadtfest">
+          </div>
+
+          <div class="form-group">
+            <label for="event-category">Kategorie *</label>
+            <select id="event-category" required>
+              <option value="" disabled selected>Kategorie wählen</option>
+              <option value="music">Musik & Party</option>
+              <option value="stage">Bühne & Kunst</option>
+              <option value="markets">Märkte</option>
+              <option value="family">Familie</option>
+              <option value="sport">Sport</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="event-price">Eintritt / Preis</label>
+            <input type="text" id="event-price" placeholder="z.B. CHF 15.- oder Eintritt frei">
+          </div>
+
+          <div class="form-group">
+            <label for="event-municipality">Gemeinde *</label>
+            <select id="event-municipality" required>
+              <option value="" disabled selected>Gemeinde wählen</option>
+              <option value="Chur">Chur</option>
+              <option value="Domat/Ems">Domat/Ems</option>
+              <option value="Felsberg">Felsberg</option>
+              <option value="Haldenstein">Haldenstein</option>
+              <option value="Trimmis">Trimmis</option>
+              <option value="Untervaz">Untervaz</option>
+              <option value="Zizers">Zizers</option>
+              <option value="Tamins">Tamins</option>
+              <option value="Churwalden">Churwalden & Malix</option>
+              <option value="Tschiertschen-Praden">Tschiertschen-Praden</option>
+              <option value="Bonaduz">Bonaduz</option>
+              <option value="Rhäzüns">Rhäzüns</option>
+              <option value="Malans">Malans</option>
+              <option value="Landquart">Landquart</option>
+              <option value="Thusis">Thusis</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="event-date">Datum *</label>
+            <input type="date" id="event-date" required>
+          </div>
+
+          <div class="form-group">
+            <label for="event-time">Uhrzeit *</label>
+            <input type="text" id="event-time" required placeholder="z.B. 19:30 - 22:00">
+          </div>
+
+          <div class="form-group full-width">
+            <label for="event-location-name">Ort (Name des Veranstaltungsorts) *</label>
+            <input type="text" id="event-location-name" required placeholder="z.B. Stadthalle Chur, Bahnhofstrasse 5">
+          </div>
+
+          <!-- Location selection section -->
+          <div class="form-group full-width location-selection-container">
+            <label>Geografischer Standort auf Karte festlegen *</label>
+            <div class="coordinates-input-row">
+              <div class="coord-input">
+                <span>Lat:</span>
+                <input type="number" id="event-lat" step="any" required placeholder="46.8508" readonly>
+              </div>
+              <div class="coord-input">
+                <span>Lng:</span>
+                <input type="number" id="event-lng" step="any" required placeholder="9.5320" readonly>
+              </div>
+              <button type="button" id="btn-pick-location" class="btn btn-secondary btn-sm">
+                <i data-lucide="map-pin"></i>
+                <span>Auf Karte wählen</span>
+              </button>
+            </div>
+            <p class="form-help-text">Klicke auf den Button und klicke anschliessend auf der Hauptkarte auf die gewünschte Position.</p>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="event-image">Bild-URL (Optional)</label>
+            <input type="url" id="event-image" placeholder="https://images.unsplash.com/...">
+            <p class="form-help-text">Leer lassen für ein passendes Standardbild der Kategorie.</p>
+          </div>
+
+          <div class="form-group full-width">
+            <label for="event-description">Beschreibung *</label>
+            <textarea id="event-description" required rows="4" placeholder="Beschreibe das Event, Highlights, Anreise etc."></textarea>
+          </div>
+        </div>
+
+        <div class="form-actions">
+          <button type="button" id="btn-add-cancel" class="btn btn-secondary">Abbrechen</button>
+          <button type="submit" class="btn btn-primary">Event speichern</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Leaflet Map Script -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+     
+  <!-- Application Scripts -->
+  <script src="events-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
