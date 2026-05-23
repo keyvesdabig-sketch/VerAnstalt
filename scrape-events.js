@@ -309,6 +309,12 @@ async function main() {
         continue;
       }
 
+      // Gottesdienste komplett herausfiltern
+      if (titleLower.includes('gottesdienst') || titleLower.includes('andacht') || titleLower.includes('liturgie') || titleLower.includes('eucharistie')) {
+        console.log(`⛪ [${source.name}] Überspringe Gottesdienst/Andacht: "${rawEvent.title}"`);
+        continue;
+      }
+
       // Validierung: Überspringe ungültige Daten (z.B. einstellige Zahlen als Titel oder Punkte als Ort)
       const titleClean = rawEvent.title.trim();
       const locationClean = rawEvent.locationName.trim();
@@ -413,8 +419,11 @@ async function main() {
 
   Object.keys(database).forEach(key => {
     const event = database[key];
-    // Wenn das Event-Datum HEUTE oder in der ZUKUNFT liegt, behalten wir es
-    if (event.date >= todayStr) {
+    const titleLower = (event.title || '').toLowerCase();
+    const isWorship = titleLower.includes('gottesdienst') || titleLower.includes('andacht') || titleLower.includes('liturgie') || titleLower.includes('eucharistie');
+    
+    // Wenn das Event-Datum HEUTE oder in der ZUKUNFT liegt und es kein Gottesdienst ist, behalten wir es
+    if (event.date >= todayStr && !isWorship) {
       // Sicherstellen, dass das sources-Feld und municipality-Feld initialisiert sind
       if (!event.sources) {
         event.sources = [];
