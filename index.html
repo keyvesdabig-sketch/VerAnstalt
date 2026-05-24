@@ -47,6 +47,10 @@
       </div>
       
       <div class="header-actions">
+        <button id="btn-import-events" class="btn btn-secondary">
+          <i data-lucide="upload"></i>
+          <span>Events importieren</span>
+        </button>
         <button id="btn-add-event" class="btn btn-primary">
           <i data-lucide="plus-circle"></i>
           <span>Event eintragen</span>
@@ -299,6 +303,53 @@
           <button type="submit" class="btn btn-primary">Event speichern</button>
         </div>
       </form>
+    </div>
+  </div>
+
+  <!-- Import Events Modal -->
+  <div class="modal-backdrop hidden" id="import-modal">
+    <div class="modal-container import-modal-container glass">
+      <button class="modal-close" id="import-modal-close">
+        <i data-lucide="x"></i>
+      </button>
+      <div class="modal-header">
+        <h2>Events importieren</h2>
+        <p>Lade die JSON-Datei aus dem AI-Studio-Scraper hoch oder füge sie ein</p>
+      </div>
+
+      <!-- Phase 1: Input -->
+      <div id="import-phase-input" class="import-phase">
+        <div class="import-input-grid">
+          <label class="import-file-drop" for="import-file-input">
+            <i data-lucide="upload-cloud"></i>
+            <span class="import-file-drop-title">JSON-Datei wählen</span>
+            <span class="import-file-drop-hint">oder hierher ziehen</span>
+            <input type="file" id="import-file-input" accept="application/json,.json" hidden>
+          </label>
+          <div class="import-paste-area">
+            <label for="import-paste-input">Oder JSON hier einfügen:</label>
+            <textarea id="import-paste-input" rows="8" placeholder='[{"title":"...", "date":"2026-06-15", ...}]'></textarea>
+          </div>
+        </div>
+        <div class="import-error hidden" id="import-parse-error"></div>
+        <div class="form-actions">
+          <button type="button" id="btn-import-cancel-1" class="btn btn-secondary">Abbrechen</button>
+          <button type="button" id="btn-import-validate" class="btn btn-primary">Validieren</button>
+        </div>
+      </div>
+
+      <!-- Phase 2: Review -->
+      <div id="import-phase-review" class="import-phase hidden">
+        <div class="import-summary" id="import-summary"></div>
+        <div class="import-invalid-details hidden" id="import-invalid-details"></div>
+        <div class="import-event-list" id="import-event-list"></div>
+        <div class="form-actions import-review-footer">
+          <span class="import-selection-count" id="import-selection-count">0 von 0 ausgewählt</span>
+          <button type="button" id="btn-import-back" class="btn btn-secondary">Zurück</button>
+          <button type="button" id="btn-import-cancel-2" class="btn btn-secondary">Abbrechen</button>
+          <button type="button" id="btn-import-commit" class="btn btn-primary">Auswahl importieren</button>
+        </div>
+      </div>
     </div>
   </div>
 
