@@ -1492,9 +1492,27 @@ document.addEventListener('DOMContentLoaded', () => {
       const data = await res.json();
       pendingSocialEvents = Array.isArray(data.events) ? data.events : [];
       loadReviewedIds();
+      migrateLegacyReviewedIds();
       updateBanner();
     } catch (err) {
       console.warn('[review] fetch error:', err.message);
+    }
+  }
+
+  // One-time migration: when event IDs switched from timestamp-based to hash-based,
+  // map old IDs in reviewedIds → new IDs using the legacyId field embedded in pending events.
+  // Safe to call on every load: idempotent and cheap once migration has run.
+  function migrateLegacyReviewedIds() {
+    let migrated = 0;
+    for (const ev of pendingSocialEvents) {
+      if (ev.legacyId && reviewedIds.has(ev.legacyId) && !reviewedIds.has(ev.id)) {
+        reviewedIds.add(ev.id);
+        migrated++;
+      }
+    }
+    if (migrated > 0) {
+      persistReviewedIds();
+      console.log(`[review] migrated ${migrated} legacy reviewed IDs to hash format`);
     }
   }
 

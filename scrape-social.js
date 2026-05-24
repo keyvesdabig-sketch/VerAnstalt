@@ -11,6 +11,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 require('dotenv').config();
 
 const { GoogleGenAI, Type } = require('@google/genai');
@@ -153,10 +154,21 @@ async function scrapeMunicipality(ai, municipality) {
   }
 }
 
+// Stable content-derived ID: same event across re-scrapes gets the same ID.
+// Avoids the curator having to re-review unchanged events when Gemini finds them again.
+function makeStableId(title, date, municipality) {
+  const hash = crypto.createHash('sha256')
+    .update(`${(title || '').toLowerCase().trim()}|${date}|${municipality}`)
+    .digest('hex')
+    .slice(0, 12);
+  return `social-${hash}`;
+}
+
 function normalizeEvent(raw, defaultMunicipality, citations, idx) {
   const category = VALID_CATEGORIES.includes(raw.category) ? raw.category : 'stage';
+  const municipality = raw.municipality || defaultMunicipality;
   return {
-    id: `social-${Date.now()}-${defaultMunicipality.replace(/[^a-z]/gi, '')}-${idx}`,
+    id: makeStableId(raw.title, raw.date, municipality),
     title: raw.title,
     category,
     description: raw.description || '',
