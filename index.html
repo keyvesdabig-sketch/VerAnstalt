@@ -3,200 +3,234 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ChurEvents – Das regionale Event-Dashboard</title>
+  <title>ChurEvents — Alpin Premium</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📍</text></svg>">
-  
-  <!-- SEO Meta-Tags -->
+
   <meta name="description" content="Entdecke aktuelle Events, Konzerte, Märkte, Familienaktivitäten und Sportveranstaltungen in Chur und Umgebung. Interaktive Karte und persönliche Favoritenliste.">
   <meta name="keywords" content="Chur, Events, Graubünden, Konzerte, Märkte, Kultur, Sport, Familie, Ostschweiz, Veranstaltungskalender">
   <meta name="author" content="Antigravity AI">
-  
-  <!-- Open Graph Meta-Tags -->
-  <meta property="og:title" content="ChurEvents – Das regionale Event-Dashboard">
+
+  <meta property="og:title" content="ChurEvents — Alpin Premium">
   <meta property="og:description" content="Entdecke aktuelle Events, Konzerte, Märkte und mehr in Chur mit unserer interaktiven Karte.">
   <meta property="og:type" content="website">
-  
-  <!-- Google Fonts: Outfit & Inter -->
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  
-  <!-- Leaflet CSS for Interactive Map -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
-     
-  <!-- Custom Styling -->
+
   <link rel="stylesheet" href="style.css">
-  
-  <!-- Lucide Icons CDN -->
+
   <script src="https://unpkg.com/lucide@latest"></script>
 </head>
-<body>
-  <div class="app-container">
-    <!-- Header -->
-    <header class="app-header">
-      <div class="header-logo">
-        <div class="logo-icon">
-          <i data-lucide="map-pin"></i>
-        </div>
-        <div class="logo-text">
-          <h1>Chur<span>Events</span></h1>
-          <p>Dein regionaler Entdecker-Hub</p>
-        </div>
+<body data-hero="highlight">
+  <div class="app app-container">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-brand">
+        <span class="mark">Chur<span class="accent">Events</span></span>
+        <span class="tag">Graubünden · Kuratiert</span>
       </div>
-      
-      <div class="header-actions">
-        <button id="btn-import-events" class="btn btn-secondary">
+
+      <div class="side-section category-pills">
+        <div class="heading">Kategorien</div>
+        <button class="side-item pill active" data-category="all">
+          <span class="left"><i data-lucide="layout-grid"></i> Alle</span>
+          <span class="badge" id="badge-all">0</span>
+        </button>
+        <button class="side-item pill" data-category="music">
+          <span class="left"><i data-lucide="music"></i> Musik & Party</span>
+          <span class="badge" id="badge-music">0</span>
+        </button>
+        <button class="side-item pill" data-category="stage">
+          <span class="left"><i data-lucide="ticket"></i> Bühne & Kunst</span>
+          <span class="badge" id="badge-stage">0</span>
+        </button>
+        <button class="side-item pill" data-category="markets">
+          <span class="left"><i data-lucide="shopping-bag"></i> Märkte</span>
+          <span class="badge" id="badge-markets">0</span>
+        </button>
+        <button class="side-item pill" data-category="family">
+          <span class="left"><i data-lucide="smile"></i> Familie</span>
+          <span class="badge" id="badge-family">0</span>
+        </button>
+        <button class="side-item pill" data-category="sport">
+          <span class="left"><i data-lucide="trophy"></i> Sport</span>
+          <span class="badge" id="badge-sport">0</span>
+        </button>
+      </div>
+
+      <div class="side-section category-pills">
+        <div class="heading">Persönlich</div>
+        <button class="side-item pill pill-favorites" data-category="favorites">
+          <span class="left"><i data-lucide="heart"></i> Favoriten</span>
+          <span class="badge" id="fav-count">0</span>
+        </button>
+      </div>
+
+      <div class="side-footer">
+        <button id="btn-add-event" class="add-btn">
+          <i data-lucide="plus"></i>
+          Event eintragen
+        </button>
+        <button id="btn-import-events" class="ghost-btn">
           <i data-lucide="upload"></i>
-          <span>Events importieren</span>
+          Events importieren
         </button>
-        <button id="btn-add-event" class="btn btn-primary">
-          <i data-lucide="plus-circle"></i>
-          <span>Event eintragen</span>
-        </button>
-      </div>
-    </header>
-
-    <!-- Review Queue Banner -->
-    <div class="review-banner hidden" id="review-banner">
-      <div class="review-banner-content">
-        <i data-lucide="bell" class="review-banner-icon"></i>
-        <span class="review-banner-text">
-          <strong id="review-banner-count">0</strong> neue Events zur Prüfung
-        </span>
-      </div>
-      <button id="btn-review-open" class="btn btn-primary">Anzeigen</button>
-    </div>
-
-    <!-- Search and Filters Panel -->
-    <section class="filter-panel glass">
-      <div class="filter-top-row">
-        <div class="search-bar-container">
-          <i data-lucide="search" class="search-icon"></i>
-          <input type="text" id="search-input" placeholder="Nach Events, Orten oder Stichworten suchen..." autocomplete="off">
-          <button id="search-clear-btn" class="search-clear-btn hidden">
-            <i data-lucide="x"></i>
-          </button>
-        </div>
-        
-        <div class="region-select-container">
-          <i data-lucide="map-pin" class="region-icon"></i>
-          <select id="region-select" class="region-select">
-            <option value="all">Alle Regionen</option>
-            <option value="Chur">Chur</option>
-            <option value="Domat/Ems">Domat/Ems</option>
-            <option value="Felsberg">Felsberg</option>
-            <option value="Haldenstein">Haldenstein</option>
-            <option value="Trimmis">Trimmis</option>
-            <option value="Untervaz">Untervaz</option>
-            <option value="Zizers">Zizers</option>
-            <option value="Tamins">Tamins</option>
-            <option value="Churwalden">Churwalden & Malix</option>
-            <option value="Tschiertschen-Praden">Tschiertschen-Praden</option>
-            <option value="Bonaduz">Bonaduz</option>
-            <option value="Rhäzüns">Rhäzüns</option>
-            <option value="Malans">Malans</option>
-            <option value="Landquart">Landquart</option>
-            <option value="Thusis">Thusis</option>
-          </select>
+        <div class="side-meta">
+          <div class="live">Daten aktuell</div>
+          <div id="side-updated">Aktualisiert soeben</div>
         </div>
       </div>
-      
-      <div class="filter-categories-container">
-        <div class="filter-label">Kategorien:</div>
-        <div class="category-pills">
-          <button class="pill active" data-category="all">
-            <i data-lucide="layout-grid"></i> Alle
-          </button>
-          <button class="pill" data-category="music">
-            <i data-lucide="music"></i> Musik & Party
-          </button>
-          <button class="pill" data-category="stage">
-            <i data-lucide="ticket"></i> Bühne & Kunst
-          </button>
-          <button class="pill" data-category="markets">
-            <i data-lucide="shopping-bag"></i> Märkte
-          </button>
-          <button class="pill" data-category="family">
-            <i data-lucide="smile"></i> Familie
-          </button>
-          <button class="pill" data-category="sport">
-            <i data-lucide="trophy"></i> Sport
-          </button>
-          <div class="divider"></div>
-          <button class="pill pill-favorites" data-category="favorites">
-            <i data-lucide="heart"></i> Favoriten <span id="fav-count" class="badge">0</span>
-          </button>
+    </aside>
+
+    <!-- CONTENT -->
+    <main class="content">
+
+      <!-- Review Queue Banner -->
+      <div class="review-banner hidden" id="review-banner">
+        <div class="review-banner-content">
+          <i data-lucide="bell" class="review-banner-icon"></i>
+          <span class="review-banner-text">
+            <strong id="review-banner-count">0</strong> neue Events zur Prüfung
+          </span>
         </div>
+        <button id="btn-review-open" class="btn btn-primary">Anzeigen</button>
       </div>
-    </section>
 
-    <!-- Mobile View Selector (Tabs) for Map vs List -->
-    <div class="mobile-view-tabs">
-      <button id="tab-list" class="tab-btn active">
-        <i data-lucide="list"></i> Liste (<span id="event-count-mobile">0</span>)
-      </button>
-      <button id="tab-map" class="tab-btn">
-        <i data-lucide="map"></i> Karte
-      </button>
-    </div>
-
-    <!-- Main Content Layout -->
-    <main class="main-content">
-      <!-- Left Column: Events Grid/List -->
-      <section class="events-section" id="events-section">
-        <div class="section-header">
-          <h2 id="section-title">Alle Veranstaltungen</h2>
-          <span class="results-count" id="results-count">8 Events gefunden</span>
-        </div>
-        
-        <!-- Grid for Event Cards -->
-        <div class="events-grid" id="events-grid">
-          <!-- Dynamically populated -->
+      <!-- HERO -->
+      <section class="hero">
+        <div>
+          <div class="hero-eyebrow">
+            <span class="pulse"></span>
+            <span id="hero-eyebrow-date">Heute in Chur</span>
+          </div>
+          <h1>Schönes erleben<br/><span class="italic">in Graubünden.</span></h1>
+          <p>Kuratiert von Einheimischen — Konzerte, Märkte, Theater­abende und Familien­anlässe rund um Chur. Eine Übersicht, die mit der Region wächst.</p>
         </div>
 
-        <!-- Empty state -->
-        <div class="empty-state hidden" id="empty-state">
-          <i data-lucide="calendar-x" class="empty-icon"></i>
-          <h3>Keine Events gefunden</h3>
-          <p>Passe deine Filter oder Suche an, um Veranstaltungen in Chur zu entdecken.</p>
-          <button id="btn-reset-filters" class="btn btn-secondary">Filter zurücksetzen</button>
-        </div>
-      </section>
-
-      <!-- Right Column: Interactive Map -->
-      <section class="map-section" id="map-section">
-        <div class="map-wrapper glass">
-          <div id="map"></div>
-          <div class="map-helper-badge hidden" id="map-helper-badge">
-            <i data-lucide="info"></i> Klicke auf die Karte, um den Ort für dein neues Event festzulegen
+        <div class="hero-stats">
+          <div class="stat">
+            <div class="label">Diese Woche</div>
+            <div class="value" id="stat-week-value">0</div>
+            <div class="sub" id="stat-week-sub">Anlässe geplant</div>
+          </div>
+          <div class="stat">
+            <div class="label">Heute</div>
+            <div class="value" id="stat-today-value">0</div>
+            <div class="sub">
+              <i data-lucide="calendar"></i>
+              <span id="stat-today-sub">Anlässe heute</span>
+            </div>
+          </div>
+          <div class="stat">
+            <div class="label">Top heute</div>
+            <div class="value" id="stat-top-value" style="font-size: 18px; line-height: 1.2;">—</div>
+            <div class="sub" id="stat-top-sub">Noch nichts angesetzt</div>
           </div>
         </div>
       </section>
-    </main>
 
-    <!-- Footer -->
-    <footer class="app-footer">
-      <p>&copy; 2026 ChurEvents. Made with <i data-lucide="heart" class="footer-heart"></i> for Chur, Switzerland.</p>
-    </footer>
+      <!-- FILTER BAR -->
+      <section class="filter-bar">
+        <div class="filter-row">
+          <span class="filter-label-b">Wann</span>
+          <button class="when-chip-b active" data-when="all">Alle</button>
+          <button class="when-chip-b" data-when="today">Heute <span class="num" id="when-today-num">0</span></button>
+          <button class="when-chip-b" data-when="weekend">Wochenende <span class="num" id="when-weekend-num">0</span></button>
+          <button class="when-chip-b" data-when="week">Diese Woche <span class="num" id="when-week-num">0</span></button>
+
+          <div class="region-b">
+            <select id="region-select">
+              <option value="all">Alle Regionen</option>
+              <option value="Chur">Chur</option>
+              <option value="Domat/Ems">Domat/Ems</option>
+              <option value="Felsberg">Felsberg</option>
+              <option value="Haldenstein">Haldenstein</option>
+              <option value="Trimmis">Trimmis</option>
+              <option value="Untervaz">Untervaz</option>
+              <option value="Zizers">Zizers</option>
+              <option value="Tamins">Tamins</option>
+              <option value="Churwalden">Churwalden & Malix</option>
+              <option value="Tschiertschen-Praden">Tschiertschen-Praden</option>
+              <option value="Bonaduz">Bonaduz</option>
+              <option value="Rhäzüns">Rhäzüns</option>
+              <option value="Malans">Malans</option>
+              <option value="Landquart">Landquart</option>
+              <option value="Thusis">Thusis</option>
+            </select>
+          </div>
+
+          <div class="search-b">
+            <i data-lucide="search"></i>
+            <input id="search-input" type="text" placeholder="Suchen — Konzert, Markt, Werkstatt …" autocomplete="off">
+            <button id="search-clear-btn" class="search-clear-btn hidden" aria-label="Suche löschen">
+              <i data-lucide="x"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Mobile-only view toggle -->
+        <div class="mobile-view-tabs">
+          <button id="tab-list" class="tab-btn active">
+            <i data-lucide="list"></i> Liste (<span id="event-count-mobile">0</span>)
+          </button>
+          <button id="tab-map" class="tab-btn">
+            <i data-lucide="map"></i> Karte
+          </button>
+        </div>
+      </section>
+
+      <!-- LIST + MAP -->
+      <section class="main-b main-content">
+        <section class="list-col-b events-section" id="events-section">
+          <div class="list-head-b">
+            <h2 id="section-title">Bevorstehende Anlässe</h2>
+            <span class="count-b results-count" id="results-count">— Anlässe</span>
+          </div>
+          <div class="events-b events-grid" id="events-grid"></div>
+
+          <div class="empty-b empty-state hidden" id="empty-state">
+            <h3>Keine Anlässe gefunden</h3>
+            <p>Passe deine Filter oder Suche an, um Veranstaltungen in Chur zu entdecken.</p>
+            <button id="btn-reset-filters" class="btn btn-secondary">Filter zurücksetzen</button>
+          </div>
+        </section>
+
+        <aside class="map-col-b map-section" id="map-section">
+          <div class="map-head-b">
+            <span class="title">Auf der Karte</span>
+            <div class="map-helper-badge hidden" id="map-helper-badge">
+              <i data-lucide="info"></i> Klicke auf die Karte
+            </div>
+          </div>
+          <div id="map"></div>
+        </aside>
+      </section>
+
+      <footer class="app-footer">
+        <p>&copy; 2026 ChurEvents · Made with <i data-lucide="heart" class="footer-heart"></i> for Chur.</p>
+      </footer>
+    </main>
   </div>
 
   <!-- Detail Modal -->
   <div class="modal-backdrop hidden" id="detail-modal">
-    <div class="modal-container glass">
+    <div class="modal-container">
       <button class="modal-close" id="detail-modal-close">
         <i data-lucide="x"></i>
       </button>
-      <div class="modal-body" id="detail-modal-body">
-        <!-- Dynamically populated -->
-      </div>
+      <div class="modal-body" id="detail-modal-body"></div>
     </div>
   </div>
 
   <!-- Add Event Modal -->
   <div class="modal-backdrop hidden" id="add-modal">
-    <div class="modal-container add-event-container glass">
+    <div class="modal-container add-event-container">
       <button class="modal-close" id="add-modal-close">
         <i data-lucide="x"></i>
       </button>
@@ -265,7 +299,6 @@
             <input type="text" id="event-location-name" required placeholder="z.B. Stadthalle Chur, Bahnhofstrasse 5">
           </div>
 
-          <!-- Location selection section -->
           <div class="form-group full-width location-selection-container">
             <label>Geografischer Standort auf Karte festlegen *</label>
             <div class="coordinates-input-row">
@@ -282,7 +315,7 @@
                 <span>Auf Karte wählen</span>
               </button>
             </div>
-            <p class="form-help-text">Klicke auf den Button und klicke anschliessend auf der Hauptkarte auf die gewünschte Position.</p>
+            <p class="form-help-text">Klicke auf den Button und anschliessend auf der Hauptkarte auf die Position.</p>
           </div>
 
           <div class="form-group full-width">
@@ -294,13 +327,11 @@
           <div class="form-group full-width">
             <label for="event-website">Webseite (Optional)</label>
             <input type="url" id="event-website" placeholder="https://meinevent.ch">
-            <p class="form-help-text">Offizielle Webseite des Events oder Veranstalters.</p>
           </div>
 
           <div class="form-group full-width">
             <label for="event-ticket-url">Ticket-Link (Optional)</label>
             <input type="url" id="event-ticket-url" placeholder="https://tickets.example.ch/...">
-            <p class="form-help-text">Direkter Link zum Ticket-Kauf.</p>
           </div>
 
           <div class="form-group full-width">
@@ -319,7 +350,7 @@
 
   <!-- Import Events Modal -->
   <div class="modal-backdrop hidden" id="import-modal">
-    <div class="modal-container import-modal-container glass">
+    <div class="modal-container import-modal-container">
       <button class="modal-close" id="import-modal-close">
         <i data-lucide="x"></i>
       </button>
@@ -328,7 +359,6 @@
         <p>Lade die JSON-Datei aus dem AI-Studio-Scraper hoch oder füge sie ein</p>
       </div>
 
-      <!-- Phase 1: Input -->
       <div id="import-phase-input" class="import-phase">
         <div class="import-input-grid">
           <label class="import-file-drop" for="import-file-input">
@@ -349,7 +379,6 @@
         </div>
       </div>
 
-      <!-- Phase 2: Review -->
       <div id="import-phase-review" class="import-phase hidden">
         <div class="import-summary" id="import-summary"></div>
         <div class="import-invalid-details hidden" id="import-invalid-details"></div>
@@ -366,7 +395,7 @@
 
   <!-- Review Queue Modal -->
   <div class="modal-backdrop hidden" id="review-modal">
-    <div class="modal-container import-modal-container glass">
+    <div class="modal-container import-modal-container">
       <button class="modal-close" id="review-modal-close">
         <i data-lucide="x"></i>
       </button>
@@ -386,12 +415,10 @@
     </div>
   </div>
 
-  <!-- Leaflet Map Script -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
-     
-  <!-- Application Scripts -->
+
   <script src="events-data.js"></script>
   <script src="app.js"></script>
 </body>
