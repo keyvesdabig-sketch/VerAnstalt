@@ -91,6 +91,13 @@ document.addEventListener('DOMContentLoaded', () => {
     sport: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800'
   };
 
+  // --- Import Feature: Schema constants ---
+  const IMPORT_VALID_CATEGORIES = ['music', 'stage', 'markets', 'family', 'sport'];
+  const IMPORT_VALID_PLATFORMS = ['Facebook', 'Instagram', 'TikTok', 'Guidle', 'Other'];
+  const IMPORT_VALID_MUNICIPALITIES = Object.keys(REGION_CENTERS); // 15 municipalities
+  const IMPORT_DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+  const IMPORT_CH_BOUNDS = { latMin: 45.5, latMax: 48.0, lngMin: 5.5, lngMax: 11.0 };
+
   // --- Helper Functions ---
   function getCategoryIcon(category) {
     return CATEGORY_ICONS[category] || CATEGORY_ICONS.default;
@@ -789,4 +796,114 @@ document.addEventListener('DOMContentLoaded', () => {
     filterEvents();
     lucide.createIcons();
   });
+
+  // ============================================================
+  // === Import Feature: Parser & Validator                   ===
+  // ============================================================
+
+  /**
+   * Parse raw JSON text into an array. Throws Error with a readable message on failure.
+   */
+  function parseImportJson(text) {
+    const trimmed = (text || '').trim();
+    if (!trimmed) {
+      throw new Error('Kein Inhalt — bitte JSON einfügen oder Datei wählen.');
+    }
+    let parsed;
+    try {
+      parsed = JSON.parse(trimmed);
+    } catch (err) {
+      throw new Error('Ungültiges JSON: ' + err.message);
+    }
+    if (!Array.isArray(parsed)) {
+      throw new Error('JSON muss ein Array sein (kein Wrapper-Objekt erlaubt).');
+    }
+    if (parsed.length === 0) {
+      throw new Error('Array ist leer — keine Events zum Importieren.');
+    }
+    return parsed;
+  }
+
+  /**
+   * Validate a single event object against the import schema.
+   * Returns { ok: true, event } or { ok: false, reasons: [...] }.
+   */
+  function validateImportedEvent(raw, index) {
+    const reasons = [];
+    if (!raw || typeof raw !== 'object') {
+      return { ok: false, reasons: ['Eintrag ist kein Objekt'] };
+    }
+
+    const required = ['title', 'date', 'municipality', 'locationName', 'category', 'description', 'sourceUrl', 'sourcePlatform'];
+    for (const field of required) {
+      if (!raw[field] || (typeof raw[field] === 'string' && !raw[field].trim())) {
+        reasons.push(`Pflichtfeld '${field}' fehlt oder leer`);
+      }
+    }
+
+    if (raw.date && !IMPORT_DATE_RE.test(raw.date)) {
+      reasons.push(`'date' muss YYYY-MM-DD sein (war: '${raw.date}')`);
+    } else if (raw.date) {
+      const eventDate = new Date(raw.date + 'T00:00:00');
+      if (isNaN(eventDate.getTime())) {
+        reasons.push(`'date' ist kein gültiges Datum: '${raw.date}'`);
+      } else {
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        if (eventDate < today) {
+          reasons.push(`Datum liegt in der Vergangenheit: ${raw.date}`);
+        }
+      }
+    }
+
+    if (raw.category && !IMPORT_VALID_CATEGORIES.includes(raw.category)) {
+      reasons.push(`'category' muss einer von ${IMPORT_VALID_CATEGORIES.join(', ')} sein (war: '${raw.category}')`);
+    }
+
+    if (raw.municipality && !IMPORT_VALID_MUNICIPALITIES.includes(raw.municipality)) {
+      reasons.push(`'municipality' nicht in erlaubter Liste (war: '${raw.municipality}')`);
+    }
+
+    if (raw.sourcePlatform && !IMPORT_VALID_PLATFORMS.includes(raw.sourcePlatform)) {
+      reasons.push(`'sourcePlatform' muss einer von ${IMPORT_VALID_PLATFORMS.join(', ')} sein (war: '${raw.sourcePlatform}')`);
+    }
+
+    if (raw.sourceUrl) {
+      try {
+        new URL(raw.sourceUrl);
+      } catch {
+        reasons.push(`'sourceUrl' ist keine gültige URL: '${raw.sourceUrl}'`);
+      }
+    }
+
+    if (raw.lat !== undefined || raw.lng !== undefined) {
+      const lat = Number(raw.lat);
+      const lng = Number(raw.lng);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) {
+        reasons.push(`'lat'/'lng' müssen Zahlen sein`);
+      } else if (
+        lat < IMPORT_CH_BOUNDS.latMin || lat > IMPORT_CH_BOUNDS.latMax ||
+        lng < IMPORT_CH_BOUNDS.lngMin || lng > IMPORT_CH_BOUNDS.lngMax
+      ) {
+        reasons.push(`Koordinaten ausserhalb Schweiz: ${lat},${lng}`);
+      }
+    }
+
+    if (reasons.length > 0) {
+      return { ok: false, reasons, raw, index };
+    }
+    return { ok: true, event: raw, index };
+  }
+
+  /**
+   * Detect duplicates against current events list and localStorage.
+   * Mutates valid[] entries by adding .isDuplicate flag.
+   */
+  function detectImportDuplicates(validResults) {
+    const dupeKey = (e) => `${(e.title || '').toLowerCase().trim()}|${e.date}|${e.municipality}`;
+    const existingKeys = new Set(events.map(dupeKey));
+    for (const result of validResults) {
+      result.isDuplicate = existingKeys.has(dupeKey(result.event));
+    }
+  }
 });
