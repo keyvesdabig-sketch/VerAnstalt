@@ -58,6 +58,17 @@
       </div>
     </header>
 
+    <!-- Review Queue Banner -->
+    <div class="review-banner hidden" id="review-banner">
+      <div class="review-banner-content">
+        <i data-lucide="bell" class="review-banner-icon"></i>
+        <span class="review-banner-text">
+          <strong id="review-banner-count">0</strong> neue Events zur Prüfung
+        </span>
+      </div>
+      <button id="btn-review-open" class="btn btn-primary">Anzeigen</button>
+    </div>
+
     <!-- Search and Filters Panel -->
     <section class="filter-panel glass">
       <div class="filter-top-row">
@@ -348,6 +359,28 @@
           <button type="button" id="btn-import-back" class="btn btn-secondary">Zurück</button>
           <button type="button" id="btn-import-cancel-2" class="btn btn-secondary">Abbrechen</button>
           <button type="button" id="btn-import-commit" class="btn btn-primary">Auswahl importieren</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Review Queue Modal -->
+  <div class="modal-backdrop hidden" id="review-modal">
+    <div class="modal-container import-modal-container glass">
+      <button class="modal-close" id="review-modal-close">
+        <i data-lucide="x"></i>
+      </button>
+      <div class="modal-header">
+        <h2>Events zur Prüfung</h2>
+        <p>Vom Social-Scraper gefundene Events — bitte einzeln freigeben oder ablehnen</p>
+      </div>
+
+      <div class="import-phase">
+        <div class="import-summary" id="review-summary"></div>
+        <div class="import-event-list" id="review-event-list"></div>
+        <div class="form-actions import-review-footer">
+          <span class="import-selection-count" id="review-remaining-count">0 verbleibend</span>
+          <button type="button" id="btn-review-close-modal" class="btn btn-secondary">Schliessen</button>
         </div>
       </div>
     </div>
