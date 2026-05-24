@@ -170,7 +170,9 @@ function normalizeEvent(raw, defaultMunicipality, citations, idx) {
     image: raw.image || '',
     organizerUrl: raw.website || null,
     ticketUrl: raw.ticketUrl || null,
-    sourceUrl: raw.originalSocialLink || (citations[0]?.uri ?? ''),
+    // Use only the actual social/event link. Citations URIs are Vertex AI redirects that
+    // expire after days/weeks — they would cause link rot in approved events.
+    sourceUrl: raw.originalSocialLink || '',
     sourcePlatform: detectPlatform(raw.source, raw.originalSocialLink),
     citations,
     scrapedAt: new Date().toISOString()
