@@ -581,7 +581,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const now = new Date();
     const eyebrow = now.toLocaleDateString('de-CH', { weekday: 'long', day: 'numeric', month: 'long' });
     const el = document.getElementById('hero-eyebrow-date');
-    if (el) el.textContent = eyebrow + ' · Chur';
+    if (el) el.textContent = eyebrow + ' · Alpenrhein';
     const upd = document.getElementById('side-updated');
     if (upd) upd.textContent = 'Aktualisiert ' + now.toLocaleTimeString('de-CH', { hour: '2-digit', minute: '2-digit' });
   }

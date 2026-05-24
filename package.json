@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Event-Dashboard für die Region Chur",
   "scripts": {
-    "scrape": "node scrape-events.js",
-    "scrape:social": "node scrape-social.js",
-    "dev": "npx -y http-server -p 8080"
+    "scrape": "node src/scrape-events.js",
+    "scrape:social": "node src/scrape-social.js",
+    "dev": "npx -y http-server public -p 8080"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

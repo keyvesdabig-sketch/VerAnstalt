@@ -15,8 +15,8 @@ const https = require('https');
 const http = require('http');
 
 // --- Konfiguration ---
-const DB_FILE = path.join(__dirname, 'events-database.json').replace(/\\/g, '/');
-const FRONTEND_FILE = path.join(__dirname, 'scraped-events.json').replace(/\\/g, '/');
+const DB_FILE = path.join(__dirname, '../data/events-database.json').replace(/\\/g, '/');
+const FRONTEND_FILE = path.join(__dirname, '../public/scraped-events.json').replace(/\\/g, '/');
 const SCHEMA_FILE = path.join(__dirname, 'event-schema.json').replace(/\\/g, '/');
 
 // Gemeinden im Umkreis von ca. 12 km um Chur

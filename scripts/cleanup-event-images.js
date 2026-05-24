@@ -15,8 +15,8 @@ const path = require('path');
 const https = require('https');
 const http = require('http');
 
-const FRONTEND_FILE = path.join(__dirname, '..', 'scraped-events.json');
-const DB_FILE = path.join(__dirname, '..', 'events-database.json');
+const FRONTEND_FILE = path.join(__dirname, '..', 'public', 'scraped-events.json');
+const DB_FILE = path.join(__dirname, '..', 'data', 'events-database.json');
 const FETCH_OG_IMAGE = !process.argv.includes('--no-fetch');
 const REQUEST_DELAY_MS = 400;
 const MAX_REDIRECTS = 4;
