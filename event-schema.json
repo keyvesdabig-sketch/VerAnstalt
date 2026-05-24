@@ -32,7 +32,7 @@
           },
           "image": {
             "type": "string",
-            "description": "Bild-URL des Events"
+            "description": "URL eines echten Event-Fotos (Konzertbild, Plakat, Veranstaltungsfoto). KEINE Platzhalter, KEINE UI-Masken/-Borders, KEINE Site-Logos/-Icons, KEINE Sprites, KEINE SVG-Dekoration. Wenn die Detailseite kein eindeutiges Event-Bild zeigt, leeren String zurückgeben."
           },
           "sourceUrl": {
             "type": "string",
