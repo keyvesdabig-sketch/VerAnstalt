@@ -1094,6 +1094,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const skippedClass = result.isSelected === false ? ' skipped' : '';
     const dupeClass = result.isDuplicate ? ' duplicate' : '';
 
+    const editForm = result.isEditing ? renderImportEventEditForm(result, listIndex) : '';
+
     return `
       <div class="import-event-card${skippedClass}${dupeClass}" data-list-index="${listIndex}">
         <input type="checkbox" class="import-event-checkbox" ${result.isSelected !== false ? 'checked' : ''}
@@ -1114,8 +1116,54 @@ document.addEventListener('DOMContentLoaded', () => {
           <p class="import-event-description">${escapeHtml(ev.description)}</p>
         </div>
         <div class="import-event-actions">
-          <button type="button" class="btn btn-secondary" data-action="edit">Bearbeiten</button>
+          <button type="button" class="btn btn-secondary" data-action="edit">${result.isEditing ? 'Schliessen' : 'Bearbeiten'}</button>
           <button type="button" class="btn btn-secondary" data-action="skip">Skip</button>
+        </div>
+        ${editForm}
+      </div>
+    `;
+  }
+
+  function renderImportEventEditForm(result, listIndex) {
+    const ev = result.event;
+    const catOptions = IMPORT_VALID_CATEGORIES
+      .map(c => `<option value="${c}" ${c === ev.category ? 'selected' : ''}>${escapeHtml(getCategoryLabel(c) || c)}</option>`)
+      .join('');
+    const muniOptions = IMPORT_VALID_MUNICIPALITIES
+      .map(m => `<option value="${escapeHtml(m)}" ${m === ev.municipality ? 'selected' : ''}>${escapeHtml(m)}</option>`)
+      .join('');
+    return `
+      <div class="import-event-edit-form" data-edit-index="${listIndex}">
+        <label class="full">Titel
+          <input type="text" data-field="title" value="${escapeHtml(ev.title)}" />
+        </label>
+        <label>Datum
+          <input type="date" data-field="date" value="${escapeHtml(ev.date)}" />
+        </label>
+        <label>Uhrzeit
+          <input type="text" data-field="time" value="${escapeHtml(ev.time || '')}" />
+        </label>
+        <label>Kategorie
+          <select data-field="category">${catOptions}</select>
+        </label>
+        <label>Gemeinde
+          <select data-field="municipality">${muniOptions}</select>
+        </label>
+        <label class="full">Ort
+          <input type="text" data-field="locationName" value="${escapeHtml(ev.locationName)}" />
+        </label>
+        <label>Lat
+          <input type="number" step="any" data-field="lat" value="${ev.lat ?? ''}" />
+        </label>
+        <label>Lng
+          <input type="number" step="any" data-field="lng" value="${ev.lng ?? ''}" />
+        </label>
+        <label class="full">Beschreibung
+          <textarea data-field="description" rows="3">${escapeHtml(ev.description)}</textarea>
+        </label>
+        <div class="full" style="display:flex;gap:0.5rem;justify-content:flex-end;">
+          <button type="button" class="btn btn-secondary" data-action="edit-cancel">Abbrechen</button>
+          <button type="button" class="btn btn-primary" data-action="edit-save">Übernehmen</button>
         </div>
       </div>
     `;
@@ -1152,10 +1200,30 @@ document.addEventListener('DOMContentLoaded', () => {
       updateImportSelectionCount();
     } else if (action === 'skip') {
       result.isSelected = false;
+      result.isEditing = false;
       renderImportEventList();
     } else if (action === 'edit') {
-      // Inline edit comes in Task 6 — for now log
-      console.log('[import] edit clicked for', listIndex, '— wired in Task 6');
+      result.isEditing = !result.isEditing;
+      renderImportEventList();
+    } else if (action === 'edit-cancel') {
+      result.isEditing = false;
+      renderImportEventList();
+    } else if (action === 'edit-save') {
+      const form = card.querySelector('.import-event-edit-form');
+      if (form) {
+        form.querySelectorAll('[data-field]').forEach(input => {
+          const field = input.dataset.field;
+          let value = input.value;
+          if (field === 'lat' || field === 'lng') {
+            value = value === '' ? undefined : Number(value);
+          }
+          result.event[field] = value;
+        });
+        result.isEditing = false;
+        // Re-detect duplicate status (title/date/municipality may have changed)
+        detectImportDuplicates([result]);
+        renderImportEventList();
+      }
     }
   });
 });
