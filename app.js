@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let favorites = new Set();
   let currentCategory = 'all';
   let currentRegion = 'all';
+  let currentWhen = 'all';
   let searchQuery = '';
   let activeCardId = null;
   let isPickingLocation = false;
@@ -193,8 +194,8 @@ document.addEventListener('DOMContentLoaded', () => {
       scrollWheelZoom: true
     }).setView(churCenter, 14);
 
-    // CartoDB Dark Matter tiles (perfectly fits our dark design)
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    // CartoDB Positron tiles (light, fits the Alpin Premium cream palette)
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: 'abcd',
       maxZoom: 20
@@ -270,12 +271,16 @@ document.addEventListener('DOMContentLoaded', () => {
       marker.bindPopup(popupContent);
       
       // On popup open, we trigger Lucide to render icons and bind the details link
-      marker.on('popupopen', () => {
+      marker.on('popupopen', (e) => {
         lucide.createIcons();
-        const detailsBtn = document.querySelector('.popup-details-btn');
-        if (detailsBtn) {
-          detailsBtn.addEventListener('click', (e) => {
-            const id = parseInt(e.target.getAttribute('data-id'));
+        const popupRoot = e.popup.getElement();
+        const detailsBtn = popupRoot && popupRoot.querySelector('.popup-details-btn');
+        if (detailsBtn && !detailsBtn.dataset.bound) {
+          detailsBtn.dataset.bound = '1';
+          detailsBtn.addEventListener('click', (ev2) => {
+            const raw = ev2.currentTarget.getAttribute('data-id');
+            const parsed = Number(raw);
+            const id = Number.isFinite(parsed) ? parsed : raw;
             openEventDetails(id);
           });
         }
@@ -316,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
     removeEventCardHighlight();
     
     activeCardId = id;
-    const activeCard = document.querySelector(`.event-card[data-id="${id}"]`);
+    const activeCard = document.querySelector(`.event-b[data-id="${id}"]`);
     if (activeCard) {
       activeCard.classList.add('active-card');
       activeCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
@@ -325,7 +330,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function removeEventCardHighlight() {
     if (activeCardId !== null) {
-      const activeCard = document.querySelector(`.event-card[data-id="${activeCardId}"]`);
+      const activeCard = document.querySelector(`.event-b[data-id="${activeCardId}"]`);
       if (activeCard) {
         activeCard.classList.remove('active-card');
       }
@@ -333,86 +338,204 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
+  // --- Date Bucket Helpers ---
+  const MONTHS_SHORT = ['Jan','Feb','Mär','Apr','Mai','Jun','Jul','Aug','Sep','Okt','Nov','Dez'];
+  function startOfDay(d) { const x = new Date(d); x.setHours(0,0,0,0); return x; }
+  function dayDiff(a, b) { return Math.round((startOfDay(a) - startOfDay(b)) / 86400000); }
+  function bucketKey(dateStr) {
+    const now = new Date();
+    const ev = new Date(dateStr);
+    const diff = dayDiff(ev, now);
+    if (diff < 0) return 'past';
+    if (diff === 0) return 'today';
+    if (diff === 1) return 'tomorrow';
+    if (diff <= 7) return 'thisweek';
+    return 'later';
+  }
+  const BUCKET_META = {
+    today:    { title: 'Heute',         label: 'Jetzt' },
+    tomorrow: { title: 'Morgen',        label: 'Bald' },
+    thisweek: { title: 'Diese Woche',   label: 'Kommend' },
+    later:    { title: 'Später',        label: 'Im Kalender' },
+    past:     { title: 'Vergangen',     label: 'Archiv' }
+  };
+  const BUCKET_ORDER = ['today','tomorrow','thisweek','later','past'];
+
+  function parseStartTime(timeStr) {
+    if (!timeStr) return '';
+    const m = String(timeStr).match(/\b(\d{1,2}[:.]\d{2})\b/);
+    return m ? m[1].replace('.', ':') : '';
+  }
+  function isFreePrice(p) {
+    if (!p) return false;
+    if (/\b(frei|gratis|kostenlos|free)\b/i.test(p)) return true;
+    // Strip currency labels (CHF, Fr., Fr, €, $) and whitespace, then match 0 / 0.- / 0.00
+    const cleaned = String(p).replace(/(?:chf|fr\.?|eur|€|\$|\s)/gi, '');
+    return /^0(?:[.,](?:-|0{1,2}))?$/.test(cleaned);
+  }
+
   // --- Rendering UI ---
   function renderEventCards(filteredEvents) {
     eventsGrid.innerHTML = '';
-    
+
     if (filteredEvents.length === 0) {
       emptyState.classList.remove('hidden');
-      resultsCount.textContent = '0 Events gefunden';
-      eventCountMobile.textContent = '0';
+      if (resultsCount) resultsCount.textContent = '0 Anlässe';
+      if (eventCountMobile) eventCountMobile.textContent = '0';
       return;
     }
 
     emptyState.classList.add('hidden');
-    resultsCount.textContent = `${filteredEvents.length} Event${filteredEvents.length === 1 ? '' : 's'} gefunden`;
-    eventCountMobile.textContent = filteredEvents.length;
+    if (resultsCount) resultsCount.textContent = `${filteredEvents.length} ${filteredEvents.length === 1 ? 'Anlass' : 'Anlässe'}`;
+    if (eventCountMobile) eventCountMobile.textContent = filteredEvents.length;
 
-    filteredEvents.forEach(event => {
-      const isFav = favorites.has(event.id);
-      const categoryLabel = getCategoryLabel(event.category);
-      const iconName = getCategoryIcon(event.category);
-
-      const card = document.createElement('div');
-      card.className = `event-card ${activeCardId === event.id ? 'active-card' : ''}`;
-      card.setAttribute('data-id', event.id);
-
-      card.innerHTML = `
-        <div class="card-image-wrapper">
-          <img src="${event.image || FALLBACK_IMAGES[event.category]}" alt="${event.title}">
-          <span class="category-badge ${event.category}">${categoryLabel}</span>
-          <button class="btn-fav ${isFav ? 'favorited' : ''}" title="Als Favorit speichern" data-id="${event.id}">
-            <i data-lucide="heart"></i>
-          </button>
-        </div>
-        <div class="card-content">
-          <div class="card-date-row">
-            <i data-lucide="calendar" style="width:14px;height:14px;"></i>
-            <span>${formatDateString(event.date)}</span>
-          </div>
-          <h3 class="card-title">${event.title}</h3>
-          <p class="card-description">${event.description}</p>
-          <div class="card-footer">
-            <div class="card-footer-item">
-              <i data-lucide="map-pin"></i>
-              <span>${event.locationName}${event.municipality && event.municipality !== 'Chur' ? ` (${event.municipality})` : ''}</span>
-            </div>
-            <div class="card-footer-item">
-              <i data-lucide="tag"></i>
-              <span>${event.price}</span>
-            </div>
-          </div>
-        </div>
-      `;
-
-      // Event Card Clicks
-      card.addEventListener('click', (e) => {
-        // Prevent trigger if clicking favorite button
-        if (e.target.closest('.btn-fav')) return;
-        
-        // Open details modal
-        openEventDetails(event.id);
-        
-        // Focus marker on map
-        const marker = markers[event.id];
-        if (marker) {
-          map.setView([event.lat, event.lng], 15);
-          marker.openPopup();
-        }
-      });
-
-      // Favorite button listener
-      const favBtn = card.querySelector('.btn-fav');
-      favBtn.addEventListener('click', (e) => {
-        e.stopPropagation();
-        toggleFavorite(event.id);
-      });
-
-      eventsGrid.appendChild(card);
+    // Bucket events
+    const buckets = {};
+    filteredEvents.forEach(ev => {
+      const k = bucketKey(ev.date);
+      (buckets[k] = buckets[k] || []).push(ev);
     });
 
-    // Re-initialize Lucide Icons for dynamic content
+    BUCKET_ORDER.forEach(key => {
+      const list = buckets[key];
+      if (!list || !list.length) return;
+      const meta = BUCKET_META[key];
+
+      const group = document.createElement('div');
+      group.className = 'date-group';
+      const isToday = key === 'today';
+      group.innerHTML = `
+        <div class="date-group-head">
+          <div class="left">
+            <h4>${meta.title}</h4>
+            <span class="when-label ${isToday ? 'today' : ''}">${meta.label}</span>
+          </div>
+          <span class="gcount">${list.length} ${list.length === 1 ? 'Anlass' : 'Anlässe'}</span>
+        </div>
+        <div class="grid"></div>
+      `;
+      const grid = group.querySelector('.grid');
+
+      list.forEach(event => {
+        const isFav = favorites.has(event.id);
+        const categoryLabel = getCategoryLabel(event.category);
+        const d = new Date(event.date);
+        const dayNum = d.getDate();
+        const monthLabel = MONTHS_SHORT[d.getMonth()];
+        const isTodayEvent = key === 'today';
+        const startTime = parseStartTime(event.time);
+        const free = isFreePrice(event.price);
+
+        const card = document.createElement('div');
+        card.className = `event-b ${activeCardId === event.id ? 'active-card' : ''}`;
+        card.setAttribute('data-id', event.id);
+
+        const dateBadge = isTodayEvent
+          ? `<div class="event-b-today"><span class="label">Heute</span><span class="time">${escapeHtml(startTime || event.time || '—')}</span></div>`
+          : `<div class="event-b-date"><span class="num">${dayNum}</span><span class="month">${monthLabel}</span></div>`;
+
+        card.innerHTML = `
+          <div class="event-b-media">
+            <img src="${escapeHtml(event.image || FALLBACK_IMAGES[event.category] || '')}" alt="${escapeHtml(event.title)}" loading="lazy">
+            ${dateBadge}
+            <button class="event-b-fav ${isFav ? 'favorited' : ''}" title="Als Favorit speichern" data-id="${event.id}" aria-label="Favorisieren">
+              <i data-lucide="heart"></i>
+            </button>
+          </div>
+          <div class="event-b-body">
+            <div class="event-b-cat">${escapeHtml(categoryLabel)}</div>
+            <h3 class="event-b-title">${escapeHtml(event.title)}</h3>
+            <div class="event-b-meta">
+              <div class="row"><i data-lucide="map-pin"></i><span>${escapeHtml(event.locationName || '')}${event.municipality && event.municipality !== 'Chur' ? ' · ' + escapeHtml(event.municipality) : ''}</span></div>
+              <div class="row"><i data-lucide="clock"></i><span>${escapeHtml(event.time || '')}</span></div>
+            </div>
+            <div class="event-b-foot">
+              ${free
+                ? `<span class="event-b-price free">Gratis</span>`
+                : `<span class="event-b-price">${escapeHtml(event.price || '')}</span>`}
+              <span class="event-b-cta">Details <i data-lucide="arrow-right"></i></span>
+            </div>
+          </div>
+        `;
+
+        card.addEventListener('click', (e) => {
+          if (e.target.closest('.event-b-fav')) return;
+          openEventDetails(event.id);
+          const marker = markers[event.id];
+          if (marker) {
+            map.setView([event.lat, event.lng], 15);
+            marker.openPopup();
+          }
+        });
+
+        const favBtn = card.querySelector('.event-b-fav');
+        favBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleFavorite(event.id);
+        });
+
+        grid.appendChild(card);
+      });
+
+      eventsGrid.appendChild(group);
+    });
+
     lucide.createIcons();
+  }
+
+  // --- Aggregate UI: sidebar badges, when-chip counts, hero stats ---
+  function updateAggregates() {
+    const baseList = events.filter(ev => currentRegion === 'all' || (ev.municipality || 'Chur') === currentRegion);
+
+    // Sidebar category badges (within current region scope)
+    const catCounts = { all: baseList.length, music: 0, stage: 0, markets: 0, family: 0, sport: 0 };
+    baseList.forEach(ev => { if (catCounts[ev.category] !== undefined) catCounts[ev.category]++; });
+    Object.keys(catCounts).forEach(cat => {
+      const el = document.getElementById('badge-' + cat);
+      if (el) el.textContent = catCounts[cat];
+    });
+
+    // When-chip counts (region scoped)
+    let todayN = 0, weekendN = 0, weekN = 0;
+    const today = startOfDay(new Date());
+    baseList.forEach(ev => {
+      const d = startOfDay(ev.date);
+      const diff = dayDiff(d, today);
+      if (diff < 0) return;
+      if (diff === 0) todayN++;
+      if (diff >= 0 && diff <= 7) weekN++;
+      const dow = d.getDay(); // 0=Sun..6=Sat
+      if (diff >= 0 && diff <= 7 && (dow === 0 || dow === 5 || dow === 6)) weekendN++;
+    });
+    const setNum = (id, n) => { const el = document.getElementById(id); if (el) el.textContent = n; };
+    setNum('when-today-num', todayN);
+    setNum('when-weekend-num', weekendN);
+    setNum('when-week-num', weekN);
+
+    // Hero stats
+    const top = baseList
+      .filter(ev => bucketKey(ev.date) === 'today')
+      .sort((a, b) => (parseStartTime(a.time) || '').localeCompare(parseStartTime(b.time) || ''))[0];
+    const set = (id, t) => { const el = document.getElementById(id); if (el) el.textContent = t; };
+    set('stat-week-value', weekN);
+    set('stat-week-sub', weekN === 1 ? 'Anlass geplant' : 'Anlässe geplant');
+    set('stat-today-value', todayN);
+    set('stat-today-sub', todayN === 1 ? 'Anlass heute' : 'Anlässe heute');
+    if (top) {
+      set('stat-top-value', top.title);
+      set('stat-top-sub', `${parseStartTime(top.time) || top.time || ''} · ${top.locationName || ''}`);
+    } else {
+      set('stat-top-value', '—');
+      set('stat-top-sub', 'Heute keine Anlässe');
+    }
+
+    // Hero eyebrow date
+    const now = new Date();
+    const eyebrow = now.toLocaleDateString('de-CH', { weekday: 'long', day: 'numeric', month: 'long' });
+    const el = document.getElementById('hero-eyebrow-date');
+    if (el) el.textContent = eyebrow + ' · Chur';
+    const upd = document.getElementById('side-updated');
+    if (upd) upd.textContent = 'Aktualisiert ' + now.toLocaleTimeString('de-CH', { hour: '2-digit', minute: '2-digit' });
   }
 
   // --- Filtering Logic ---
@@ -434,11 +557,28 @@ document.addEventListener('DOMContentLoaded', () => {
     // 2. Search query filter
     if (searchQuery.trim() !== '') {
       const query = searchQuery.toLowerCase().trim();
-      filtered = filtered.filter(event => 
+      filtered = filtered.filter(event =>
         event.title.toLowerCase().includes(query) ||
-        event.description.toLowerCase().includes(query) ||
-        event.locationName.toLowerCase().includes(query)
+        (event.description || '').toLowerCase().includes(query) ||
+        (event.locationName || '').toLowerCase().includes(query)
       );
+    }
+
+    // 3. When filter
+    if (currentWhen !== 'all') {
+      const today = startOfDay(new Date());
+      filtered = filtered.filter(event => {
+        const d = startOfDay(event.date);
+        const diff = dayDiff(d, today);
+        if (diff < 0) return false;
+        if (currentWhen === 'today') return diff === 0;
+        if (currentWhen === 'week') return diff <= 7;
+        if (currentWhen === 'weekend') {
+          const dow = d.getDay();
+          return diff <= 7 && (dow === 0 || dow === 5 || dow === 6);
+        }
+        return true;
+      });
     }
 
     // Sort by date (ascending)
@@ -447,6 +587,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Render components
     renderEventCards(filtered);
     updateMapMarkers(filtered);
+    updateAggregates();
   }
 
   // Toggle Favorite
@@ -737,20 +878,32 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Search and Filtering Event Listeners ---
   
   // Real-time search with clear button
+  const searchBox = searchInput.closest('.search-b');
   searchInput.addEventListener('input', (e) => {
     searchQuery = e.target.value;
     if (searchQuery.length > 0) {
       searchClearBtn.classList.remove('hidden');
+      if (searchBox) searchBox.classList.add('has-value');
     } else {
       searchClearBtn.classList.add('hidden');
+      if (searchBox) searchBox.classList.remove('has-value');
     }
     filterEvents();
   });
+
+  // Click on collapsed icon-search expands and focuses input
+  if (searchBox) {
+    searchBox.addEventListener('click', (e) => {
+      if (e.target === searchInput || e.target.closest('button')) return;
+      searchInput.focus();
+    });
+  }
 
   searchClearBtn.addEventListener('click', () => {
     searchInput.value = '';
     searchQuery = '';
     searchClearBtn.classList.add('hidden');
+    if (searchBox) searchBox.classList.remove('has-value');
     filterEvents();
   });
 
@@ -795,6 +948,16 @@ document.addEventListener('DOMContentLoaded', () => {
   regionSelect.addEventListener('change', (e) => {
     currentRegion = e.target.value;
     filterEvents();
+  });
+
+  // When-Chips
+  document.querySelectorAll('.when-chip-b').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.when-chip-b').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      currentWhen = chip.getAttribute('data-when') || 'all';
+      filterEvents();
+    });
   });
 
   // Modal municipality selection centers the map
