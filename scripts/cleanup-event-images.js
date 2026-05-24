@@ -16,6 +16,7 @@ const https = require('https');
 const http = require('http');
 
 const FRONTEND_FILE = path.join(__dirname, '..', 'scraped-events.json');
+const DB_FILE = path.join(__dirname, '..', 'events-database.json');
 const FETCH_OG_IMAGE = !process.argv.includes('--no-fetch');
 const REQUEST_DELAY_MS = 400;
 const MAX_REDIRECTS = 4;
@@ -66,21 +67,44 @@ function fetchOgImage(targetUrl, redirectsLeft = MAX_REDIRECTS) {
         return resolve(null);
       }
       let body = '';
+      let settled = false;
+      const done = (v) => { if (!settled) { settled = true; resolve(v); } };
       res.setEncoding('utf8');
-      res.on('data', c => { body += c; if (body.length > 500_000) { res.destroy(); } });
-      res.on('end', () => {
-        const m =
-          body.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
-          body.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
-          body.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i) ||
-          body.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
-        resolve(m ? m[1] : null);
+      res.on('data', c => {
+        body += c;
+        if (body.length > 500_000) {
+          // Body zu gross — abbrechen, mit bisherigem Buffer parsen.
+          res.destroy();
+          const m = matchOg(body);
+          done(m ? decodeUrlEntities(m) : null);
+        }
       });
-      res.on('error', () => resolve(null));
+      res.on('end', () => {
+        const m = matchOg(body);
+        done(m ? decodeUrlEntities(m) : null);
+      });
+      res.on('error', () => done(null));
+      res.on('close', () => done(null));
     });
     req.on('error', () => resolve(null));
     req.setTimeout(15000, () => { req.destroy(); resolve(null); });
   });
+}
+
+function matchOg(body) {
+  const m =
+    body.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+    body.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+    body.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i) ||
+    body.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
+  return m ? m[1] : null;
+}
+
+function decodeUrlEntities(s) {
+  return s
+    .replace(/&amp;/g, '&')
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
 }
 
 (async () => {
@@ -149,8 +173,32 @@ function fetchOgImage(targetUrl, redirectsLeft = MAX_REDIRECTS) {
     console.log('⏭  og:image-Fallback übersprungen (--no-fetch)');
   }
 
-  // 3) Speichern
+  // 3) Speichern — Frontend-JSON …
   fs.writeFileSync(FRONTEND_FILE, JSON.stringify(events, null, 2) + '\n', 'utf8');
   console.log('💾 Geschrieben:', FRONTEND_FILE);
+
+  // … und Datenbank synchron updaten, sonst überschreibt der nächste Scrape den Fix.
+  if (fs.existsSync(DB_FILE)) {
+    const db = JSON.parse(fs.readFileSync(DB_FILE, 'utf8'));
+    let dbUpdated = 0;
+    const byTitleDate = new Map(
+      events.map(ev => [`${(ev.title || '').toLowerCase().trim()}_${ev.date}`, ev.image || ''])
+    );
+    for (const [key, entry] of Object.entries(db)) {
+      const lookupKey = `${(entry.title || '').toLowerCase().trim()}_${entry.date}`;
+      if (byTitleDate.has(lookupKey)) {
+        const newImage = byTitleDate.get(lookupKey);
+        if ((entry.image || '') !== newImage) {
+          entry.image = newImage;
+          dbUpdated++;
+        }
+      }
+    }
+    fs.writeFileSync(DB_FILE, JSON.stringify(db, null, 2), 'utf8');
+    console.log(`💾 Geschrieben: ${DB_FILE} (${dbUpdated} Einträge aktualisiert)`);
+  } else {
+    console.log('ℹ️  events-database.json nicht gefunden — Frontend-only Update.');
+  }
+
   console.log('📊 Stats:', JSON.stringify(stats, null, 2));
 })();

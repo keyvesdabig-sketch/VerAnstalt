@@ -138,7 +138,8 @@ document.addEventListener('DOMContentLoaded', () => {
     markets: [
       'event-images/01-churer-wochenmarkt.jpg',
       'event-images/04-churer-flohmarkt.jpg',
-      'https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&q=80&w=800'
+      // Anderes Unsplash-Motiv (Bauernmarkt-Stand) — Foto-ID darf nicht mit 04 kollidieren.
+      'https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&q=80&w=800'
     ],
     family: [
       'event-images/03-familiennachmittag-im-naturmuseum.jpg',
