@@ -1288,4 +1288,146 @@ document.addEventListener('DOMContentLoaded', () => {
 
     alert(`${toImport.length} Events importiert.`);
   }
+
+  // --- Import Feature: Wiring ---
+
+  function openImportModal() {
+    // Reset state
+    importValidResults = [];
+    importPasteInput.value = '';
+    importFileInput.value = '';
+    importParseError.classList.add('hidden');
+    importParseError.textContent = '';
+    importSummary.innerHTML = '';
+    importInvalidDetails.classList.add('hidden');
+    importInvalidDetails.innerHTML = '';
+    importEventList.innerHTML = '';
+    importPhaseInput.classList.remove('hidden');
+    importPhaseReview.classList.add('hidden');
+    importModal.classList.remove('hidden');
+    if (window.lucide) window.lucide.createIcons();
+  }
+
+  function closeImportModal() {
+    importModal.classList.add('hidden');
+  }
+
+  async function handleImportValidate() {
+    importParseError.classList.add('hidden');
+    importParseError.textContent = '';
+
+    // Get text: file takes precedence over textarea
+    let text = '';
+    const file = importFileInput.files[0];
+    if (file) {
+      try {
+        text = await file.text();
+      } catch (err) {
+        importParseError.textContent = 'Datei konnte nicht gelesen werden: ' + err.message;
+        importParseError.classList.remove('hidden');
+        return;
+      }
+    } else {
+      text = importPasteInput.value;
+    }
+
+    // Parse
+    let parsed;
+    try {
+      parsed = parseImportJson(text);
+    } catch (err) {
+      importParseError.textContent = err.message;
+      importParseError.classList.remove('hidden');
+      return;
+    }
+
+    // Validate each
+    const validResults = [];
+    const invalidResults = [];
+    parsed.forEach((raw, i) => {
+      const result = validateImportedEvent(raw, i);
+      if (result.ok) {
+        validResults.push({
+          event: { ...result.event },
+          index: i,
+          isDuplicate: false,
+          isSelected: true,
+          isEditing: false,
+          geoStatus: null
+        });
+      } else {
+        invalidResults.push(result);
+      }
+    });
+
+    if (validResults.length === 0) {
+      importParseError.textContent = `Keine gültigen Events gefunden (${invalidResults.length} Fehler).\n\n` +
+        invalidResults.map(r => `Event ${r.index + 1}: ${r.reasons.join('; ')}`).join('\n');
+      importParseError.classList.remove('hidden');
+      return;
+    }
+
+    // Dupe detection
+    detectImportDuplicates(validResults);
+
+    // Switch to Phase 2
+    importValidResults = validResults;
+    importPhaseInput.classList.add('hidden');
+    importPhaseReview.classList.remove('hidden');
+
+    renderImportSummary(validResults, invalidResults);
+    renderImportInvalidDetails(invalidResults);
+    renderImportEventList();
+
+    // Kick off async geocoding (non-blocking)
+    resolveAllCoordinates(
+      validResults.map(r => r.event),
+      (i, status) => {
+        validResults[i].geoStatus = status;
+        renderImportEventList();
+      }
+    ).catch(err => console.warn('[import] geocoding error:', err));
+  }
+
+  // File drag-and-drop
+  const dropZone = document.querySelector('.import-file-drop');
+  if (dropZone) {
+    ['dragenter', 'dragover'].forEach(evt => {
+      dropZone.addEventListener(evt, (e) => {
+        e.preventDefault();
+        dropZone.classList.add('dragover');
+      });
+    });
+    ['dragleave', 'drop'].forEach(evt => {
+      dropZone.addEventListener(evt, (e) => {
+        e.preventDefault();
+        dropZone.classList.remove('dragover');
+      });
+    });
+    dropZone.addEventListener('drop', (e) => {
+      const file = e.dataTransfer?.files?.[0];
+      if (file && file.name.endsWith('.json')) {
+        const dt = new DataTransfer();
+        dt.items.add(file);
+        importFileInput.files = dt.files;
+      }
+    });
+  }
+
+  // Button wiring
+  btnImportEvents.addEventListener('click', openImportModal);
+  importModalClose.addEventListener('click', closeImportModal);
+  btnImportCancel1.addEventListener('click', closeImportModal);
+  btnImportCancel2.addEventListener('click', closeImportModal);
+  btnImportValidate.addEventListener('click', handleImportValidate);
+  btnImportBack.addEventListener('click', () => {
+    importPhaseReview.classList.add('hidden');
+    importPhaseInput.classList.remove('hidden');
+  });
+  btnImportCommit.addEventListener('click', commitImport);
+
+  // Click-outside-modal to close
+  importModal.addEventListener('click', (e) => {
+    if (e.target === importModal) closeImportModal();
+  });
 });
