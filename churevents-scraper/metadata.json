@@ -1,0 +1,6 @@
+{
+  "name": "ChurEvents Scraper",
+  "description": "Scraping-Werkzeug und Kurator-Konsole für regionale Events in der Ostschweiz und dem Bündner Rheintal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
