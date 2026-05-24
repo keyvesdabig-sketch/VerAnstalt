@@ -906,4 +906,107 @@ document.addEventListener('DOMContentLoaded', () => {
       result.isDuplicate = existingKeys.has(dupeKey(result.event));
     }
   }
+
+  // --- Import Feature: Geocoder (Nominatim) ---
+
+  // Nominatim asks for identification via email query param when User-Agent can't be set (browser).
+  // Replace with a real contact if you want Nominatim to reach you on issues.
+  const NOMINATIM_EMAIL = 'chureventsdashboard@example.invalid';
+  const NOMINATIM_DELAY_MS = 1100; // Nominatim policy: max 1 req/sec
+
+  /**
+   * Sleep helper used to throttle Nominatim calls.
+   */
+  function importSleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
+  /**
+   * Try to geocode locationName + municipality via Nominatim.
+   * Returns { lat, lng, approximated: false } on hit, or null on miss/error.
+   */
+  async function geocodeViaNominatim(locationName, municipality) {
+    const query = `${locationName}, ${municipality}, Switzerland`;
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)}&format=json&limit=1&email=${encodeURIComponent(NOMINATIM_EMAIL)}`;
+    try {
+      const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+      if (!res.ok) return null;
+      const data = await res.json();
+      if (!Array.isArray(data) || data.length === 0) return null;
+      const lat = parseFloat(data[0].lat);
+      const lng = parseFloat(data[0].lon);
+      if (!Number.isFinite(lat) || !Number.isFinite(lng)) return null;
+      if (lat < IMPORT_CH_BOUNDS.latMin || lat > IMPORT_CH_BOUNDS.latMax ||
+          lng < IMPORT_CH_BOUNDS.lngMin || lng > IMPORT_CH_BOUNDS.lngMax) {
+        return null;
+      }
+      return { lat, lng, approximated: false };
+    } catch (err) {
+      console.warn('[import] Nominatim error for', query, err);
+      return null;
+    }
+  }
+
+  /**
+   * Fallback: use the pre-defined municipality center from REGION_CENTERS.
+   * Always returns a coordinate (approximated: true).
+   */
+  function fallbackMunicipalityCenter(municipality) {
+    const center = REGION_CENTERS[municipality];
+    if (!center) return null;
+    return { lat: center.lat, lng: center.lng, approximated: true };
+  }
+
+  /**
+   * Resolve coordinates for a validated event.
+   * If lat/lng already present and valid -> keep them, approximated=false.
+   * Else -> Nominatim, else fallback to municipality center.
+   * Sets event.lat, event.lng, event.locationApproximated.
+   */
+  async function resolveEventCoordinates(event) {
+    if (Number.isFinite(Number(event.lat)) && Number.isFinite(Number(event.lng))) {
+      event.lat = Number(event.lat);
+      event.lng = Number(event.lng);
+      event.locationApproximated = false;
+      return;
+    }
+    const geo = await geocodeViaNominatim(event.locationName, event.municipality);
+    if (geo) {
+      event.lat = geo.lat;
+      event.lng = geo.lng;
+      event.locationApproximated = false;
+      return;
+    }
+    const fb = fallbackMunicipalityCenter(event.municipality);
+    if (fb) {
+      event.lat = fb.lat;
+      event.lng = fb.lng;
+      event.locationApproximated = true;
+      return;
+    }
+    // Last-resort: Chur center
+    event.lat = REGION_CENTERS['Chur'].lat;
+    event.lng = REGION_CENTERS['Chur'].lng;
+    event.locationApproximated = true;
+  }
+
+  /**
+   * Resolve coordinates for all events that need it.
+   * Honors Nominatim rate-limit (1 req/sec) by sequencing only the API-calling ones.
+   * Calls onProgress(eventIndex, status) for UI updates.
+   */
+  async function resolveAllCoordinates(events, onProgress) {
+    for (let i = 0; i < events.length; i++) {
+      const ev = events[i];
+      const needsApi = !(Number.isFinite(Number(ev.lat)) && Number.isFinite(Number(ev.lng)));
+      if (needsApi) {
+        if (onProgress) onProgress(i, 'pending');
+      }
+      await resolveEventCoordinates(ev);
+      if (onProgress) onProgress(i, ev.locationApproximated ? 'approx' : 'ok');
+      if (needsApi && i < events.length - 1) {
+        await importSleep(NOMINATIM_DELAY_MS);
+      }
+    }
+  }
 });
