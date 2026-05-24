@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-24T05:53:36.342Z",
+  "timestamp": "2026-05-24T08:13:39.472Z",
   "eventsTotal": 122,
   "eventsNew": 0,
-  "eventsUpdated": 34,
-  "eventsEnriched": 0,
-  "enrichmentErrors": 1,
-  "eventsCleaned": 23
+  "eventsUpdated": 0,
+  "eventsEnriched": 1,
+  "enrichmentErrors": 0,
+  "eventsCleaned": 0
 }
