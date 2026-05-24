@@ -113,8 +113,11 @@ function extractJsonBlock(text) {
   if (firstBrace === -1) return null;
   // Take from first brace to last matching brace (greedy)
   const trimmed = candidate.slice(firstBrace).trim();
-  // Try to find balanced JSON by trimming progressively from the end
-  for (let end = trimmed.length; end > 0; end--) {
+  // Find last possible closing brace — only attempt parse positions ending there or earlier.
+  // Avoids O(n) parse attempts on malformed responses; fast-path when JSON is well-formed.
+  const lastClose = Math.max(trimmed.lastIndexOf('}'), trimmed.lastIndexOf(']'));
+  if (lastClose === -1) return null;
+  for (let end = lastClose + 1; end > 0; end--) {
     try {
       return JSON.parse(trimmed.slice(0, end));
     } catch {}
