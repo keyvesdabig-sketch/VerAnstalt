@@ -1,5 +1,5 @@
 /**
- * ChurEvents - Application Logic
+ * CalandaKultur - Application Logic
  */
 
 document.addEventListener('DOMContentLoaded', () => {

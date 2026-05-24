@@ -1,11 +1,12 @@
 /**
- * Scraper und Datenintegrator für ChurEvents
- * 
- * Dieses Skript führt die Firecrawl CLI aus, um aktuelle Events von chur-kultur.ch zu holen,
- * kategorisiert sie, ermittelt die Geokoordinaten (via Wörterbuch oder OpenStreetMap API)
- * und de-dupliziert sie mithilfe einer lokalen JSON-Datenbank.
- * 
- * Ausführung: node scrape-events.js
+ * Scraper und Datenintegrator für CalandaKultur
+ *
+ * Dieses Skript führt die Firecrawl CLI aus, um aktuelle Events von chur-kultur.ch
+ * und LocalCities zu holen, kategorisiert sie, ermittelt die Geokoordinaten (via
+ * Wörterbuch oder OpenStreetMap API) und de-dupliziert sie mithilfe einer lokalen
+ * JSON-Datenbank.
+ *
+ * Ausführung: npm run scrape  (alias für: node src/scrape-events.js)
  */
 
 const { exec } = require('child_process');
@@ -168,7 +169,7 @@ function geocodeVenue(venueName, municipalityName) {
     
     const options = {
       headers: {
-        'User-Agent': 'ChurEventsDashboardScraper/1.0 (teech.antigravity)'
+        'User-Agent': 'CalandaKulturScraper/1.0 (+https://github.com/keyvesdabig-sketch/VerAnstalt)'
       }
     };
 
@@ -375,7 +376,7 @@ function runScraperForSource(source) {
 
 // --- Hauptfunktion ---
 async function main() {
-  console.log('🚀 Starte ChurEvents Scraper...');
+  console.log('🚀 Starte CalandaKultur Scraper...');
   
   // 1. Bestehende Datenbank laden
   let database = {};
