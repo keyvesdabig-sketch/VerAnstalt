@@ -1,11 +1,12 @@
 {
   "name": "veranstalt",
   "version": "1.0.0",
-  "description": "Event-Dashboard für die Region Chur",
+  "description": "CalandaKultur — Event-Dashboard für die Alpenrhein-Region (Landquart bis Thusis)",
   "scripts": {
-    "scrape": "node scrape-events.js",
-    "scrape:social": "node scrape-social.js",
-    "dev": "npx -y http-server -p 8080"
+    "scrape": "node src/scrape-events.js",
+    "scrape:social": "node src/scrape-social.js",
+    "dev": "npx -y http-server public -p 8080",
+    "test": "node --test \"test/**/*.test.js\""
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

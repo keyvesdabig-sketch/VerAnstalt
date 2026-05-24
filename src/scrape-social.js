@@ -24,8 +24,8 @@ const MUNICIPALITIES = [
 
 const VALID_CATEGORIES = ['music', 'stage', 'markets', 'family', 'sport'];
 
-const DB_FILE = path.join(__dirname, 'events-database.json');
-const PENDING_FILE = path.join(__dirname, 'pending-social-events.json');
+const DB_FILE = path.join(__dirname, '../data/events-database.json');
+const PENDING_FILE = path.join(__dirname, '../public/pending-social-events.json');
 const SEARCH_KEYWORDS = 'Veranstaltungen, Konzerte, Märkte, Sport, Familie, Bühne, Festivals';
 
 // Model name — adjust if the API rejects it
