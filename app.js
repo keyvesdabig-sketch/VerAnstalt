@@ -82,6 +82,22 @@ document.addEventListener('DOMContentLoaded', () => {
   // Import State
   let importValidResults = []; // [{ event, index, isDuplicate, isSelected, isEditing }]
 
+  // Review-Queue Refs
+  const reviewBanner = document.getElementById('review-banner');
+  const reviewBannerCount = document.getElementById('review-banner-count');
+  const btnReviewOpen = document.getElementById('btn-review-open');
+  const reviewModal = document.getElementById('review-modal');
+  const reviewModalClose = document.getElementById('review-modal-close');
+  const btnReviewCloseModal = document.getElementById('btn-review-close-modal');
+  const reviewSummary = document.getElementById('review-summary');
+  const reviewEventList = document.getElementById('review-event-list');
+  const reviewRemainingCount = document.getElementById('review-remaining-count');
+
+  // Review state
+  let pendingSocialEvents = [];
+  let reviewedIds = new Set();
+  const REVIEWED_IDS_KEY = 'chur_events_reviewed_social_ids';
+
   // Mobile Tabs
   const tabList = document.getElementById('tab-list');
   const tabMap = document.getElementById('tab-map');
@@ -1430,4 +1446,58 @@ document.addEventListener('DOMContentLoaded', () => {
   importModal.addEventListener('click', (e) => {
     if (e.target === importModal) closeImportModal();
   });
+
+  // ============================================================
+  // === Review Queue: Fetch & Banner                          ===
+  // ============================================================
+
+  function loadReviewedIds() {
+    try {
+      const stored = JSON.parse(localStorage.getItem(REVIEWED_IDS_KEY) || '[]');
+      reviewedIds = new Set(Array.isArray(stored) ? stored : []);
+    } catch {
+      reviewedIds = new Set();
+    }
+  }
+
+  function persistReviewedIds() {
+    try {
+      localStorage.setItem(REVIEWED_IDS_KEY, JSON.stringify(Array.from(reviewedIds)));
+    } catch (err) {
+      console.warn('[review] persist failed:', err.message);
+    }
+  }
+
+  function getUnreviewedEvents() {
+    return pendingSocialEvents.filter(ev => !reviewedIds.has(ev.id));
+  }
+
+  function updateBanner() {
+    const count = getUnreviewedEvents().length;
+    if (count > 0) {
+      reviewBannerCount.textContent = count;
+      reviewBanner.classList.remove('hidden');
+    } else {
+      reviewBanner.classList.add('hidden');
+    }
+  }
+
+  async function fetchPendingSocialEvents() {
+    try {
+      const res = await fetch('pending-social-events.json', { cache: 'no-store' });
+      if (!res.ok) {
+        console.warn('[review] pending-social-events.json fetch failed:', res.status);
+        return;
+      }
+      const data = await res.json();
+      pendingSocialEvents = Array.isArray(data.events) ? data.events : [];
+      loadReviewedIds();
+      updateBanner();
+    } catch (err) {
+      console.warn('[review] fetch error:', err.message);
+    }
+  }
+
+  // Trigger on init
+  fetchPendingSocialEvents();
 });
