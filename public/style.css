@@ -19,6 +19,9 @@
   --error: #c44a2e;
   --serif: "Fraunces", "Times New Roman", serif;
   --sans: "Inter", -apple-system, "Helvetica Neue", sans-serif;
+  /* Höhe + Luft für die Calanda-Bergkontur unter dem Hero (`.hero::after`).
+     Muss > SVG-Höhe sein, damit das Profil nicht in den Slogan schneidet. */
+  --mountain-room: 56px;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -255,10 +258,10 @@ a { color: inherit; }
   max-width: 480px;
   line-height: 1.55;
 }
-.hero { 
-  border-bottom: none; 
+.hero {
+  border-bottom: none;
   position: relative;
-  padding-bottom: 56px; /* Make room for the mountain contour */
+  padding-bottom: var(--mountain-room); /* Make room for the mountain contour */
 }
 .hero::after {
   content: "";
@@ -319,7 +322,7 @@ body[data-hero="highlight"] .hero-stats .stat:nth-child(3) .sub {
   body[data-hero="highlight"] .hero {
     grid-template-columns: 1fr;
     gap: 28px;
-    padding: 40px 40px 24px;
+    padding: 40px 40px var(--mountain-room);
   }
   body[data-hero="highlight"] .hero-stats {
     border-left: none;
@@ -1492,7 +1495,7 @@ body[data-hero="highlight"] .hero-stats .stat:nth-child(3) .sub {
 
 /* ============== RESPONSIVE ============== */
 @media (max-width: 1280px) {
-  .hero { padding: 40px 40px 24px; grid-template-columns: 1fr; gap: 28px; }
+  .hero { padding: 40px 40px var(--mountain-room); grid-template-columns: 1fr; gap: 28px; }
   .hero h1 { font-size: 52px; }
   .hero-stats { max-width: 560px; }
   .filter-bar { padding: 20px 40px 0; }
@@ -1516,7 +1519,8 @@ body[data-hero="highlight"] .hero-stats .stat:nth-child(3) .sub {
   .side-footer { flex-direction: row; flex-wrap: wrap; }
   .add-btn, .ghost-btn { flex: 1; justify-content: center; }
   .side-meta { width: 100%; }
-  .hero { padding: 28px 24px 18px; }
+  .hero { padding: 28px 24px var(--mountain-room); }
+  .hero::after { height: 24px; } /* schlanker auf Smartphones */
   .hero h1 { font-size: 38px; }
   .filter-bar { padding: 16px 24px 0; }
   .main-b { padding: 18px 24px 40px; }
