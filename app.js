@@ -1500,4 +1500,142 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Trigger on init
   fetchPendingSocialEvents();
+
+  // --- Review Modal ---
+
+  function renderReviewSummary() {
+    const remaining = getUnreviewedEvents().length;
+    const total = pendingSocialEvents.length;
+    reviewSummary.innerHTML =
+      `<span class="import-summary-pill ok">${remaining} ungeprüft</span>` +
+      `<span class="import-summary-pill">${total - remaining} bereits bearbeitet</span>`;
+    reviewRemainingCount.textContent = `${remaining} verbleibend`;
+  }
+
+  function renderReviewEventCard(ev) {
+    const img = ev.image || (typeof FALLBACK_IMAGES === 'object' ? FALLBACK_IMAGES[ev.category] : '') || '';
+    return `
+      <div class="import-event-card" data-event-id="${escapeHtml(ev.id)}">
+        <span></span>
+        <img class="import-event-image" src="${escapeHtml(img)}" alt="${escapeHtml(ev.title)}"
+             onerror="this.src='${escapeHtml(FALLBACK_IMAGES[ev.category] || '')}'" />
+        <div class="import-event-body">
+          <p class="import-event-title">${escapeHtml(ev.title)}</p>
+          <div class="import-event-meta">
+            <span>📅 ${escapeHtml(ev.date)}${ev.time ? ' · ' + escapeHtml(ev.time) : ''}</span>
+            <span>📍 ${escapeHtml(ev.locationName)} (${escapeHtml(ev.municipality)})</span>
+            <span>🏷 ${escapeHtml(getCategoryLabel(ev.category) || ev.category)}</span>
+            <span>📷 ${escapeHtml(ev.sourcePlatform || 'Other')}</span>
+            ${ev.sourceUrl ? `<a href="${escapeHtml(ev.sourceUrl)}" target="_blank" rel="noopener noreferrer">Quelle ansehen ↗</a>` : ''}
+          </div>
+          <p class="import-event-description">${escapeHtml(ev.description)}</p>
+          <div class="review-event-action-row">
+            <button type="button" class="btn btn-secondary btn-approve" data-action="approve">✓ Übernehmen</button>
+            <button type="button" class="btn btn-secondary btn-skip" data-action="skip">✗ Ablehnen</button>
+          </div>
+        </div>
+        <span></span>
+      </div>
+    `;
+  }
+
+  function renderReviewList() {
+    const items = getUnreviewedEvents();
+    if (items.length === 0) {
+      reviewEventList.innerHTML = '<p style="text-align:center;opacity:0.7;padding:2rem;">Alle Events geprüft. 🎉</p>';
+    } else {
+      reviewEventList.innerHTML = items.map(renderReviewEventCard).join('');
+    }
+    if (window.lucide) window.lucide.createIcons();
+    renderReviewSummary();
+  }
+
+  function openReviewModal() {
+    renderReviewList();
+    reviewModal.classList.remove('hidden');
+  }
+
+  function closeReviewModal() {
+    reviewModal.classList.add('hidden');
+  }
+
+  function approveReviewEvent(eventId) {
+    const ev = pendingSocialEvents.find(e => e.id === eventId);
+    if (!ev) return;
+
+    // Build internal event format (matches buildEventFromImport from import-feature)
+    const importLike = {
+      title: ev.title,
+      date: ev.date,
+      time: ev.time,
+      municipality: ev.municipality,
+      locationName: ev.locationName,
+      category: ev.category,
+      description: ev.description,
+      sourceUrl: ev.sourceUrl || '',
+      sourcePlatform: ev.sourcePlatform || 'Other',
+      imageUrl: ev.image,
+      lat: ev.lat,
+      lng: ev.lng,
+      ticketUrl: ev.ticketUrl,
+      organizerUrl: ev.organizerUrl,
+      locationApproximated: ev.lat == null || ev.lng == null
+    };
+    // If lat/lng missing, fall back to municipality center
+    if (importLike.lat == null || importLike.lng == null) {
+      const center = REGION_CENTERS[ev.municipality];
+      if (center) {
+        importLike.lat = center.lat;
+        importLike.lng = center.lng;
+      }
+    }
+
+    const newEvent = buildEventFromImport(importLike);
+
+    // Persist to chur_events_custom
+    const saved = localStorage.getItem('chur_events_custom');
+    let customEvents = [];
+    if (saved) {
+      try { customEvents = JSON.parse(saved); } catch { customEvents = []; }
+    }
+    customEvents.push(newEvent);
+    try {
+      localStorage.setItem('chur_events_custom', JSON.stringify(customEvents));
+    } catch (err) {
+      alert('Speicher voll: ' + err.message);
+      return;
+    }
+
+    events.unshift(newEvent);
+    reviewedIds.add(eventId);
+    persistReviewedIds();
+    filterEvents();
+    renderReviewList();
+    updateBanner();
+  }
+
+  function skipReviewEvent(eventId) {
+    reviewedIds.add(eventId);
+    persistReviewedIds();
+    renderReviewList();
+    updateBanner();
+  }
+
+  // Click delegation
+  reviewEventList.addEventListener('click', (e) => {
+    const card = e.target.closest('.import-event-card');
+    if (!card) return;
+    const eventId = card.dataset.eventId;
+    const action = e.target.dataset.action || e.target.closest('[data-action]')?.dataset.action;
+    if (action === 'approve') approveReviewEvent(eventId);
+    else if (action === 'skip') skipReviewEvent(eventId);
+  });
+
+  // Wiring
+  btnReviewOpen.addEventListener('click', openReviewModal);
+  reviewModalClose.addEventListener('click', closeReviewModal);
+  btnReviewCloseModal.addEventListener('click', closeReviewModal);
+  reviewModal.addEventListener('click', (e) => {
+    if (e.target === reviewModal) closeReviewModal();
+  });
 });
