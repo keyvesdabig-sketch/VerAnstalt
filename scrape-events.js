@@ -87,6 +87,44 @@ const VENUE_COORDINATES = {
 
 // --- Hilfsfunktionen ---
 
+// --- Image cleanup helpers ---
+// Patterns that match decorative page chrome, placeholders, tracking pixels,
+// social-network share icons — anything that is clearly NOT an event photo.
+const IMAGE_BLOCKLIST_PATTERNS = [
+  /localcities\.ch\/build\/images\//i,           // mask-top, rough-border, etc.
+  /\/build\/images\/(mask|rough-border|placeholder|skeleton|logo|icon)\b/i,
+  /chur-kultur\.ch\/.*?(logo|placeholder|sprite|icon)/i,
+  /\bdata:image\/svg/i,                          // inline SVG placeholders
+  /\.(svg)(\?|$)/i,                              // SVG = almost certainly chrome
+  /\/(favicon|apple-touch-icon|sprite|logo|placeholder)\b/i,
+  /\b1x1\b|pixel\.gif/i,                         // tracking pixels
+];
+
+function isValidEventImage(url) {
+  if (!url || typeof url !== 'string') return false;
+  if (!/^https?:\/\//i.test(url)) return false;
+  if (url.length < 20 || url.length > 1024) return false;
+  return !IMAGE_BLOCKLIST_PATTERNS.some(re => re.test(url));
+}
+
+// Upgrade Guidle ImageKit thumbnails (tr:n-small ≈ 80px, tr:n-medium ≈ 400px)
+// to a usable size by rewriting the tr:n-{size} segment.
+function upgradeImageUrl(url) {
+  if (!url || typeof url !== 'string') return url;
+  // imagekit.io/guidle/tr:n-{small|medium|large|...}/...  → ../tr:w-1200,h-800,dpr-1/...
+  return url.replace(
+    /(imagekit\.io\/guidle\/)tr:n-(?:small|medium|large|tiny|thumb)\//i,
+    '$1tr:w-1200,h-800,dpr-1/'
+  );
+}
+
+// Single entry point — sanitize an image URL coming from the scraper.
+// Returns a cleaned URL or '' if the input is unusable.
+function sanitizeImage(url) {
+  if (!isValidEventImage(url)) return '';
+  return upgradeImageUrl(url);
+}
+
 // Text normalisieren für Keys
 function normalizeText(text) {
   if (!text) return '';
@@ -254,6 +292,7 @@ async function fetchEventDetails(sourceUrl) {
         let organizerUrl = null;
         let ticketUrl = null;
         let description = null;
+        let ogImage = null;
         const html = body;
 
         // Hilfsfunktion zum Dekodieren von HTML Entities
@@ -266,6 +305,20 @@ async function fetchEventDetails(sourceUrl) {
                      .replace(/<[^>]+>/g, '') // strip HTML tags
                      .trim();
         };
+
+        // URL-Variante: dekodiert &amp;/&#x...; ohne HTML-Tags zu strippen.
+        const decodeHtmlUrl = (s) => s
+          .replace(/&amp;/g, '&')
+          .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
+          .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
+
+        // og:image / twitter:image — content="..." can be on either side of the property attribute
+        const ogImgMatch =
+          html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+          html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+          html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i) ||
+          html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
+        if (ogImgMatch) ogImage = sanitizeImage(decodeHtmlUrl(ogImgMatch[1]));
 
         if (sourceUrl.includes('localcities.ch')) {
           // LocalCities Patterns
@@ -316,7 +369,7 @@ async function fetchEventDetails(sourceUrl) {
           }
         }
         
-        resolve({ organizerUrl, ticketUrl, description });
+        resolve({ organizerUrl, ticketUrl, description, ogImage });
       });
     }).on('error', err => resolve(null));
   });
@@ -434,8 +487,14 @@ async function main() {
           ? rawEvent.description 
           : (existingEvent.description || '');
         
-        if (rawEvent.image && !existingEvent.image) {
-          existingEvent.image = rawEvent.image;
+        // Re-sanitize existing image (old DB rows may still hold polluted URLs).
+        const cleanedExistingImage = sanitizeImage(existingEvent.image);
+        if (cleanedExistingImage !== (existingEvent.image || '')) {
+          existingEvent.image = cleanedExistingImage;
+        }
+        const cleanedRawImage = sanitizeImage(rawEvent.image);
+        if (cleanedRawImage && !existingEvent.image) {
+          existingEvent.image = cleanedRawImage;
         }
         if (rawEvent.price && existingEvent.price === 'Eintritt frei') {
           existingEvent.price = rawEvent.price;
@@ -494,7 +553,7 @@ async function main() {
           lat: coords.lat,
           lng: coords.lng,
           price: rawEvent.price || 'Eintritt frei',
-          image: rawEvent.image || '',
+          image: sanitizeImage(rawEvent.image),
           sourceUrl: rawEvent.sourceUrl || '',
           sources: rawEvent.sourceUrl ? [{ name: source.name, url: rawEvent.sourceUrl }] : []
         };
@@ -540,7 +599,9 @@ async function main() {
   console.log(`🔍 Starte Detail-Enrichment (Rate-Limit 500ms)...`);
   for (const key of finalEventKeys) {
     const event = finalDatabase[key];
-    const needsEnrichment = !event.organizerUrl && (!event.description || event.description === 'Keine Beschreibung verfügbar.');
+    const missingImage = !event.image;
+    const missingMeta = !event.organizerUrl && (!event.description || event.description === 'Keine Beschreibung verfügbar.');
+    const needsEnrichment = missingMeta || missingImage;
     
     if (needsEnrichment && event.sources && event.sources.length > 0) {
       // Bevorzuge LocalCities, wenn vorhanden
@@ -555,6 +616,10 @@ async function main() {
           if (details.ticketUrl) event.ticketUrl = details.ticketUrl;
           if (details.description && details.description.length > 20) {
             event.description = details.description;
+          }
+          // Image fallback: if we don't have a valid event image yet, use og:image
+          if (!event.image && details.ogImage) {
+            event.image = details.ogImage;
           }
           eventsEnriched++;
         } else {

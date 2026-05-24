@@ -122,13 +122,61 @@ document.addEventListener('DOMContentLoaded', () => {
     sport: 'Sport'
   };
 
-  const FALLBACK_IMAGES = {
-    music: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=800',
-    stage: 'https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&q=80&w=800',
-    markets: 'https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&q=80&w=800',
-    family: 'https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&q=80&w=800',
-    sport: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800'
+  // Mehrere Fallback-Bilder pro Kategorie (lokale event-images/ + Unsplash).
+  // Auswahl deterministisch via pickFallback(category, key).
+  const FALLBACK_IMAGES_BY_CATEGORY = {
+    music: [
+      'event-images/02-live-in-der-werkstatt.jpg',
+      'event-images/09-jazz-brunch-im-marsol.jpg',
+      'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=800'
+    ],
+    stage: [
+      'event-images/05-open-air-kino-quaderwiese.jpg',
+      'event-images/07-romeo-julia.jpg',
+      'https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&q=80&w=800'
+    ],
+    markets: [
+      'event-images/01-churer-wochenmarkt.jpg',
+      'event-images/04-churer-flohmarkt.jpg',
+      // Anderes Unsplash-Motiv (Bauernmarkt-Stand) — Foto-ID darf nicht mit 04 kollidieren.
+      'https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&q=80&w=800'
+    ],
+    family: [
+      'event-images/03-familiennachmittag-im-naturmuseum.jpg',
+      'event-images/10-maienfelder-weinwanderung.jpg',
+      'https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&q=80&w=800'
+    ],
+    sport: [
+      'event-images/06-bundner-fruhlingslauf.jpg',
+      'event-images/08-mountainbike-fur-kids.jpg',
+      'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800'
+    ]
   };
+
+  function pickFallback(category, key) {
+    const pool = FALLBACK_IMAGES_BY_CATEGORY[category]
+      || FALLBACK_IMAGES_BY_CATEGORY.family;
+    if (!pool || pool.length === 0) return '';
+    // FNV-1a-Hash → stabile, gleichmässig verteilte Auswahl pro Event-ID/Key
+    const s = String(key ?? '');
+    let h = 0x811c9dc5;
+    for (let i = 0; i < s.length; i++) {
+      h ^= s.charCodeAt(i);
+      h = Math.imul(h, 0x01000193);
+    }
+    return pool[(h >>> 0) % pool.length];
+  }
+
+  // Proxy beibehalten — Legacy-Code referenziert FALLBACK_IMAGES[cat]
+  // (z.B. Detail-Modal-onerror, AddEvent-Form). Liefert das erste Bild pro
+  // Kategorie als statisches Fallback.
+  const FALLBACK_IMAGES = new Proxy({}, {
+    get(_t, prop) {
+      if (prop === 'default') return FALLBACK_IMAGES_BY_CATEGORY.family[0];
+      const arr = FALLBACK_IMAGES_BY_CATEGORY[prop];
+      return arr ? arr[0] : FALLBACK_IMAGES_BY_CATEGORY.family[0];
+    }
+  });
 
   // --- Import Feature: Schema constants ---
   const IMPORT_VALID_CATEGORIES = ['music', 'stage', 'markets', 'family', 'sport'];
@@ -436,7 +484,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         card.innerHTML = `
           <div class="event-b-media">
-            <img src="${escapeHtml(event.image || FALLBACK_IMAGES[event.category] || '')}" alt="${escapeHtml(event.title)}" loading="lazy">
+            <img src="${escapeHtml(event.image || pickFallback(event.category, event.id))}" alt="${escapeHtml(event.title)}" loading="lazy">
             ${dateBadge}
             <button class="event-b-fav ${isFav ? 'favorited' : ''}" title="Als Favorit speichern" data-id="${event.id}" aria-label="Favorisieren">
               <i data-lucide="heart"></i>
@@ -627,7 +675,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     detailModalBody.innerHTML = `
       <div class="modal-event-header">
-        <img src="${event.image || FALLBACK_IMAGES[event.category]}" alt="${event.title}">
+        <img src="${event.image || pickFallback(event.category, event.id)}" alt="${event.title}">
         <div class="modal-event-header-overlay">
           <span class="category-badge ${event.category}">${categoryLabel}</span>
           <h2 class="modal-event-title">${event.title}</h2>
@@ -793,7 +841,7 @@ document.addEventListener('DOMContentLoaded', () => {
       lat,
       lng,
       price,
-      image: imageInput || FALLBACK_IMAGES[category],
+      image: imageInput || pickFallback(category, Date.now()),
       organizerUrl: organizerUrl || null,
       ticketUrl: ticketUrl || null
     };
@@ -1258,7 +1306,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function renderImportEventCard(result, listIndex) {
     const ev = result.event;
-    const img = ev.imageUrl || FALLBACK_IMAGES[ev.category] || FALLBACK_IMAGES.default || '';
+    const img = ev.imageUrl || pickFallback(ev.category, ev.title || listIndex);
     let geoBadge = '';
     if (result.geoStatus === 'pending') {
       geoBadge = '<span class="import-event-badge geo-pending">⏳ Geocoding läuft</span>';
@@ -1422,7 +1470,7 @@ document.addEventListener('DOMContentLoaded', () => {
       lat: raw.lat,
       lng: raw.lng,
       price: 'Eintritt frei', // not in import schema; default
-      image: raw.imageUrl || FALLBACK_IMAGES[raw.category],
+      image: raw.imageUrl || pickFallback(raw.category, raw.title || raw.sourceUrl),
       organizerUrl: raw.organizerUrl || null,
       ticketUrl: raw.ticketUrl || null,
       source: 'import',
@@ -1751,7 +1799,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function renderReviewEventCard(ev) {
-    const img = ev.image || (typeof FALLBACK_IMAGES === 'object' ? FALLBACK_IMAGES[ev.category] : '') || '';
+    const img = ev.image || pickFallback(ev.category, ev.id || ev.title);
     return `
       <div class="import-event-card" data-event-id="${escapeHtml(ev.id)}">
         <span></span>
