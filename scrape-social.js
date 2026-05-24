@@ -100,33 +100,51 @@ const RESPONSE_SCHEMA = {
   required: ['events']
 };
 
+// Gemini does NOT allow combining googleSearch grounding with responseSchema/responseMimeType.
+// We request JSON in the prompt itself and parse the response text (stripping markdown fences if present).
+function extractJsonBlock(text) {
+  if (!text) return null;
+  // Strip markdown ```json ... ``` fences if present
+  const fenceMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/);
+  const candidate = fenceMatch ? fenceMatch[1] : text;
+  // Find the first { ... } or [ ... ] block
+  const firstBrace = candidate.search(/[{\[]/);
+  if (firstBrace === -1) return null;
+  // Take from first brace to last matching brace (greedy)
+  const trimmed = candidate.slice(firstBrace).trim();
+  // Try to find balanced JSON by trimming progressively from the end
+  for (let end = trimmed.length; end > 0; end--) {
+    try {
+      return JSON.parse(trimmed.slice(0, end));
+    } catch {}
+  }
+  return null;
+}
+
 async function scrapeMunicipality(ai, municipality) {
-  const prompt = buildPrompt(municipality);
+  const prompt = buildPrompt(municipality) + `\n\nAntworte ausschliesslich mit einem JSON-Objekt in dieser Struktur (KEIN Markdown, KEIN Kommentar, KEIN Text drum herum):\n{"events": [{"title": "...", "category": "music|stage|markets|family|sport", "description": "...", "date": "YYYY-MM-DD", "time": "HH:MM - HH:MM", "price": "...", "municipality": "${municipality}", "locationName": "...", "lat": 46.x, "lng": 9.x, "image": "", "website": "", "ticketUrl": "", "source": "Facebook|Instagram|Guidle|Other", "originalSocialLink": "https://..."}]}\n\nWenn keine echten Events gefunden: {"events": []}`;
   try {
     const response = await ai.models.generateContent({
       model: MODEL,
       contents: prompt,
       config: {
-        tools: [{ googleSearch: {} }],
-        responseMimeType: 'application/json',
-        responseSchema: RESPONSE_SCHEMA
+        tools: [{ googleSearch: {} }]
       }
     });
     const text = response.text;
-    let parsed;
-    try {
-      parsed = JSON.parse(text.trim());
-    } catch (e) {
-      console.warn(`[${municipality}] Invalid JSON from Gemini, skipping.`);
+    const parsed = extractJsonBlock(text);
+    if (!parsed) {
+      console.warn(`[${municipality}] Could not extract JSON from response. First 200 chars:`, (text || '').substring(0, 200));
       return [];
     }
     const rawEvents = parsed.events || [];
 
-    // Extract citation URIs from grounding metadata
+    // Extract citation URIs from grounding metadata — keep top 5 to limit JSON bloat
     const groundingChunks = response.candidates?.[0]?.groundingMetadata?.groundingChunks || [];
     const citations = groundingChunks
       .map(c => ({ title: c?.web?.title || c?.web?.uri, uri: c?.web?.uri }))
-      .filter(c => c.uri);
+      .filter(c => c.uri)
+      .slice(0, 5);
 
     return rawEvents.map((ev, i) => normalizeEvent(ev, municipality, citations, i));
   } catch (err) {
