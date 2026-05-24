@@ -1472,10 +1472,41 @@ document.addEventListener('DOMContentLoaded', () => {
     return pendingSocialEvents.filter(ev => !reviewedIds.has(ev.id));
   }
 
+  // Holds the lastUpdated timestamp from pending-social-events.json, or 'error' if fetch failed
+  let pendingFetchStatus = null;
+
+  function formatAgo(iso) {
+    if (!iso) return 'nie';
+    const ms = Date.now() - new Date(iso).getTime();
+    if (isNaN(ms)) return 'unbekannt';
+    const h = Math.floor(ms / 3600000);
+    if (h < 1) return 'vor < 1 h';
+    if (h < 24) return `vor ${h} h`;
+    return `vor ${Math.floor(h / 24)} Tagen`;
+  }
+
   function updateBanner() {
     const count = getUnreviewedEvents().length;
+    if (pendingFetchStatus === 'error') {
+      // Surface scraper-data failure to the operator
+      reviewBannerCount.textContent = '!';
+      reviewBanner.classList.add('error-state');
+      reviewBanner.classList.remove('hidden');
+      const textEl = reviewBanner.querySelector('.review-banner-text');
+      if (textEl) textEl.innerHTML = '<strong>Scrape-Daten unerreichbar</strong> — siehe Konsole';
+      const btn = reviewBanner.querySelector('#btn-review-open');
+      if (btn) btn.style.display = 'none';
+      return;
+    }
+    reviewBanner.classList.remove('error-state');
+    const btn = reviewBanner.querySelector('#btn-review-open');
+    if (btn) btn.style.display = '';
     if (count > 0) {
       reviewBannerCount.textContent = count;
+      const textEl = reviewBanner.querySelector('.review-banner-text');
+      if (textEl) {
+        textEl.innerHTML = `<strong id="review-banner-count">${count}</strong> neue Events zur Prüfung <small style="opacity:0.6">(Scrape ${formatAgo(pendingFetchStatus)})</small>`;
+      }
       reviewBanner.classList.remove('hidden');
     } else {
       reviewBanner.classList.add('hidden');
@@ -1487,15 +1518,21 @@ document.addEventListener('DOMContentLoaded', () => {
       const res = await fetch('pending-social-events.json', { cache: 'no-store' });
       if (!res.ok) {
         console.warn('[review] pending-social-events.json fetch failed:', res.status);
+        pendingFetchStatus = 'error';
+        updateBanner();
         return;
       }
       const data = await res.json();
       pendingSocialEvents = Array.isArray(data.events) ? data.events : [];
+      pendingFetchStatus = data.lastUpdated || null;
       loadReviewedIds();
       migrateLegacyReviewedIds();
+      pruneReviewedIds();
       updateBanner();
     } catch (err) {
       console.warn('[review] fetch error:', err.message);
+      pendingFetchStatus = 'error';
+      updateBanner();
     }
   }
 
@@ -1513,6 +1550,26 @@ document.addEventListener('DOMContentLoaded', () => {
     if (migrated > 0) {
       persistReviewedIds();
       console.log(`[review] migrated ${migrated} legacy reviewed IDs to hash format`);
+    }
+  }
+
+  // Prune reviewedIds whose events are no longer in the pending file.
+  // Approved events already live in chur_events_custom; their reviewed marker is no longer needed
+  // once they've fallen out of the daily Gemini scrape (event date passed, or scraper no longer
+  // surfaces them). Prevents the Set from growing unboundedly over years of daily runs.
+  function pruneReviewedIds() {
+    if (pendingSocialEvents.length === 0) return; // safety: never prune on a failed fetch
+    const validIds = new Set();
+    for (const ev of pendingSocialEvents) {
+      validIds.add(ev.id);
+      if (ev.legacyId) validIds.add(ev.legacyId);
+    }
+    const before = reviewedIds.size;
+    reviewedIds = new Set([...reviewedIds].filter(id => validIds.has(id)));
+    const pruned = before - reviewedIds.size;
+    if (pruned > 0) {
+      persistReviewedIds();
+      console.log(`[review] pruned ${pruned} stale reviewed IDs`);
     }
   }
 

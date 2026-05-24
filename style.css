@@ -1898,6 +1898,16 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 12px;
 }
 
+.review-banner.error-state {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.2), rgba(220, 38, 38, 0.2));
+  border-color: rgba(239, 68, 68, 0.5);
+}
+
+.review-banner.error-state .review-banner-icon,
+.review-banner.error-state .review-banner-text strong {
+  color: #fca5a5;
+}
+
 .review-banner.hidden {
   display: none;
 }
