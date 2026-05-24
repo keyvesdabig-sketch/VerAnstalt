@@ -4,7 +4,12 @@
   "description": "Event-Dashboard für die Region Chur",
   "scripts": {
     "scrape": "node scrape-events.js",
+    "scrape:social": "node scrape-social.js",
     "dev": "npx -y http-server -p 8080"
+  },
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "dotenv": "^17.2.3"
   },
   "private": true
 }
