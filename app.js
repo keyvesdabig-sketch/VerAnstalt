@@ -59,7 +59,29 @@ document.addEventListener('DOMContentLoaded', () => {
   const addEventForm = document.getElementById('add-event-form');
   const btnPickLocation = document.getElementById('btn-pick-location');
   const mapHelperBadge = document.getElementById('map-helper-badge');
-  
+
+  // Import Modal Refs
+  const importModal = document.getElementById('import-modal');
+  const importModalClose = document.getElementById('import-modal-close');
+  const btnImportEvents = document.getElementById('btn-import-events');
+  const btnImportCancel1 = document.getElementById('btn-import-cancel-1');
+  const btnImportCancel2 = document.getElementById('btn-import-cancel-2');
+  const btnImportValidate = document.getElementById('btn-import-validate');
+  const btnImportBack = document.getElementById('btn-import-back');
+  const btnImportCommit = document.getElementById('btn-import-commit');
+  const importPhaseInput = document.getElementById('import-phase-input');
+  const importPhaseReview = document.getElementById('import-phase-review');
+  const importFileInput = document.getElementById('import-file-input');
+  const importPasteInput = document.getElementById('import-paste-input');
+  const importParseError = document.getElementById('import-parse-error');
+  const importSummary = document.getElementById('import-summary');
+  const importInvalidDetails = document.getElementById('import-invalid-details');
+  const importEventList = document.getElementById('import-event-list');
+  const importSelectionCount = document.getElementById('import-selection-count');
+
+  // Import State
+  let importValidResults = []; // [{ event, index, isDuplicate, isSelected, isEditing }]
+
   // Mobile Tabs
   const tabList = document.getElementById('tab-list');
   const tabMap = document.getElementById('tab-map');
@@ -1009,4 +1031,131 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   }
+
+  // --- Import Feature: Render Review List ---
+
+  function escapeHtml(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+  }
+
+  function formatImportDate(iso) {
+    const d = new Date(iso + 'T00:00:00');
+    if (isNaN(d.getTime())) return iso;
+    return d.toLocaleDateString('de-CH', { day: '2-digit', month: '2-digit', year: 'numeric' });
+  }
+
+  function renderImportSummary(validResults, invalidResults) {
+    const dupes = validResults.filter(r => r.isDuplicate).length;
+    const pills = [];
+    pills.push(`<span class="import-summary-pill ok">✓ ${validResults.length} Events gültig</span>`);
+    if (invalidResults.length > 0) {
+      pills.push(`<span class="import-summary-pill error">✗ ${invalidResults.length} ungültig</span>`);
+    }
+    if (dupes > 0) {
+      pills.push(`<span class="import-summary-pill warn">⚠ ${dupes} Dubletten</span>`);
+    }
+    importSummary.innerHTML = pills.join('');
+  }
+
+  function renderImportInvalidDetails(invalidResults) {
+    if (invalidResults.length === 0) {
+      importInvalidDetails.classList.add('hidden');
+      importInvalidDetails.innerHTML = '';
+      return;
+    }
+    const items = invalidResults.map(r =>
+      `<li><strong>Event ${r.index + 1}:</strong> ${r.reasons.map(escapeHtml).join('; ')}</li>`
+    ).join('');
+    importInvalidDetails.innerHTML = `
+      <details>
+        <summary>${invalidResults.length} Events übersprungen — Details anzeigen</summary>
+        <ul>${items}</ul>
+      </details>
+    `;
+    importInvalidDetails.classList.remove('hidden');
+  }
+
+  function renderImportEventCard(result, listIndex) {
+    const ev = result.event;
+    const img = ev.imageUrl || FALLBACK_IMAGES[ev.category] || FALLBACK_IMAGES.default || '';
+    let geoBadge = '';
+    if (result.geoStatus === 'pending') {
+      geoBadge = '<span class="import-event-badge geo-pending">⏳ Geocoding läuft</span>';
+    } else if (result.geoStatus === 'approx' || ev.locationApproximated) {
+      geoBadge = '<span class="import-event-badge geo-approx">📍 Approx. Gemeinde-Zentrum</span>';
+    } else if (result.geoStatus === 'ok') {
+      geoBadge = '<span class="import-event-badge geo-ok">📍 Standort gefunden</span>';
+    }
+    const dupeBadge = result.isDuplicate
+      ? '<span class="import-event-badge dupe">⚠ Bereits vorhanden</span>'
+      : '';
+    const skippedClass = result.isSelected === false ? ' skipped' : '';
+    const dupeClass = result.isDuplicate ? ' duplicate' : '';
+
+    return `
+      <div class="import-event-card${skippedClass}${dupeClass}" data-list-index="${listIndex}">
+        <input type="checkbox" class="import-event-checkbox" ${result.isSelected !== false ? 'checked' : ''}
+               data-action="toggle" />
+        <img class="import-event-image" src="${escapeHtml(img)}" alt="${escapeHtml(ev.title)}"
+             onerror="this.src='${escapeHtml(FALLBACK_IMAGES[ev.category] || FALLBACK_IMAGES.default || '')}'" />
+        <div class="import-event-body">
+          <p class="import-event-title">${escapeHtml(ev.title)}</p>
+          <div class="import-event-meta">
+            <span>📅 ${formatImportDate(ev.date)}${ev.time ? ' · ' + escapeHtml(ev.time) : ''}</span>
+            <span>📍 ${escapeHtml(ev.locationName)} (${escapeHtml(ev.municipality)})</span>
+            <span>🏷 ${escapeHtml(getCategoryLabel(ev.category) || ev.category)}</span>
+            <span>📷 ${escapeHtml(ev.sourcePlatform)}</span>
+            <a href="${escapeHtml(ev.sourceUrl)}" target="_blank" rel="noopener noreferrer">Quelle ansehen ↗</a>
+            ${geoBadge}
+            ${dupeBadge}
+          </div>
+          <p class="import-event-description">${escapeHtml(ev.description)}</p>
+        </div>
+        <div class="import-event-actions">
+          <button type="button" class="btn btn-secondary" data-action="edit">Bearbeiten</button>
+          <button type="button" class="btn btn-secondary" data-action="skip">Skip</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderImportEventList() {
+    importEventList.innerHTML = importValidResults
+      .map((r, i) => renderImportEventCard(r, i))
+      .join('');
+    if (window.lucide) window.lucide.createIcons();
+    updateImportSelectionCount();
+  }
+
+  function updateImportSelectionCount() {
+    const total = importValidResults.length;
+    const selected = importValidResults.filter(r => r.isSelected !== false).length;
+    importSelectionCount.textContent = `${selected} von ${total} ausgewählt`;
+    btnImportCommit.disabled = selected === 0;
+  }
+
+  // Event delegation on the import event list (checkboxes + action buttons)
+  importEventList.addEventListener('click', (e) => {
+    const card = e.target.closest('.import-event-card');
+    if (!card) return;
+    const listIndex = parseInt(card.dataset.listIndex, 10);
+    const result = importValidResults[listIndex];
+    if (!result) return;
+
+    const action = e.target.dataset.action || e.target.closest('[data-action]')?.dataset.action;
+
+    if (action === 'toggle') {
+      result.isSelected = e.target.checked;
+      card.classList.toggle('skipped', !result.isSelected);
+      updateImportSelectionCount();
+    } else if (action === 'skip') {
+      result.isSelected = false;
+      renderImportEventList();
+    } else if (action === 'edit') {
+      // Inline edit comes in Task 6 — for now log
+      console.log('[import] edit clicked for', listIndex, '— wired in Task 6');
+    }
+  });
 });
