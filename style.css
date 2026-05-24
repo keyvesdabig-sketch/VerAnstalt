@@ -1061,6 +1061,10 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--text-secondary);
 }
 
+.modal-event-description.empty {
+  display: none;
+}
+
 .modal-details-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -1142,6 +1146,62 @@ h1, h2, h3, h4, h5, h6 {
 .source-link-btn i {
   width: 14px;
   height: 14px;
+}
+
+.modal-action-links {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.action-link-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 20px;
+  border-radius: 12px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: var(--transition-normal);
+  border: none;
+  width: 100%;
+}
+
+.action-link-btn i {
+  width: 18px;
+  height: 18px;
+}
+
+.action-link-btn.primary {
+  background: linear-gradient(135deg, var(--accent-blue), var(--accent-cyan));
+  box-shadow: 0 4px 15px rgba(0, 157, 255, 0.3);
+}
+
+.action-link-btn.primary:hover {
+  box-shadow: 0 6px 20px rgba(0, 157, 255, 0.4);
+  transform: translateY(-2px);
+  color: #fff;
+}
+
+.action-link-btn.ticket {
+  background: linear-gradient(135deg, var(--accent-pink), #ff4d85);
+  box-shadow: 0 4px 15px rgba(255, 42, 117, 0.3);
+}
+
+.action-link-btn.ticket:hover {
+  box-shadow: 0 6px 20px rgba(255, 42, 117, 0.4);
+  transform: translateY(-2px);
+  color: #fff;
+}
+
+@media (min-width: 640px) {
+  .modal-action-links {
+    flex-direction: row;
+  }
 }
 
 .modal-detail-actions {

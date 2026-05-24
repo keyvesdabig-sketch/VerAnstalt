@@ -4,7 +4,7 @@
     "title": "Menschen illustrativ zeichnen  mit Rolf Giger",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Illustratives Zeichnen von Menschen unter Anleitung von Rolf Giger.",
     "date": "2026-05-31",
     "time": "09:00 - 19:00",
     "locationName": "Chur, Haus der Illustration",
@@ -26,7 +26,7 @@
     "title": "Portfolio-Vorbereitung Illustration – 3 Monate in Chur",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Vorbereitungskurs für Illustrations-Portfolios über einen Zeitraum von drei Monaten.",
     "date": "2026-06-27",
     "time": "09:00 - 12:00",
     "locationName": "Chur, Haus der Illustration",
@@ -48,7 +48,7 @@
     "title": "Zeichenkurs Cartoon und Figur – mit Rolf Giger in Chur",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Kurs für das Zeichnen von Cartoons und Figuren.",
     "date": "2026-05-31",
     "time": "09:00 - 19:00",
     "locationName": "Chur, Haus der Illustration",
@@ -70,9 +70,9 @@
     "title": "Öffentliche Altstadtführung Chur",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Geführter Rundgang durch die historische Altstadt von Chur.",
     "date": "2026-05-23",
-    "time": "10:00-12:00",
+    "time": "10:00 - 12:00",
     "locationName": "Chur",
     "municipality": "Chur",
     "lat": 46.8512,
@@ -96,7 +96,7 @@
     "title": "RhB Speisewagen Gourmino",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Ein Restaurant, das fährt und verzaubert: Im Speisewagen Gourmino wird jede Fahrt auf der spektakulären Albulalinie von Chur nach St. Moritz zu einem besonderen Erlebnis.",
     "date": "2026-05-23",
     "time": "09:58-20:02",
     "locationName": "Chur, Bahnhof Chur",
@@ -115,16 +115,17 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=23.05.2026%20%2009:58%20-%2020:02"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.rhb.ch/de/genussreisen/speisewagen-gourmino/?tabs-1xUPOzhzxfYekiH6X03rpV=57PPL5Zx5UXvGHCbPM0R1V"
   },
   "fruehlingsfestchur_2026-05-23": {
     "id": 1779536097796,
     "title": "Frühlingsfest Chur",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Traditionelles Frühlingsfest auf dem Theaterplatz.",
     "date": "2026-05-23",
-    "time": "14:00-23:59",
+    "time": "14:00 - 23:59",
     "locationName": "Chur, Theaterplatz",
     "municipality": "Chur",
     "lat": 46.851,
@@ -148,7 +149,7 @@
     "title": "Jugendtreff",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Offener Jugendtreff am Mittwoch, Freitag und Samstag - kostenlos und ohne Anmeldung.",
     "date": "2026-05-23",
     "time": "14:00-20:00",
     "locationName": "Chur, Jugendhaus Stadt Chur",
@@ -167,14 +168,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4691173?eventDateTime=23.05.2026%20%2014:00%20-%2020:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.jugendarbeit.chur.ch"
   },
   "spielnachmittageimhallenbad_2026-05-23": {
     "id": 1779536098922,
     "title": "Spielnachmittage im Hallenbad",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Spielfreudige Wasserratten aufgepasst! Mittwochs und samstags geht's rund im Hallenbad Obere Au.",
     "date": "2026-05-23",
     "time": "14:00-16:00",
     "locationName": "Chur, Sport- und Eventanlagen Chur",
@@ -193,16 +195,17 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/2999118?eventDateTime=23.05.2026%20%2014:00%20-%2016:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.sportanlagenchur.ch/familien"
   },
   "vortragbeiderraetischenvereinigungfuerfamilienforschung_2026-05-23": {
     "id": 1779536100013,
     "title": "Vortrag bei der Rätischen Vereinigung für Familienforschung",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Fachvortrag zum Thema Familienforschung.",
     "date": "2026-05-23",
-    "time": "14:00-16:00",
+    "time": "14:00 - 16:00",
     "locationName": "Chur, Restaurant VA BENE",
     "municipality": "Chur",
     "lat": 46.8508,
@@ -226,9 +229,9 @@
     "title": "Polenta7000",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Kulturelles Angebot oder Treffpunkt.",
     "date": "2026-05-23",
-    "time": "17:00-23:00",
+    "time": "17:00 - 23:00",
     "locationName": "Chur, Polenta7000",
     "municipality": "Chur",
     "lat": 46.8465,
@@ -250,9 +253,9 @@
   "fraeeserundoxxon_2026-05-23": {
     "id": 1779536100213,
     "title": "Fräeser und Oxxon",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Fräeser: Zürcher Punk’n’Roll mit Vollgas, rotzig & direkt. Oxxon: dreckiger Punkrock aus Stuttgart, seit 1995 laut & unermüdlich auf Europas Bühnen unterwegs.",
     "date": "2026-05-23",
     "time": "20:00",
     "locationName": "Chur, Toms Beer Box",
@@ -278,7 +281,7 @@
     "title": "Gray Release Show",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Release-Konzert/Show von Gray.",
     "date": "2026-05-23",
     "time": "20:00",
     "locationName": "Chur, CUADRO22",
@@ -304,7 +307,7 @@
     "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Diese Sonderausstellung zeigt anhand von sechs Biografien, welche Rolle Migrantinnen und Migranten beim Aufbau des Alpen-Tourismus eingenommen haben.",
     "date": "2026-05-23",
     "time": "10:00-17:00",
     "locationName": "Chur, Rätisches Museum",
@@ -323,14 +326,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=23.05.2026%20%2010:00%20-%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/Seiten/%C2%ABAddio-%E2%80%93-Willkommen-%E2%80%93-A-revair%C2%BB.aspx"
   },
   "ausstellungstadtgaleriechuragigregorineverendingstory20_2026-05-23": {
     "id": 1779536100536,
     "title": "Ausstellung Stadtgalerie Chur: AGI GREGORI - NEVER ENDING STORY 2.0",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Wir laden Sie herzlich an die neue Ausstellung: NEVER ENDING 2.0 von AGI GREGORI ein, für einen Moment den Alltag zu vergessen, und in ihre Farbwelt einzutauchen. Wir freuen uns auf Ihren Besuch!",
     "date": "2026-05-23",
     "time": "Siehe Beschreibung",
     "locationName": "Chur, Stadtgalerie",
@@ -356,7 +360,7 @@
     "title": "​Daniela Keiser. Oregano",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Für das Kunstmuseum gestaltet Keiser eine multisensorische begehbare Installation. In grossen Fotografien bezieht sie sich auf eine indische Kunstform, bei der Muster auf den Boden gezeichnet werden.",
     "date": "2026-05-23",
     "time": "10:00-17:00",
     "locationName": "Chur, Bündner Kunstmuseum",
@@ -375,14 +379,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=23.05.2026%20%2010:00%20-%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Daniela-Keiser.aspx"
   },
   "diewunderkammer150jahreraetischesmuseum_2026-05-23": {
     "id": 1779536100246,
     "title": "Die Wunderkammer: 150 Jahre Rätisches Museum",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Seit der Barockzeit präsentierten Fürsten oder vermögende Bürger vielerorts gerne aussergewöhnliche Objekte in sogenannten Wunderkammern: Naturalien, Kunstobjekte, Antiquitäten und Kuriositäten. Hier kam alles in bunter und faszinierender Mischung zusammen.Das moderne Museum, wie wir es heute kennen, ist eine bürgerliche Erfindung des 19. Jahrhunderts. In ganz Europa entstanden damals neue Ausstellungshäuser. Auch das Rätische Museum entstammt jener Zeit: Der Jurist, Historiker und Politiker Peter Conradin von Planta-Zuoz (1815–1902) initiierte eine «Bündnerische Stiftung für Wissenschaft und Kunst» mit dem Ziel, ein Museum zu gründen. Damit wollte er der anhaltenden Abwanderung wertvollen Kulturgutes aus Graubünden entgegenwirken. Am 8. Juni 1872 eröffnete das Rätische Museum im Erdgeschoss des Hauses Buol seine erste Ausstellung. Seither werden hier Objekte zur Geschichte Graubündens gesammelt. Mittlerweile umfassen die Bestände rund 100 000 Objekte.Zum Jubiläum laden wir Sie ein auf eine Entdeckungsreise durch die Museums-Schätze anhand von 150 ausgewählten Exponaten. Für jedes Jahr seit der Eröffnung wurde ein Objekt ausgewählt, das in jenem Jahr den Weg in die Sammlung fand. So zeigt die Ausstellung einen repräsentativen Querschnitt: Kostbares, Altes und Seltenes findet sich hier genauso wie Überraschendes, Banales oder Schräges, alles nebeneinander, ganz im Stil der einstigen Wunderkammer. Die vielen kleinen Geschichten, die so erzählt werden, vermitteln nicht nur spannende Einblicke in die Vergangenheit, sondern schlagen auch sammlungsgeschichtlich den Bogen von den Ursprüngen bis zum heutigen historischen Museum Graubündens und seinen Aufgaben.",
     "date": "2026-05-23",
     "time": "10:00 - 17:00",
     "locationName": "Chur, Rätisches Museum",
@@ -397,14 +402,15 @@
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/die-wunderkammer-150-jahre-raetisches-museum-chur_AZ4dw8U"
       }
-    ]
+    ],
+    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/seiten/vorschau-zur-jubil%C3%A4umsausstellung.aspx"
   },
   "heilenistkunstistheilen_2026-05-23": {
     "id": 1779536100772,
     "title": "Heilen ist Kunst ist Heilen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Kunst auf Verordnung @ Atelier Hubert Crevoisier\n14. Mai 2025 - 27. August 2026 (Finissage um 17:15 Uhr)\nDas Atelier befindet sich in den beiden Vitrinen im Erdgeschoss des Haus H1 am KSGR.",
     "date": "2026-05-23",
     "time": "Siehe Beschreibung",
     "locationName": "Chur, Kantonsspital Graubünden",
@@ -423,14 +429,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4473089?eventDateTime=23.05.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.ksgr.ch/kunst#heilenistkunst"
   },
   "heinerkielholz_2026-05-23": {
     "id": 1779536100673,
     "title": "Heiner Kielholz",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Ein grosser Unbekannter in der Schweizer Kunst. Er arbeitet kontinuierlich an einem stillen Werk, meist in kleinen Formaten.",
     "date": "2026-05-23",
     "time": "10:00-17:00",
     "locationName": "Chur, Bündner Kunstmuseum",
@@ -456,7 +463,7 @@
     "title": "Humoristischer Blick auf die Natur – Zeichnungen von Rolf Giger",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Humoristische Zeichnungen aus der Natur von Rolf Giger. Tiere, Pflanzen und Landschaften aus Graubünden – beobachtet mit Humor und präziser Linie.",
     "date": "2026-05-23",
     "time": "Siehe Beschreibung",
     "locationName": "Chur, Haus der Illustration",
@@ -475,14 +482,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4623387?eventDateTime=23.05.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://gigercreative.com/humoristischer-blick-auf-die-natur/"
   },
   "imatelierraumarbeitmythos_2026-05-23": {
     "id": 1779536100972,
     "title": "Im Atelier. Raum, Arbeit, Mythos",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Mit Werken von Matthew Barney, Mirko Baselgia, Flurin Bisig, Klodin Erb, Stefan Gritsch, Maude Léonard-Contant, Catrin Lüthi K, Paul McCarthy, Adrian Paci",
     "date": "2026-05-23",
     "time": "10:00-17:00",
     "locationName": "Chur, Bündner Kunstmuseum",
@@ -501,14 +509,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=23.05.2026%20%2010:00%20-%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Atelier.aspx"
   },
   "robertralstonwennwortenichtmehrweiterwissen_2026-05-23": {
     "id": 1779536101401,
     "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Pop-Up-Ausstellung im Rahmen von «Heilen ist Kunst ist Heilen» \nDie Finissage beider Ausstellungen findet am 27. August 2026 um 17.15 Uhr statt.",
     "date": "2026-05-23",
     "time": "Siehe Beschreibung",
     "locationName": "Chur, Kantonsspital Graubünden,  Kreuzspital",
@@ -527,14 +536,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=23.05.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.ksgr.ch/kunst#worte"
   },
   "susanhefuna_2026-05-23": {
     "id": 1779536101454,
     "title": "Susan Hefuna",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Das Bündner Kunstmuseum präsentiert die erste umfangreiche Ausstellung der international renommierten Künstlerin Susan Hefuna in der Schweiz. Die in engem Austausch mit der Künstlerin entstandene Ausstellung zeigt einen repräsentativen Überblick über ihr vielfältiges Schaffen. Susan Hefuna wurde 1962 geboren und wuchs in Ägypten, Deutschland und Österreich auf. Sie lebt heute in Deutschland und in der Schweiz. Ihre künstlerische Praxis umfasst Zeichnung, Fotografie, Installation, Video und Performance. Susan Hefuna erforscht das Zusammenspiel von Ort, Zeit und Wahrnehmung. Ihre Werke reflektieren die Dualität von öffentlichen und privaten Räumen und eröffnen neue Perspektiven auf subjektive Wahrnehmungen und Realitäten. Hefunas Arbeiten erzählen poetische Geschichten von Städten, Landschaften und kulturellen Dialogen und laden die Besucherinnen und Besucher ein, in ihre künstlerische Welt einzutauchen und Verbindungen über Grenzen hinweg wahrzunehmen. Ein besonderer Fokus der Ausstellung liegt auf dem Kulturraum Graubünden und seinen Beziehungen in die Welt.",
     "date": "2026-05-23",
     "time": "10:00 - 20:00",
     "locationName": "Chur, Bündner Kunstmuseum",
@@ -549,14 +559,15 @@
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/susan-hefuna-chur_AJci5gB"
       }
-    ]
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/"
   },
   "urbangolfsonntag_2026-05-24": {
     "id": 1779536102307,
     "title": "Urban Golf Sonntag",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Urban Golf Spieltag in der Stadt.",
     "date": "2026-05-24",
     "time": "09:00 - 19:30",
     "locationName": "Chur",
@@ -578,7 +589,7 @@
     "title": "Urban Golf",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Mit Schläger und Softball entdecken Sie Churs Altstadt auf spielerische Weise.",
     "date": "2026-05-23",
     "time": "09:00-19:00",
     "locationName": "Chur",
@@ -593,14 +604,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=23.05.2026%20%2009:00%20-%2019:00"
       }
-    ]
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013024938333?globalReset=1"
   },
   "churergenussmission_2026-05-23": {
     "id": 1779536241309,
     "title": "Churer Genussmission",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Ein innovatives Erlebnis, das die Spannung von Rätseln und Abenteuern mit dem Genuss lokaler Spezialitäten verbindet.",
     "date": "2026-05-23",
     "time": "09:00-15:15",
     "locationName": "Chur",
@@ -615,14 +627,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=23.05.2026%20%2009:00%20-%2015:15"
       }
-    ]
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014733279618?globalReset=1"
   },
   "kulinariktourgenusswanderungmitpfiff_2026-05-23": {
     "id": 1779536242476,
     "title": "Kulinarik Tour: Genusswanderung...mit Pfiff!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Freuen Sie sich auf eine einfache Wanderung mit traumhaftem Panorama, feinem 3-Gang-Menü in drei Restaurants und einer rasanten Rodelbahnfahrt.",
     "date": "2026-05-23",
     "time": "Siehe Beschreibung",
     "locationName": "Chur",
@@ -637,14 +650,15 @@
         "name": "LocalCities-Chur",
         "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4713845?eventDateTime=23.05.2026"
       }
-    ]
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014124266820?globalReset=1"
   },
   "taminsertoene_2026-05-24": {
     "id": 1779537997119,
     "title": "Taminser Töne",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Erik Satie «Vexations» 840 Wiederholungen – 28 Stunden Klang. Organistinnen und Pianisten der Region. Idee und Leitung: Annegret Ernst.",
+    "description": "Pfingstsonntag, 24. Mai 14.00 Uhr, Kirche Tamins, Taminser Töne bis Pfingstmontag, 25. Mai, 18.00 Uhr Erik Satie «Vexations» 840 Wiederholungen – 28 Stunden Klang. Organistinnen und Pianisten der Region. Idee und Leitung: Annegret Ernst.",
     "date": "2026-05-24",
     "time": "14:00",
     "locationName": "Ev.-ref. Kirche Tamins",
@@ -666,7 +680,7 @@
     "title": "Taminser Bergsturzarena - Geführte Wanderung",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Taminser Bergsturzarena. Durch Naturgewalten geprägte Vielfalt. Wo wir normalerweise mit Auto, Bahn oder Postauto durchreisen, verbirgt sich eine erstaunliche Welt fremdartig scheinender Gesteine, Felsen und Hügel.",
+    "description": "Durch Naturgewalten geprägte Vielfalt. Auf der gemütlichen Wanderung von Tamins nach Domat/Ems werden biblische Zeiträume relativiert. Die landschaftliche Vielfalt vermag immer wieder zu faszinieren. Schwierigkeit T1, reine Gehzeit 2.5-3.0 Std.",
     "date": "2026-05-25",
     "time": "09:45 - 15:30",
     "locationName": "Tamins Unterdorf",
@@ -710,7 +724,7 @@
     "title": "Feierabendwanderung: Auf den Spuren der Biber",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Erfahre Erstaunliches über das grösste Nagetier Europas. Seit einigen Jahren siedelt sich der Biber in Gebieten des Hinterrheins wieder an. Die dämmerungs-/nachtaktiven Tiere lassen sich nur mit sehr viel Ruhe, Geduld und Glück beobachten, ihre Spuren sind aber unübersehbar.",
+    "description": "Erfahre Erstaunliches über das grösste Nagetier Europas. Bei dieser abwechslungsreichen Wanderung (6.8 km) auf schönen Waldwegen entlang dem Hinterrhein erfährst du Interessantes über die grössten europäischen Nagetiere. Unterwegs geniessen wir ein gemütliches Feierabendpicknick aus dem eigenen Rucksack.",
     "date": "2026-06-16",
     "time": "17:25 - 21:00",
     "locationName": "Reichenau-Tamins Bahnhof",
@@ -732,7 +746,7 @@
     "title": "Alpinwanderkurs in der Tektonikarena Sardona",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein, das heisst oft auch im weglosen Gelände. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona.",
+    "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
     "date": "2026-06-26",
     "time": "Start auf den ÖV abgestimmt",
     "locationName": "Tamins (Treffpunkt wird noch bekanntgegeben)",
@@ -754,7 +768,7 @@
     "title": "Kirchenregion Am Rhein: Familiensonntag Benis Boden",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Familiensonntag auf Benis Boden. Mitwirkung der Musikgesellschaft Felsberg und Musica da Trin, Alphorn. Mittagessen. Schnitzeljagd. Der Benis Boden liegt wunderbar zwischen Felsberg, Domat/Ems und Tamins und ist gut zu Fuss oder Bike.",
+    "description": "Familiensonntag auf Benis Boden. Mitwirkung der Musikgesellschaft Felsberg und Musica da Trin, Alphorn. Mittagessen. Schnitzeljagd. Der Benis Boden liegt wunderbar zwischen Felsberg, Domat/Ems und Tamins. Familiengottesdienst um 11 Uhr. Mittagessen aus dem Rucksack, Grillstelle betreut. Am Nachmittag Schnitzeljagd.",
     "date": "2026-08-09",
     "time": "11:00",
     "locationName": "Benis Boden",
@@ -774,16 +788,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-05-24": {
     "id": 1779538439202,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-05-24",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=24.05.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -798,9 +812,9 @@
     "title": "Geburtstagskaffee ab 70",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Geburtstagskaffee ab 70 J. Ein geselliger Erzähl- und Zuhörvormittag Es werden persönliche Einladungen zum Anmelden verschickt.",
     "date": "2026-05-27",
-    "time": "09:30 - 11:30",
+    "time": "09:30-11:30",
     "locationName": "Begegnungsraum Churwalden",
     "municipality": "Churwalden",
     "lat": 46.7797,
@@ -820,7 +834,7 @@
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher! Gesellig, unkompliziert, herzlich. Stammtischkultur wie früher – modern gelebt.",
     "date": "2026-05-28",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -840,16 +854,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-05-31": {
     "id": 1779538449076,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-05-31",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=31.05.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -864,9 +878,9 @@
     "title": "Natur verbindet – Pflege mit uns Lenzerheidner Alpweiden für mehr Naturvielfalt",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Zusammen mit dem Forst Lenzerheide, den Bergbahnen Lenzerheide und den Alpbetrieben pflegen wir Alpweiden auf den Lenzerheidner Heimweiden und Alpen. Wir brauchen dafür Verstärkung. Hilfst du mit bei diesem Nachmittagseinsatz im Gebiet Valbella-Davains (Schitgans)? In geselliger Runde räumen wir einwachsende Wiesen sauber, damit sich die Pflanzen darauf gut entwickeln können. Unser Einsatz kommt den öffentlichen Heimweiden zugute. Wir erhalten dafür einen Einblick in die Herausforderungen der...",
     "date": "2026-06-05",
-    "time": "13:00 - 17:00",
+    "time": "13:00-17:00",
     "locationName": "7076 Parpan",
     "municipality": "Churwalden",
     "lat": 46.7596313,
@@ -886,7 +900,7 @@
     "title": "2. Kinder Olympiade in Churwalden",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Auch in diesem Jahr werden wieder unzählige Kinder aus den Gemeinden Alvaneu bis Churwalden erwartet, die in begleitung von ihren Lehr- und Begleitpersonen, an dem sportlichen Wettkampf teilzunehmen. Wer wird dieses Jahr den begehrten Wanderpokal nach Hause nehmen? Es gitb ein Festwirtschaft und wir würden uns über  unzählig Zuschauer freuen.",
     "date": "2026-06-06",
     "time": "Siehe Beschreibung",
     "locationName": "Schulhausareal Churwalden",
@@ -906,16 +920,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-06-07": {
     "id": 1779538455073,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-07",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=07.06.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -928,16 +942,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-06-14": {
     "id": 1779538456855,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-14",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=14.06.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -952,7 +966,7 @@
     "title": "Führung in der Klosterkirche Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Die Anfänge der heutigen Pfarrkirche St. Maria und Michael gehen ins 9. Jh. zurück. Um 1150 gründeten die Prämonstratenser aus Roggenburg bei Ulm ihre Niederlassung in Churwalden. Nach einem Brand im Jahr 1472 wurde die heutige spätgotische Kirche aufgebaut. Das nahegelegene Abtgebäude aus dem 15. Jh zeigt die Bautätigkeit des Klosters. Vom Kloster Churwalden aus wurden in der Schweiz Niederlassungen gegründet. Mit der Reformation im 16. Jh. war auch die Zeit des Klosters vorbei und der Niede...",
     "date": "2026-06-14",
     "time": "14:00",
     "locationName": "Röm.-kath. Kirche St. Maria und Michael",
@@ -972,16 +986,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-06-21": {
     "id": 1779538458356,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-21",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=21.06.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -996,7 +1010,7 @@
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher! Gesellig, unkompliziert, herzlich. Stammtischkultur wie früher – modern gelebt.",
     "date": "2026-06-25",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -1018,7 +1032,7 @@
     "title": "Parpaner Sunntigsmarkt",
     "category": "markets",
     "categoryLabel": "Märkte",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten. Im Sommer 2026 werden wieder 5 Märkte stattfinden, jeweils an einem Sonntag im Juni, Juli, August und September/Oktober.",
     "date": "2026-06-28",
     "time": "09:00",
     "locationName": "Riedplatz Parpan",
@@ -1038,16 +1052,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-06-28": {
     "id": 1779538462117,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-28",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=28.06.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -1062,14 +1076,14 @@
     "title": "Führung Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Auf dem wunderschönen Panoramaberg Brambrüesch-Dreibündenstein, zwischen der Stadt Chur und der Lenzerheide, erahnen Sie die Entstehung der vielfältigen, gebirgigen Naturlandschaft. Sie verstehen die Entwicklung einer alpinen Siedlung vom bäuerlichen Maiensäss zum kleinfeinen Tourismussäss. Und Sie erleben sogar, gefühlt, eine verblüffende Zeitreise in dieser Gegend von Millionen, präziser von 115'000 Jahren vor bis 500'000 Jahre nach heute. Treffpunkt: Bei der Bergstation der Bergbahnen Chur...",
     "date": "2026-06-28",
     "time": "10:00",
     "locationName": "Bergstation Bergbahn Chur-Dreibünden",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Kosten: CHF 15.00 Erwachsene, CHF 10.00 Kinder (13 bis 16 Jahre)",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=28.06.2026%20%2010:00",
     "sources": [
@@ -1082,16 +1096,16 @@
   "dorffuehrungchurwalden_2026-07-04": {
     "id": 1779538464380,
     "title": "Dorfführung Churwalden",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch Bereits 15 v. Chr. führte eine bedeutende Alpenroute durch das Tal und verband Nord und Süd über den Septimerpass. Säumer, Händler und Pilger brachten Wohlstand, Waren und Geschichten in die Region. Mit dem Ausbau der Verkehrswege und dem Einsatz von Kutschen gewann Churwalden weiter an Bedeutung: Für die über 800 Kutschenpferde mussten grosse Heumengen bereitgestellt werden. Der aufk...",
     "date": "2026-07-04",
     "time": "17:00",
     "locationName": "Churwalden",
     "municipality": "Churwalden",
     "lat": 46.7776766,
     "lng": 9.5411792,
-    "price": "Eintritt frei",
+    "price": "Private Führungen: CHF 180.00, Termine nach Vereinbarung",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=04.07.2026%20%2017:00",
     "sources": [
@@ -1104,16 +1118,16 @@
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-07-05": {
     "id": 1779538466151,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-07-05",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
-    "price": "Eintritt frei",
+    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
     "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30",
     "sources": [
@@ -1128,7 +1142,7 @@
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-07-12",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1143,14 +1157,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=12.07.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "musikmaerliimwald2026_2026-07-16": {
     "id": 1779538468114,
     "title": "Musik & Märli im Wald 2026",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
     "date": "2026-07-16",
     "time": "14:30",
     "locationName": "Anlass findet in Parpan statt (siehe Standort)",
@@ -1165,14 +1181,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=16.07.2026%20%2014:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
   },
   "dorffuehrungchurwalden_2026-07-18": {
     "id": 1779538469592,
     "title": "Dorfführung Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
     "date": "2026-07-18",
     "time": "17:00",
     "locationName": "Churwalden",
@@ -1187,14 +1204,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=18.07.2026%20%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-07-19": {
     "id": 1779538470592,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-07-19",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1209,14 +1227,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=19.07.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "musikmaerliimwald2026_2026-07-23": {
     "id": 1779538471171,
     "title": "Musik & Märli im Wald 2026",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
     "date": "2026-07-23",
     "time": "14:30",
     "locationName": "Anlass findet in Parpan statt (siehe Standort)",
@@ -1231,14 +1251,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=23.07.2026%20%2014:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
   },
   "parpanersunntigsmarkt_2026-07-26": {
     "id": 1779538472456,
     "title": "Parpaner Sunntigsmarkt",
     "category": "markets",
     "categoryLabel": "Märkte",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten.",
     "date": "2026-07-26",
     "time": "09:00",
     "locationName": "Riedplatz Parpan",
@@ -1260,7 +1281,7 @@
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-07-26",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1275,14 +1296,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=26.07.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "musikmaerliimwald2026_2026-07-30": {
     "id": 1779538474513,
     "title": "Musik & Märli im Wald 2026",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
     "date": "2026-07-30",
     "time": "14:30",
     "locationName": "Anlass findet in Parpan statt (siehe Standort)",
@@ -1297,14 +1320,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=30.07.2026%20%2014:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
   },
   "hotelkronestammtischwiefrueher_2026-07-30": {
     "id": 1779538475837,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2026-07-30",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -1319,14 +1343,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=30.07.2026%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "dorffuehrungchurwalden_2026-08-01": {
     "id": 1779538476002,
     "title": "Dorfführung Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
     "date": "2026-08-01",
     "time": "17:00",
     "locationName": "Churwalden",
@@ -1341,14 +1366,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=01.08.2026%20%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-08-02": {
     "id": 1779538477664,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-08-02",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1363,14 +1389,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=02.08.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "fuehrungbrambrueesch_2026-08-02": {
     "id": 1779538478840,
     "title": "Führung Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Führung durch die alpine Siedlung Brambrüesch.",
     "date": "2026-08-02",
     "time": "10:00",
     "locationName": "Bergstation Bergbahn Chur-Dreibünden",
@@ -1385,14 +1413,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=02.08.2026%20%2010:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Fuehrung-Brambrueesch_asd-23806084"
   },
   "musikmaerliimwald2026_2026-08-06": {
     "id": 1779538479622,
     "title": "Musik & Märli im Wald 2026",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
     "date": "2026-08-06",
     "time": "14:30",
     "locationName": "Anlass findet in Parpan statt (siehe Standort)",
@@ -1407,14 +1436,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=06.08.2026%20%2014:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
   },
   "openairwochenendeaufbrambrueesch_2026-08-07": {
     "id": 1779538480748,
     "title": "Open Air Wochenende auf Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Am 7. bis 9. August 2026 findet auf Brambrüesch ein Open-Air-Wochenende statt.",
     "date": "2026-08-07",
     "time": "Siehe Beschreibung",
     "locationName": "Brambrüesch",
@@ -1436,7 +1466,7 @@
     "title": "Open Air Wochenende auf Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Am 7. bis 9. August 2026 findet auf Brambrüesch ein Open-Air-Wochenende statt.",
     "date": "2026-08-08",
     "time": "Siehe Beschreibung",
     "locationName": "Brambrüesch",
@@ -1458,7 +1488,7 @@
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-08-09",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1473,14 +1503,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=09.08.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "openairwochenendeaufbrambrueesch_2026-08-09": {
     "id": 1779538483499,
     "title": "Open Air Wochenende auf Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Am 7. bis 9. August 2026 findet auf Brambrüesch ein Open-Air-Wochenende statt.",
     "date": "2026-08-09",
     "time": "Siehe Beschreibung",
     "locationName": "Brambrüesch",
@@ -1502,7 +1534,7 @@
     "title": "Dorfführung Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
     "date": "2026-08-15",
     "time": "17:00",
     "locationName": "Churwalden",
@@ -1517,14 +1549,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=15.08.2026%20%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-08-16": {
     "id": 1779538485907,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-08-16",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1539,14 +1572,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=16.08.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-08-23": {
     "id": 1779538486631,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-08-23",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1561,14 +1596,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=23.08.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "fuehrungbrambrueesch_2026-08-23": {
     "id": 1779538487709,
     "title": "Führung Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Führung durch die alpine Siedlung Brambrüesch.",
     "date": "2026-08-23",
     "time": "10:00",
     "locationName": "Bergstation Bergbahn Chur-Dreibünden",
@@ -1583,14 +1620,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=23.08.2026%20%2010:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Fuehrung-Brambrueesch_asd-23806084"
   },
   "hotelkronestammtischwiefrueher_2026-08-27": {
     "id": 1779538488830,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2026-08-27",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -1605,14 +1643,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=27.08.2026%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "parpanersunntigsmarkt_2026-08-30": {
     "id": 1779538489701,
     "title": "Parpaner Sunntigsmarkt",
     "category": "markets",
     "categoryLabel": "Märkte",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten.",
     "date": "2026-08-30",
     "time": "09:00",
     "locationName": "Riedplatz Parpan",
@@ -1634,7 +1673,7 @@
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-08-30",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1649,14 +1688,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=30.08.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-09-06": {
     "id": 1779538492344,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-09-06",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1671,14 +1712,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=06.09.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "dorffuehrungchurwalden_2026-09-12": {
     "id": 1779538493150,
     "title": "Dorfführung Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
     "date": "2026-09-12",
     "time": "17:00",
     "locationName": "Churwalden",
@@ -1693,14 +1736,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=12.09.2026%20%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-09-13": {
     "id": 1779538493714,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-09-13",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1715,14 +1759,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=13.09.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-09-20": {
     "id": 1779538495501,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-09-20",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1737,14 +1783,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=20.09.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "graubuendenvivaimfokuszubesuchinderalpkaesereiparpan_2026-09-21": {
     "id": 1779538496412,
     "title": "«graubündenVIVA im Fokus» Zu Besuch in der Alpkäserei Parpan",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Netzwerkanlass in der Alpkäserei Parpan mit Einblicken in Alpwirtschaft, Käseproduktion, Degustation regionaler Spezialitäten und Networking.",
     "date": "2026-09-21",
     "time": "15:00 - 17:30",
     "locationName": "Alpkäserei Parpan",
@@ -1759,14 +1807,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4782109?eventDateTime=21.09.2026%20%2015:00%20-%2017:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.graubuendenviva.ch",
+    "ticketUrl": "https://www.graubuendenviva.ch/de/besuch-alpkaeserei-parpan"
   },
   "hotelkronestammtischwiefrueher_2026-09-24": {
     "id": 1779538497094,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2026-09-24",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -1781,14 +1831,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=24.09.2026%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "dorffuehrungchurwalden_2026-09-26": {
     "id": 1779538497863,
     "title": "Dorfführung Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
     "date": "2026-09-26",
     "time": "17:00",
     "locationName": "Churwalden",
@@ -1803,14 +1854,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=26.09.2026%20%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   "parpanersunntigsmarkt_2026-09-27": {
     "id": 1779538499387,
     "title": "Parpaner Sunntigsmarkt",
     "category": "markets",
     "categoryLabel": "Märkte",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten.",
     "date": "2026-09-27",
     "time": "09:00",
     "locationName": "Riedplatz Parpan",
@@ -1832,7 +1884,7 @@
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-09-27",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1847,14 +1899,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=27.09.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "dorffuehrungchurwalden_2026-10-03": {
     "id": 1779538501427,
     "title": "Dorfführung Churwalden",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
     "date": "2026-10-03",
     "time": "17:00",
     "locationName": "Churwalden",
@@ -1869,14 +1923,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=03.10.2026%20%2017:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-10-04": {
     "id": 1779538502638,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-10-04",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1891,14 +1946,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=04.10.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "parpanersunntigsmarkt_2026-10-11": {
     "id": 1779538502936,
     "title": "Parpaner Sunntigsmarkt",
     "category": "markets",
     "categoryLabel": "Märkte",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten.",
     "date": "2026-10-11",
     "time": "09:00",
     "locationName": "Riedplatz Parpan",
@@ -1920,7 +1977,7 @@
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-10-11",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1935,14 +1992,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=11.10.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-10-18": {
     "id": 1779538505146,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-10-18",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1957,14 +2016,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=18.10.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-10-25": {
     "id": 1779538506285,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-10-25",
     "time": "09:00 - 11:30",
     "locationName": "Bergbaiz",
@@ -1979,14 +2040,16 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=25.10.2026%20%2009:00%20-%2011:30"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bergbaiz.ch",
+    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "hotelkronestammtischwiefrueher_2026-10-29": {
     "id": 1779538507272,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2026-10-29",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -2001,14 +2064,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=29.10.2026%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "hotelkronestammtischwiefrueher_2026-11-26": {
     "id": 1779538508641,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2026-11-26",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -2023,14 +2087,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=26.11.2026%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "hotelkronestammtischwiefrueher_2026-12-31": {
     "id": 1779538509308,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2026-12-31",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -2045,14 +2110,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=31.12.2026%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "hotelkronestammtischwiefrueher_2027-01-28": {
     "id": 1779538511027,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2027-01-28",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -2067,14 +2133,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=28.01.2027%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "hotelkronestammtischwiefrueher_2027-02-25": {
     "id": 1779538511255,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2027-02-25",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -2089,14 +2156,15 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=25.02.2027%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "hotelkronestammtischwiefrueher_2027-03-25": {
     "id": 1779538512297,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Hotel Krone Stammtisch – wie früher!\nGesellig, unkompliziert, herzlich.",
     "date": "2027-03-25",
     "time": "18:00",
     "locationName": "Hotel Krone Churwalden",
@@ -2111,21 +2179,22 @@
         "name": "LocalCities-Churwalden",
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=25.03.2027%20%2018:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://kronechurwalden.ch/"
   },
   "kraeuterwanderungworkshopwildkraeuterdurchsjahrsommerfuelle_2026-07-12": {
     "id": 1779538708487,
     "title": "Kräuterwanderung/Workshop: Wildkräuter durchs Jahr - Sommerfülle",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Entdecke die verborgenen Kräfte, die in den aromatischen Sommerkräutern stecken",
     "date": "2026-07-12",
     "time": "12:05 - 16:00",
     "locationName": "Bonaduz Bahnhof",
     "municipality": "Bonaduz",
     "lat": 46.8103405,
     "lng": 9.3979824,
-    "price": "Eintritt frei",
+    "price": "CHF 63.00 / Person; AHV-Bezüger:innen: CHF 57.00 Im Preis inbegriffen: Instruktion/Betreuung durch Fachperson, Info- und Verbrauchsmaterial, kleiner Kräutersnack",
     "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4652925?eventDateTime=12.07.2026%20%2012:05%20-%2016:00",
     "sources": [
@@ -2138,16 +2207,16 @@
   "rapidopenair2026_2026-07-31": {
     "id": 1779538709333,
     "title": "Rapid Openair 2026",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Das Rapid Openair ist ein kleines feines Musik- und Kulturfestival mit einmaligem Charakter und speziellem Charme mitten in Graubünden. Der Name geht auf den Anfang des Openairs zurück, als der Rapid noch als Bühne diente. Seit vielen Jahren nun bauen wir diese selber, der Rapid ist aber immer noch wichtiger Bestandteil und kommt als Transportmittel zum Einsatz. Gross geschrieben werden bei uns die Werte Nachhaltigkeit und Vielfältigkeit - sei dies in den Bereichen Logistik, Kulinarik, Booking. Das Festival beginnt am Freitag 31. Juli und wird mit einem für alle inbegriffenen Frühstück am Sonntag abgerundet. Komm auch und werde Teil der Rapid Famiglia",
     "date": "2026-07-31",
     "time": "15:00",
     "locationName": "Tennisplatz",
     "municipality": "Bonaduz",
     "lat": 46.8124,
     "lng": 9.3986,
-    "price": "Eintritt frei",
+    "price": "CHF 49.00",
     "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4747943?eventDateTime=31.07.2026%20%2015:00",
     "sources": [
@@ -2160,16 +2229,16 @@
   "rapidopenair2026_2026-08-01": {
     "id": 1779538711014,
     "title": "Rapid Openair 2026",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Das Rapid Openair ist ein kleines feines Musik- und Kulturfestival mit einmaligem Charakter und speziellem Charme mitten in Graubünden. Der Name geht auf den Anfang des Openairs zurück, als der Rapid noch als Bühne diente. Seit vielen Jahren nun bauen wir diese selber, der Rapid ist aber immer noch wichtiger Bestandteil und kommt als Transportmittel zum Einsatz. Gross geschrieben werden bei uns die Werte Nachhaltigkeit und Vielfältigkeit - sei dies in den Bereichen Logistik, Kulinarik, Booking. Das Festival beginnt am Freitag 31. Juli und wird mit einem für alle inbegriffenen Frühstück am Sonntag abgerundet. Komm auch und werde Teil der Rapid Famiglia",
     "date": "2026-08-01",
     "time": "14:00",
     "locationName": "Tennisplatz",
     "municipality": "Bonaduz",
     "lat": 46.8124,
     "lng": 9.3986,
-    "price": "Eintritt frei",
+    "price": "CHF 49.00",
     "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4747943?eventDateTime=01.08.2026%20%2014:00",
     "sources": [
@@ -2184,14 +2253,14 @@
     "title": "Kräuterwanderung/Workshop: Wildkräuter durchs Jahr - Herbstschätze",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Erlebe die Magie der Herbstkräuter und lasse dich von ihrer Vielfalt inspirieren",
     "date": "2026-10-11",
     "time": "12:05 - 16:00",
     "locationName": "Bonaduz Bahnhof",
     "municipality": "Bonaduz",
     "lat": 46.8103405,
     "lng": 9.3979824,
-    "price": "Eintritt frei",
+    "price": "CHF 63.00 / Person; AHV-Bezüger:innen: CHF 57.00 Im Preis inbegriffen: Instruktion/Betreuung durch Fachperson, Info- und Verbrauchsmaterial, kleiner Kräutersnack",
     "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4652949?eventDateTime=11.10.2026%20%2012:05%20-%2016:00",
     "sources": [
@@ -2206,7 +2275,7 @@
     "title": "Saisoneröffnung Schwimmbad Pany",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Saisoneröffnung Schwimmbad und Badi-Restaurant Pany",
     "date": "2026-05-23",
     "time": "09:00",
     "locationName": "Schwimmbad-Restaurant Pany",
@@ -2214,21 +2283,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4578027?eventDateTime=23.05.2026%20%2009:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4578027?eventDateTime=23.05.2026%20%2009:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.badipany.ch"
   },
   "tiefenentspannungmitklang_2026-05-24": {
     "id": 1779539072045,
     "title": "Tiefenentspannung mit Klang",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
     "date": "2026-05-24",
     "time": "19:00",
     "locationName": "Claudia Hablützel",
@@ -2236,21 +2306,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=24.05.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=24.05.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.clahab.ch/"
   },
   "tiefenentspannungmitklang_2026-05-31": {
     "id": 1779539073668,
     "title": "Tiefenentspannung mit Klang",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
     "date": "2026-05-31",
     "time": "19:00",
     "locationName": "Claudia Hablützel",
@@ -2258,21 +2329,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=31.05.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=31.05.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.clahab.ch/"
   },
   "offenesmusizierenimvolksmusighusstantoenien_2026-06-04": {
     "id": 1779539074342,
     "title": "Offenes Musizieren im Volksmusighus St. Antönien",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Offenes Musizieren im Volksmusighus",
     "date": "2026-06-04",
     "time": "19:00",
     "locationName": "Volksmusighus",
@@ -2280,21 +2352,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4697911?eventDateTime=04.06.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4697911?eventDateTime=04.06.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.volksmusighus.ch/event"
   },
   "tiefenentspannungmitklang_2026-06-07": {
     "id": 1779539076011,
     "title": "Tiefenentspannung mit Klang",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
     "date": "2026-06-07",
     "time": "19:00",
     "locationName": "Claudia Hablützel",
@@ -2302,21 +2375,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=07.06.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=07.06.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.clahab.ch/"
   },
   "chilbiinstantoenien_2026-06-13": {
     "id": 1779539076606,
     "title": "Chilbi in St. Antönien",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Chilbi in St. Antönien Platz",
     "date": "2026-06-13",
     "time": "09:30",
     "locationName": "St. Antönien",
@@ -2324,7 +2398,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4711093?eventDateTime=13.06.2026%20%2009:30",
     "sources": [
       {
@@ -2346,7 +2420,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741297?eventDateTime=13.06.2026%20%2017:00",
     "sources": [
       {
@@ -2360,7 +2434,7 @@
     "title": "Tiefenentspannung mit Klang",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
     "date": "2026-06-14",
     "time": "19:00",
     "locationName": "Claudia Hablützel",
@@ -2368,21 +2442,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=14.06.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=14.06.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.clahab.ch/"
   },
   "tiefenentspannungmitklang_2026-06-21": {
     "id": 1779539080487,
     "title": "Tiefenentspannung mit Klang",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
     "date": "2026-06-21",
     "time": "19:00",
     "locationName": "Claudia Hablützel",
@@ -2390,21 +2465,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=21.06.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=21.06.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.clahab.ch/"
   },
   "folkrockdanceburgfestival_2026-06-27": {
     "id": 1779539081576,
     "title": "Folk, Rock & Dance Burg-Festival",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Folk, Rock & Dance Burg-Festival",
     "date": "2026-06-27",
     "time": "17:00",
     "locationName": "Burg Castels Putz",
@@ -2412,21 +2488,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4696587?eventDateTime=27.06.2026%20%2017:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4696587?eventDateTime=27.06.2026%20%2017:00"
       }
-    ]
+    ],
+    "ticketUrl": "https://www.marchufnagllegacy.com/event-details/folk-rock-dance-burg-festival-2026"
   },
   "holzskulpturen_2026-06-27": {
     "id": 1779539081371,
     "title": "Holz Skulpturen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Holz Skulpturen von der Werkstatt uf der Saga",
     "date": "2026-06-27",
     "time": "Siehe Beschreibung",
     "locationName": "Werkstatt uf der Saga",
@@ -2434,21 +2511,22 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=27.06.2026",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=27.06.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.holzwärcher.ch"
   },
   "klettersteigpartnunblick_2026-06-27": {
     "id": 1779539082270,
     "title": "Klettersteig Partnunblick",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Klettersteig Partnunblick",
     "date": "2026-06-27",
     "time": "Siehe Beschreibung",
     "locationName": "7246 St. Antönien",
@@ -2456,21 +2534,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741301?eventDateTime=27.06.2026",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741301?eventDateTime=27.06.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.raetikonsport.ch/event/klettersteig-partnunblick"
   },
   "tiefenentspannungmitklang_2026-06-28": {
     "id": 1779539084038,
     "title": "Tiefenentspannung mit Klang",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
     "date": "2026-06-28",
     "time": "19:00",
     "locationName": "Claudia Hablützel",
@@ -2478,21 +2557,22 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=28.06.2026%20%2019:00",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=28.06.2026%20%2019:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.clahab.ch/"
   },
   "holzskulpturen_2026-06-28": {
     "id": 1779539083815,
     "title": "Holz Skulpturen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Holz Skulpturen von der Werkstatt uf der Saga",
     "date": "2026-06-28",
     "time": "Siehe Beschreibung",
     "locationName": "Werkstatt uf der Saga",
@@ -2500,21 +2580,22 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=28.06.2026",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=28.06.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.holzwärcher.ch"
   },
   "holzskulpturen_2026-06-29": {
     "id": 1779539083385,
     "title": "Holz Skulpturen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Holz Skulpturen von der Werkstatt uf der Saga",
     "date": "2026-06-29",
     "time": "Siehe Beschreibung",
     "locationName": "Werkstatt uf der Saga",
@@ -2522,21 +2603,22 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=29.06.2026",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=29.06.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.holzwärcher.ch"
   },
   "holzskulpturen_2026-06-30": {
     "id": 1779539083703,
     "title": "Holz Skulpturen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Holz Skulpturen von der Werkstatt uf der Saga",
     "date": "2026-06-30",
     "time": "Siehe Beschreibung",
     "locationName": "Werkstatt uf der Saga",
@@ -2544,21 +2626,22 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=30.06.2026",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=30.06.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.holzwärcher.ch"
   },
   "stubetaeimhotelrhaetia_2026-07-01": {
     "id": 1779539085871,
     "title": "Stubetä im Hotel Rhätia",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Stubetä im Hotel Rhätia",
     "date": "2026-07-01",
     "time": "19:00-21:00",
     "locationName": "Hotel Rhätia",
@@ -2566,7 +2649,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4710763?eventDateTime=01.07.2026%20%2019:00%20-%2021:00",
     "sources": [
       {
@@ -2580,7 +2663,7 @@
     "title": "Holz Skulpturen",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
+    "description": "Holz Skulpturen von der Werkstatt uf der Saga",
     "date": "2026-07-01",
     "time": "Siehe Beschreibung",
     "locationName": "Werkstatt uf der Saga",
@@ -2588,14 +2671,15 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=01.07.2026",
     "sources": [
       {
         "name": "LocalCities-Malans",
         "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=01.07.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.holzwärcher.ch"
   },
   "spielundjassnachmittag_2026-05-25": {
     "id": 1779539767199,
@@ -2904,5 +2988,365 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4768691?eventDateTime=11.06.2026%20%2021:00%20-%2023:00"
       }
     ]
+  },
+  "rhbspeisewagengourmino_2026-12-31": {
+    "id": 1779566366843,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Gastronomisches Erlebnis im historischen Speisewagen der Rhätischen Bahn.",
+    "date": "2026-12-31",
+    "time": "09:58 - 20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/9/1a/15/91a15c7c553ed3ef2cb3d4936959e6b2244ce377_919153425.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/rhb-speisewagen-gourmino-chur_AKrmeeE",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/rhb-speisewagen-gourmino-chur_AKrmeeE"
+      }
+    ]
+  },
+  "jugendtreff_2026-06-24": {
+    "id": 1779566368584,
+    "title": "Jugendtreff",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Offener Treffpunkt für Jugendliche im Jugendhaus.",
+    "date": "2026-06-24",
+    "time": "14:00 - 20:00 (Sa)",
+    "locationName": "Jugendhaus Stadt Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/6/04/06/604061643167b5fd1f4be42767e007162b28071b_912459118.png",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/jugendtreff-chur_AWekfU2",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/jugendtreff-chur_AWekfU2"
+      }
+    ]
+  },
+  "spielnachmittageimhallenbad_2026-06-06": {
+    "id": 1779566368399,
+    "title": "Spielnachmittage im Hallenbad",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Nachmittagsaktivitäten für Kinder im Hallenbad.",
+    "date": "2026-06-06",
+    "time": "14:00 - 16:00",
+    "locationName": "Sport- und Eventanlagen Chur",
+    "municipality": "Chur",
+    "lat": 46.8475,
+    "lng": 9.5085,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/f/f6/a5/ff6a571480a8e4b7aadaa4a13e9644e7ba407ede_708945426.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/spielnachmittage-im-hallenbad-chur_AMGmFvj",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/spielnachmittage-im-hallenbad-chur_AMGmFvj"
+      }
+    ]
+  },
+  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-09-27": {
+    "id": 1779566368844,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Sonderausstellung über Migrationsgeschichten.",
+    "date": "2026-09-27",
+    "time": "10:00 - 17:00",
+    "locationName": "Rätisches Museum, Chur",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/8/08/4f/8084f6836c19021246c23cb7424a02d6c85af8f2_931453931.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG"
+      }
+    ]
+  },
+  "ausstellungstadtgaleriechuragigregorineverendingstory20_2026-05-29": {
+    "id": 1779566368865,
+    "title": "Ausstellung Stadtgalerie Chur: AGI GREGORI - NEVER ENDING STORY 2.0",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Kunstausstellung von Agi Gregori.",
+    "date": "2026-05-29",
+    "time": "Siehe Beschreibung",
+    "locationName": "Stadtgalerie, Chur",
+    "municipality": "Chur",
+    "lat": 46.851,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/6/21/48/62148c30959c8a2e0c6317ed7a3fcfa860b7e97e_927145694.jpeg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/ausstellung-stadtgalerie-chur-agi-gregori-never-ending-story-20-chur_ATrGjib",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/ausstellung-stadtgalerie-chur-agi-gregori-never-ending-story-20-chur_ATrGjib"
+      }
+    ]
+  },
+  "danielakeiseroregano_2026-07-19": {
+    "id": 1779566368331,
+    "title": "Daniela Keiser. Oregano",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Kunstausstellung im Bündner Kunstmuseum.",
+    "date": "2026-07-19",
+    "time": "10:00 - 17:00",
+    "locationName": "Bündner Kunstmuseum, Chur",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/8/d7/63/8d763589533145b3fdb4824814423cb899447865_912877307.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/daniela-keiser-oregano-chur_AKFYbHB",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/daniela-keiser-oregano-chur_AKFYbHB"
+      }
+    ]
+  },
+  "alpinwanderkursindertektonikarenasardona_2026-06-27": {
+    "id": 1779567487352,
+    "title": "Alpinwanderkurs in der Tektonikarena Sardona",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
+    "date": "2026-06-27",
+    "time": "Siehe Beschreibung",
+    "locationName": "Tamins",
+    "municipality": "Tamins",
+    "lat": 46.8298784,
+    "lng": 9.4068316,
+    "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
+    "sources": [
+      {
+        "name": "LocalCities-Tamins",
+        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381"
+      }
+    ]
+  },
+  "alpinwanderkursindertektonikarenasardona_2026-06-28": {
+    "id": 1779567488467,
+    "title": "Alpinwanderkurs in der Tektonikarena Sardona",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
+    "date": "2026-06-28",
+    "time": "Siehe Beschreibung",
+    "locationName": "Tamins",
+    "municipality": "Tamins",
+    "lat": 46.8298784,
+    "lng": 9.4068316,
+    "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
+    "sources": [
+      {
+        "name": "LocalCities-Tamins",
+        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381"
+      }
+    ]
+  },
+  "landifest2026landquart_2026-05-30": {
+    "id": 1779569149421,
+    "title": "LANDI Fest 2026 Landquart",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Am 30. Mai 2026 wird gefeiert, getanzt und mitgesungen! Freut euch auf ein mega Line-up: Diana live Die Grubertaler DJ Edelweiss",
+    "date": "2026-05-30",
+    "time": "Siehe Beschreibung",
+    "locationName": "LANDI Landquart",
+    "municipality": "Landquart",
+    "lat": 46.9556028,
+    "lng": 9.5614868,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4704727?eventDateTime=30.05.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4704727?eventDateTime=30.05.2026"
+      }
+    ]
+  },
+  "kayayanarhoeruf_2026-09-05": {
+    "id": 1779569150637,
+    "title": "KAYA YANAR HÖR UF!",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "[ALWAYS_EXPANDED]Hier ist er, der langersehnte zweite Teil des überaus erfolgreichen Bühnenprogramms „Reiz der Schweiz“.",
+    "date": "2026-09-05",
+    "time": "20:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4452411?eventDateTime=05.09.2026%20%2015:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4452411?eventDateTime=05.09.2026%20%2015:00"
+      }
+    ],
+    "ticketUrl": "https://www.ticketcorner.ch/artist/kaya-yanar/kaya-yanar-hoer-uf-3336619/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
+  },
+  "grueeziitalia_2026-09-12": {
+    "id": 1779569151552,
+    "title": "Grüezi Italia",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "La Dolce Vita",
+    "date": "2026-09-12",
+    "time": "Siehe Beschreibung",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "CHF 59.00",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993"
+      }
+    ]
+  },
+  "schwiizergoofe_2026-09-20": {
+    "id": 1779569152490,
+    "title": "Schwiizergoofe",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Die Schwiizergoofe starten mit einer ganz neuen Geschichte, ihren grössten Hits und einer riesigen Bühnenshow in die neue Saison.",
+    "date": "2026-09-20",
+    "time": "16:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4659285?eventDateTime=20.09.2026%20%2012:30",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4659285?eventDateTime=20.09.2026%20%2012:30"
+      }
+    ],
+    "ticketUrl": "https://www.awin1.com/pclick.php?p=43634576959&amp;a=1359901&amp;m=23183"
+  },
+  "loredanakilianwarumistsieerso_2026-10-23": {
+    "id": 1779569153683,
+    "title": "Loredana & Kilian - Warum ist SIE/ER so?",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Als «Saturday.and.Sunday» begeistern Loredana und Kilian mehrere Hunderttausend Zuschauer:innen auf Social Media.",
+    "date": "2026-10-23",
+    "time": "20:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4398659?eventDateTime=23.10.2026%20%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4398659?eventDateTime=23.10.2026%20%2020:00"
+      }
+    ],
+    "ticketUrl": "https://www.ticketcorner.ch/artist/loredana-kilian/loredana-kilian-3731592/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
+  },
+  "oropaxzweiwiekeinanderer_2026-11-20": {
+    "id": 1779569154650,
+    "title": "Oropax - Zwei wie kein anderer",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Diese ämäzing OROPAX-Show ist alles - ausser irdisch!",
+    "date": "2026-11-20",
+    "time": "20:00 - 22:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4680885?eventDateTime=20.11.2026%20%2020:00%20-%2022:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4680885?eventDateTime=20.11.2026%20%2020:00%20-%2022:00"
+      }
+    ],
+    "organizerUrl": "https://www.oropax.de/shows/zwei-wie-kein-anderer",
+    "ticketUrl": "https://www.ticketcorner.ch/event/chaos-theater-oropax-oropax-zwei-wie-kein-anderer-forum-landquart-20946539/"
+  },
+  "schellenursli_2026-12-13": {
+    "id": 1779569156160,
+    "title": "Schellen-Ursli",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Schellen-Ursli\nEin Musical für Klein und Gross\n\n«Hoch oben in den Bergen, weit von hier, da wohnt ein Büblein so wie ihr.",
+    "date": "2026-12-13",
+    "time": "14:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4777219?eventDateTime=13.12.2026%20%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4777219?eventDateTime=13.12.2026%20%2014:00"
+      }
+    ],
+    "ticketUrl": "https://www.ticketcorner.ch/artist/schellen-ursli/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
+  },
+  "itschristmastime_2026-12-17": {
+    "id": 1779569156991,
+    "title": "It's Christmas Time",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Vertraut und berührend wie immer - lassen Sie sich vom Christoph Walter Orchestra begeistern.",
+    "date": "2026-12-17",
+    "time": "19:30 - 22:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4737309?eventDateTime=17.12.2026%20%2019:30%20-%2022:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4737309?eventDateTime=17.12.2026%20%2019:30%20-%2022:00"
+      }
+    ],
+    "organizerUrl": "https://www.christophwalter.ch/",
+    "ticketUrl": "https://eventfrog.ch/de/p/konzerte/weitere-musikrichtungen/it-s-christmas-time-landquart-7420527085200911388.html"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "name": "veranstalt",
+  "version": "1.0.0",
+  "description": "Event-Dashboard für die Region Chur",
+  "scripts": {
+    "scrape": "node scrape-events.js",
+    "dev": "npx -y http-server -p 8080"
+  },
+  "private": true
+}

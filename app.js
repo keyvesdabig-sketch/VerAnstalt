@@ -453,7 +453,13 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       </div>
       <div class="modal-event-body">
-        <p class="modal-event-description">${event.description}</p>
+        ${(event.organizerUrl || event.ticketUrl) ? `
+        <div class="modal-action-links">
+          ${event.organizerUrl ? `<a href="${event.organizerUrl}" target="_blank" rel="noopener noreferrer" class="action-link-btn primary"><i data-lucide="globe"></i><span>Zur offiziellen Website</span></a>` : ''}
+          ${event.ticketUrl ? `<a href="${event.ticketUrl}" target="_blank" rel="noopener noreferrer" class="action-link-btn ticket"><i data-lucide="ticket"></i><span>Tickets kaufen</span></a>` : ''}
+        </div>
+        ` : ''}
+        <p class="modal-event-description ${(!event.description || event.description === 'Keine Beschreibung verfügbar.') ? 'empty' : ''}">${event.description || 'Keine Beschreibung verfügbar.'}</p>
         
         <div class="modal-details-grid">
           <div class="modal-detail-item">
@@ -579,6 +585,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const lat = parseFloat(document.getElementById('event-lat').value);
     const lng = parseFloat(document.getElementById('event-lng').value);
     const imageInput = document.getElementById('event-image').value;
+    const organizerUrl = document.getElementById('event-website').value;
+    const ticketUrl = document.getElementById('event-ticket-url').value;
 
     if (!lat || !lng) {
       alert('Bitte wähle zuerst einen geografischen Standort auf der Karte aus.');
@@ -599,7 +607,9 @@ document.addEventListener('DOMContentLoaded', () => {
       lat,
       lng,
       price,
-      image: imageInput || FALLBACK_IMAGES[category]
+      image: imageInput || FALLBACK_IMAGES[category],
+      organizerUrl: organizerUrl || null,
+      ticketUrl: ticketUrl || null
     };
 
     // Save custom events to localStorage

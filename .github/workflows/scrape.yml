@@ -1,0 +1,29 @@
+name: Daily Event Scrape
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC = 08:00 CH
+  workflow_dispatch: {}   # Manueller Trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Firecrawl CLI
+        run: npm install -g firecrawl
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+      - name: Run Scraper
+        run: node scrape-events.js
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+      - name: Commit & Push Updated Data
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add scraped-events.json events-database.json scrape-log.json
+          git diff --staged --quiet || git commit -m "chore: daily event scrape $(date -u +%Y-%m-%d)"
+          git push

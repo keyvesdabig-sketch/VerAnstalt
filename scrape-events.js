@@ -12,6 +12,7 @@ const { exec } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const http = require('http');
 
 // --- Konfiguration ---
 const DB_FILE = path.join(__dirname, 'events-database.json').replace(/\\/g, '/');
@@ -231,6 +232,96 @@ function detectMunicipality(rawEvent, defaultMunicipality) {
 // Timeout Helper für Rate-Limiting
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// Helper-Funktion zum Holen von Detailinformationen (Original-Website, Ticket-Link, vollständige Beschreibung)
+async function fetchEventDetails(sourceUrl) {
+  return new Promise((resolve) => {
+    const lib = sourceUrl.startsWith('https') ? https : http;
+    lib.get(sourceUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+      // Follow redirects
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        let loc = res.headers.location;
+        if (loc.startsWith('/')) loc = new URL(sourceUrl).origin + loc;
+        return fetchEventDetails(loc).then(resolve);
+      }
+      
+      if (res.statusCode !== 200) {
+        return resolve(null);
+      }
+
+      let body = '';
+      res.on('data', chunk => body += chunk);
+      res.on('end', () => {
+        let organizerUrl = null;
+        let ticketUrl = null;
+        let description = null;
+        const html = body;
+
+        // Hilfsfunktion zum Dekodieren von HTML Entities
+        const decodeHtml = (html) => {
+          return html.replace(/&uuml;/g, 'ü').replace(/&Uuml;/g, 'Ü')
+                     .replace(/&auml;/g, 'ä').replace(/&Auml;/g, 'Ä')
+                     .replace(/&ouml;/g, 'ö').replace(/&Ouml;/g, 'Ö')
+                     .replace(/&quot;/g, '"').replace(/&#039;/g, "'")
+                     .replace(/&amp;/g, '&').replace(/&szlig;/g, 'ß')
+                     .replace(/<[^>]+>/g, '') // strip HTML tags
+                     .trim();
+        };
+
+        if (sourceUrl.includes('localcities.ch')) {
+          // LocalCities Patterns
+          const wsMatch = html.match(/href="([^"]+)"[^>]*data-trackid="event\.detail\.website"/i) || 
+                          html.match(/data-trackid="event\.detail\.website"[^>]*href="([^"]+)"/i);
+          if (wsMatch) organizerUrl = wsMatch[1];
+
+          const tkMatch = html.match(/href="([^"]+)"[^>]*data-testid="event-ticket-buy"/i) || 
+                          html.match(/data-testid="event-ticket-buy"[^>]*href="([^"]+)"/i);
+          if (tkMatch) ticketUrl = tkMatch[1];
+
+          const descMatch = html.match(/<meta[^>]*property="og:description"[^>]*content="([^"]+)"/i) ||
+                            html.match(/<meta[^>]*content="([^"]+)"[^>]*property="og:description"/i);
+          if (descMatch) description = decodeHtml(descMatch[1]);
+        } else {
+          // Chur-Kultur (oder Fallback) Patterns
+          const descMatch = html.match(/itemprop="description"[^>]*>([\s\S]*?)(?=<\/div>|<\/p>|<\/span>)/i);
+          if (descMatch) {
+            description = decodeHtml(descMatch[1]);
+          } else {
+            const ogDescMatch = html.match(/<meta[^>]*property="og:description"[^>]*content="([^"]+)"/i) ||
+                                html.match(/<meta[^>]*content="([^"]+)"[^>]*property="og:description"/i);
+            if (ogDescMatch) description = decodeHtml(ogDescMatch[1]);
+          }
+
+          const hrefRegex = /<a\s+[^>]*href="(https?:\/\/[^"]+)"[^>]*>/gi;
+          let m;
+          while ((m = hrefRegex.exec(html)) !== null) {
+            const link = m[1];
+            if (!link.includes('chur-kultur.ch') && !link.includes('guidle.com') && 
+                !link.includes('facebook.com') && !link.includes('twitter.com') &&
+                !link.includes('instagram.com') && !link.includes('google.com') &&
+                !link.includes('youtube.com') && !link.includes('linkedin.com') &&
+                !link.includes('localsearch.ch') && !link.includes('search.ch') &&
+                !link.includes('apple.com') && !link.includes('mozilla.org') &&
+                !link.includes('opera.com') && !link.includes('microsoft.com') &&
+                !link.includes('unpkg.com') && !link.includes('cdnjs.') &&
+                !link.includes('fonts.googleapis') && !link.includes('cookiebot') &&
+                !link.includes('cloudflare') && !link.includes('jsdelivr') &&
+                !link.includes('openstreetmap') && !link.includes('carto.com')) {
+              
+              if (link.toLowerCase().includes('ticket') || link.includes('shop.')) {
+                if (!ticketUrl) ticketUrl = link;
+              } else {
+                if (!organizerUrl) organizerUrl = link;
+              }
+            }
+          }
+        }
+        
+        resolve({ organizerUrl, ticketUrl, description });
+      });
+    }).on('error', err => resolve(null));
+  });
+}
+
 // Helper-Funktion zum Ausführen des Scrapers für eine Quelle
 function runScraperForSource(source) {
   return new Promise((resolve) => {
@@ -442,6 +533,38 @@ async function main() {
   console.log(`🧹 Bereinigung: ${cleanedCount} abgelaufene Events entfernt.`);
   console.log(`📈 Gesamtstatistik dieses Laufs: ${newEventsAdded} neue Events hinzugefügt, ${eventsUpdated} aktualisiert.`);
   
+  // 4.5. Enrichment: Fehlende Detailinformationen nachladen
+  let eventsEnriched = 0;
+  let enrichmentErrors = 0;
+  const finalEventKeys = Object.keys(finalDatabase);
+  console.log(`🔍 Starte Detail-Enrichment (Rate-Limit 500ms)...`);
+  for (const key of finalEventKeys) {
+    const event = finalDatabase[key];
+    const needsEnrichment = !event.organizerUrl && (!event.description || event.description === 'Keine Beschreibung verfügbar.');
+    
+    if (needsEnrichment && event.sources && event.sources.length > 0) {
+      // Bevorzuge LocalCities, wenn vorhanden
+      let bestUrl = event.sources.find(s => s.name.startsWith('LocalCities'))?.url;
+      if (!bestUrl) bestUrl = event.sources[0]?.url;
+      
+      if (bestUrl) {
+        console.log(`  Lade Details für: "${event.title.substring(0,40)}..."`);
+        const details = await fetchEventDetails(bestUrl);
+        if (details) {
+          if (details.organizerUrl) event.organizerUrl = details.organizerUrl;
+          if (details.ticketUrl) event.ticketUrl = details.ticketUrl;
+          if (details.description && details.description.length > 20) {
+            event.description = details.description;
+          }
+          eventsEnriched++;
+        } else {
+          enrichmentErrors++;
+        }
+        await sleep(500); // Rate-Limiting
+      }
+    }
+  }
+  
   // 5. Speicher Datenbank & Frontend-JSON
   const eventList = Object.values(finalDatabase);
   
@@ -454,6 +577,18 @@ async function main() {
   fs.writeFileSync(FRONTEND_FILE, JSON.stringify(eventList, null, 2), 'utf8');
   console.log(`🌐 scraped-events.json für das Frontend gespeichert.`);
   
+  const logData = {
+    timestamp: new Date().toISOString(),
+    eventsTotal: eventList.length,
+    eventsNew: newEventsAdded,
+    eventsUpdated: eventsUpdated,
+    eventsEnriched: eventsEnriched,
+    enrichmentErrors: enrichmentErrors,
+    eventsCleaned: cleanedCount
+  };
+  fs.writeFileSync(path.join(__dirname, 'scrape-log.json'), JSON.stringify(logData, null, 2), 'utf8');
+  console.log(`📝 Log gespeichert: ${eventsEnriched} Events angereichert.`);
+
   console.log('🎉 Scraping- und Integrationsprozess erfolgreich abgeschlossen!');
 }
 
