@@ -1,5 +1,10 @@
 /**
- * One-shot Backfill: bereinigt das image-Feld in scraped-events.json
+ * Backfill: bereinigt das image-Feld in scraped-events.json (+ events-database.json).
+ *
+ * Idempotent — kann jederzeit erneut ausgeführt werden. Der Live-Scraper
+ * (src/scrape-events.js) nutzt dieselben Helpers aus src/lib/image-clean.js,
+ * dieses Script ist also primär für manuelle Re-Cleanups (z.B. nach Anpassung
+ * der Blocklist oder zum Backfill alter DB-Rows ohne Re-Scrape).
  *
  * - Wirft UI-Chrome-/Platzhalter-Bilder raus (Blocklist)
  * - Upgradet Guidle-ImageKit-Thumbnails auf eine brauchbare Grösse
@@ -14,42 +19,19 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 const http = require('http');
+const {
+  isValidEventImage,
+  upgradeImageUrl,
+  sanitizeImage,
+  decodeHtmlUrl,
+  matchOgImage,
+} = require('../src/lib/image-clean');
 
 const FRONTEND_FILE = path.join(__dirname, '..', 'public', 'scraped-events.json');
 const DB_FILE = path.join(__dirname, '..', 'data', 'events-database.json');
 const FETCH_OG_IMAGE = !process.argv.includes('--no-fetch');
 const REQUEST_DELAY_MS = 400;
 const MAX_REDIRECTS = 4;
-
-const IMAGE_BLOCKLIST_PATTERNS = [
-  /localcities\.ch\/build\/images\//i,
-  /\/build\/images\/(mask|rough-border|placeholder|skeleton|logo|icon)\b/i,
-  /chur-kultur\.ch\/.*?(logo|placeholder|sprite|icon)/i,
-  /\bdata:image\/svg/i,
-  /\.(svg)(\?|$)/i,
-  /\/(favicon|apple-touch-icon|sprite|logo|placeholder)\b/i,
-  /\b1x1\b|pixel\.gif/i,
-];
-
-function isValidEventImage(url) {
-  if (!url || typeof url !== 'string') return false;
-  if (!/^https?:\/\//i.test(url)) return false;
-  if (url.length < 20 || url.length > 1024) return false;
-  return !IMAGE_BLOCKLIST_PATTERNS.some(re => re.test(url));
-}
-
-function upgradeImageUrl(url) {
-  if (!url || typeof url !== 'string') return url;
-  return url.replace(
-    /(imagekit\.io\/guidle\/)tr:n-(?:small|medium|large|tiny|thumb)\//i,
-    '$1tr:w-1200,h-800,dpr-1/'
-  );
-}
-
-function sanitizeImage(url) {
-  if (!isValidEventImage(url)) return '';
-  return upgradeImageUrl(url);
-}
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
@@ -75,13 +57,13 @@ function fetchOgImage(targetUrl, redirectsLeft = MAX_REDIRECTS) {
         if (body.length > 500_000) {
           // Body zu gross — abbrechen, mit bisherigem Buffer parsen.
           res.destroy();
-          const m = matchOg(body);
-          done(m ? decodeUrlEntities(m) : null);
+          const m = matchOgImage(body);
+          done(m ? decodeHtmlUrl(m) : null);
         }
       });
       res.on('end', () => {
-        const m = matchOg(body);
-        done(m ? decodeUrlEntities(m) : null);
+        const m = matchOgImage(body);
+        done(m ? decodeHtmlUrl(m) : null);
       });
       res.on('error', () => done(null));
       res.on('close', () => done(null));
@@ -89,22 +71,6 @@ function fetchOgImage(targetUrl, redirectsLeft = MAX_REDIRECTS) {
     req.on('error', () => resolve(null));
     req.setTimeout(15000, () => { req.destroy(); resolve(null); });
   });
-}
-
-function matchOg(body) {
-  const m =
-    body.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
-    body.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
-    body.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i) ||
-    body.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
-  return m ? m[1] : null;
-}
-
-function decodeUrlEntities(s) {
-  return s
-    .replace(/&amp;/g, '&')
-    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
-    .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
 }
 
 (async () => {

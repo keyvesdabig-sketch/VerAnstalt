@@ -827,9 +827,11 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // New event object
+    // New event object — id wird zuerst belegt, damit pickFallback denselben
+    // Schlüssel wie der Render-Pfad sieht und das Bild stabil bleibt.
+    const eventId = Date.now();
     const newEvent = {
-      id: Date.now(), // Generate simple unique ID
+      id: eventId,
       title,
       category,
       categoryLabel: getCategoryLabel(category),
@@ -841,7 +843,7 @@ document.addEventListener('DOMContentLoaded', () => {
       lat,
       lng,
       price,
-      image: imageInput || pickFallback(category, Date.now()),
+      image: imageInput || pickFallback(category, eventId),
       organizerUrl: organizerUrl || null,
       ticketUrl: ticketUrl || null
     };
@@ -1306,7 +1308,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function renderImportEventCard(result, listIndex) {
     const ev = result.event;
-    const img = ev.imageUrl || pickFallback(ev.category, ev.title || listIndex);
+    const fallback = pickFallback(ev.category, ev.title || listIndex);
+    const img = ev.imageUrl || fallback;
     let geoBadge = '';
     if (result.geoStatus === 'pending') {
       geoBadge = '<span class="import-event-badge geo-pending">⏳ Geocoding läuft</span>';
@@ -1328,7 +1331,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <input type="checkbox" class="import-event-checkbox" ${result.isSelected !== false ? 'checked' : ''}
                data-action="toggle" />
         <img class="import-event-image" src="${escapeHtml(img)}" alt="${escapeHtml(ev.title)}"
-             onerror="this.src='${escapeHtml(FALLBACK_IMAGES[ev.category] || FALLBACK_IMAGES.default || '')}'" />
+             onerror="this.onerror=null;this.src='${escapeHtml(fallback)}'" />
         <div class="import-event-body">
           <p class="import-event-title">${escapeHtml(ev.title)}</p>
           <div class="import-event-meta">
@@ -1799,12 +1802,13 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function renderReviewEventCard(ev) {
-    const img = ev.image || pickFallback(ev.category, ev.id || ev.title);
+    const fallback = pickFallback(ev.category, ev.id || ev.title);
+    const img = ev.image || fallback;
     return `
       <div class="import-event-card" data-event-id="${escapeHtml(ev.id)}">
         <span></span>
         <img class="import-event-image" src="${escapeHtml(img)}" alt="${escapeHtml(ev.title)}"
-             onerror="this.src='${escapeHtml(FALLBACK_IMAGES[ev.category] || '')}'" />
+             onerror="this.onerror=null;this.src='${escapeHtml(fallback)}'" />
         <div class="import-event-body">
           <p class="import-event-title">${escapeHtml(ev.title)}</p>
           <div class="import-event-meta">

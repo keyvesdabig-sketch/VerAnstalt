@@ -87,43 +87,8 @@ const VENUE_COORDINATES = {
 
 // --- Hilfsfunktionen ---
 
-// --- Image cleanup helpers ---
-// Patterns that match decorative page chrome, placeholders, tracking pixels,
-// social-network share icons — anything that is clearly NOT an event photo.
-const IMAGE_BLOCKLIST_PATTERNS = [
-  /localcities\.ch\/build\/images\//i,           // mask-top, rough-border, etc.
-  /\/build\/images\/(mask|rough-border|placeholder|skeleton|logo|icon)\b/i,
-  /chur-kultur\.ch\/.*?(logo|placeholder|sprite|icon)/i,
-  /\bdata:image\/svg/i,                          // inline SVG placeholders
-  /\.(svg)(\?|$)/i,                              // SVG = almost certainly chrome
-  /\/(favicon|apple-touch-icon|sprite|logo|placeholder)\b/i,
-  /\b1x1\b|pixel\.gif/i,                         // tracking pixels
-];
-
-function isValidEventImage(url) {
-  if (!url || typeof url !== 'string') return false;
-  if (!/^https?:\/\//i.test(url)) return false;
-  if (url.length < 20 || url.length > 1024) return false;
-  return !IMAGE_BLOCKLIST_PATTERNS.some(re => re.test(url));
-}
-
-// Upgrade Guidle ImageKit thumbnails (tr:n-small ≈ 80px, tr:n-medium ≈ 400px)
-// to a usable size by rewriting the tr:n-{size} segment.
-function upgradeImageUrl(url) {
-  if (!url || typeof url !== 'string') return url;
-  // imagekit.io/guidle/tr:n-{small|medium|large|...}/...  → ../tr:w-1200,h-800,dpr-1/...
-  return url.replace(
-    /(imagekit\.io\/guidle\/)tr:n-(?:small|medium|large|tiny|thumb)\//i,
-    '$1tr:w-1200,h-800,dpr-1/'
-  );
-}
-
-// Single entry point — sanitize an image URL coming from the scraper.
-// Returns a cleaned URL or '' if the input is unusable.
-function sanitizeImage(url) {
-  if (!isValidEventImage(url)) return '';
-  return upgradeImageUrl(url);
-}
+// Image-Helpers leben in src/lib/image-clean.js (gemeinsam mit dem Backfill-Script).
+const { sanitizeImage, decodeHtmlUrl, matchOgImage } = require('./lib/image-clean');
 
 // Text normalisieren für Keys
 function normalizeText(text) {
@@ -306,19 +271,9 @@ async function fetchEventDetails(sourceUrl) {
                      .trim();
         };
 
-        // URL-Variante: dekodiert &amp;/&#x...; ohne HTML-Tags zu strippen.
-        const decodeHtmlUrl = (s) => s
-          .replace(/&amp;/g, '&')
-          .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))
-          .replace(/&#(\d+);/g, (_, d) => String.fromCharCode(parseInt(d, 10)));
-
-        // og:image / twitter:image — content="..." can be on either side of the property attribute
-        const ogImgMatch =
-          html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
-          html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
-          html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i) ||
-          html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
-        if (ogImgMatch) ogImage = sanitizeImage(decodeHtmlUrl(ogImgMatch[1]));
+        // og:image / twitter:image (via src/lib/image-clean.js)
+        const ogRaw = matchOgImage(html);
+        if (ogRaw) ogImage = sanitizeImage(decodeHtmlUrl(ogRaw));
 
         if (sourceUrl.includes('localcities.ch')) {
           // LocalCities Patterns

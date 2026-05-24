@@ -5,7 +5,8 @@
   "scripts": {
     "scrape": "node src/scrape-events.js",
     "scrape:social": "node src/scrape-social.js",
-    "dev": "npx -y http-server public -p 8080"
+    "dev": "npx -y http-server public -p 8080",
+    "test": "node --test \"test/**/*.test.js\""
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
