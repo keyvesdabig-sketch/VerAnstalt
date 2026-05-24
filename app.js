@@ -1226,4 +1226,66 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   });
+
+  // --- Import Feature: Commit selected events ---
+
+  function buildEventFromImport(raw) {
+    return {
+      id: Date.now() + Math.floor(Math.random() * 10000),
+      title: raw.title,
+      category: raw.category,
+      categoryLabel: getCategoryLabel(raw.category),
+      municipality: raw.municipality,
+      description: raw.description,
+      date: raw.date,
+      time: raw.time || '',
+      locationName: raw.locationName,
+      lat: raw.lat,
+      lng: raw.lng,
+      price: 'Eintritt frei', // not in import schema; default
+      image: raw.imageUrl || FALLBACK_IMAGES[raw.category],
+      organizerUrl: raw.organizerUrl || null,
+      ticketUrl: raw.ticketUrl || null,
+      source: 'import',
+      sources: [{ name: raw.sourcePlatform, url: raw.sourceUrl }],
+      locationApproximated: !!raw.locationApproximated
+    };
+  }
+
+  function commitImport() {
+    const toImport = importValidResults
+      .filter(r => r.isSelected !== false)
+      .map(r => buildEventFromImport(r.event));
+
+    if (toImport.length === 0) {
+      alert('Keine Events ausgewählt.');
+      return;
+    }
+
+    // Persist to localStorage (same key as manual Add-Event flow)
+    const saved = localStorage.getItem('chur_events_custom');
+    let customEvents = [];
+    if (saved) {
+      try { customEvents = JSON.parse(saved); } catch { customEvents = []; }
+    }
+    customEvents.push(...toImport);
+    try {
+      localStorage.setItem('chur_events_custom', JSON.stringify(customEvents));
+    } catch (err) {
+      alert('Speicher voll — bitte alte Events löschen und erneut versuchen.\n\n' + err.message);
+      return;
+    }
+
+    // Add to in-memory state
+    events.unshift(...toImport);
+
+    // Refresh UI
+    filterEvents();
+
+    // Close modal, reset state
+    importModal.classList.add('hidden');
+    importValidResults = [];
+
+    alert(`${toImport.length} Events importiert.`);
+  }
 });
