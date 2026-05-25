@@ -2138,10 +2138,14 @@ document.addEventListener('DOMContentLoaded', () => {
       console.log('[photo-extract] Gefundene Events:', eventsExtracted);
       if (eventsExtracted.length === 0) {
         photoScanStatus.textContent = '⚠ Kein Event erkannt — Felder bitte manuell ausfüllen.';
-      } else if (eventsExtracted.length === 1) {
-        photoScanStatus.textContent = `✓ 1 Event erkannt. (Formular-Befüllung folgt im nächsten Schritt.)`;
+        return;
+      }
+      // MVP: erstes Event ins Formular, weitere bleiben in der Konsole sichtbar
+      fillAddFormFromExtractedEvent(eventsExtracted[0]);
+      if (eventsExtracted.length === 1) {
+        photoScanStatus.textContent = '✓ Felder vorausgefüllt — bitte prüfen, Standort auf Karte feinjustieren, dann speichern.';
       } else {
-        photoScanStatus.textContent = `✓ ${eventsExtracted.length} Events erkannt. (Auswahl folgt im nächsten Schritt.)`;
+        photoScanStatus.textContent = `✓ Felder mit dem ersten von ${eventsExtracted.length} Events befüllt. Weitere bitte einzeln nachtragen (Konsole zeigt alle).`;
       }
     } catch (err) {
       lastExtractedEvents = null;
@@ -2152,6 +2156,40 @@ document.addEventListener('DOMContentLoaded', () => {
       btnPhotoExtract.disabled = false;
     }
   });
+
+  /**
+   * Befüllt das Add-Event-Form mit einem extrahierten Event.
+   * Coordinaten kommen aus dem Gemeinde-Zentrum (REGION_CENTERS),
+   * weil OCR keine Geo-Daten liefert — User soll danach „Auf Karte wählen".
+   */
+  function fillAddFormFromExtractedEvent(ev) {
+    if (!ev || typeof ev !== 'object') return;
+    const setVal = (id, v) => {
+      const el = document.getElementById(id);
+      if (el && v != null && v !== '') el.value = v;
+    };
+    setVal('event-title', ev.title);
+    if (ev.category && CATEGORY_IDS.includes(ev.category)) setVal('event-category', ev.category);
+    setVal('event-price', ev.price);
+    if (ev.municipality && MUNICIPALITIES.includes(ev.municipality)) setVal('event-municipality', ev.municipality);
+    setVal('event-date', ev.date);
+    setVal('event-time', ev.time);
+    setVal('event-location-name', ev.locationName);
+    setVal('event-website', ev.organizerUrl);
+    setVal('event-ticket-url', ev.ticketUrl);
+    const descEl = document.getElementById('event-description');
+    if (descEl && ev.description) descEl.value = ev.description;
+
+    // Fallback-Koordinaten: Gemeinde-Zentrum. User soll danach feinjustieren.
+    const center = ev.municipality && REGION_CENTERS[ev.municipality];
+    if (center) {
+      setVal('event-lat', center.lat);
+      setVal('event-lng', center.lng);
+      if (typeof map !== 'undefined' && map) {
+        map.setView([center.lat, center.lng], center.zoom || 14);
+      }
+    }
+  }
 
   // --- Review Modal ---
 
