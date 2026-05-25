@@ -9,7 +9,12 @@
  */
 (function () {
   if (typeof window === 'undefined') return;
-  if (document.body.dataset.reviewer !== 'true') return;
+  // Reviewer-Check direkt aus localStorage — body[data-reviewer] wird
+  // erst in app.js' DOMContentLoaded-Handler gesetzt, der nach den
+  // defer-Scripts läuft (Timing-Race sonst).
+  let isReviewer = false;
+  try { isReviewer = localStorage.getItem('chur_events_reviewer') === '1'; } catch (_) {}
+  if (!isReviewer) return;
 
   const drawer = document.getElementById('admin-drawer');
   const backdrop = document.getElementById('admin-drawer-backdrop');

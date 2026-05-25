@@ -8,7 +8,10 @@
  */
 (function () {
   if (typeof window === 'undefined') return;
-  if (document.body.dataset.reviewer !== 'true') return;
+  // Reviewer-Check direkt aus localStorage (siehe admin-drawer.js für Begründung)
+  let isReviewer = false;
+  try { isReviewer = localStorage.getItem('chur_events_reviewer') === '1'; } catch (_) {}
+  if (!isReviewer) return;
 
   const modal = document.getElementById('admin-db-modal');
   const closeBtn = document.getElementById('admin-db-modal-close');
