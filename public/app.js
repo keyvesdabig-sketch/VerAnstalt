@@ -243,6 +243,8 @@ document.addEventListener('DOMContentLoaded', () => {
       if (window.AdminDatabase) {
         window.AdminDatabase.rawScraped = scrapedEvents.slice();
       }
+      // One-shot Migration: lokale Custom-Events nach curated.json pushen
+      maybeMigrateLocalCustoms();
     } catch (e) {
       console.warn('⚠️ scraped-events.json nicht gefunden oder blockiert. Verwende statische Fallback-Daten.', e.message);
       // Fallback auf statische Initial-Events aus events-data.js
@@ -2015,6 +2017,72 @@ document.addEventListener('DOMContentLoaded', () => {
   function isReviewer() {
     try { return localStorage.getItem(REVIEWER_KEY) === '1'; }
     catch (_) { return false; }
+  }
+
+  // --- One-shot Migration: lokale Custom-Events nach curated-events.json pushen ---
+  const MIGRATION_KEY = 'chur_events_migration_v1';
+
+  async function maybeMigrateLocalCustoms() {
+    if (!isReviewer()) return;
+    try {
+      if (localStorage.getItem(MIGRATION_KEY)) return; // schon erledigt
+    } catch (_) { return; }
+
+    let local;
+    try { local = JSON.parse(localStorage.getItem('chur_events_custom') || '[]'); }
+    catch (_) { local = []; }
+
+    if (!Array.isArray(local) || local.length === 0) {
+      try { localStorage.setItem(MIGRATION_KEY, new Date().toISOString()); } catch (_) {}
+      return;
+    }
+
+    // Filter: nur Events, die NICHT schon in curated sind (id-Match)
+    const curatedIds = new Set(curatedState.events.map(e => e.id));
+    const toMigrate = local.filter(e => e && !curatedIds.has(e.id));
+    if (toMigrate.length === 0) {
+      try { localStorage.setItem(MIGRATION_KEY, new Date().toISOString()); } catch (_) {}
+      return;
+    }
+
+    const ok = confirm(
+      `Du hast ${toMigrate.length} lokale Custom-Events in diesem Browser, ` +
+      `die noch nicht im Repo liegen. Jetzt auf den Server pushen, damit alle ` +
+      `Besucher sie sehen? (Braucht einen gültigen GitHub-PAT in Settings.)`
+    );
+    if (!ok) {
+      // User entscheidet sich dagegen — nicht erneut fragen
+      try { localStorage.setItem(MIGRATION_KEY, 'declined-' + new Date().toISOString()); } catch (_) {}
+      return;
+    }
+
+    let migrated = 0;
+    let failed = 0;
+    for (const ev of toMigrate) {
+      try {
+        curatedState = await window.AdminShared.appendToCurated(curatedState, ev, { origin: 'migration' });
+        migrated++;
+      } catch (err) {
+        console.error('[migration] fehlgeschlagen für', ev.title, err);
+        failed++;
+        if (failed >= 3) {
+          alert(`Migration abgebrochen nach 3 Fehlern. Bisher ${migrated} migriert.`);
+          return;
+        }
+      }
+    }
+
+    // Lokale Liste leeren (commit war erfolgreich für die, die gemacht wurden)
+    try {
+      const successfullyMigrated = new Set(toMigrate.slice(0, migrated).map(e => e.id));
+      const remaining = local.filter(e => !successfullyMigrated.has(e.id));
+      localStorage.setItem('chur_events_custom', JSON.stringify(remaining));
+      customEvents = remaining; // outer-scope-Variable mit-aktualisieren
+      localStorage.setItem(MIGRATION_KEY, new Date().toISOString());
+    } catch (_) {}
+
+    alert(`✓ ${migrated} Events nach curated-events.json migriert${failed ? ' (' + failed + ' fehlgeschlagen)' : ''}. ` +
+          `Live in ~30 s sichtbar.`);
   }
 
   // CSS-Hook: schaltet alle .admin-only-Elemente sichtbar (Karten-Footer etc.)
