@@ -23,6 +23,7 @@ jobs:
         run: node src/scrape-events.js
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - name: Commit & Push Updated Data
         run: |
           git config user.name "GitHub Actions Bot"

@@ -50,15 +50,17 @@ const SOURCES = [
   },
   ...MUNICIPALITIES.map(m => ({
     name: `LocalCities-${m.name}`,
+    kind: 'gemini',
     url: `https://www.localcities.ch/de/veranstaltungen/${m.slug}/${m.id}`,
     municipality: m.name,
-    prompt: `Extrahiere alle echten Veranstaltungen von der Seite. Stelle sicher, dass der Titel ('title') der tatsächliche Name des Events ist und NICHT das Datum oder Wochentag. Der Ort ('locationName') ist der Veranstaltungsort (z.B. 'Gemeindehaus', 'Sportplatz' oder ein anderer lokaler Ort in ${m.name}) und darf nicht leer oder ein Punkt sein.`
+    prompt: `Extrahiere alle echten Veranstaltungen aus der HTML-Liste. Der Titel ('title') ist der tatsächliche Name des Events (NICHT das Datum, Wochentag, "Heute", "Morgen" oder Kategoriebezeichnung). Der Ort ('locationName') ist der konkrete Veranstaltungsort in ${m.name} (z.B. 'Gemeindehaus', 'Sportplatz', 'Saal Rätia'). Lass weder Titel noch Ort leer oder als '.'.`
   })),
   {
     name: 'Konsum-Cazis',
+    kind: 'gemini',
     url: 'https://konsum-cazis.ch/programm/',
     municipality: 'Cazis',
-    prompt: "Extrahiere alle echten Konzert-Termine vom Programm des Konsum Cazis. Der Titel ('title') ist der Name des Konzerts/Acts (z.B. 'Nguru unplugged & Malenco'), NICHT 'Programm' oder ein Datum. Der Ort ('locationName') ist IMMER 'Konsum Cazis'. Die Gemeinde ('municipality') ist IMMER 'Cazis'. Ignoriere Hinweise auf Sommerpausen oder Saisonenden — nur echte Events."
+    prompt: "Extrahiere alle echten Konzert-Termine aus dem HTML-Programm des Konsum Cazis. Der Titel ('title') ist der Name des Konzerts/Acts (z.B. 'Nguru unplugged & Malenco'), NICHT 'Programm' oder ein Datum. Der Ort ('locationName') ist IMMER 'Konsum Cazis'. Ignoriere Hinweise auf Sommerpausen, Saisonenden oder 'INFOS FOLGEN'-Platzhalter — nur Events mit konkretem Datum."
   },
   {
     name: 'Streaminghall-Handmade-Music',
@@ -115,6 +117,8 @@ const VENUE_COORDINATES = {
 const { sanitizeImage, decodeHtmlUrl, matchOgImage } = require('./lib/image-clean');
 // iCal-Parser für Quellen mit kind: 'ical'
 const { parseICalendar, veventToRawEvent } = require('./lib/ical-parse');
+// Gemini-Extraktion für Quellen mit kind: 'gemini' (Firecrawl-Ersatz)
+const { extractEventsFromUrl: geminiExtractFromUrl } = require('./lib/gemini-extract');
 
 // Text normalisieren für Keys
 function normalizeText(text) {
@@ -385,11 +389,28 @@ async function runIcalScraperForSource(source) {
 }
 
 /**
+ * Holt + extrahiert Events via Gemini (Firecrawl-Ersatz für SSR-Seiten).
+ */
+async function runGeminiScraperForSource(source) {
+  console.log(`🤖 Gemini-Extraktion für "${source.name}"...`);
+  try {
+    const events = await geminiExtractFromUrl(source);
+    console.log(`🔍 ${events.length} Events aus "${source.name}" extrahiert (Gemini).`);
+    return events;
+  } catch (err) {
+    console.error(`❌ Fehler beim Gemini-Scrape "${source.name}": ${err.message}`);
+    return [];
+  }
+}
+
+/**
  * Dispatcher: wählt je nach source.kind den passenden Scraper.
- * Default ist Firecrawl (Backwards-Compat zu bestehenden SOURCES ohne kind).
+ * Default ist Firecrawl (Backwards-Compat — kann aktiviert werden,
+ * sobald wieder Credits da sind).
  */
 function runScraperForSource(source) {
   if (source.kind === 'ical') return runIcalScraperForSource(source);
+  if (source.kind === 'gemini') return runGeminiScraperForSource(source);
   return runFirecrawlForSource(source);
 }
 
