@@ -607,7 +607,7 @@ async function main() {
     enrichmentErrors: enrichmentErrors,
     eventsCleaned: cleanedCount
   };
-  fs.writeFileSync(path.join(__dirname, 'scrape-log.json'), JSON.stringify(logData, null, 2), 'utf8');
+  fs.writeFileSync(path.join(__dirname, '../data/scrape-log.json'), JSON.stringify(logData, null, 2), 'utf8');
   console.log(`📝 Log gespeichert: ${eventsEnriched} Events angereichert.`);
 
   console.log('🎉 Scraping- und Integrationsprozess erfolgreich abgeschlossen!');
