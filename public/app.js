@@ -1331,7 +1331,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <input type="checkbox" class="import-event-checkbox" ${result.isSelected !== false ? 'checked' : ''}
                data-action="toggle" />
         <img class="import-event-image" src="${escapeHtml(img)}" alt="${escapeHtml(ev.title)}"
-             onerror="this.onerror=null;this.src='${escapeHtml(fallback)}'" />
+             onerror="this.onerror=null;this.src=${escapeHtml(JSON.stringify(fallback))}" />
         <div class="import-event-body">
           <p class="import-event-title">${escapeHtml(ev.title)}</p>
           <div class="import-event-meta">
@@ -1808,7 +1808,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="import-event-card" data-event-id="${escapeHtml(ev.id)}">
         <span></span>
         <img class="import-event-image" src="${escapeHtml(img)}" alt="${escapeHtml(ev.title)}"
-             onerror="this.onerror=null;this.src='${escapeHtml(fallback)}'" />
+             onerror="this.onerror=null;this.src=${escapeHtml(JSON.stringify(fallback))}" />
         <div class="import-event-body">
           <p class="import-event-title">${escapeHtml(ev.title)}</p>
           <div class="import-event-meta">
