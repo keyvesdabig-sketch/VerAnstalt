@@ -59,6 +59,13 @@ const SOURCES = [
     url: 'https://konsum-cazis.ch/programm/',
     municipality: 'Cazis',
     prompt: "Extrahiere alle echten Konzert-Termine vom Programm des Konsum Cazis. Der Titel ('title') ist der Name des Konzerts/Acts (z.B. 'Nguru unplugged & Malenco'), NICHT 'Programm' oder ein Datum. Der Ort ('locationName') ist IMMER 'Konsum Cazis'. Die Gemeinde ('municipality') ist IMMER 'Cazis'. Ignoriere Hinweise auf Sommerpausen oder Saisonenden — nur echte Events."
+  },
+  {
+    name: 'Streaminghall-Handmade-Music',
+    kind: 'ical',
+    url: 'https://eventfrog.ch/stream/de/eventgroup/7139388461190957019.ics',
+    municipality: 'Chur',
+    defaultLocation: 'Streaminghall, Grossbruggerweg 3, Chur'
   }
 ];
 
@@ -106,6 +113,8 @@ const VENUE_COORDINATES = {
 
 // Image-Helpers leben in src/lib/image-clean.js (gemeinsam mit dem Backfill-Script).
 const { sanitizeImage, decodeHtmlUrl, matchOgImage } = require('./lib/image-clean');
+// iCal-Parser für Quellen mit kind: 'ical'
+const { parseICalendar, veventToRawEvent } = require('./lib/ical-parse');
 
 // Text normalisieren für Keys
 function normalizeText(text) {
@@ -348,7 +357,43 @@ async function fetchEventDetails(sourceUrl) {
 }
 
 // Helper-Funktion zum Ausführen des Scrapers für eine Quelle
+/**
+ * Holt einen iCal-Feed (z.B. von Eventfrog), parsed ihn und liefert
+ * Roh-Events im selben Schema wie der Firecrawl-Pfad.
+ */
+async function runIcalScraperForSource(source) {
+  console.log(`📅 Lade iCal-Feed für "${source.name}"...`);
+  try {
+    const res = await fetch(source.url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 CalandaKultur-Scraper' }
+    });
+    if (!res.ok) {
+      console.error(`❌ iCal-Fehler ${res.status} für "${source.name}"`);
+      return [];
+    }
+    const text = await res.text();
+    const vevents = parseICalendar(text);
+    console.log(`🔍 ${vevents.length} VEVENTs aus "${source.name}" geparsed.`);
+    return vevents.map(v => veventToRawEvent(v, {
+      municipality: source.municipality,
+      defaultLocation: source.defaultLocation
+    }));
+  } catch (err) {
+    console.error(`❌ Fehler beim iCal-Scrape "${source.name}": ${err.message}`);
+    return [];
+  }
+}
+
+/**
+ * Dispatcher: wählt je nach source.kind den passenden Scraper.
+ * Default ist Firecrawl (Backwards-Compat zu bestehenden SOURCES ohne kind).
+ */
 function runScraperForSource(source) {
+  if (source.kind === 'ical') return runIcalScraperForSource(source);
+  return runFirecrawlForSource(source);
+}
+
+function runFirecrawlForSource(source) {
   return new Promise((resolve) => {
     console.log(`📡 Starte Firecrawl Agenten für "${source.name}"...`);
     const cmd = `firecrawl agent "${source.prompt}" --urls "${source.url}" --schema-file "${SCHEMA_FILE}" --model spark-1-pro --json --pretty --wait`;
