@@ -1960,7 +1960,101 @@ document.addEventListener('DOMContentLoaded', () => {
   const photoScanInput = document.getElementById('photo-scan-input');
   const photoScanPreview = document.getElementById('photo-scan-preview');
   const photoScanStatus = document.getElementById('photo-scan-status');
+  const btnPhotoExtract = document.getElementById('btn-photo-extract');
   let lastPhotoBase64 = null;
+  let lastExtractedEvents = null;
+
+  const MUNICIPALITIES = [
+    'Chur','Domat/Ems','Felsberg','Haldenstein','Trimmis','Untervaz','Zizers',
+    'Tamins','Churwalden','Tschiertschen-Praden','Bonaduz','Rhäzüns',
+    'Malans','Landquart','Thusis'
+  ];
+  const CATEGORY_IDS = ['music','stage','markets','family','sport'];
+
+  // Schema gemäss Gemini REST: type-Strings in UPPERCASE, enum auf STRING-Feldern.
+  const EVENT_EXTRACT_SCHEMA = {
+    type: 'OBJECT',
+    properties: {
+      events: {
+        type: 'ARRAY',
+        items: {
+          type: 'OBJECT',
+          properties: {
+            title: { type: 'STRING', description: 'Veranstaltungstitel' },
+            date: { type: 'STRING', description: 'ISO-Datum YYYY-MM-DD. Wenn nur Tag+Monat angegeben, nimm das nächste Vorkommen ab heute.' },
+            time: { type: 'STRING', description: 'Format HH:MM oder HH:MM - HH:MM. Leer wenn unbekannt.' },
+            locationName: { type: 'STRING', description: 'Veranstaltungsort mit Adresse falls vorhanden' },
+            municipality: { type: 'STRING', enum: MUNICIPALITIES, description: 'Gemeinde aus der Liste. Leer wenn nicht erkennbar.' },
+            category: { type: 'STRING', enum: CATEGORY_IDS, description: 'Beste Kategorie aus der Liste' },
+            description: { type: 'STRING' },
+            price: { type: 'STRING', description: 'z.B. "CHF 20" oder "Eintritt frei"' },
+            organizerUrl: { type: 'STRING' },
+            ticketUrl: { type: 'STRING' }
+          },
+          required: ['title']
+        }
+      }
+    },
+    required: ['events']
+  };
+
+  function buildExtractPrompt() {
+    const todayIso = new Date().toISOString().slice(0, 10);
+    return [
+      'Du bist ein Assistent, der Eventdaten aus Plakat- oder Flyer-Fotos extrahiert.',
+      `Heutiges Datum: ${todayIso}. Region: Alpenrhein/Bündner Rheintal.`,
+      'Aufgabe: Lies das Bild und extrahiere alle erkennbaren Veranstaltungen.',
+      'Wenn das Plakat mehrere Events listet (Konzertreihe, Festivalprogramm), liefere alle als separate Einträge.',
+      'Felder, die du nicht klar erkennen kannst, lasse LEER — NIEMALS raten oder erfinden.',
+      'Datum ohne Jahresangabe → nimm das nächstkommende Vorkommen ab heute.',
+      'Antworte ausschliesslich mit dem JSON-Objekt gemäss Schema.'
+    ].join(' ');
+  }
+
+  async function extractEventDataFromImage(base64DataUrl) {
+    const key = (() => {
+      try { return localStorage.getItem(GEMINI_KEY_STORAGE) || ''; }
+      catch (_) { return ''; }
+    })();
+    if (!key) {
+      throw new Error('Kein Gemini-API-Key hinterlegt. Bitte in Einstellungen eintragen.');
+    }
+    // base64DataUrl ist "data:image/jpeg;base64,/9j/..." — wir brauchen nur den Teil nach dem Komma.
+    const [meta, base64] = base64DataUrl.split(',');
+    const mimeMatch = meta && meta.match(/data:([^;]+);base64/);
+    const mimeType = mimeMatch ? mimeMatch[1] : 'image/jpeg';
+
+    const payload = {
+      contents: [{
+        parts: [
+          { inline_data: { mime_type: mimeType, data: base64 } },
+          { text: buildExtractPrompt() }
+        ]
+      }],
+      generationConfig: {
+        response_mime_type: 'application/json',
+        response_schema: EVENT_EXTRACT_SCHEMA
+      }
+    };
+
+    const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=' + encodeURIComponent(key);
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!res.ok) {
+      const body = await res.text();
+      throw new Error(`Gemini-Fehler ${res.status}: ${body.slice(0, 300)}`);
+    }
+    const data = await res.json();
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    if (!text) throw new Error('Leere Antwort von Gemini');
+    let parsed;
+    try { parsed = JSON.parse(text); }
+    catch (err) { throw new Error('Konnte JSON-Antwort nicht parsen: ' + err.message); }
+    return Array.isArray(parsed.events) ? parsed.events : [];
+  }
 
   if (isReviewer()) {
     btnPhotoScan.classList.remove('hidden');
@@ -1968,6 +2062,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   function resetPhotoScan() {
     lastPhotoBase64 = null;
+    lastExtractedEvents = null;
     if (photoScanInput) photoScanInput.value = '';
     if (photoScanPreview) {
       photoScanPreview.src = '';
@@ -1977,6 +2072,7 @@ document.addEventListener('DOMContentLoaded', () => {
       photoScanStatus.textContent = '';
       photoScanStatus.classList.remove('error');
     }
+    if (btnPhotoExtract) btnPhotoExtract.classList.add('hidden');
   }
 
   function compressImageToBase64(file, opts) {
@@ -2023,10 +2119,37 @@ document.addEventListener('DOMContentLoaded', () => {
       photoScanPreview.src = dataUrl;
       photoScanPreview.classList.remove('hidden');
       photoScanStatus.textContent = `✓ ${width}×${height} px · ${sizeKb} KB`;
+      btnPhotoExtract.classList.remove('hidden');
     } catch (err) {
       lastPhotoBase64 = null;
       photoScanStatus.classList.add('error');
       photoScanStatus.textContent = '✗ ' + err.message;
+    }
+  });
+
+  btnPhotoExtract.addEventListener('click', async () => {
+    if (!lastPhotoBase64) return;
+    photoScanStatus.classList.remove('error');
+    photoScanStatus.textContent = 'Analysiere Bild mit Gemini …';
+    btnPhotoExtract.disabled = true;
+    try {
+      const eventsExtracted = await extractEventDataFromImage(lastPhotoBase64);
+      lastExtractedEvents = eventsExtracted;
+      console.log('[photo-extract] Gefundene Events:', eventsExtracted);
+      if (eventsExtracted.length === 0) {
+        photoScanStatus.textContent = '⚠ Kein Event erkannt — Felder bitte manuell ausfüllen.';
+      } else if (eventsExtracted.length === 1) {
+        photoScanStatus.textContent = `✓ 1 Event erkannt. (Formular-Befüllung folgt im nächsten Schritt.)`;
+      } else {
+        photoScanStatus.textContent = `✓ ${eventsExtracted.length} Events erkannt. (Auswahl folgt im nächsten Schritt.)`;
+      }
+    } catch (err) {
+      lastExtractedEvents = null;
+      photoScanStatus.classList.add('error');
+      photoScanStatus.textContent = '✗ ' + err.message;
+      console.error('[photo-extract]', err);
+    } finally {
+      btnPhotoExtract.disabled = false;
     }
   });
 
