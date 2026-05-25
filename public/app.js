@@ -1883,8 +1883,10 @@ document.addEventListener('DOMContentLoaded', () => {
   const settingsModalClose = document.getElementById('settings-modal-close');
   const settingsForm = document.getElementById('settings-form');
   const settingsGeminiKey = document.getElementById('settings-gemini-key');
+  const settingsGithubPat = document.getElementById('settings-github-pat');
   const settingsStatus = document.getElementById('settings-status');
   const btnSettingsTest = document.getElementById('btn-settings-test');
+  const btnSettingsTestPat = document.getElementById('btn-settings-test-pat');
   const btnSettingsClear = document.getElementById('btn-settings-clear');
 
   if (isReviewer()) {
@@ -1900,6 +1902,8 @@ document.addEventListener('DOMContentLoaded', () => {
   function openSettingsModal() {
     try { settingsGeminiKey.value = localStorage.getItem(GEMINI_KEY_STORAGE) || ''; }
     catch (_) { settingsGeminiKey.value = ''; }
+    try { settingsGithubPat.value = localStorage.getItem(window.AdminCommit.PAT_KEY) || ''; }
+    catch (_) { settingsGithubPat.value = ''; }
     setSettingsStatus('');
     settingsModal.classList.remove('hidden');
   }
@@ -1919,6 +1923,9 @@ document.addEventListener('DOMContentLoaded', () => {
     try {
       if (key) localStorage.setItem(GEMINI_KEY_STORAGE, key);
       else localStorage.removeItem(GEMINI_KEY_STORAGE);
+      const pat = settingsGithubPat.value.trim();
+      if (pat) localStorage.setItem(window.AdminCommit.PAT_KEY, pat);
+      else localStorage.removeItem(window.AdminCommit.PAT_KEY);
       setSettingsStatus('Gespeichert.', 'ok');
     } catch (err) {
       setSettingsStatus('Speichern fehlgeschlagen: ' + err.message, 'error');
@@ -1928,6 +1935,8 @@ document.addEventListener('DOMContentLoaded', () => {
   btnSettingsClear.addEventListener('click', () => {
     settingsGeminiKey.value = '';
     try { localStorage.removeItem(GEMINI_KEY_STORAGE); } catch (_) {}
+    settingsGithubPat.value = '';
+    try { localStorage.removeItem(window.AdminCommit.PAT_KEY); } catch (_) {}
     setSettingsStatus('Gelöscht.', 'ok');
   });
 
@@ -1956,6 +1965,26 @@ document.addEventListener('DOMContentLoaded', () => {
       setSettingsStatus('✗ Netzwerk-Fehler: ' + err.message, 'error');
     } finally {
       btnSettingsTest.disabled = false;
+    }
+  });
+
+  btnSettingsTestPat.addEventListener('click', async () => {
+    const pat = settingsGithubPat.value.trim();
+    if (!pat) {
+      setSettingsStatus('Bitte zuerst einen PAT eintragen.', 'error');
+      return;
+    }
+    setSettingsStatus('Prüfe PAT …');
+    btnSettingsTestPat.disabled = true;
+    try {
+      const result = await window.AdminCommit.verifyPat(pat);
+      if (result.ok) {
+        setSettingsStatus(`✓ PAT gültig — angemeldet als ${result.login}.`, 'ok');
+      } else {
+        setSettingsStatus(`✗ PAT-Fehler: ${result.error}`, 'error');
+      }
+    } finally {
+      btnSettingsTestPat.disabled = false;
     }
   });
 

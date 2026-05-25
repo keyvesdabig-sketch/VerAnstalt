@@ -453,8 +453,19 @@
             <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener noreferrer">aistudio.google.com/apikey</a>.
           </small>
         </label>
+        <label class="form-field">
+          <span>GitHub Personal Access Token</span>
+          <input type="password" id="settings-github-pat" autocomplete="off"
+                 placeholder="github_pat_…" spellcheck="false" />
+          <small>Fine-grained Token auf <code>keyvesdabig-sketch/VerAnstalt</code> mit
+            Permission <code>Contents: Read and write</code>. Bezugsquelle:
+            <a href="https://github.com/settings/personal-access-tokens" target="_blank" rel="noopener noreferrer">github.com/settings/personal-access-tokens</a>.
+            Wird für Admin-Operationen (Löschen, Edit, Foto-Import publish) gebraucht.
+          </small>
+        </label>
         <div id="settings-status" class="settings-status"></div>
         <div class="form-actions">
+          <button type="button" id="btn-settings-test-pat" class="btn btn-secondary">PAT prüfen</button>
           <button type="button" id="btn-settings-test" class="btn btn-secondary">Verbindung prüfen</button>
           <button type="button" id="btn-settings-clear" class="btn btn-secondary">Löschen</button>
           <button type="submit" class="btn btn-primary">Speichern</button>
@@ -470,6 +481,7 @@
   <script src="events-data.js"></script>
   <script src="lib/event-dedup.js"></script>
   <script src="lib/event-state.js"></script>
+  <script src="admin/admin-commit.js" defer></script>
   <script src="app.js"></script>
 </body>
 </html>
