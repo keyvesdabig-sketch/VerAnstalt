@@ -1787,8 +1787,40 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // Trigger on init
-  fetchPendingSocialEvents();
+  // --- Reviewer-Gate ---
+  // Review-Banner ist nicht öffentlich. Freischaltung einmalig via
+  // ?reviewer=<secret>, danach gemerkt in localStorage. Kein echter Auth —
+  // der Code ist öffentlich. Schutz vor zufälligen Besuchern, nicht vor
+  // motivierten Snoopern. Bei Bedarf Secret hier rotieren.
+  const REVIEWER_SECRET = 'caland-2026-x9k2';
+  const REVIEWER_KEY = 'chur_events_reviewer';
+  (function initReviewerFlag() {
+    try {
+      const url = new URL(window.location.href);
+      const param = url.searchParams.get('reviewer');
+      if (param === REVIEWER_SECRET) {
+        localStorage.setItem(REVIEWER_KEY, '1');
+        // Param aus URL entfernen, damit der Link nicht versehentlich geteilt wird
+        url.searchParams.delete('reviewer');
+        history.replaceState(null, '', url.toString());
+      } else if (param === 'logout') {
+        localStorage.removeItem(REVIEWER_KEY);
+        url.searchParams.delete('reviewer');
+        history.replaceState(null, '', url.toString());
+      }
+    } catch (_) { /* noop */ }
+  })();
+  function isReviewer() {
+    try { return localStorage.getItem(REVIEWER_KEY) === '1'; }
+    catch (_) { return false; }
+  }
+
+  // Trigger on init — nur für Reviewer; sonst Banner bleibt versteckt
+  if (isReviewer()) {
+    fetchPendingSocialEvents();
+  } else {
+    reviewBanner.classList.add('hidden');
+  }
 
   // --- Review Modal ---
 
