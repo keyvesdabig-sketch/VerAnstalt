@@ -61,9 +61,17 @@ test/                node --test Unit-Suite (aktuell nur src/lib/image-clean.js)
 
 UI-strings sind auf **CalandaKultur** rebranded. **localStorage-Keys bleiben bewusst `chur_events_*`** (`chur_events_favorites`, `chur_events_custom`, `chur_events_reviewed_social_ids`) — Umbenennen ohne Migrations-Pass würde Bestandsdaten zerstören.
 
-### Repo-Layout-Note
+### Deployment
 
-`.github/workflows/*.yml` referenzieren noch die alten Top-Level-Pfade (`node scrape-social.js`). Nach dem `src/`-Split braucht es `node src/scrape-social.js` — Workflows entsprechend nachziehen, sobald PR #8 gemerged ist (siehe TODO.md falls noch offen).
+Live auf **GitHub Pages**: https://keyvesdabig-sketch.github.io/VerAnstalt/
+
+- Pages-Source ist „Build via Workflow" (nicht Branch-Deploy — Branch-Mode lässt nur `/` oder `/docs` zu, wir brauchen `public/`).
+- `.github/workflows/pages.yml` läuft auf jedem Push nach `main`, der `public/**` ändert (inkl. der täglichen Scraper-Commits) → Auto-Deploy.
+- Daten-JSONs (`scraped-events.json`, `pending-social-events.json`) liegen unter `public/` und werden mit deployed.
+
+### Reviewer-Gate
+
+Review-Banner für `pending-social-events.json` ist hinter einem Obscurity-Secret versteckt — nur Browser, die einmal `?reviewer=<secret>` aufgerufen haben, sehen das Banner und fetchen die JSON. Secret liegt in `public/app.js` als `REVIEWER_SECRET` (rotierbar). Flag in `localStorage.chur_events_reviewer`, Logout via `?reviewer=logout`. Kein echter Auth — der Code ist öffentlich; reicht nur gegen zufällige Besucher.
 
 ## Conventions
 
