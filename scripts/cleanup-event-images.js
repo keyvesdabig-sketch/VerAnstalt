@@ -37,20 +37,20 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function fetchOgImage(targetUrl, redirectsLeft = MAX_REDIRECTS) {
   return new Promise((resolve) => {
+    let settled = false;
+    const done = (v) => { if (!settled) { settled = true; resolve(v); } };
     const lib = targetUrl.startsWith('https') ? https : http;
     const req = lib.get(targetUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location && redirectsLeft > 0) {
         let loc = res.headers.location;
         if (loc.startsWith('/')) loc = new URL(targetUrl).origin + loc;
-        return fetchOgImage(loc, redirectsLeft - 1).then(resolve);
+        return fetchOgImage(loc, redirectsLeft - 1).then(done);
       }
       if (res.statusCode !== 200) {
         res.resume();
-        return resolve(null);
+        return done(null);
       }
       let body = '';
-      let settled = false;
-      const done = (v) => { if (!settled) { settled = true; resolve(v); } };
       res.setEncoding('utf8');
       res.on('data', c => {
         body += c;
@@ -68,8 +68,8 @@ function fetchOgImage(targetUrl, redirectsLeft = MAX_REDIRECTS) {
       res.on('error', () => done(null));
       res.on('close', () => done(null));
     });
-    req.on('error', () => resolve(null));
-    req.setTimeout(15000, () => { req.destroy(); resolve(null); });
+    req.on('error', () => done(null));
+    req.setTimeout(15000, () => { req.destroy(); done(null); });
   });
 }
 
