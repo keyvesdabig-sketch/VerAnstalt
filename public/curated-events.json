@@ -216,7 +216,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635786789,
+      "title": "Bike Kingdom Kids Cup 2026 im Alpenbikepark Chur",
+      "category": "sport",
+      "categoryLabel": "Sport",
+      "municipality": "Chur",
+      "description": "Ein Bike-Rennen für Kinder im Alpenbikepark Chur.",
+      "date": "2026-08-15",
+      "time": "",
+      "locationName": "Alpenbikepark Chur",
+      "lat": 46.85,
+      "lng": 9.53,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.chur.graubuenden.ch/de/events/bike-kingdom-kids-cup-2026-im-alpenbikepark-chur",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:14.471Z"
+  "lastUpdated": "2026-05-25T20:20:15.462Z"
 }
