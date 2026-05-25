@@ -36,7 +36,8 @@ const MUNICIPALITIES = [
   { name: 'Rhäzüns', slug: 'rhaezuens', id: '4927', lat: 46.7978, lng: 9.4014 },
   { name: 'Malans', slug: 'malans', id: '4909', lat: 46.9803, lng: 9.5658 },
   { name: 'Landquart', slug: 'landquart', id: '4906', lat: 46.9691, lng: 9.5550 },
-  { name: 'Thusis', slug: 'thusis', id: '4932', lat: 46.6972, lng: 9.4402 }
+  { name: 'Thusis', slug: 'thusis', id: '4932', lat: 46.6972, lng: 9.4402 },
+  { name: 'Cazis', slug: 'cazis', id: '4633', lat: 46.7213, lng: 9.4304 }
 ];
 
 // Konfiguration der verschiedenen Scraping-Quellen

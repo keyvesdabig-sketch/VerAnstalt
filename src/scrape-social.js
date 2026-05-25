@@ -19,7 +19,7 @@ const { GoogleGenAI, Type } = require('@google/genai');
 const MUNICIPALITIES = [
   'Chur', 'Domat/Ems', 'Felsberg', 'Haldenstein', 'Trimmis', 'Untervaz',
   'Zizers', 'Tamins', 'Churwalden', 'Tschiertschen-Praden', 'Bonaduz',
-  'Rhäzüns', 'Malans', 'Landquart', 'Thusis'
+  'Rhäzüns', 'Malans', 'Landquart', 'Thusis', 'Cazis'
 ];
 
 const VALID_CATEGORIES = ['music', 'stage', 'markets', 'family', 'sport'];

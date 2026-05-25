@@ -28,7 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
     "Rhäzüns": { lat: 46.7978, lng: 9.4014, zoom: 14 },
     "Malans": { lat: 46.9803, lng: 9.5658, zoom: 14 },
     "Landquart": { lat: 46.9691, lng: 9.5550, zoom: 14 },
-    "Thusis": { lat: 46.6972, lng: 9.4402, zoom: 13 }
+    "Thusis": { lat: 46.6972, lng: 9.4402, zoom: 13 },
+    "Cazis": { lat: 46.7213, lng: 9.4304, zoom: 14 }
   };
   
   // Leaflet Map instance & Marker Group
@@ -1967,7 +1968,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const MUNICIPALITIES = [
     'Chur','Domat/Ems','Felsberg','Haldenstein','Trimmis','Untervaz','Zizers',
     'Tamins','Churwalden','Tschiertschen-Praden','Bonaduz','Rhäzüns',
-    'Malans','Landquart','Thusis'
+    'Malans','Landquart','Thusis','Cazis'
   ];
   const CATEGORY_IDS = ['music','stage','markets','family','sport'];
 
