@@ -1,4 +1,22 @@
 {
-  "events": [],
-  "lastUpdated": "2026-05-25T00:00:00Z"
+  "events": [
+    {
+      "id": 1779636078892,
+      "title": "Meditieren im Alltag",
+      "category": "family",
+      "categoryLabel": "Familie",
+      "municipality": "Malans",
+      "description": "Meditieren im Alltag in der reformierten Kirche.",
+      "date": "2026-05-25",
+      "time": "19:00",
+      "locationName": "ref. Kirche",
+      "lat": 46.992,
+      "lng": 9.531,
+      "price": "Eintritt frei",
+      "image": "https://unsplash.com/de/fotos/drittelregel-fotografie-der-brennenden-kerze-UiMkBvDQSAA",
+      "organizerUrl": "https://www.malans.ch/de/aktuelles/veranstaltungen-termine?data=12140",
+      "ticketUrl": null
+    }
+  ],
+  "lastUpdated": "2026-05-25T16:35:30.236Z"
 }
