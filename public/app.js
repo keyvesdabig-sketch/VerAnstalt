@@ -899,7 +899,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Dedup-Check gegen den aktuell gemergten Event-Pool. Sanftes Confirm —
     // User kann immer "trotzdem speichern", die Lib reject nie hart.
-    if (!confirmIfDuplicate({ title, date, locationName }, events)) {
+    // Beim Edit: das eigene Event aus dem Pool nehmen, sonst matcht es sich selbst (100%).
+    const dedupPool = currentEditEventId != null
+      ? events.filter(e => e.id !== currentEditEventId)
+      : events;
+    if (!confirmIfDuplicate({ title, date, locationName }, dedupPool)) {
       return;
     }
 
