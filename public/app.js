@@ -827,6 +827,12 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    // Dedup-Check gegen den aktuell gemergten Event-Pool. Sanftes Confirm —
+    // User kann immer "trotzdem speichern", die Lib reject nie hart.
+    if (!confirmIfDuplicate({ title, date, locationName }, events)) {
+      return;
+    }
+
     // New event object — id wird zuerst belegt, damit pickFallback denselben
     // Schlüssel wie der Render-Pfad sieht und das Bild stabil bleibt.
     const eventId = Date.now();
@@ -1785,6 +1791,24 @@ document.addEventListener('DOMContentLoaded', () => {
       persistReviewedIds();
       console.log(`[review] pruned ${pruned} stale reviewed IDs`);
     }
+  }
+
+  // --- Dedup-Helper ---
+  // Sanftes Confirm bei wahrscheinlichen Duplikaten. Liefert true wenn
+  // Speichern fortgesetzt werden darf (kein Match ODER User bestätigt
+  // "trotzdem speichern"), false bei Abbruch.
+  function confirmIfDuplicate(candidate, pool) {
+    if (!window.EventDedup) return true; // Lib nicht geladen → kein Block
+    const matches = window.EventDedup.findPotentialDuplicates(candidate, pool);
+    if (matches.length === 0) return true;
+    const lines = matches.slice(0, 3).map(m => {
+      const ev = m.event;
+      const when = ev.date ? new Date(ev.date).toLocaleDateString('de-CH') : '?';
+      return `• "${ev.title}" am ${when} (${Math.round(m.score * 100)}% ähnlich)`;
+    });
+    const more = matches.length > 3 ? `\n… und ${matches.length - 3} weitere` : '';
+    const msg = `Ähnliche Events existieren bereits:\n\n${lines.join('\n')}${more}\n\nTrotzdem speichern?`;
+    return confirm(msg);
   }
 
   // --- Reviewer-Gate ---
