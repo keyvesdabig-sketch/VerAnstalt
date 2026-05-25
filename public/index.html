@@ -85,6 +85,10 @@
           <i data-lucide="settings"></i>
           Einstellungen
         </button>
+        <button id="btn-admin-drawer" class="ghost-btn admin-only admin-only-flex">
+          <i data-lucide="shield"></i>
+          Admin
+        </button>
         <div class="side-meta">
           <div class="live">Daten aktuell</div>
           <div id="side-updated">Aktualisiert soeben</div>
@@ -474,6 +478,34 @@
     </div>
   </div>
 
+  <!-- Admin-Drawer (Reviewer-only) -->
+  <aside id="admin-drawer" class="admin-drawer hidden" aria-hidden="true">
+    <header class="admin-drawer-header">
+      <h2>Admin</h2>
+      <button type="button" id="btn-admin-drawer-close" class="modal-close">
+        <i data-lucide="x"></i>
+      </button>
+    </header>
+    <section class="admin-drawer-section">
+      <h3>Übersicht</h3>
+      <div class="admin-stat-row"><span id="admin-stat-events">– Events</span></div>
+      <div class="admin-stat-row"><span id="admin-stat-curated">– Curated</span></div>
+      <div class="admin-stat-row"><span id="admin-stat-suppressed">– Suppressed</span></div>
+      <div class="admin-stat-row"><span id="admin-stat-pending">– Review-Queue</span></div>
+    </section>
+    <section class="admin-drawer-section">
+      <h3>Werkzeuge</h3>
+      <button type="button" id="btn-admin-database" class="btn btn-primary admin-drawer-action">🗂 Datenbank verwalten</button>
+      <button type="button" id="btn-admin-review-open" class="btn btn-secondary admin-drawer-action">📋 Review-Queue</button>
+    </section>
+    <section class="admin-drawer-section">
+      <h3>Konfiguration</h3>
+      <button type="button" id="btn-admin-settings" class="btn btn-secondary admin-drawer-action">⚙ Einstellungen</button>
+      <button type="button" id="btn-admin-logout" class="btn btn-secondary admin-drawer-action">⎋ Reviewer-Logout</button>
+    </section>
+  </aside>
+  <div id="admin-drawer-backdrop" class="admin-drawer-backdrop hidden"></div>
+
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
@@ -483,6 +515,7 @@
   <script src="lib/event-state.js"></script>
   <script src="admin/admin-commit.js" defer></script>
   <script src="admin/admin-shared.js" defer></script>
+  <script src="admin/admin-drawer.js" defer></script>
   <script src="app.js"></script>
 </body>
 </html>
