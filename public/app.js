@@ -1819,20 +1819,39 @@ document.addEventListener('DOMContentLoaded', () => {
   const REVIEWER_SECRET = 'caland-2026-x9k2';
   const REVIEWER_KEY = 'chur_events_reviewer';
   (function initReviewerFlag() {
-    try {
-      const url = new URL(window.location.href);
-      const param = url.searchParams.get('reviewer');
-      if (param === REVIEWER_SECRET) {
+    let url;
+    try { url = new URL(window.location.href); }
+    catch (_) { return; }
+    const param = url.searchParams.get('reviewer');
+    if (!param) return;
+
+    if (param === REVIEWER_SECRET) {
+      let writeOk = false;
+      try {
         localStorage.setItem(REVIEWER_KEY, '1');
-        // Param aus URL entfernen, damit der Link nicht versehentlich geteilt wird
-        url.searchParams.delete('reviewer');
-        history.replaceState(null, '', url.toString());
-      } else if (param === 'logout') {
-        localStorage.removeItem(REVIEWER_KEY);
-        url.searchParams.delete('reviewer');
-        history.replaceState(null, '', url.toString());
+        writeOk = localStorage.getItem(REVIEWER_KEY) === '1';
+      } catch (err) {
+        console.error('[reviewer] localStorage.setItem failed:', err);
       }
-    } catch (_) { /* noop */ }
+      if (writeOk) {
+        console.log('[reviewer] Freigeschaltet — Flag in localStorage gesetzt.');
+        url.searchParams.delete('reviewer');
+        history.replaceState(null, '', url.toString());
+      } else {
+        // URL NICHT säubern — User sieht, dass Param noch da ist, und weiss
+        // dass etwas schiefging. Plus sichtbare Meldung.
+        alert(
+          'Reviewer-Flag konnte nicht gespeichert werden. ' +
+          'Wahrscheinlich Tracking-Prevention oder Privater Modus. ' +
+          'Tipp: In Edge unter Einstellungen → Datenschutz → Tracking-Prevention auf „Ausgewogen" stellen, ' +
+          'oder einen anderen Browser nutzen.'
+        );
+      }
+    } else if (param === 'logout') {
+      try { localStorage.removeItem(REVIEWER_KEY); } catch (_) {}
+      url.searchParams.delete('reviewer');
+      history.replaceState(null, '', url.toString());
+    }
   })();
   function isReviewer() {
     try { return localStorage.getItem(REVIEWER_KEY) === '1'; }
