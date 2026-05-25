@@ -12,7 +12,7 @@ const INITIAL_EVENTS = [
     lat: 46.8504,
     lng: 9.5307,
     price: "Eintritt frei",
-    image: "https://images.unsplash.com/photo-1488459718128-d3e91e7c314f?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1573246123716-6b1782bfc499?auto=format&fit=crop&q=80&w=1200"
   },
   {
     id: 2,
@@ -117,6 +117,6 @@ const INITIAL_EVENTS = [
     lat: 46.8465,
     lng: 9.5075,
     price: "CHF 20.- (inkl. Snack)",
-    image: "https://images.unsplash.com/photo-1544192240-4a34feb0104c?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1576435728678-68d0fbf94e91?auto=format&fit=crop&q=80&w=1200"
   }
 ];

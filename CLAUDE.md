@@ -40,6 +40,9 @@ data/                Server-seitig, nicht ausgeliefert
 scripts/             Einmalige/manuelle Maintenance-Tools
   cleanup-event-images.js   Re-Cleanup-Pass; Logik identisch zum Live-Scraper, nützlich nach Anpassung der Blocklist.
 
+docs/superpowers/    Implementation-Plans + Design-Specs aus der superpowers-Skill (historischer
+                     „warum ist das so gebaut"-Kontext, v.a. Social-Scrape-Pipeline). Nicht code-relevant.
+
 test/                node --test Unit-Suite (aktuell nur src/lib/image-clean.js)
 .github/workflows/   scrape.yml (06:00 UTC) + scrape-social.yml (07:00 UTC) Cron-Jobs;
                      pages.yml deployt public/ nach GitHub Pages bei jedem Push

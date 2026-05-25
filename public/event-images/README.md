@@ -15,19 +15,7 @@ Alle Bilder stammen von **Unsplash** und stehen unter der [Unsplash-Lizenz](http
 | 09 | `09-jazz-brunch-im-marsol.jpg` | Jazz-Brunch im Marsöl | `photo-1415201364774-f6f0bb35f28f` |
 | 10 | `10-maienfelder-weinwanderung.jpg` | Maienfelder Weinwanderung | `photo-1506377247377-2a5b3b417ebb` |
 
-\* Bilder 01 und 08 mussten ersetzt werden — die ursprünglich in `events-data.js` referenzierten Foto-IDs sind auf Unsplash nicht mehr verfügbar (404). In der Tabelle oben stehen die **neuen** IDs (die wir heruntergeladen haben). Wenn du `events-data.js` aktualisieren willst, ersetze die alten 404-URLs durch die neuen:
-
-```js
-// Event 1 — alte URL (404):
-// image: "https://images.unsplash.com/photo-1488459718128-d3e91e7c314f?auto=format&fit=crop&q=80&w=800"
-// → neue URL:
-image: "https://images.unsplash.com/photo-1573246123716-6b1782bfc499?auto=format&fit=crop&q=80&w=1200"
-
-// Event 8 — alte URL (404):
-// image: "https://images.unsplash.com/photo-1544192240-4a34feb0104c?auto=format&fit=crop&q=80&w=800"
-// → neue URL:
-image: "https://images.unsplash.com/photo-1576435728678-68d0fbf94e91?auto=format&fit=crop&q=80&w=1200"
-```
+\* Bilder 01 und 08 wurden ersetzt — die ursprünglich referenzierten Foto-IDs (`1488459718128-d3e91e7c314f`, `1544192240-4a34feb0104c`) sind auf Unsplash nicht mehr verfügbar (404). Die neuen IDs sind in `public/events-data.js` bereits eingetragen.
 
 ## Direkt-Links zu den Unsplash-Seiten
 
