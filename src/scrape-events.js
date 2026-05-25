@@ -21,22 +21,25 @@ const FRONTEND_FILE = path.join(__dirname, '../public/scraped-events.json').repl
 const SCHEMA_FILE = path.join(__dirname, 'event-schema.json').replace(/\\/g, '/');
 
 // Gemeinden im Umkreis von ca. 12 km um Chur
+// LocalCities-IDs zuletzt verifiziert 25.05.2026 — die Plattform hat IDs neu
+// vergeben, die alten waren grossteils stale. Haldenstein ist seit 2021 nach
+// Chur eingemeindet und hat keine eigene LocalCities-Seite mehr (bleibt aber
+// im Frontend-Dropdown, falls jemand manuell ein Event eintragen will).
 const MUNICIPALITIES = [
   { name: 'Chur', slug: 'chur', id: '4865', lat: 46.8508, lng: 9.5320 },
-  { name: 'Domat/Ems', slug: 'domatems', id: '4883', lat: 46.8354, lng: 9.4476 },
-  { name: 'Felsberg', slug: 'felsberg', id: '4885', lat: 46.8436, lng: 9.4772 },
-  { name: 'Haldenstein', slug: 'haldenstein', id: '4895', lat: 46.8778, lng: 9.5303 },
-  { name: 'Trimmis', slug: 'trimmis', id: '4940', lat: 46.8973, lng: 9.5636 },
-  { name: 'Untervaz', slug: 'untervaz', id: '4941', lat: 46.9287, lng: 9.5369 },
-  { name: 'Zizers', slug: 'zizers', id: '4943', lat: 46.9348, lng: 9.5667 },
-  { name: 'Tamins', slug: 'tamins', id: '4938', lat: 46.8285, lng: 9.4069 },
-  { name: 'Churwalden', slug: 'churwalden', id: '4880', lat: 46.7797, lng: 9.5348 },
-  { name: 'Tschiertschen-Praden', slug: 'tschiertschenpraden', id: '4934', lat: 46.8188, lng: 9.6053 },
-  { name: 'Bonaduz', slug: 'bonaduz', id: '4871', lat: 46.8124, lng: 9.3986 },
-  { name: 'Rhäzüns', slug: 'rhaezuens', id: '4927', lat: 46.7978, lng: 9.4014 },
-  { name: 'Malans', slug: 'malans', id: '4909', lat: 46.9803, lng: 9.5658 },
-  { name: 'Landquart', slug: 'landquart', id: '4906', lat: 46.9691, lng: 9.5550 },
-  { name: 'Thusis', slug: 'thusis', id: '4932', lat: 46.6972, lng: 9.4402 },
+  { name: 'Domat/Ems', slug: 'domat-ems', id: '4745', lat: 46.8354, lng: 9.4476 },
+  { name: 'Felsberg', slug: 'felsberg', id: '4733', lat: 46.8436, lng: 9.4772 },
+  { name: 'Trimmis', slug: 'trimmis', id: '4905', lat: 46.8973, lng: 9.5636 },
+  { name: 'Untervaz', slug: 'untervaz', id: '4897', lat: 46.9287, lng: 9.5369 },
+  { name: 'Zizers', slug: 'zizers', id: '4917', lat: 46.9348, lng: 9.5667 },
+  { name: 'Tamins', slug: 'tamins', id: '4737', lat: 46.8285, lng: 9.4069 },
+  { name: 'Churwalden', slug: 'churwalden', id: '4881', lat: 46.7797, lng: 9.5348 },
+  { name: 'Tschiertschen-Praden', slug: 'tschiertschen-praden', id: '4925', lat: 46.8188, lng: 9.6053 },
+  { name: 'Bonaduz', slug: 'bonaduz', id: '4701', lat: 46.8124, lng: 9.3986 },
+  { name: 'Rhäzüns', slug: 'rhaezuens', id: '4721', lat: 46.7978, lng: 9.4014 },
+  { name: 'Malans', slug: 'malans', id: '4949', lat: 46.9803, lng: 9.5658 },
+  { name: 'Landquart', slug: 'landquart', id: '4945', lat: 46.9691, lng: 9.5550 },
+  { name: 'Thusis', slug: 'thusis', id: '4641', lat: 46.6972, lng: 9.4402 },
   { name: 'Cazis', slug: 'cazis', id: '4633', lat: 46.7213, lng: 9.4304 }
 ];
 
