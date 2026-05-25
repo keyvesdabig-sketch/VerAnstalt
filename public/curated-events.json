@@ -116,7 +116,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635772309,
+      "title": "Eidgenössisches Schützenfest 2026",
+      "category": "sport",
+      "categoryLabel": "Sport",
+      "municipality": "Chur",
+      "description": "Einer der grössten Schweizer Sportanlässe im Jahr 2026, ausgetragen in Chur und Umgebung. Das Hauptschiessstand und Festzentrum ist die Schiessanlage auf dem Churer Rossboden.",
+      "date": "2026-06-05",
+      "time": "",
+      "locationName": "Schiessanlage Rossboden, Chur",
+      "lat": 46.8488,
+      "lng": 9.5445,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.chur.graubuenden.ch/de/events/eidgenoessisches-schuetzenfest-2026",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:10.328Z"
+  "lastUpdated": "2026-05-25T20:20:11.366Z"
 }
