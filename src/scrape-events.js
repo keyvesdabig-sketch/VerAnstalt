@@ -53,7 +53,13 @@ const SOURCES = [
     url: `https://www.localcities.ch/de/veranstaltungen/${m.slug}/${m.id}`,
     municipality: m.name,
     prompt: `Extrahiere alle echten Veranstaltungen von der Seite. Stelle sicher, dass der Titel ('title') der tatsächliche Name des Events ist und NICHT das Datum oder Wochentag. Der Ort ('locationName') ist der Veranstaltungsort (z.B. 'Gemeindehaus', 'Sportplatz' oder ein anderer lokaler Ort in ${m.name}) und darf nicht leer oder ein Punkt sein.`
-  }))
+  })),
+  {
+    name: 'Konsum-Cazis',
+    url: 'https://konsum-cazis.ch/programm/',
+    municipality: 'Cazis',
+    prompt: "Extrahiere alle echten Konzert-Termine vom Programm des Konsum Cazis. Der Titel ('title') ist der Name des Konzerts/Acts (z.B. 'Nguru unplugged & Malenco'), NICHT 'Programm' oder ein Datum. Der Ort ('locationName') ist IMMER 'Konsum Cazis'. Die Gemeinde ('municipality') ist IMMER 'Cazis'. Ignoriere Hinweise auf Sommerpausen oder Saisonenden — nur echte Events."
+  }
 ];
 
 // Bekannte Veranstaltungsorte in Chur mit festen Koordinaten (schont die Nominatim API)
@@ -84,7 +90,16 @@ const VENUE_COORDINATES = {
   "rätisches museum": { lat: 46.8486, lng: 9.5328 },
   "toms beer box": { lat: 46.8492, lng: 9.5300 },
   "cuadro22": { lat: 46.8490, lng: 9.5285 },
-  "polenta7000": { lat: 46.8465, lng: 9.5075 }
+  "polenta7000": { lat: 46.8465, lng: 9.5075 },
+  // Konsum Cazis — Konzertlokal in Cazis (Domleschg)
+  "konsum cazis": { lat: 46.7213, lng: 9.4304 },
+  "konsum": { lat: 46.7213, lng: 9.4304 },
+  // Streaminghall / Tonstudio Chur — Grossbruggerweg 3
+  "streaminghall": { lat: 46.8574, lng: 9.5078 },
+  "streaminghall.ch": { lat: 46.8574, lng: 9.5078 },
+  "tonstudio chur": { lat: 46.8574, lng: 9.5078 },
+  "tonstudio": { lat: 46.8574, lng: 9.5078 },
+  "grossbruggerweg 3": { lat: 46.8574, lng: 9.5078 }
 };
 
 // --- Hilfsfunktionen ---
