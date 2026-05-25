@@ -6,13 +6,13 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Durch Naturgewalten geprägte Vielfalt. Auf der gemütlichen Wanderung von Tamins nach Domat/Ems werden biblische Zeiträume relativiert. Die landschaftliche Vielfalt vermag immer wieder zu faszinieren. Schwierigkeit T1, reine Gehzeit 2.5-3.0 Std.",
     "date": "2026-05-25",
-    "time": "09:45 - 15:30",
+    "time": "09:45-15:30",
     "locationName": "Tamins Unterdorf",
     "municipality": "Tamins",
     "lat": 46.8279044,
     "lng": 9.4085327,
     "price": "Fr. 50.00 p.P., Mitglieder Verein TAS Fr. 30.00 p.P.",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/3/2f/a5/32fa566890c5a3d1d4320c56407cd1021bd44219_927479578.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/2f/a5/32fa566890c5a3d1d4320c56407cd1021bd44219_927479578.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4756323?eventDateTime=25.05.2026%20%2009:45%20-%2015:30",
     "sources": [
       {
@@ -28,13 +28,13 @@
     "categoryLabel": "Familie",
     "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich. Spiele hat es vor Ort, gerne dürfen aber auch Lieblingsspiele mitgebracht werden! Am ersten Montag des Monats wird der Event jeweils durch Vertreterinnen des Frauenverein Thusis angeleitet.",
     "date": "2026-05-25",
-    "time": "14:00 - 16:00",
+    "time": "14:00-16:00",
     "locationName": "StoryThusis",
     "municipality": "Thusis",
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Eintritt frei",
-    "image": "https://www.localcities.ch/build/images/rough-border/rough-border-white.94f06061.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=25.05.2026%20%2014:00%20-%2016:00",
     "sources": [
       {
@@ -164,7 +164,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Gemütliches Beisammensein in der Regionalbibliothek Thusis. Strickend, häkelnd oder stickend lauschen wir verwobenen Geschichten. Dazu geniessen wir Café und Kuchen. Keine Anmeldung erforderlich.",
     "date": "2026-05-26",
-    "time": "14:00 - 16:00",
+    "time": "14:00-16:00",
     "locationName": "Regionalbibliothek Thusis",
     "municipality": "Thusis",
     "lat": 46.6972,
@@ -438,7 +438,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Kranzen für Fronleichnam",
     "date": "2026-05-26",
-    "time": "08:00 - 18:00",
+    "time": "08:00-18:00",
     "locationName": "Kirch- und Kulturzentrum Sentupada",
     "municipality": "Domat/Ems",
     "lat": 46.8354,
@@ -466,7 +466,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/uploaded/6/2a/24/62a2479280892ddcdd11af497e0df4983deac597.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/6/2a/24/62a2479280892ddcdd11af497e0df4983deac597.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4748705?eventDateTime=27.05.2026%20%2009:30%20-%2011:30",
     "sources": [
       {
@@ -482,7 +482,7 @@
     "categoryLabel": "Sport",
     "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-05-27",
-    "time": "19:00 - 20:00",
+    "time": "19:00-20:00",
     "locationName": "Sportplatz Rheinau",
     "municipality": "Thusis",
     "lat": 46.6972,
@@ -544,6 +544,96 @@
     "organizerUrl": "http://www.gbde.ch"
   },
   {
+    "id": 1779715101782,
+    "title": "Kranzen für Fronleichnam",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Kranzen für Fronleichnam",
+    "date": "2026-05-27",
+    "time": "08:00-18:00",
+    "locationName": "Kirch- und Kulturzentrum Sentupada",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/society.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=27.05.2026%20%2008:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=27.05.2026%20%2008:00%20-%2018:00"
+      }
+    ]
+  },
+  {
+    "id": 1779715141659,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und sich auf das Wesentliche besinnen. Mittwochs vom 7. Januar bis 24. Juni vierzehntäglich.",
+    "date": "2026-05-27",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4626921?eventDateTime=27.05.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4626921?eventDateTime=27.05.2026%20%2018:00%20-%2019:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715282438,
+    "title": "Kirchgemeindeversammlung",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Bitte reservieren Sie sich den 27. Mai 2026 für die Kirchgemeinde. Wir freuen uns auf Ihre Teilnahme. Der Kirchgemeindevorstand",
+    "date": "2026-05-27",
+    "time": "19:30",
+    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/5/ed/5f/5ed5f88c9ac363dc5bd1b034cee65efc6a39d413.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4599755?eventDateTime=27.05.2026%20%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4599755?eventDateTime=27.05.2026%20%2019:30"
+      }
+    ],
+    "organizerUrl": "http://www.zizers-reformiert.ch"
+  },
+  {
+    "id": 1779715283163,
+    "title": "Bibel-Teilen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "\"Wenn wir zusammenkommen, um das Evangelium miteinander zu lesen, tun wir das nicht, um Studien zu betreiben, sondern um bei Ihm Zuflucht zu finden. Betend, suchend, hörend.\" (Madeleine Delbrêl)",
+    "date": "2026-05-27",
+    "time": "19:30",
+    "locationName": "Kath. Kirchgemeindehaus",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/12/3d/7123d6adb61a6699e1b90c8bdce0fc0e13ae0fb9_841945659.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3335858?eventDateTime=27.05.2026%20%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3335858?eventDateTime=27.05.2026%20%2019:30"
+      }
+    ],
+    "organizerUrl": "https://www.zizers-reformiert.ch"
+  },
+  {
     "id": 1779538448265,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
@@ -556,7 +646,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=28.05.2026%20%2018:00",
     "sources": [
       {
@@ -572,7 +662,7 @@
     "categoryLabel": "Sport",
     "description": "Unser erfahrener Mechaniker zeigt dir Schritt für Schritt, wie du deine Bremsleistung optimierst, Bremsbeläge wechselst und die richtigen Bremsflüssigkeiten verwendest. Anmeldung nötig.",
     "date": "2026-05-28",
-    "time": "19:00 - 21:00",
+    "time": "19:00-21:00",
     "locationName": "Sportwerkstatt Thusis",
     "municipality": "Thusis",
     "lat": 46.8488,
@@ -612,10 +702,55 @@
     ]
   },
   {
+    "id": 1779715143053,
+    "title": "Ökumenische Krabbelkirche",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ökumenische Krabbelkirche erzählt “Hilf mir, kleine Ente\"",
+    "date": "2026-05-29",
+    "time": "16:00",
+    "locationName": "Evang.-ref. Kirche Felsberg",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/7/54/2e/7542e092456b5d806b29c8179ad3b8016ed0fc9a.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4530023?eventDateTime=29.05.2026%20%2016:00",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4530023?eventDateTime=29.05.2026%20%2016:00"
+      }
+    ]
+  },
+  {
+    "id": 1779715144098,
+    "title": "Ökumenische Kinderkirche KiKi",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-29",
+    "time": "19:00-21:00",
+    "locationName": "Evang.-ref. Kirche Felsberg",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/8/b8/8a/8b88a5ffed14a5867cf829b91c9bb3796bf1710e.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4530091?eventDateTime=29.05.2026%20%2019:00%20-%2021:00",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4530091?eventDateTime=29.05.2026%20%2019:00%20-%2021:00"
+      }
+    ],
+    "organizerUrl": "https://www.kirchefelsberg.ch/Anmeldungen/Anmeldung-KiKiTe/"
+  },
+  {
     "id": 1779569149421,
     "title": "LANDI Fest 2026 Landquart",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Am 30. Mai 2026 wird gefeiert, getanzt und mitgesungen!",
     "date": "2026-05-30",
     "time": "Siehe Beschreibung",
@@ -661,11 +796,11 @@
   {
     "id": 1779703708836,
     "title": "Jahreskonzert 2026",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
     "description": "Jahreskonzert der Musikschule Imboden",
     "date": "2026-05-30",
-    "time": "19:00 - 22:00",
+    "time": "19:00-22:00",
     "locationName": "Mehrzweckhalle Tircal",
     "municipality": "Domat/Ems",
     "lat": 46.8354,
@@ -728,8 +863,8 @@
   {
     "id": 1779537999814,
     "title": "Bewegte Meditation",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Im Chorraum der Kirche lassen wir Musik durch den Körper fliessen und bringen diese zum Ausdruck. Präsent in der Bewegung öffnen wir unser Herz nach innen, oben und aussen. Es sind keinerlei Vorkenntnisse oder körperliche Fitness nötig - nur die Bereitschaft, sich einzulassen. Leitung: Magdalena Felix und Stefan Schori.",
     "date": "2026-05-31",
     "time": "17:00",
@@ -738,7 +873,7 @@
     "lat": 46.8285,
     "lng": 9.4069,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/0/4c/e9/04ce958ec892e07540a63b1381918c0ed008b256_929344008.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/4c/e9/04ce958ec892e07540a63b1381918c0ed008b256_929344008.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4766945?eventDateTime=31.05.2026%20%2017:00",
     "sources": [
       {
@@ -750,8 +885,8 @@
   {
     "id": 1779538449076,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-05-31",
     "time": "09:00-11:30",
@@ -760,7 +895,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=31.05.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -795,8 +930,8 @@
   {
     "id": 1779539774157,
     "title": "piCANTO goes \"Pop\"",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Konzert mit dem Vocal Ensemble piCANTOmit Band \"Betty and the Crumbs\", die ihr neues Programm präsentieren. Keine Reservation erforderlich.",
     "date": "2026-05-31",
     "time": "17:00",
@@ -843,7 +978,7 @@
     "categoryLabel": "Familie",
     "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
     "date": "2026-06-01",
-    "time": "14:00 - 16:00",
+    "time": "14:00-16:00",
     "locationName": "StoryThusis",
     "municipality": "Thusis",
     "lat": 46.6972,
@@ -860,13 +995,35 @@
     "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
   },
   {
+    "id": 1779715284906,
+    "title": "Montagskränzli",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "DOVIDA  - für alle, die zuhause Hilfe brauchen",
+    "date": "2026-06-01",
+    "time": "14:00",
+    "locationName": "Kath. Kirchgemeindehaus",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/46/b5/046b56b05e17a0467542b82707368bb10853fcf3_930289216.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4772243?eventDateTime=01.06.2026%20%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4772243?eventDateTime=01.06.2026%20%2014:00"
+      }
+    ]
+  },
+  {
     "id": 1779539776599,
     "title": "Learning Lunch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
     "description": "Diese Plattform wird von unterschiedlichen ReferentInnen genutzt, die gerne etwas zu teilen haben und mal mehr, mal weniger interaktiv mit den Teilnehmenden im Austausch stehen. Online-Anmeldung nötig",
     "date": "2026-06-02",
-    "time": "12:15 - 13:15",
+    "time": "12:15-13:15",
     "locationName": "Story Thusis",
     "municipality": "Thusis",
     "lat": 46.6925013,
@@ -883,13 +1040,35 @@
     "organizerUrl": "https://story-thusis.ch/events/"
   },
   {
+    "id": 1779715285847,
+    "title": "Abendgebet mit Liedern aus Taizé",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Leitung und Musik: Pfr. Adorjan Török, Dominique Cerveny, Ursina Hafner und Simon Wyss",
+    "date": "2026-06-02",
+    "time": "19:00",
+    "locationName": "Ev.-ref. Kirche Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/24/a8/f24a80c9786d3def51b6b36ebc82d529ead70620_784354802.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=02.06.2026%20%2019:00",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=02.06.2026%20%2019:00"
+      }
+    ]
+  },
+  {
     "id": 1779539778383,
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
     "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-06-03",
-    "time": "19:00 - 20:00",
+    "time": "19:00-20:00",
     "locationName": "Sportplatz Rheinau",
     "municipality": "Thusis",
     "lat": 46.6972,
@@ -901,6 +1080,28 @@
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4712749?eventDateTime=03.06.2026%20%2019:00%20-%2020:00"
+      }
+    ]
+  },
+  {
+    "id": 1779715287414,
+    "title": "Coiffeurschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partner - Coiffeur - Schieber in Zizers (Untervaz)",
+    "date": "2026-06-03",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902872617.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=03.06.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=03.06.2026%20%2018:30"
       }
     ]
   },
@@ -928,6 +1129,29 @@
     "organizerUrl": "https://www.volksmusighus.ch/event"
   },
   {
+    "id": 1779715165141,
+    "title": "Lebensraum für Pioniere - Kieswerk Untervaz",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Das Kieswerk Untervaz - welche Tiere und Pflanzen finden hier wider Erwarten eine geeignete Heimat?",
+    "date": "2026-06-04",
+    "time": "18:45 - 20:45",
+    "locationName": "Kieswerk Untervaz",
+    "municipality": "Untervaz",
+    "lat": 46.9239284,
+    "lng": 9.5548559,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/1b/7c/31b7c293d0431362b87d6fd5a32fd3d8d4ecc424_792555675.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/untervaz/4897/4704683?eventDateTime=04.06.2026%20%2018:45%20-%2020:45",
+    "sources": [
+      {
+        "name": "LocalCities-Untervaz",
+        "url": "https://www.localcities.ch/de/veranstaltungen/untervaz/4897/4704683?eventDateTime=04.06.2026%20%2018:45%20-%2020:45"
+      }
+    ],
+    "organizerUrl": "https://www.pronatura-gr.ch/de/lebensraum-fuer-pioniere-kieswerk-untervaz?startDate=04.06.2026&amp;endDate=04.06.2026"
+  },
+  {
     "id": 1779538452149,
     "title": "Natur verbindet – Pflege mit uns Lenzerheidner Alpweiden für mehr Naturvielfalt",
     "category": "stage",
@@ -940,7 +1164,7 @@
     "lat": 46.7596313,
     "lng": 9.5598212,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/15/37/f1537a3bb1834ac180a08eb6c879e3d576e0c5d9_930509428.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/15/37/f1537a3bb1834ac180a08eb6c879e3d576e0c5d9_930509428.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4774039?eventDateTime=05.06.2026%20%2013:00%20-%2017:00",
     "sources": [
       {
@@ -973,6 +1197,29 @@
     "organizerUrl": "https://crestas-biker-fruenda.jimdoweb.com"
   },
   {
+    "id": 1779715508290,
+    "title": "Geführte Wanderung zur Bergblumenpracht",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Wanderleiterin Sandra Casutt führt uns zwischen blühenden Bergwiesen von Seewis Valcaus aufs Malanser Älpli.",
+    "date": "2026-06-05",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/f6/fd/3f6fd84c66050c7b07cff34dede062838d81880a_927607380.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757175?eventDateTime=05.06.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757175?eventDateTime=05.06.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
+  },
+  {
     "id": 1779538453811,
     "title": "2. Kinder Olympiade in Churwalden",
     "category": "family",
@@ -985,7 +1232,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/a/90/82/a9082efb2083760ffc3198dd3572b967fb19ffbe_915073865.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/90/82/a9082efb2083760ffc3198dd3572b967fb19ffbe_915073865.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4678139?eventDateTime=06.06.2026",
     "sources": [
       {
@@ -1061,10 +1308,55 @@
     ]
   },
   {
+    "id": 1779715102991,
+    "title": "9. Internationales Gespanntreffen 2026, CH-7013 Domat/Ems",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Gerne laden wir euch zum 9. Internationalen Gespanntreffen 2026, \nvom Fr. 5. Juni, 16.00 Uhr - So 7. Juni, 11.00 Uhr ein.\nWeitere Infos auf unserer Homepage. www.crestas-biker.ch",
+    "date": "2026-06-06",
+    "time": "Siehe Beschreibung",
+    "locationName": "Schützenhaus Gonda",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/f7/46/9f74681144d854f7d712ca40d3789c88ece63a20_885177604.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=06.06.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=06.06.2026"
+      }
+    ],
+    "organizerUrl": "https://crestas-biker-fruenda.jimdoweb.com"
+  },
+  {
+    "id": 1779715144747,
+    "title": "Ökumenische Minikirche",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "«Der Esel Napoleon». Eingeladen sind Kinder ab Kindergarten und 1.+2. Klasse. Flyer werden verteilt Kindergarten+Religion Unterstufe. Anmeldung www.kirchefelsberg.ch/agenda/",
+    "date": "2026-06-06",
+    "time": "14:00-16:00",
+    "locationName": "Schulhaus Felsberg",
+    "municipality": "Felsberg",
+    "lat": 47.0583004,
+    "lng": 8.3146044,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/9/73/be/973befcd2dc2a386b40a44c361c9369cf5655c9d.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4530093?eventDateTime=06.06.2026%20%2014:00%20-%2016:00",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4530093?eventDateTime=06.06.2026%20%2014:00%20-%2016:00"
+      }
+    ]
+  },
+  {
     "id": 1779538455073,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-07",
     "time": "09:00-11:30",
@@ -1073,7 +1365,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=07.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1112,7 +1404,7 @@
     "categoryLabel": "Märkte",
     "description": "auf dem Sentupadaplatz, 11.00 – 14.00h",
     "date": "2026-06-07",
-    "time": "11:00 - 14:00",
+    "time": "11:00-14:00",
     "locationName": "Kirch- und Kulturzentrum Sentupada",
     "municipality": "Domat/Ems",
     "lat": 46.8354,
@@ -1151,13 +1443,36 @@
     ]
   },
   {
+    "id": 1779715104322,
+    "title": "9. Internationales Gespanntreffen 2026, CH-7013 Domat/Ems",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Gerne laden wir euch zum 9. Internationalen Gespanntreffen 2026, \nvom Fr. 5. Juni, 16.00 Uhr - So 7. Juni, 11.00 Uhr ein.\nWeitere Infos auf unserer Homepage. www.crestas-biker.ch",
+    "date": "2026-06-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Schützenhaus Gonda",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/f7/46/9f74681144d854f7d712ca40d3789c88ece63a20_885177604.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=07.06.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=07.06.2026"
+      }
+    ],
+    "organizerUrl": "https://crestas-biker-fruenda.jimdoweb.com"
+  },
+  {
     "id": 1779539779257,
     "title": "Spiel- und Jassnachmittag",
     "category": "family",
     "categoryLabel": "Familie",
     "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
     "date": "2026-06-08",
-    "time": "14:00 - 16:00",
+    "time": "14:00-16:00",
     "locationName": "StoryThusis",
     "municipality": "Thusis",
     "lat": 46.6972,
@@ -1196,10 +1511,33 @@
     ]
   },
   {
-    "id": 1779539780326,
-    "title": "\"Buchstart\" für kleine Bibliothekbesucher*innen",
+    "id": 1779715288014,
+    "title": "ökumenische Kinderkirche",
     "category": "family",
     "categoryLabel": "Familie",
+    "description": "Wir wollen unseren Glauben gemeinsam mit den Kleinen feiern.",
+    "date": "2026-06-08",
+    "time": "16:15",
+    "locationName": "Ev.-ref. Kirche Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/90/51/990516bc66ff403477f58f27c8560a92c9f74232_932762786.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4394697?eventDateTime=08.06.2026%20%2016:15",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4394697?eventDateTime=08.06.2026%20%2016:15"
+      }
+    ],
+    "organizerUrl": "https://zizers-reformiert.ch/"
+  },
+  {
+    "id": 1779539780326,
+    "title": "\"Buchstart\" für kleine Bibliothekbesucher*innen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Eine Buchveranstaltung mit Reimen, Versen und Liedern für die Kleinsten und eine Begleitperson. Keine Anmeldung erforderlich.",
     "date": "2026-06-09",
     "time": "15:00",
@@ -1225,7 +1563,7 @@
     "categoryLabel": "Sport",
     "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-06-10",
-    "time": "19:00 - 20:00",
+    "time": "19:00-20:00",
     "locationName": "Sportplatz Rheinau",
     "municipality": "Thusis",
     "lat": 46.6972,
@@ -1287,19 +1625,86 @@
     "organizerUrl": "https://www.dunnas-a-domat.ch"
   },
   {
+    "id": 1779715105676,
+    "title": "Gebetsgruppe",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-06-10",
+    "time": "07:15",
+    "locationName": "Evang.-ref. Kirche Domat",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/0/8b/12/08b12ea51bfade1a386272fae8a2299bb187d9f5.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/1477218?eventDateTime=10.06.2026%20%2007:15",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/1477218?eventDateTime=10.06.2026%20%2007:15"
+      }
+    ],
+    "organizerUrl": "https://www.ref-domat-ems.ch"
+  },
+  {
+    "id": 1779715146614,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und sich auf das Wesentliche besinnen. Mittwochs vom 7. Januar bis 24. Juni vierzehntäglich.",
+    "date": "2026-06-10",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4626925?eventDateTime=10.06.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4626925?eventDateTime=10.06.2026%20%2018:00%20-%2019:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715289693,
+    "title": "Jassen Partnerschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partnerschieber - wir jassen in Zizers (Untervaz)",
+    "date": "2026-06-10",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902849642.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=10.06.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=10.06.2026%20%2018:30"
+      }
+    ]
+  },
+  {
     "id": 1779539784492,
     "title": "Orts-, Kirchen- und Museumsführung",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
     "description": "Dorfführung mit Besichtigung der Kirche sowie Besuch des ältesten Walserhauses, das seit 15 Jahren als Dorfmuseum mit der grössten Sammlung antiker Lampen eingerichtet ist. Der Rundgang beinhaltet Informationen zur Besiedlung durch die Walser, zur Dorfgeschichte und zum Dorfbrand von Obermutten.",
     "date": "2026-06-11",
-    "time": "13:30 - 16:00",
+    "time": "13:30-16:00",
     "locationName": "ab Dorfbrunnen",
     "municipality": "Thusis",
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Erwachsene: CHF 10.00, Kinder: CHF 5.00 (in bar vor Ort zu bezahlen)",
-    "image": "https://www.localcities.ch/build/images/rough-border/rough-border-white.94f06061.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/f9/84/7f984db11c80c9b86c32abde6e17b9dd9261cb9a_917916248.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4695407?eventDateTime=11.06.2026%20%2013:30%20-%2016:00",
     "sources": [
       {
@@ -1315,7 +1720,7 @@
     "categoryLabel": "Sport",
     "description": "Ein sauber gewarteter Antrieb sorgt für präzise Schaltvorgänge und mehr Fahrspass. Lerne, Verschleiss früh zu erkennen und deinen Antrieb optimal zu pflegen. Anmeldung erforderlich bis 11.6., 12.00 h.",
     "date": "2026-06-11",
-    "time": "19:00 - 21:00",
+    "time": "19:00-21:00",
     "locationName": "Sportwerkstatt Thusis",
     "municipality": "Thusis",
     "lat": 46.8488,
@@ -1339,7 +1744,7 @@
     "categoryLabel": "Musik & Party",
     "description": "Feiere das Leben, dich und deine Frauen bei der Ladies-Night-Disco. DJane Martina Calonder legt auf. Keine Reservation erforderlich.",
     "date": "2026-06-11",
-    "time": "21:00 - 23:00",
+    "time": "21:00-23:00",
     "locationName": "Story Thusis",
     "municipality": "Thusis",
     "lat": 46.6925013,
@@ -1469,10 +1874,33 @@
     ]
   },
   {
+    "id": 1779715290638,
+    "title": "CEVI Jungschar Fröschli Zizers",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Details siehe Anschlagkasten oder www.cevi-zizers.ch",
+    "date": "2026-06-13",
+    "time": "14:00",
+    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/5/34/ea/534ea1a22e483d70d3340ddca12dcbf72f894be7.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4221187?eventDateTime=13.06.2026%20%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4221187?eventDateTime=13.06.2026%20%2014:00"
+      }
+    ],
+    "organizerUrl": "http://www.cevi-zizers.ch"
+  },
+  {
     "id": 1779538456855,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-14",
     "time": "09:00-11:30",
@@ -1481,7 +1909,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=14.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1503,7 +1931,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/d3/65/cd365f3d759d076ed123ac08b567f42313a286f9_839982124.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/d3/65/cd365f3d759d076ed123ac08b567f42313a286f9_839982124.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4501121?eventDateTime=14.06.2026%20%2014:00",
     "sources": [
       {
@@ -1564,13 +1992,13 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Erfahre Erstaunliches über das grösste Nagetier Europas. Bei dieser abwechslungsreichen Wanderung (6.8 km) auf schönen Waldwegen entlang dem Hinterrhein erfährst du Interessantes über die grössten europäischen Nagetiere. Unterwegs geniessen wir ein gemütliches Feierabendpicknick aus dem eigenen Rucksack.",
     "date": "2026-06-16",
-    "time": "17:25 - 21:00",
+    "time": "17:25-21:00",
     "locationName": "Reichenau-Tamins Bahnhof",
     "municipality": "Tamins",
     "lat": 46.8285,
     "lng": 9.4069,
     "price": "CHF 39.00 / Person; AHV-Bezüger:innen: CHF 35.00",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/3/85/3f/3853f40811e28dacf1fc97f15f267bedcb540429_910531727.jpeg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/85/3f/3853f40811e28dacf1fc97f15f267bedcb540429_910531727.jpeg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4652923?eventDateTime=16.06.2026%20%2017:25%20-%2021:00",
     "sources": [
       {
@@ -1578,6 +2006,95 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4652923?eventDateTime=16.06.2026%20%2017:25%20-%2021:00"
       }
     ]
+  },
+  {
+    "id": 1779715291512,
+    "title": "Abendgebet mit Liedern aus Taizé",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Leitung und Musik: Pfr. Adorjan Török, Dominique Cerveny, Ursina Hafner und Simon Wyss",
+    "date": "2026-06-16",
+    "time": "19:00",
+    "locationName": "Ev.-ref. Kirche Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/24/a8/f24a80c9786d3def51b6b36ebc82d529ead70620_784354802.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=16.06.2026%20%2019:00",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=16.06.2026%20%2019:00"
+      }
+    ]
+  },
+  {
+    "id": 1779715292441,
+    "title": "Coiffeurschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partner - Coiffeur - Schieber in Zizers (Untervaz)",
+    "date": "2026-06-17",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902872617.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=17.06.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=17.06.2026%20%2018:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715147799,
+    "title": "Gemeinschaftszmittag",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Restaurant Calanda, die Evangelische und Katholische Kirchgemeinde sowie die Bürgergemeinde laden alle Felsberger Senioren ab 60 zum vergünstigten Mittagessen ein.",
+    "date": "2026-06-18",
+    "time": "12:00",
+    "locationName": "Restaurant Calanda",
+    "municipality": "Felsberg",
+    "lat": 46.8449566,
+    "lng": 9.4814746,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/7b/96/07b96f89d2718b6a83fff655eeb50ba9e2cce2d6_700675671.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4735539?eventDateTime=18.06.2026%20%2012:00",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4735539?eventDateTime=18.06.2026%20%2012:00"
+      }
+    ]
+  },
+  {
+    "id": 1779715293251,
+    "title": "Mittagstisch für Erwachsene",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Unser Mittagstisch ist ein geselliger, gemütlicher Treffpunkt, der einmal im Monat für Sie gedeckt wird.",
+    "date": "2026-06-18",
+    "time": "11:45",
+    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/fd/a9/9fda959f4da161bee0a7d546d51a0dc0ddea6881_917869352.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339750?eventDateTime=18.06.2026%20%2011:45",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339750?eventDateTime=18.06.2026%20%2011:45"
+      }
+    ],
+    "organizerUrl": "https://zizers-reformiert.ch/"
   },
   {
     "id": 1779707215848,
@@ -1603,10 +2120,33 @@
     "organizerUrl": "https://x.com/share?text=%22Steve Arvey Trio (USA/CZ)%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/steve-arvey-trio-usa-cz-7423705394021724427.html&amp;via=eventfrog_net"
   },
   {
+    "id": 1779715509575,
+    "title": "Exkursion zum ‘Verhalten gegenüber Herdenschutzhunden’",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Jan Boner, Berater und Lehrer zum Thema ‘Herdenschutz’, vermittelt wichtige Infos zu angebrachtem Verhalten gegenüber Herdenschutzhunden, Kulturlandpflege, Alpwirtschaft und Grossraubtieren.",
+    "date": "2026-06-20",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/65/a7/b65a76a5cc24255b1bd072dd7e0c876c6dab524a_927607362.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757181?eventDateTime=20.06.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757181?eventDateTime=20.06.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
+  },
+  {
     "id": 1779538458356,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-21",
     "time": "09:00-11:30",
@@ -1615,7 +2155,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=21.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1692,6 +2232,51 @@
     ]
   },
   {
+    "id": 1779715148695,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und sich auf das Wesentliche besinnen. Mittwochs vom 7. Januar bis 24. Juni vierzehntäglich.",
+    "date": "2026-06-24",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4626927?eventDateTime=24.06.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4626927?eventDateTime=24.06.2026%20%2018:00%20-%2019:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715294032,
+    "title": "Bibel-Teilen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "\"Wenn wir zusammenkommen, um das Evangelium miteinander zu lesen, tun wir das nicht, um Studien zu betreiben, sondern um bei Ihm Zuflucht zu finden. Betend, suchend, hörend.\" (Madeleine Delbrêl)",
+    "date": "2026-06-24",
+    "time": "19:30",
+    "locationName": "Kath. Kirchgemeindehaus",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/12/3d/7123d6adb61a6699e1b90c8bdce0fc0e13ae0fb9_841945659.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3335858?eventDateTime=24.06.2026%20%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3335858?eventDateTime=24.06.2026%20%2019:30"
+      }
+    ],
+    "organizerUrl": "https://www.zizers-reformiert.ch"
+  },
+  {
     "id": 1779538459936,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
@@ -1704,7 +2289,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=25.06.2026%20%2018:00",
     "sources": [
       {
@@ -1716,8 +2301,8 @@
   {
     "id": 1779538001779,
     "title": "Alpinwanderkurs in der Tektonikarena Sardona",
-    "category": "sport",
-    "categoryLabel": "Sport",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
     "date": "2026-06-26",
     "time": "Start auf den ÖV abgestimmt",
@@ -1726,7 +2311,7 @@
     "lat": 46.8285,
     "lng": 9.4069,
     "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381?eventDateTime=26.06.2026",
     "sources": [
       {
@@ -1829,8 +2414,8 @@
   {
     "id": 1779567487352,
     "title": "Alpinwanderkurs in der Tektonikarena Sardona",
-    "category": "sport",
-    "categoryLabel": "Sport",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
     "date": "2026-06-27",
     "time": "Siehe Beschreibung",
@@ -1839,7 +2424,7 @@
     "lat": 46.8298784,
     "lng": 9.4068316,
     "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
     "sources": [
       {
@@ -1861,7 +2446,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=28.06.2026%20%2009:00",
     "sources": [
       {
@@ -1873,8 +2458,8 @@
   {
     "id": 1779538462117,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-06-28",
     "time": "09:00-11:30",
@@ -1883,7 +2468,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=28.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1905,7 +2490,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Kosten: CHF 15.00 Erwachsene, CHF 10.00 Kinder (13 bis 16 Jahre)",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=28.06.2026%20%2010:00",
     "sources": [
       {
@@ -1963,8 +2548,8 @@
   {
     "id": 1779567488467,
     "title": "Alpinwanderkurs in der Tektonikarena Sardona",
-    "category": "sport",
-    "categoryLabel": "Sport",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
     "date": "2026-06-28",
     "time": "Siehe Beschreibung",
@@ -1973,7 +2558,7 @@
     "lat": 46.8298784,
     "lng": 9.4068316,
     "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
     "sources": [
       {
@@ -2189,8 +2774,8 @@
   {
     "id": 1779538464380,
     "title": "Dorfführung Churwalden",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch Bereits 15 v. Chr. führte eine bedeutende Alpenroute durch das Tal und verband Nord und Süd über den Septimerpass. Säumer, Händler und Pilger brachten Wohlstand, Waren und Geschichten in die Region. Mit dem Ausbau der Verkehrswege und dem Einsatz von Kutschen gewann Churwalden weiter an Bedeutung: Für die über 800 Kutschenpferde mussten grosse Heumengen bereitgestellt werden. Der aufk...",
     "date": "2026-07-04",
     "time": "17:00",
@@ -2199,7 +2784,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Private Führungen: CHF 180.00, Termine nach Vereinbarung",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=04.07.2026%20%2017:00",
     "sources": [
       {
@@ -2209,10 +2794,33 @@
     ]
   },
   {
+    "id": 1779715511149,
+    "title": "Alpwanderung mit Besuch beim Alpmeister",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit Sandra Casutt, Wanderleiterin",
+    "date": "2026-07-04",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/03/4e/f034ea405e62f3373efcc87b64d87f9caef0c0db_927604121.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757185?eventDateTime=04.07.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757185?eventDateTime=04.07.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
+  },
+  {
     "id": 1779538466151,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
     "date": "2026-07-05",
     "time": "09:00-11:30",
@@ -2221,7 +2829,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2261,13 +2869,13 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
     "date": "2026-07-12",
-    "time": "09:00 - 11:30",
+    "time": "09:00-11:30",
     "locationName": "Bergbaiz",
     "municipality": "Churwalden",
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=12.07.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2285,13 +2893,13 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Entdecke die verborgenen Kräfte, die in den aromatischen Sommerkräutern stecken",
     "date": "2026-07-12",
-    "time": "12:05 - 16:00",
+    "time": "12:05-16:00",
     "locationName": "Bonaduz Bahnhof",
     "municipality": "Bonaduz",
     "lat": 46.8103405,
     "lng": 9.3979824,
     "price": "CHF 63.00 / Person; AHV-Bezüger:innen: CHF 57.00 Im Preis inbegriffen: Instruktion/Betreuung durch Fachperson, Info- und Verbrauchsmaterial, kleiner Kräutersnack",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/57/fe/357fe13338d8a52c22b56772d6ccc39c6237fe2c_910531731.jpeg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4652925?eventDateTime=12.07.2026%20%2012:05%20-%2016:00",
     "sources": [
       {
@@ -2347,6 +2955,29 @@
     "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020016343042913#/"
   },
   {
+    "id": 1779715512087,
+    "title": "Steine schleifen auf dem Älpli",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit Sandra Casutt, Wanderleiterin",
+    "date": "2026-07-15",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn",
+    "municipality": "Malans",
+    "lat": 46.9993624,
+    "lng": 9.5789755,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/cc/78/acc7835b3ce1fefc08f341ae3f71a92fe07b8d10_927604135.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757187?eventDateTime=15.07.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757187?eventDateTime=15.07.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
+  },
+  {
     "id": 1779538468114,
     "title": "Musik & Märli im Wald 2026",
     "category": "music",
@@ -2359,7 +2990,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=16.07.2026%20%2014:30",
     "sources": [
       {
@@ -2382,7 +3013,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=18.07.2026%20%2017:00",
     "sources": [
       {
@@ -2672,8 +3303,8 @@
   {
     "id": 1779538709333,
     "title": "Rapid Openair 2026",
-    "category": "sport",
-    "categoryLabel": "Sport",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Das Rapid Openair ist ein kleines feines Musik- und Kulturfestival mit einmaligem Charakter und speziellem Charme mitten in Graubünden. Der Name geht auf den Anfang des Openairs zurück, als der Rapid noch als Bühne diente. Seit vielen Jahren nun bauen wir diese selber, der Rapid ist aber immer noch wichtiger Bestandteil und kommt als Transportmittel zum Einsatz. Gross geschrieben werden bei uns die Werte Nachhaltigkeit und Vielfältigkeit - sei dies in den Bereichen Logistik, Kulinarik, Booking. Das Festival beginnt am Freitag 31. Juli und wird mit einem für alle inbegriffenen Frühstück am Sonntag abgerundet. Komm auch und werde Teil der Rapid Famiglia",
     "date": "2026-07-31",
     "time": "15:00",
@@ -2682,7 +3313,7 @@
     "lat": 46.8124,
     "lng": 9.3986,
     "price": "CHF 49.00",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/b8/8c/0b88caba0a660f44b6e7b3c2d4de28e6e12c9a01_926223274.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4747943?eventDateTime=31.07.2026%20%2015:00",
     "sources": [
       {
@@ -2717,8 +3348,8 @@
   {
     "id": 1779538711014,
     "title": "Rapid Openair 2026",
-    "category": "sport",
-    "categoryLabel": "Sport",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
     "description": "Das Rapid Openair ist ein kleines feines Musik- und Kulturfestival mit einmaligem Charakter und speziellem Charme mitten in Graubünden. Der Name geht auf den Anfang des Openairs zurück, als der Rapid noch als Bühne diente. Seit vielen Jahren nun bauen wir diese selber, der Rapid ist aber immer noch wichtiger Bestandteil und kommt als Transportmittel zum Einsatz. Gross geschrieben werden bei uns die Werte Nachhaltigkeit und Vielfältigkeit - sei dies in den Bereichen Logistik, Kulinarik, Booking. Das Festival beginnt am Freitag 31. Juli und wird mit einem für alle inbegriffenen Frühstück am Sonntag abgerundet. Komm auch und werde Teil der Rapid Famiglia",
     "date": "2026-08-01",
     "time": "14:00",
@@ -2727,7 +3358,7 @@
     "lat": 46.8124,
     "lng": 9.3986,
     "price": "CHF 49.00",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/b8/8c/0b88caba0a660f44b6e7b3c2d4de28e6e12c9a01_926223274.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4747943?eventDateTime=01.08.2026%20%2014:00",
     "sources": [
       {
@@ -2758,6 +3389,29 @@
       }
     ],
     "organizerUrl": "https://www.lescha-restaurant.ch"
+  },
+  {
+    "id": 1779715513293,
+    "title": "Abendbetrieb auf dem Älpli",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Abendbetrieb auf dem Älpli",
+    "date": "2026-08-01",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/c6/4e/0c64ee31459ed8ce7f84efba29e5003e5e2e83d9_927604130.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757189?eventDateTime=01.08.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757189?eventDateTime=01.08.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
   },
   {
     "id": 1779538477664,
@@ -2831,6 +3485,28 @@
     "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020016343042913#/"
   },
   {
+    "id": 1779715294874,
+    "title": "Jassen Partnerschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partnerschieber - wir jassen in Zizers (Untervaz)",
+    "date": "2026-08-05",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902849642.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=05.08.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=05.08.2026%20%2018:30"
+      }
+    ]
+  },
+  {
     "id": 1779538479622,
     "title": "Musik & Märli im Wald 2026",
     "category": "music",
@@ -2874,6 +3550,29 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4762029?eventDateTime=07.08.2026"
       }
     ]
+  },
+  {
+    "id": 1779715514006,
+    "title": "JazzChur @ Sternen Café",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Der JazzChurSommer 2026.",
+    "date": "2026-08-07",
+    "time": "17:30",
+    "locationName": "Weinbar und Café Sternen PopUp!",
+    "municipality": "Malans",
+    "lat": 46.9803,
+    "lng": 9.5658,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/f0/12/cf012bfeccfc2ca12b7b067a78ceaf7e69690e4a_932697406.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=07.08.2026%20%2017:30",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=07.08.2026%20%2017:30"
+      }
+    ],
+    "ticketUrl": "https://www.sternen.cafe/"
   },
   {
     "id": 1779538481790,
@@ -2933,7 +3632,7 @@
     "lat": 46.8354,
     "lng": 9.4476,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/2/d0/25/2d0257b74b07c989f4dcf5294555f8b154ea256f_931990950.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/d0/25/2d0257b74b07c989f4dcf5294555f8b154ea256f_931990950.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4632547?eventDateTime=09.08.2026%20%2011:00",
     "sources": [
       {
@@ -3011,6 +3710,50 @@
     ]
   },
   {
+    "id": 1779715149332,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und in der Stille sich auf das Wesentliche besinnen. Mittwochs vom 12. August bis 16. Dezember vierzehntäglich.",
+    "date": "2026-08-12",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787495?eventDateTime=12.08.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787495?eventDateTime=12.08.2026%20%2018:00%20-%2019:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715296253,
+    "title": "Coiffeurschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partner - Coiffeur - Schieber in Zizers (Untervaz)",
+    "date": "2026-08-12",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902872617.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=12.08.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=12.08.2026%20%2018:30"
+      }
+    ]
+  },
+  {
     "id": 1779538484569,
     "title": "Dorfführung Churwalden",
     "category": "stage",
@@ -3056,6 +3799,74 @@
     ],
     "organizerUrl": "https://www.bergbaiz.ch",
     "ticketUrl": "https://www.bergbaiz.ch"
+  },
+  {
+    "id": 1779715296817,
+    "title": "Jassen Partnerschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partnerschieber - wir jassen in Zizers (Untervaz)",
+    "date": "2026-08-19",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902849642.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=19.08.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=19.08.2026%20%2018:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715515107,
+    "title": "JazzChur @ Sternen Café",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Der JazzChurSommer 2026.",
+    "date": "2026-08-21",
+    "time": "17:30",
+    "locationName": "Weinbar und Café Sternen PopUp!",
+    "municipality": "Malans",
+    "lat": 46.9803,
+    "lng": 9.5658,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/f0/12/cf012bfeccfc2ca12b7b067a78ceaf7e69690e4a_932697406.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30"
+      }
+    ],
+    "ticketUrl": "https://www.sternen.cafe/"
+  },
+  {
+    "id": 1779715516710,
+    "title": "Älpli-Abend für 50+ Dating-Willige",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Älpli-Abend für 50+ Dating-Willige",
+    "date": "2026-08-21",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn",
+    "municipality": "Malans",
+    "lat": 46.9993624,
+    "lng": 9.5789755,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/fd/9a/4fd9a60e90dd189c0d857d3dcb51a716b4844887_927604144.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
   },
   {
     "id": 1779538486631,
@@ -3105,6 +3916,50 @@
     "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Fuehrung-Brambrueesch_asd-23806084"
   },
   {
+    "id": 1779715150173,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und in der Stille sich auf das Wesentliche besinnen. Mittwochs vom 12. August bis 16. Dezember vierzehntäglich.",
+    "date": "2026-08-26",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787499?eventDateTime=26.08.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787499?eventDateTime=26.08.2026%20%2018:00%20-%2019:30"
+      }
+    ]
+  },
+  {
+    "id": 1779715298276,
+    "title": "Coiffeurschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partner - Coiffeur - Schieber in Zizers (Untervaz)",
+    "date": "2026-08-26",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902872617.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=26.08.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617299?eventDateTime=26.08.2026%20%2018:30"
+      }
+    ]
+  },
+  {
     "id": 1779538488830,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
@@ -3151,6 +4006,28 @@
     "organizerUrl": "https://x.com/share?text=%22Phil Gerbers Blued&ouml;g (CH)%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/phil-gerbers-bluedoeg-ch-7464601222521069498.html&amp;via=eventfrog_net"
   },
   {
+    "id": 1779715299159,
+    "title": "Konfirmationsunterricht",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit den Jugendlichen des Konfirmationskurses \"Bewegung\" , Konfirmation 2027",
+    "date": "2026-08-27",
+    "time": "Siehe Beschreibung",
+    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/d0/dd/fd0dde5f0505608a0ac8ad6402952d4b1e241974_917876823.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=27.08.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=27.08.2026"
+      }
+    ]
+  },
+  {
     "id": 1779538489701,
     "title": "Parpaner Sunntigsmarkt",
     "category": "markets",
@@ -3195,6 +4072,51 @@
     ],
     "organizerUrl": "https://www.bergbaiz.ch",
     "ticketUrl": "https://www.bergbaiz.ch"
+  },
+  {
+    "id": 1779715300968,
+    "title": "Ciclistas am Mittwoch, Coffee&Bike on Fire",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Ausfahrt mit der Coffee&Bike Gruppe aus Zizers. Ob Schrottvelo, Cityflitzer, Hightech-Bike oder raketenstarkes E-Bike. Bei uns sind alle Drahtesel herzlich willkommen.",
+    "date": "2026-09-02",
+    "time": "18:00-21:30",
+    "locationName": "Bahnhof Zizers",
+    "municipality": "Zizers",
+    "lat": 46.9297792,
+    "lng": 9.5606304,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/a6/93/fa69336140c15bb25f9123254f8fc60662e74f66_868493952.jpeg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4762715?eventDateTime=02.09.2026%20%2018:00%20-%2021:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4762715?eventDateTime=02.09.2026%20%2018:00%20-%2021:30"
+      }
+    ],
+    "organizerUrl": "https://www.graubuenden.ch/de/las-ciclistas/mittwoch-events"
+  },
+  {
+    "id": 1779715301296,
+    "title": "Jassen Partnerschieber Zizers",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Partnerschieber - wir jassen in Zizers (Untervaz)",
+    "date": "2026-09-02",
+    "time": "18:30",
+    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
+    "municipality": "Zizers",
+    "lat": 46.9348,
+    "lng": 9.5667,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902849642.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=02.09.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Zizers",
+        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=02.09.2026%20%2018:30"
+      }
+    ]
   },
   {
     "id": 1779569150637,
@@ -3244,6 +4166,29 @@
     "ticketUrl": "https://www.bergbaiz.ch"
   },
   {
+    "id": 1779715517034,
+    "title": "Älplibahn-Fest",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-09-06",
+    "time": "11:30 - 17:00",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/e/b9/65/eb9656e8bb085e1697f3d7e12765e3a14ec73bc9_927607377.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757193?eventDateTime=06.09.2026%20%2011:30%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757193?eventDateTime=06.09.2026%20%2011:30%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
+  },
+  {
     "id": 1779707215659,
     "title": "Laura Evans – Out of the Dark Tour 2026",
     "category": "music",
@@ -3265,6 +4210,28 @@
       }
     ],
     "organizerUrl": "https://x.com/share?text=%22Laura Evans &ndash; Out of the Dark Tour 2026%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/laura-evans-out-of-the-dark-tour-2026-7452237980524085561.html&amp;via=eventfrog_net"
+  },
+  {
+    "id": 1779715151032,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und in der Stille sich auf das Wesentliche besinnen. Mittwochs vom 12. August bis 16. Dezember vierzehntäglich.",
+    "date": "2026-09-09",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787501?eventDateTime=09.09.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787501?eventDateTime=09.09.2026%20%2018:00%20-%2019:30"
+      }
+    ]
   },
   {
     "id": 1779538493150,
@@ -3359,6 +4326,29 @@
       }
     ],
     "organizerUrl": "https://x.com/share?text=%22Luigi Panettone &ndash; Premiere: Elvis&rsquo; 68er Comeback Special%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/luigi-panettone-premiere-elvis-68er-comeback-special-7455535959133696157.html&amp;via=eventfrog_net"
+  },
+  {
+    "id": 1779715518001,
+    "title": "Wanderung ins Abendlicht",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit Sandra Casutt, Wanderleiterin",
+    "date": "2026-09-18",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/59/73/35973f913e6a5cc13a85cf1f21941e96eec0e036_927607374.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757195?eventDateTime=18.09.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757195?eventDateTime=18.09.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
   },
   {
     "id": 1779538495501,
@@ -3569,6 +4559,29 @@
     "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
   },
   {
+    "id": 1779715165652,
+    "title": "Frauenarbeitskreis am Herbstmarkt Untervaz",
+    "category": "markets",
+    "categoryLabel": "Märkte",
+    "description": "Der Frauenarbeitskreis ist zu Gast am Herbstmarkt Untervaz und verkauft seine gestrickten, gehäkelten und gebastelten Handarbeiten.",
+    "date": "2026-10-03",
+    "time": "09:00 - 17:00",
+    "locationName": "Herbstmarkt Untervaz",
+    "municipality": "Untervaz",
+    "lat": 46.9287,
+    "lng": 9.5369,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/95/09/59509ec761e834875b5c2bc04a5a488dc9f4315a_842320188.jpeg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/untervaz/4897/4631577?eventDateTime=03.10.2026%20%2009:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Untervaz",
+        "url": "https://www.localcities.ch/de/veranstaltungen/untervaz/4897/4631577?eventDateTime=03.10.2026%20%2009:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles"
+  },
+  {
     "id": 1779538502638,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "stage",
@@ -3591,6 +4604,29 @@
     ],
     "organizerUrl": "https://www.bergbaiz.ch",
     "ticketUrl": "https://www.bergbaiz.ch"
+  },
+  {
+    "id": 1779715519811,
+    "title": "Sonnenaufgang auf dem Vilan",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit Sandra Casutt, Wanderleiterin",
+    "date": "2026-10-04",
+    "time": "Siehe Beschreibung",
+    "locationName": "Älplibahn - Talstation",
+    "municipality": "Malans",
+    "lat": 46.9861825,
+    "lng": 9.5694943,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/da/b3/9dab3008b87110a3725d62ba2ada551c6140a5a7_927607366.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757197?eventDateTime=04.10.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757197?eventDateTime=04.10.2026"
+      }
+    ],
+    "organizerUrl": "https://www.aelplibahn.ch/"
   },
   {
     "id": 1779538502936,
@@ -3645,13 +4681,13 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Erlebe die Magie der Herbstkräuter und lasse dich von ihrer Vielfalt inspirieren",
     "date": "2026-10-11",
-    "time": "12:05 - 16:00",
+    "time": "12:05-16:00",
     "locationName": "Bonaduz Bahnhof",
     "municipality": "Bonaduz",
     "lat": 46.8103405,
     "lng": 9.3979824,
     "price": "CHF 63.00 / Person; AHV-Bezüger:innen: CHF 57.00 Im Preis inbegriffen: Instruktion/Betreuung durch Fachperson, Info- und Verbrauchsmaterial, kleiner Kräutersnack",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/20/21/c2021ee013741bf7b72bc2d3e778327f5c830045_910535032.jpeg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4652949?eventDateTime=11.10.2026%20%2012:05%20-%2016:00",
     "sources": [
       {
@@ -3683,6 +4719,29 @@
     ],
     "organizerUrl": "https://www.bergbaiz.ch",
     "ticketUrl": "https://www.bergbaiz.ch"
+  },
+  {
+    "id": 1779715520702,
+    "title": "Herrschäftler Friedensgebet in Malans",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Pfr. Johannes Bardill",
+    "date": "2026-10-21",
+    "time": "19:00",
+    "locationName": "Evang.-ref. Kirche Malans",
+    "municipality": "Malans",
+    "lat": 46.9803,
+    "lng": 9.5658,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/a8/b6/8a8b692fb54425ea889f12d2d2b32bd6d60b6c14_743433295.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4734385?eventDateTime=21.10.2026%20%2019:00",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4734385?eventDateTime=21.10.2026%20%2019:00"
+      }
+    ],
+    "organizerUrl": "https://www.maienfeld-reformiert.ch"
   },
   {
     "id": 1779569153683,
@@ -3753,6 +4812,30 @@
       }
     ],
     "organizerUrl": "https://kronechurwalden.ch/"
+  },
+  {
+    "id": 1779715522118,
+    "title": "«graubündenVIVA im Fokus» Zu Besuch beim Weingut Schifferli",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Netzwerkanlass in Malans mit Einblicken in den Bündner Weinbau, Führung durch den Weinkeller, Weindegustation und regionalem Apéro.",
+    "date": "2026-11-18",
+    "time": "17:00 - 20:00",
+    "locationName": "Weingut Schifferli",
+    "municipality": "Malans",
+    "lat": 46.9803,
+    "lng": 9.5658,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/77/17/d771783ab9d5a3cb98af308b332c87ee6cb06253_931765863.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4782117?eventDateTime=18.11.2026%20%2017:00%20-%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Malans",
+        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4782117?eventDateTime=18.11.2026%20%2017:00%20-%2020:00"
+      }
+    ],
+    "organizerUrl": "https://www.graubuendenviva.ch/",
+    "ticketUrl": "https://www.graubuendenviva.ch/de/besuch-beim-weingut-schifferli-malans"
   },
   {
     "id": 1779569154650,
@@ -3940,6 +5023,29 @@
     "organizerUrl": "https://kronechurwalden.ch/"
   },
   {
+    "id": 1779715549108,
+    "title": "Mensch Läppli Tour 2027",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mensch Läppli – neue Tour wegen grosser Nachfrage \n\nDie gefeierte «Mensch Läppli»-Tour 2026 begeisterte Publikum und Medien gleichermassen.",
+    "date": "2027-03-21",
+    "time": "17:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/d3/aa/5d3aaee620ed07f084274e45258244f28c3c4243_932194042.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4784829?eventDateTime=21.03.2027%20%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4784829?eventDateTime=21.03.2027%20%2017:00"
+      }
+    ],
+    "ticketUrl": "https://www.ticketcorner.ch/eventseries/mensch-laeppli-tour-2027-4157161/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
+  },
+  {
     "id": 1779538512297,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
@@ -3961,6 +5067,29 @@
       }
     ],
     "organizerUrl": "https://kronechurwalden.ch/"
+  },
+  {
+    "id": 1779715550455,
+    "title": "Schneewittli",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Fidibus präsentiert:\nSchneewittli\nDas Familienmärchen mit Herz und Biss \n\n«Spieglein, Spieglein an der Wand – wer ist die Schönste im ganzen Land?",
+    "date": "2027-04-11",
+    "time": "14:00",
+    "locationName": "Forum Landquart",
+    "municipality": "Landquart",
+    "lat": 46.957418,
+    "lng": 9.563505,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/ed/d1/0edd10a2d5700e3badcd3f39ed4fd69fde0b6823_930948710.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4777285?eventDateTime=11.04.2027%20%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Landquart",
+        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4777285?eventDateTime=11.04.2027%20%2014:00"
+      }
+    ],
+    "ticketUrl": "https://www.ticketcorner.ch/artist/schneewittli/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
   {
     "id": 1779707215989,
