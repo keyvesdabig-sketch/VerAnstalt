@@ -833,6 +833,9 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    // Foto-Base64 hat Vorrang vor URL-Feld (falls beides gesetzt)
+    const finalImage = lastPhotoBase64 || imageInput;
+
     // New event object — id wird zuerst belegt, damit pickFallback denselben
     // Schlüssel wie der Render-Pfad sieht und das Bild stabil bleibt.
     const eventId = Date.now();
@@ -849,7 +852,7 @@ document.addEventListener('DOMContentLoaded', () => {
       lat,
       lng,
       price,
-      image: imageInput || pickFallback(category, eventId),
+      image: finalImage || pickFallback(category, eventId),
       organizerUrl: organizerUrl || null,
       ticketUrl: ticketUrl || null
     };
@@ -869,6 +872,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Reset Form
     addEventForm.reset();
     resetLocationSelectionButton();
+    resetPhotoScan();
 
     // Close Modal
     addModal.classList.add('hidden');
@@ -1945,6 +1949,84 @@ document.addEventListener('DOMContentLoaded', () => {
       setSettingsStatus('✗ Netzwerk-Fehler: ' + err.message, 'error');
     } finally {
       btnSettingsTest.disabled = false;
+    }
+  });
+
+  // --- Foto-Scanner: Upload + Compression (Reviewer-only) ---
+  // Schritt 1 von Foto-zu-Event: Datei wählen, auf max 800px Breite
+  // verkleinern, als JPEG-Base64 cachen. Der eigentliche Gemini-Call
+  // kommt in Schritt 6/7.
+  const btnPhotoScan = document.getElementById('btn-photo-scan');
+  const photoScanInput = document.getElementById('photo-scan-input');
+  const photoScanPreview = document.getElementById('photo-scan-preview');
+  const photoScanStatus = document.getElementById('photo-scan-status');
+  let lastPhotoBase64 = null;
+
+  if (isReviewer()) {
+    btnPhotoScan.classList.remove('hidden');
+  }
+
+  function resetPhotoScan() {
+    lastPhotoBase64 = null;
+    if (photoScanInput) photoScanInput.value = '';
+    if (photoScanPreview) {
+      photoScanPreview.src = '';
+      photoScanPreview.classList.add('hidden');
+    }
+    if (photoScanStatus) {
+      photoScanStatus.textContent = '';
+      photoScanStatus.classList.remove('error');
+    }
+  }
+
+  function compressImageToBase64(file, opts) {
+    const maxWidth = (opts && opts.maxWidth) || 800;
+    const quality = (opts && opts.quality) || 0.8;
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onerror = () => reject(new Error('Datei konnte nicht gelesen werden'));
+      reader.onload = () => {
+        const img = new Image();
+        img.onerror = () => reject(new Error('Bild konnte nicht dekodiert werden'));
+        img.onload = () => {
+          const scale = Math.min(1, maxWidth / img.width);
+          const w = Math.round(img.width * scale);
+          const h = Math.round(img.height * scale);
+          const canvas = document.createElement('canvas');
+          canvas.width = w;
+          canvas.height = h;
+          const ctx = canvas.getContext('2d');
+          ctx.drawImage(img, 0, 0, w, h);
+          resolve({
+            dataUrl: canvas.toDataURL('image/jpeg', quality),
+            width: w,
+            height: h,
+          });
+        };
+        img.src = reader.result;
+      };
+      reader.readAsDataURL(file);
+    });
+  }
+
+  btnPhotoScan.addEventListener('click', () => photoScanInput.click());
+
+  photoScanInput.addEventListener('change', async () => {
+    const file = photoScanInput.files && photoScanInput.files[0];
+    if (!file) return;
+    photoScanStatus.classList.remove('error');
+    photoScanStatus.textContent = 'Komprimiere …';
+    try {
+      const { dataUrl, width, height } = await compressImageToBase64(file);
+      lastPhotoBase64 = dataUrl;
+      const sizeKb = Math.round((dataUrl.length * 0.75) / 1024);
+      photoScanPreview.src = dataUrl;
+      photoScanPreview.classList.remove('hidden');
+      photoScanStatus.textContent = `✓ ${width}×${height} px · ${sizeKb} KB`;
+    } catch (err) {
+      lastPhotoBase64 = null;
+      photoScanStatus.classList.add('error');
+      photoScanStatus.textContent = '✗ ' + err.message;
     }
   });
 

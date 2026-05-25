@@ -243,6 +243,15 @@
         <p>Teile eine Veranstaltung in Chur mit der Community</p>
       </div>
       <form id="add-event-form" class="modal-form">
+        <div class="form-photo-row">
+          <button type="button" id="btn-photo-scan" class="btn btn-secondary hidden">
+            <i data-lucide="camera"></i>
+            <span>Aus Foto/Plakat füllen</span>
+          </button>
+          <input type="file" id="photo-scan-input" accept="image/*" capture="environment" hidden />
+          <img id="photo-scan-preview" class="photo-scan-preview hidden" alt="Vorschau" />
+          <span id="photo-scan-status" class="photo-scan-status"></span>
+        </div>
         <div class="form-grid">
           <div class="form-group full-width">
             <label for="event-title">Event-Titel *</label>

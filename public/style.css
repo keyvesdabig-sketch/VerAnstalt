@@ -1045,6 +1045,10 @@ body[data-hero="highlight"] .hero-stats .stat:nth-child(3) .sub {
 .settings-status { min-height: 24px; padding: 8px 0 12px; font-size: 13px; }
 .settings-status.ok { color: var(--ok, #2c6849); }
 .settings-status.error { color: var(--accent-deep); }
+.form-photo-row { display: flex; align-items: center; gap: 12px; padding: 0 0 18px; flex-wrap: wrap; }
+.photo-scan-preview { width: 64px; height: 64px; border-radius: 6px; object-fit: cover; border: 1px solid var(--rule); }
+.photo-scan-status { font-size: 12px; color: var(--ink-soft); }
+.photo-scan-status.error { color: var(--accent-deep); }
 .form-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
