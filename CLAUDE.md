@@ -41,7 +41,8 @@ scripts/             Einmalige/manuelle Maintenance-Tools
   cleanup-event-images.js   Re-Cleanup-Pass; Logik identisch zum Live-Scraper, nützlich nach Anpassung der Blocklist.
 
 test/                node --test Unit-Suite (aktuell nur src/lib/image-clean.js)
-.github/workflows/   Daily Cron Jobs: scrape.yml (06:00 UTC), scrape-social.yml (07:00 UTC)
+.github/workflows/   scrape.yml (06:00 UTC) + scrape-social.yml (07:00 UTC) Cron-Jobs;
+                     pages.yml deployt public/ nach GitHub Pages bei jedem Push
 ```
 
 ### Datenfluss
@@ -59,7 +60,7 @@ test/                node --test Unit-Suite (aktuell nur src/lib/image-clean.js)
 
 ### Brand & localStorage
 
-UI-strings sind auf **CalandaKultur** rebranded. **localStorage-Keys bleiben bewusst `chur_events_*`** (`chur_events_favorites`, `chur_events_custom`, `chur_events_reviewed_social_ids`) — Umbenennen ohne Migrations-Pass würde Bestandsdaten zerstören.
+UI-strings sind auf **CalandaKultur** rebranded. **localStorage-Keys bleiben bewusst `chur_events_*`** (`chur_events_favorites`, `chur_events_custom`, `chur_events_reviewed_social_ids`, `chur_events_reviewer`) — Umbenennen ohne Migrations-Pass würde Bestandsdaten zerstören.
 
 ### Deployment
 
