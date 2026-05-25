@@ -266,7 +266,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635790365,
+      "title": "7. JazzChurFestival",
+      "category": "music",
+      "categoryLabel": "Musik & Party",
+      "municipality": "Chur",
+      "description": "Europäischer Jazz in den Alpen. Das Festival präsentiert aufstrebende und etablierte Künstler mit internationaler Ausstrahlung.",
+      "date": "2026-09-02",
+      "time": "17:30 - ",
+      "locationName": "POSTREMISE, Engadinstrasse 43",
+      "lat": 46.8518,
+      "lng": 9.5284,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://jazzchur.ch/jazzchurfestival/",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:16.597Z"
+  "lastUpdated": "2026-05-25T20:20:18.799Z"
 }
