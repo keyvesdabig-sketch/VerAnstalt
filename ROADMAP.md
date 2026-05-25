@@ -8,32 +8,20 @@ _(zwischen Iterationen — kein aktives Feature in Arbeit)_
 
 ## Next
 
-### 🏗️ Admin-Dashboard + persistente Event-Kuration
+_(Admin-Block ist live — Hauptpipeline durch. Was hier landet, sind kleinere
+Anschluss-Features, sortiert nach erwartetem Nutzen.)_
 
-Zusammenhängender Block. Foto-Scanner ist als MVP fertig (siehe Done), schreibt
-aber heute nur in lokales `chur_events_custom`. Damit gescannte/genehmigte
-Events live auf der Page landen, braucht's diesen Block.
+### 🪟 Scrape-Log-Viewer im Drawer
+`data/scrape-log.json` im Admin-Drawer rendern: wann lief der letzte Run, wieviele Events pro Quelle, wo gab's Fehler. Read-only, hilft bei „warum tauchen die nicht auf"-Debugging.
 
-1. **`public/curated-events.json` einführen + Frontend-Merge.**
-   Neue Datenquelle parallel zu `scraped-events.json`. Frontend merged beide (plus `customLocal` aus localStorage) beim Render. Verhindert Race Conditions mit dem täglichen Scraper-Commit.
+### 🎟️ Multi-Event-Auswahl im Foto-Wizard
+Wenn das Plakat eine Konzert-/Festivalreihe zeigt → Liste aller erkannten Events mit Checkboxen, einzeln oder als Bulk übernehmen. Heute wird nur das erste extrahierte Event vorausgefüllt.
 
-2. **`public/admin.html` als separate Reviewer-only Seite.**
-   Eigene Datei, nicht Hash-Route — sauberer, kein Code-Bloat in der Public-App. Hinter Reviewer-Gate (selbes Secret-Pattern wie das Banner).
+### 🪄 Bulk-Edit im DB-Dashboard
+Heute gibt's Bulk-Delete. Bulk-Edit (z.B. Kategorie einer Auswahl gleichzeitig ändern) wurde im Spec bewusst gestrichen — falls Bedarf entsteht, nachziehen.
 
-3. **GitHub Contents API als Commit-Backend.**
-   Owner-PAT im Settings-Modal (neben dem Gemini-Key), App macht `PUT /repos/.../contents/public/curated-events.json`. Pages re-deployt automatisch via bestehenden `pages.yml`-Workflow. Kein neues Hosting.
-
-4. **Review-Queue + Foto-Scanner ins Dashboard migrieren.**
-   Heute Inline-Banner / Inline-Wizard auf der Hauptseite → beide ins Admin-Dashboard heben. Approve = Commit nach `curated-events.json`. Bulk-Approve + Edit-vor-Approve für die Social-Queue.
-
-5. **Manueller Event-CRUD im Dashboard.**
-   Vorhandene Events in `curated-events.json` editieren / löschen — derselbe Commit-Pfad.
-
-6. **Scrape-Log-Viewer.**
-   `data/scrape-log.json` im Dashboard rendern: wann lief der letzte Run, wieviele Events, wo gabs Fehler. Read-only, hilft bei „warum tauchen die nicht auf"-Debugging.
-
-7. **Multi-Event-Auswahl im Foto-Wizard.**
-   Wenn das Plakat eine Konzert-/Festivalreihe zeigt → Liste aller erkannten Events mit Checkboxen, einzeln oder als Bulk übernehmen. Heute wird nur das erste extrahierte Event vorausgefüllt.
+### 🔁 Chur-Kultur wieder onboarden
+JS-rendered SPA mit Guidle-Backend (siehe [TODO.md](TODO.md)). Optionen: Guidle-API direkt sniffen, Puppeteer ins Scrape-Workflow, oder die Source rauswerfen falls LocalCities-Chur reicht.
 
 ## Later
 
@@ -68,6 +56,20 @@ Sortiert nach erwartetem Impact, nicht nach Aufwand.
 
 ## Done
 
+### 🏗️ Admin-System (vollständig — 7 Tasks)
+Inline-CRUD, Drawer-Hub, DB-Dashboard, GitHub-Commit-Pipeline. Foto-Imports, Manual-Adds und Review-Approves landen jetzt alle in `curated-events.json` und sind für alle Besucher sichtbar nach ~30 s.
+
+- **Drei-Schichten-Datenmodell**: `scraped-events.json` (Daily-Scraper) + `curated-events.json` (eigene Kuration) + `suppressed-event-ids.json` (gelöschte IDs). Frontend merged alle drei beim Render via `public/lib/event-state.js` (UMD, 7 Tests). Scraper überspringt suppressed-IDs.
+- **GitHub-Commit-Helper** (`public/admin/admin-commit.js`, UMD): `commitJsonFile` mit sha-Optimistic-Lock + 1× Auto-Retry bei 409. `verifyPat` für Settings-Modal-Validierung. Fine-grained PAT in `localStorage.chur_events_github_pat`.
+- **Admin-Shared** (`public/admin/admin-shared.js`, UMD): high-level Mutationen (`appendToCurated`, `upsertCurated`, `removeFromCurated`, `addSuppressed`, `removeFromSuppressed`) mit 5 Tests (Mock-Commit).
+- **Inline-Aktionen auf jeder Event-Karte** (Reviewer-only Footer): ✏ Bearbeiten + 🗑 Löschen. Edit recycelt das Add-Event-Modal via `mode: 'edit'`. Optimistic UI mit Toast-Feedback (Committe / ✓ / ✗).
+- **Admin-Drawer rechts** (`public/admin/admin-drawer.js`): Live-Stats (Events / Curated / Suppressed / Review-Queue), Werkzeug-Buttons (DB-Dashboard, Review-Queue, Settings, Logout).
+- **Datenbank-Dashboard** (`public/admin/admin-database.js`): Full-Screen-Modal mit Tabelle, Filter (Quelle/Gemeinde/Volltext), Sortierung, Bulk-Delete, Suppressed-View mit ⟲ Wiederherstellen, Inline-Edit-Aufruf.
+- **Settings-Modal erweitert** um GitHub-PAT-Feld + „PAT prüfen"-Test-Button.
+- **Migration**: einmaliger Prompt für legacy `chur_events_custom` aus localStorage → bulk-commit nach curated.
+- **Review-Approve** schreibt nach curated statt nur localStorage — der ganze Social-Review-Pfad ist jetzt end-to-end persistent.
+- **Dedup-Self-Match-Fix**: Edit ignoriert das Event-being-edited beim Dedup-Check.
+
 ### Neue Event-Quellen + Firecrawl-Ersatz
 - **iCal-Parser** (`src/lib/ical-parse.js`, RFC 5545 Subset, 15 Tests) — Streaminghall/Handmade-Music-Serie als erste iCal-Quelle live (7 Konzerte).
 - **Gemini-Scraper** (`src/lib/gemini-extract.js`) als Firecrawl-Ersatz für SSR-Seiten — Credits-frei, ~4 Rp/Tag Tokenkosten. 13 von 15 LocalCities-Gemeinden liefern Events, Konsum-Cazis live.
@@ -82,7 +84,7 @@ Plakat fotografieren → Gemini 2.5 Flash Vision extrahiert Felder → Wizard vo
 - ✨ Gemini-Call mit `response_schema` (typed enums für Kategorie/Gemeinde)
 - Vorausfüllung aller Form-Felder + Karte zoomt auf Gemeindezentrum
 - Reviewer-only Settings-Modal für Gemini-API-Key mit „Verbindung prüfen"
-- Speichert in lokales `chur_events_custom` (Live-Publishing kommt mit dem Admin-Dashboard, siehe Next)
+- Speichert seit Admin-System (siehe oben) direkt nach `curated-events.json` → live für alle Besucher.
 
 ### Dedup-Schicht
 Gemeinsame Lib `public/lib/event-dedup.js` (UMD, mit Unit-Tests).
