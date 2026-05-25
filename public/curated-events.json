@@ -191,7 +191,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635775437,
+      "title": "Churer Fest",
+      "category": "family",
+      "categoryLabel": "Familie",
+      "municipality": "Chur",
+      "description": "Das grösste Sommerfest in der Südostschweiz, bei dem Chur für drei Tage zur Festhütte wird, mit Musik und kulinarischen Genüssen aus aller Welt.",
+      "date": "2026-08-14",
+      "time": "17:30 - 02:00",
+      "locationName": "Churer Altstadt",
+      "lat": 46.8504,
+      "lng": 9.5317,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1471286174890-9c112ffca5b4?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.chur-kultur.ch/events/churer-fest",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:13.345Z"
+  "lastUpdated": "2026-05-25T20:20:14.471Z"
 }
