@@ -123,7 +123,25 @@ async function extractEventsFromUrl(source, opts) {
     html: cleaned,
     apiKey
   });
-  return Array.isArray(parsed.events) ? parsed.events : [];
+  const events = Array.isArray(parsed.events) ? parsed.events : [];
+  // Gemini liefert URLs gerne relativ ("/de/.../123") — gegen die Source-URL absolutisieren,
+  // damit der nachgelagerte Detail-Enrich-Pfad nicht crasht.
+  return events.map(ev => absolutizeUrls(ev, source.url));
+}
+
+function absolutizeUrls(ev, baseUrl) {
+  const out = { ...ev };
+  for (const field of ['sourceUrl', 'image', 'ticketUrl', 'organizerUrl']) {
+    out[field] = absolutize(out[field], baseUrl);
+  }
+  return out;
+}
+
+function absolutize(url, baseUrl) {
+  if (typeof url !== 'string' || !url) return url || '';
+  if (/^https?:\/\//i.test(url)) return url;
+  try { return new URL(url, baseUrl).toString(); }
+  catch (_) { return ''; }
 }
 
 module.exports = {

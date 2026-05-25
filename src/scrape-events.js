@@ -267,6 +267,11 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 // Helper-Funktion zum Holen von Detailinformationen (Original-Website, Ticket-Link, vollständige Beschreibung)
 async function fetchEventDetails(sourceUrl) {
+  // Defensive: nur echte http(s)-URLs verfolgen — Gemini kann relative oder
+  // leere Werte liefern, die hätten sonst node:internal/url crashen lassen.
+  if (typeof sourceUrl !== 'string' || !/^https?:\/\//i.test(sourceUrl)) {
+    return null;
+  }
   return new Promise((resolve) => {
     const lib = sourceUrl.startsWith('https') ? https : http;
     lib.get(sourceUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
