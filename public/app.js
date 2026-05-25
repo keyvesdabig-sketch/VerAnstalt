@@ -2056,32 +2056,38 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
+    // Batch: alle Events in EINEN Commit. Sequenzielle commits hatten
+    // 409-Konflikte durch GitHub-CDN-Latenz (GET liefert für ~1s nach PUT
+    // noch den alten sha). Ein einzelner Commit umgeht das Problem komplett
+    // und gibt auch eine sauberere Git-History („migrate N events" statt
+    // N einzelner Add-Commits).
     let migrated = 0;
-    let failed = 0;
-    for (const ev of toMigrate) {
-      try {
-        curatedState = await window.AdminShared.appendToCurated(curatedState, ev, { origin: 'migration' });
-        migrated++;
-      } catch (err) {
-        console.error('[migration] fehlgeschlagen für', ev.title, err);
-        failed++;
-        if (failed >= 3) {
-          alert(`Migration abgebrochen nach 3 Fehlern. Bisher ${migrated} migriert.`);
-          return;
-        }
-      }
+    try {
+      const merged = [...(curatedState.events || []), ...toMigrate];
+      const newState = { events: merged, lastUpdated: new Date().toISOString() };
+      await window.AdminCommit.commitJsonFile(
+        'public/curated-events.json',
+        newState,
+        `curate: migrate ${toMigrate.length} local custom event${toMigrate.length === 1 ? '' : 's'}`
+      );
+      curatedState = newState;
+      migrated = toMigrate.length;
+    } catch (err) {
+      console.error('[migration] Batch-Commit fehlgeschlagen:', err);
+      alert(`Migration fehlgeschlagen: ${err.message}\n\nLokale Events bleiben unverändert. Bitte später erneut versuchen.`);
+      return;
     }
 
-    // Lokale Liste leeren (commit war erfolgreich für die, die gemacht wurden)
+    // Lokale Liste leeren (alle Events sind jetzt im Repo)
     try {
-      const successfullyMigrated = new Set(toMigrate.slice(0, migrated).map(e => e.id));
-      const remaining = local.filter(e => !successfullyMigrated.has(e.id));
+      const migratedIds = new Set(toMigrate.map(e => e.id));
+      const remaining = local.filter(e => !migratedIds.has(e.id));
       localStorage.setItem('chur_events_custom', JSON.stringify(remaining));
       customEvents = remaining; // outer-scope-Variable mit-aktualisieren
       localStorage.setItem(MIGRATION_KEY, new Date().toISOString());
     } catch (_) {}
 
-    alert(`✓ ${migrated} Events nach curated-events.json migriert${failed ? ' (' + failed + ' fehlgeschlagen)' : ''}. ` +
+    alert(`✓ ${migrated} Events nach curated-events.json migriert. ` +
           `Live in ~30 s sichtbar.`);
   }
 
