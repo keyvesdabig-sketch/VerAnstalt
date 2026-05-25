@@ -241,7 +241,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635791525,
+      "title": "Backyard Ultra Chur 2026",
+      "category": "sport",
+      "categoryLabel": "Sport",
+      "municipality": "Chur",
+      "description": "Die 3. Ausgabe des Backyard Ultra Chur, ein einzigartiges Rennen, das auf einer Strecke von 6'706 Metern ausgetragen wird und so lange läuft, bis nur noch 1 Läufer:in übrig bleibt.",
+      "date": "2026-08-29",
+      "time": "12:00 - 23:59",
+      "locationName": "Thomas Domenig Stadion, Obere Au, Chur",
+      "lat": 46.8475,
+      "lng": 9.5262,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.chur.run/ oder https://www.backyardultrachur.ch/",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:15.462Z"
+  "lastUpdated": "2026-05-25T20:20:16.597Z"
 }
