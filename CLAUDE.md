@@ -78,7 +78,7 @@ Review-Banner für `pending-social-events.json` ist hinter einem Obscurity-Secre
 
 - Antworten auf Deutsch (Hochdeutsch). Technische Identifier/Pfade auf Englisch.
 - Vor grösseren Änderungen Plan als Bullet-Liste posten und auf OK warten.
-- `TODO.md` zu Session-Beginn lesen — listet ungelöste Polish-Items aus PR-Reviews.
+- `ROADMAP.md` + `TODO.md` zu Session-Beginn lesen. Roadmap = Features (Now/Next/Later/Done), TODO = Polish-Items aus PR-Reviews.
 - Commit-Format: `feat(scope):` / `fix(scope):` / `chore(scope):` / `refactor(scope):` / `docs:`, Body auf Deutsch.
 - Keine `node_modules`, `.env`, `raw-agent-output.json` committen (siehe `.gitignore`). `event-images/` IST committet.
 
