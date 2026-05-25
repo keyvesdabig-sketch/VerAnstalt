@@ -5,6 +5,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   // --- State Variables ---
   let events = [];
+  let customEvents = [];
   let favorites = new Set();
   let currentCategory = 'all';
   let currentRegion = 'all';
@@ -12,6 +13,12 @@ document.addEventListener('DOMContentLoaded', () => {
   let searchQuery = '';
   let activeCardId = null;
   let isPickingLocation = false;
+  let currentEditEventId = null;
+
+  // Admin-State (curated + suppressed). Wird in loadEventsData() befüllt.
+  let curatedState = { events: [], lastUpdated: '' };
+  let suppressedState = { ids: [], lastUpdated: '' };
+  let suppressedIdSet = new Set();
 
   const REGION_CENTERS = {
     "Chur": { lat: 46.8508, lng: 9.5320, zoom: 14 },
@@ -212,9 +219,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Load custom events from localStorage
     const savedEvents = localStorage.getItem('chur_events_custom');
-    let customEvents = [];
     if (savedEvents) {
-      customEvents = JSON.parse(savedEvents);
+      try { customEvents = JSON.parse(savedEvents) || []; } catch (_) { customEvents = []; }
     }
 
     // Drei-Schichten-Datenmodell: scraped + curated + suppressed parallel laden
@@ -225,12 +231,13 @@ document.addEventListener('DOMContentLoaded', () => {
         fetch('suppressed-event-ids.json').then(r => r.ok ? r.json() : { ids: [] }).catch(() => ({ ids: [] })),
       ]);
       const scrapedEvents = Array.isArray(scrapedRaw) ? scrapedRaw : (scrapedRaw && Array.isArray(scrapedRaw.events) ? scrapedRaw.events : []);
-      const curated = curatedJson && Array.isArray(curatedJson.events) ? curatedJson.events : [];
-      const suppressedSet = new Set(suppressedJson && Array.isArray(suppressedJson.ids) ? suppressedJson.ids : []);
+      curatedState = (curatedJson && Array.isArray(curatedJson.events)) ? curatedJson : { events: [], lastUpdated: '' };
+      suppressedState = (suppressedJson && Array.isArray(suppressedJson.ids)) ? suppressedJson : { ids: [], lastUpdated: '' };
+      suppressedIdSet = new Set(suppressedState.ids);
       const merged = (window.EventState && window.EventState.mergeEventSources)
-        ? window.EventState.mergeEventSources(scrapedEvents, curated, suppressedSet)
+        ? window.EventState.mergeEventSources(scrapedEvents, curatedState.events, suppressedIdSet)
         : scrapedEvents;
-      console.log(`📡 Event-Daten geladen: ${scrapedEvents.length} scraped + ${curated.length} curated, ${suppressedSet.size} suppressed.`);
+      console.log(`📡 Event-Daten geladen: ${scrapedEvents.length} scraped + ${curatedState.events.length} curated, ${suppressedIdSet.size} suppressed.`);
       events = [...customEvents, ...merged];
     } catch (e) {
       console.warn('⚠️ scraped-events.json nicht gefunden oder blockiert. Verwende statische Fallback-Daten.', e.message);
@@ -510,11 +517,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 : `<span class="event-b-price">${escapeHtml(event.price || '')}</span>`}
               <span class="event-b-cta">Details <i data-lucide="arrow-right"></i></span>
             </div>
+            <div class="event-card-admin-footer admin-only admin-only-flex">
+              <button type="button" data-action="admin-edit" data-id="${escapeHtml(String(event.id))}">✏ Bearbeiten</button>
+              <button type="button" class="danger" data-action="admin-delete" data-id="${escapeHtml(String(event.id))}">🗑 Löschen</button>
+            </div>
           </div>
         `;
 
         card.addEventListener('click', (e) => {
           if (e.target.closest('.event-b-fav')) return;
+          if (e.target.closest('.event-card-admin-footer')) return;
           openEventDetails(event.id);
           const marker = markers[event.id];
           if (marker) {
@@ -812,8 +824,59 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // Handle Form Submission
-  addEventForm.addEventListener('submit', (e) => {
+  // Toast für Commit-Feedback (Optimistic UI bei Curated-Schreibungen)
+  function showCommitToast(text, kind) {
+    let el = document.querySelector('.admin-commit-toast');
+    if (!el) {
+      el = document.createElement('div');
+      el.className = 'admin-commit-toast';
+      document.body.appendChild(el);
+    }
+    el.textContent = text;
+    el.classList.remove('ok', 'error');
+    if (kind) el.classList.add(kind);
+    el.classList.add('visible');
+    if (kind === 'ok' || kind === 'error') {
+      setTimeout(() => el.classList.remove('visible'), 3000);
+    }
+  }
+
+  // Add-Event-Modal als Create- oder Edit-Form öffnen
+  function openAddModal(mode, eventToEdit) {
+    currentEditEventId = (mode === 'edit' && eventToEdit) ? eventToEdit.id : null;
+    const header = addModal.querySelector('.modal-header h2');
+    if (header) header.textContent = (mode === 'edit') ? 'Event bearbeiten' : 'Neues Event eintragen';
+    const submitBtn = addEventForm.querySelector('button[type="submit"]');
+    if (submitBtn) submitBtn.textContent = (mode === 'edit') ? 'Änderungen speichern' : 'Event speichern';
+
+    if (mode === 'edit' && eventToEdit) {
+      document.getElementById('event-title').value = eventToEdit.title || '';
+      document.getElementById('event-category').value = eventToEdit.category || '';
+      document.getElementById('event-price').value = eventToEdit.price || '';
+      document.getElementById('event-municipality').value = eventToEdit.municipality || '';
+      document.getElementById('event-date').value = eventToEdit.date || '';
+      document.getElementById('event-time').value = eventToEdit.time || '';
+      document.getElementById('event-location-name').value = eventToEdit.locationName || '';
+      document.getElementById('event-lat').value = eventToEdit.lat || '';
+      document.getElementById('event-lng').value = eventToEdit.lng || '';
+      document.getElementById('event-image').value = (eventToEdit.image && !String(eventToEdit.image).startsWith('data:')) ? eventToEdit.image : '';
+      document.getElementById('event-website').value = eventToEdit.organizerUrl || '';
+      document.getElementById('event-ticket-url').value = eventToEdit.ticketUrl || '';
+      const descEl = document.getElementById('event-description');
+      if (descEl) descEl.value = eventToEdit.description || '';
+    } else {
+      addEventForm.reset();
+      resetLocationSelectionButton();
+      resetPhotoScan();
+      // Pre-fill date to today for convenience
+      const today = new Date().toISOString().split('T')[0];
+      document.getElementById('event-date').value = today;
+    }
+    addModal.classList.remove('hidden');
+  }
+
+  // Handle Form Submission — schreibt direkt in curated-events.json (kein localStorage mehr).
+  addEventForm.addEventListener('submit', async (e) => {
     e.preventDefault();
 
     const title = document.getElementById('event-title').value;
@@ -843,9 +906,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Foto-Base64 hat Vorrang vor URL-Feld (falls beides gesetzt)
     const finalImage = lastPhotoBase64 || imageInput;
 
-    // New event object — id wird zuerst belegt, damit pickFallback denselben
-    // Schlüssel wie der Render-Pfad sieht und das Bild stabil bleibt.
-    const eventId = Date.now();
+    const eventId = currentEditEventId != null ? currentEditEventId : Date.now();
     const newEvent = {
       id: eventId,
       title,
@@ -864,22 +925,39 @@ document.addEventListener('DOMContentLoaded', () => {
       ticketUrl: ticketUrl || null
     };
 
-    // Save custom events to localStorage
-    const savedEvents = localStorage.getItem('chur_events_custom');
-    let customEvents = [];
-    if (savedEvents) {
-      customEvents = JSON.parse(savedEvents);
-    }
-    customEvents.push(newEvent);
-    localStorage.setItem('chur_events_custom', JSON.stringify(customEvents));
+    const wasEdit = currentEditEventId != null;
 
-    // Add to global state list
-    events.unshift(newEvent); // Add to the front of the list
+    showCommitToast('Committe …');
+    try {
+      if (wasEdit) {
+        // EDIT: upsert in curated + suppression der Original-ID,
+        // damit ein scraped Original nicht erneut auftaucht.
+        curatedState = await window.AdminShared.upsertCurated(curatedState, newEvent);
+        if (!suppressedIdSet.has(eventId)) {
+          suppressedState = await window.AdminShared.addSuppressed(suppressedState, eventId, { title: newEvent.title });
+          suppressedIdSet.add(eventId);
+        }
+        const idx = events.findIndex(x => x.id === eventId);
+        if (idx >= 0) events[idx] = newEvent;
+        else events.unshift(newEvent);
+      } else {
+        // CREATE: append to curated
+        curatedState = await window.AdminShared.appendToCurated(curatedState, newEvent, {
+          origin: lastPhotoBase64 ? 'foto-import' : 'manual'
+        });
+        events.unshift(newEvent);
+      }
+      showCommitToast('✓ Live in ~30 s', 'ok');
+    } catch (err) {
+      showCommitToast(`✗ Commit fehlgeschlagen: ${err.message}`, 'error');
+      return;
+    }
 
     // Reset Form
     addEventForm.reset();
     resetLocationSelectionButton();
     resetPhotoScan();
+    currentEditEventId = null;
 
     // Close Modal
     addModal.classList.add('hidden');
@@ -887,14 +965,16 @@ document.addEventListener('DOMContentLoaded', () => {
     // Trigger update
     filterEvents();
 
-    // Visual feedback: Focus map on newly created event
-    map.setView([newEvent.lat, newEvent.lng], 15);
-    setTimeout(() => {
-      const marker = markers[newEvent.id];
-      if (marker) {
-        marker.openPopup();
-      }
-    }, 450);
+    // Visual feedback (nur bei create — bei edit bleibt Position passend)
+    if (!wasEdit) {
+      map.setView([newEvent.lat, newEvent.lng], 15);
+      setTimeout(() => {
+        const marker = markers[newEvent.id];
+        if (marker) {
+          marker.openPopup();
+        }
+      }, 450);
+    }
   });
 
   function resetLocationSelectionButton() {
@@ -936,10 +1016,52 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   btnAddEvent.addEventListener('click', () => {
-    addModal.classList.remove('hidden');
-    // Pre-fill date to today for convenience
-    const today = new Date().toISOString().split('T')[0];
-    document.getElementById('event-date').value = today;
+    openAddModal('create');
+  });
+
+  // Inline-Karten-Aktionen (Edit + Delete) via Event-Delegation.
+  // Sichtbar nur für Reviewer (CSS-Gate über body[data-reviewer]).
+  document.addEventListener('click', async (e) => {
+    const btn = e.target.closest('[data-action="admin-delete"], [data-action="admin-edit"]');
+    if (!btn) return;
+    const id = btn.dataset.id;
+    const idNum = Number(id);
+    const eventId = !Number.isNaN(idNum) && String(idNum) === id ? idNum : id;
+    const ev = events.find(x => x.id === eventId || String(x.id) === String(eventId));
+    if (!ev) return;
+
+    if (btn.dataset.action === 'admin-edit') {
+      openAddModal('edit', ev);
+      return;
+    }
+
+    // Delete
+    const isCurated = curatedState.events.some(c => c.id === ev.id);
+    const isCustomLocal = customEvents.some(c => c.id === ev.id);
+    const needsConfirm = !isCustomLocal;
+    if (needsConfirm && !confirm(`Event "${ev.title}" wirklich löschen? Für alle Besucher sichtbar.`)) {
+      return;
+    }
+
+    showCommitToast('Lösche …');
+    try {
+      if (isCurated) {
+        curatedState = await window.AdminShared.removeFromCurated(curatedState, ev.id);
+      }
+      if (!suppressedIdSet.has(ev.id)) {
+        suppressedState = await window.AdminShared.addSuppressed(suppressedState, ev.id, { title: ev.title });
+        suppressedIdSet.add(ev.id);
+      }
+      if (isCustomLocal) {
+        customEvents = customEvents.filter(c => c.id !== ev.id);
+        try { localStorage.setItem('chur_events_custom', JSON.stringify(customEvents)); } catch (_) {}
+      }
+      events = events.filter(x => x.id !== ev.id);
+      filterEvents();
+      showCommitToast('✓ Gelöscht — live in ~30 s', 'ok');
+    } catch (err) {
+      showCommitToast(`✗ Lösch-Fehler: ${err.message}`, 'error');
+    }
   });
 
   // --- Search and Filtering Event Listeners ---
@@ -1063,6 +1185,27 @@ document.addEventListener('DOMContentLoaded', () => {
   loadEventsData().then(() => {
     filterEvents();
     lucide.createIcons();
+
+    // Schnittstelle für public/admin/*.js (Reviewer-only Module, Tasks 4+5).
+    // Getter/Setter, damit IIFE-lokale let-Bindings live reflektiert werden.
+    window.appState = {
+      get events() { return events; },
+      set events(v) { events = v; },
+      get customEvents() { return customEvents; },
+      set customEvents(v) { customEvents = v; },
+      get curatedState() { return curatedState; },
+      set curatedState(v) { curatedState = v; },
+      get suppressedState() { return suppressedState; },
+      set suppressedState(v) { suppressedState = v; },
+      get suppressedIdSet() { return suppressedIdSet; },
+      get pendingSocialEvents() { return typeof pendingSocialEvents !== 'undefined' ? pendingSocialEvents : []; },
+      get reviewedIds() { return typeof reviewedIds !== 'undefined' ? reviewedIds : new Set(); },
+      openAddModal,
+      filterEvents,
+      showCommitToast,
+      pickFallback,
+      REGION_CENTERS,
+    };
   });
 
   // ============================================================
@@ -1510,16 +1653,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Persist to localStorage (same key as manual Add-Event flow)
-    const saved = localStorage.getItem('chur_events_custom');
-    let customEvents = [];
-    if (saved) {
-      try { customEvents = JSON.parse(saved); } catch { customEvents = []; }
-    }
     customEvents.push(...toImport);
     try {
       localStorage.setItem('chur_events_custom', JSON.stringify(customEvents));
     } catch (err) {
       alert('Speicher voll — bitte alte Events löschen und erneut versuchen.\n\n' + err.message);
+      // Rollback in-memory push
+      customEvents.splice(customEvents.length - toImport.length, toImport.length);
       return;
     }
 
@@ -1867,6 +2007,11 @@ document.addEventListener('DOMContentLoaded', () => {
   function isReviewer() {
     try { return localStorage.getItem(REVIEWER_KEY) === '1'; }
     catch (_) { return false; }
+  }
+
+  // CSS-Hook: schaltet alle .admin-only-Elemente sichtbar (Karten-Footer etc.)
+  if (isReviewer()) {
+    document.body.dataset.reviewer = 'true';
   }
 
   // Trigger on init — nur für Reviewer; sonst Banner bleibt versteckt
@@ -2336,16 +2481,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const newEvent = buildEventFromImport(importLike);
 
     // Persist to chur_events_custom
-    const saved = localStorage.getItem('chur_events_custom');
-    let customEvents = [];
-    if (saved) {
-      try { customEvents = JSON.parse(saved); } catch { customEvents = []; }
-    }
     customEvents.push(newEvent);
     try {
       localStorage.setItem('chur_events_custom', JSON.stringify(customEvents));
     } catch (err) {
       alert('Speicher voll: ' + err.message);
+      customEvents.pop();
       return;
     }
 

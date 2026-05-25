@@ -1548,3 +1548,46 @@ body[data-hero="highlight"] .hero-stats .stat:nth-child(3) .sub {
   .modal-header, .modal-form, .import-phase { padding-left: 22px; padding-right: 22px; }
   .modal-event-body { padding: 20px 22px 24px; }
 }
+
+/* === Admin (Reviewer-only) === */
+.admin-only { display: none; }
+body[data-reviewer="true"] .admin-only { display: initial; }
+body[data-reviewer="true"] .admin-only.admin-only-flex { display: flex; }
+body[data-reviewer="true"] .admin-only.admin-only-grid { display: grid; }
+
+.event-card-admin-footer {
+  display: flex;
+  gap: 8px;
+  padding: 6px 12px 10px;
+  border-top: 1px dashed var(--rule);
+  margin-top: 8px;
+  font-size: 12px;
+}
+.event-card-admin-footer button {
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 3px 8px;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+.event-card-admin-footer button:hover { background: var(--bg-soft, #f6f1e6); color: var(--ink); }
+.event-card-admin-footer button.danger:hover { background: var(--accent-tint); color: var(--accent-deep); }
+
+.admin-commit-toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--ink);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  z-index: 9999;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 200ms, transform 200ms;
+}
+.admin-commit-toast.visible { opacity: 1; transform: translateY(0); }
+.admin-commit-toast.ok { background: var(--ok, #2c6849); }
+.admin-commit-toast.error { background: var(--accent-deep); }
