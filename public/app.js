@@ -239,6 +239,10 @@ document.addEventListener('DOMContentLoaded', () => {
         : scrapedEvents;
       console.log(`📡 Event-Daten geladen: ${scrapedEvents.length} scraped + ${curatedState.events.length} curated, ${suppressedIdSet.size} suppressed.`);
       events = [...customEvents, ...merged];
+      // Für Admin-Dashboard: roh-scraped-Liste (vor Merge) zwischen-speichern
+      if (window.AdminDatabase) {
+        window.AdminDatabase.rawScraped = scrapedEvents.slice();
+      }
     } catch (e) {
       console.warn('⚠️ scraped-events.json nicht gefunden oder blockiert. Verwende statische Fallback-Daten.', e.message);
       // Fallback auf statische Initial-Events aus events-data.js

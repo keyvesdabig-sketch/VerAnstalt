@@ -506,6 +506,62 @@
   </aside>
   <div id="admin-drawer-backdrop" class="admin-drawer-backdrop hidden"></div>
 
+  <!-- Datenbank-Dashboard (Reviewer-only) -->
+  <div class="modal-backdrop hidden" id="admin-db-modal">
+    <div class="modal-container admin-db-container">
+      <button class="modal-close" id="admin-db-modal-close">
+        <i data-lucide="x"></i>
+      </button>
+      <div class="modal-header">
+        <h2>Datenbank verwalten</h2>
+        <p>Alle Events einer Quelle anzeigen, filtern, editieren oder löschen.</p>
+      </div>
+      <div class="admin-db-toolbar">
+        <label>Quelle:
+          <select id="admin-db-filter-source">
+            <option value="all">Alle</option>
+            <option value="scraped">Scraped</option>
+            <option value="curated">Curated</option>
+            <option value="suppressed">Gelöscht (Suppressed)</option>
+          </select>
+        </label>
+        <label>Gemeinde:
+          <select id="admin-db-filter-municipality"><option value="all">Alle</option></select>
+        </label>
+        <input type="search" id="admin-db-filter-search" placeholder="Suche Titel / Ort …" />
+        <label>Sortieren:
+          <select id="admin-db-sort">
+            <option value="date-asc">Datum ↑</option>
+            <option value="date-desc">Datum ↓</option>
+            <option value="title">Titel</option>
+          </select>
+        </label>
+        <span class="admin-db-count" id="admin-db-count">– Treffer</span>
+      </div>
+      <div class="admin-db-table-wrap">
+        <table class="admin-db-table">
+          <thead>
+            <tr>
+              <th><input type="checkbox" id="admin-db-check-all"></th>
+              <th>Titel</th>
+              <th>Datum</th>
+              <th>Ort</th>
+              <th>Quelle</th>
+              <th>Status</th>
+              <th>Aktionen</th>
+            </tr>
+          </thead>
+          <tbody id="admin-db-tbody"></tbody>
+        </table>
+      </div>
+      <div class="admin-db-bulkbar hidden" id="admin-db-bulkbar">
+        <span id="admin-db-selected-count">0 ausgewählt</span>
+        <button type="button" id="admin-db-bulk-delete" class="btn btn-secondary">🗑 Alle löschen</button>
+        <button type="button" id="admin-db-bulk-clear" class="btn btn-secondary">✗ Auswahl aufheben</button>
+      </div>
+    </div>
+  </div>
+
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
@@ -516,6 +572,7 @@
   <script src="admin/admin-commit.js" defer></script>
   <script src="admin/admin-shared.js" defer></script>
   <script src="admin/admin-drawer.js" defer></script>
+  <script src="admin/admin-database.js" defer></script>
   <script src="app.js"></script>
 </body>
 </html>

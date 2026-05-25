@@ -1634,3 +1634,42 @@ body[data-reviewer="true"] .admin-only.admin-only-grid { display: grid; }
 .admin-stat-row { padding: 6px 0; font-size: 14px; color: var(--ink); }
 .admin-drawer-action { display: block; width: 100%; margin-bottom: 8px; text-align: left; }
 .admin-drawer-action:last-child { margin-bottom: 0; }
+
+/* === Admin-Datenbank-Modal === */
+.admin-db-container { max-width: 1100px; width: 95vw; max-height: 90vh; display: flex; flex-direction: column; }
+.admin-db-toolbar {
+  display: flex; gap: 16px; align-items: center; flex-wrap: wrap;
+  padding: 16px 28px; border-bottom: 1px solid var(--rule);
+  font-size: 13px;
+}
+.admin-db-toolbar label { display: flex; align-items: center; gap: 6px; }
+.admin-db-toolbar select, .admin-db-toolbar input {
+  padding: 6px 10px; border: 1px solid var(--rule); border-radius: 4px; background: #fff;
+}
+.admin-db-toolbar input[type="search"] { min-width: 220px; }
+.admin-db-count { margin-left: auto; color: var(--ink-soft); }
+
+.admin-db-table-wrap { flex: 1; overflow: auto; padding: 0 28px 16px; }
+.admin-db-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.admin-db-table thead { position: sticky; top: 0; background: var(--bg); z-index: 1; }
+.admin-db-table th, .admin-db-table td {
+  padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+}
+.admin-db-table th { font-weight: 600; color: var(--ink-soft); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; }
+.admin-db-table td.title { font-weight: 500; max-width: 280px; overflow: hidden; text-overflow: ellipsis; }
+.admin-db-table td.actions { white-space: nowrap; }
+.admin-db-table td.actions button { background: transparent; border: 1px solid var(--rule); border-radius: 3px; padding: 2px 6px; cursor: pointer; margin-right: 2px; }
+.admin-db-table td.actions button:hover { background: var(--bg-soft, #f6f1e6); }
+.admin-db-table .status-pill {
+  display: inline-block; padding: 2px 6px; border-radius: 3px; font-size: 11px;
+}
+.admin-db-table .status-pill.curated { background: rgba(44,104,73,0.14); color: var(--ok, #2c6849); }
+.admin-db-table .status-pill.edited { background: rgba(160,102,40,0.14); color: var(--warn); }
+.admin-db-table .status-pill.suppressed { background: var(--accent-tint); color: var(--accent-deep); }
+
+.admin-db-bulkbar {
+  display: flex; gap: 12px; align-items: center;
+  padding: 12px 28px; border-top: 1px solid var(--rule); background: var(--bg-soft, #f6f1e6);
+}
+.admin-db-bulkbar.hidden { display: none; }
