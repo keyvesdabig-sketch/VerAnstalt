@@ -4,13 +4,6 @@ Offene Polish-Items aus Code-Reviews. Reihenfolge ~ Priorität.
 
 ## Aus PR #8 Review (24.05.2026)
 
-### 🟡 Mountain-SVG Stroke-Farbe ist Token-Leak
-`public/style.css` `.hero::after` enthält `stroke='%23d8d0bf'` (eingefrorener Hex von `--rule`) inline im `data:image/svg+xml`-URI. CSS-Variablen sind in `url("data:...")` nicht referenzierbar — wenn die Palette mal angepasst wird (Dark Mode, Theme), läuft die Bergkontur auseinander.
-**Optionen:**
-- SVG aus dem `data:`-URI in `public/mountain.svg` extrahieren und per `mask-image` + `background-color: var(--rule)` einfärben.
-- Pro Theme-Datenattribut (z.B. `body[data-theme]`) eine eigene `::after`-Regel mit der passenden Farbe.
-- Akzeptieren und im CSS-Kommentar markieren: `/* keep stroke color in sync with --rule */`.
-
 ### 🟢 `onerror`-Attribut: HTML-Escape im JS-String-Kontext
 `public/app.js` Z. 1334 + 1811:
 ```html
