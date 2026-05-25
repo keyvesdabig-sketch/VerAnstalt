@@ -91,7 +91,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635769933,
+      "title": "Buskers Chur",
+      "category": "stage",
+      "categoryLabel": "Bühne & Kunst",
+      "municipality": "Chur",
+      "description": "Buskers Chur verwandelt die Churer Altstadt in einen lebhaften Schauplatz zeitgenössischer Strassenkunst mit Musik, Theater und Tanz.",
+      "date": "2026-06-05",
+      "time": "",
+      "locationName": "Churer Altstadt",
+      "lat": 46.8504,
+      "lng": 9.5317,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.chur.graubuenden.ch/de/events/buskers-chur",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:09.292Z"
+  "lastUpdated": "2026-05-25T20:20:10.328Z"
 }
