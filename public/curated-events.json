@@ -166,7 +166,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635772731,
+      "title": "Sommerkonzerte mit Werken von Komponistinnen (Kammerchor Chur)",
+      "category": "music",
+      "categoryLabel": "Musik & Party",
+      "municipality": "Chur",
+      "description": "Sommerkonzerte des Kammerchors Chur mit Werken von Komponistinnen. Matinee.",
+      "date": "2026-06-21",
+      "time": "11:00 - ",
+      "locationName": "Bündner Kunstmuseum",
+      "lat": 46.8516,
+      "lng": 9.5313,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://kammerchor-chur.ch/kommende-konzerte/",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:12.326Z"
+  "lastUpdated": "2026-05-25T20:20:13.345Z"
 }
