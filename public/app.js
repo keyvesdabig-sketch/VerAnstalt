@@ -2518,16 +2518,16 @@ document.addEventListener('DOMContentLoaded', () => {
     reviewModal.classList.add('hidden');
   }
 
-  function approveReviewEvent(eventId) {
+  async function approveReviewEvent(eventId) {
     const ev = pendingSocialEvents.find(e => e.id === eventId);
     if (!ev) return;
 
-    // Dedup-Check vor dem Übernehmen — sanftes Confirm, User kann durchwinken
+    // Dedup-Check (sanftes Confirm — User kann durchwinken)
     if (!confirmIfDuplicate({ title: ev.title, date: ev.date, locationName: ev.locationName }, events)) {
       return;
     }
 
-    // Build internal event format (matches buildEventFromImport from import-feature)
+    // Build internal event format (identisch zum Import-Wizard)
     const importLike = {
       title: ev.title,
       date: ev.date,
@@ -2545,33 +2545,26 @@ document.addEventListener('DOMContentLoaded', () => {
       organizerUrl: ev.organizerUrl,
       locationApproximated: ev.lat == null || ev.lng == null
     };
-    // If lat/lng missing, fall back to municipality center
+    // Fallback-Koordinaten aus Gemeindezentrum
     if (importLike.lat == null || importLike.lng == null) {
       const center = REGION_CENTERS[ev.municipality];
-      if (center) {
-        importLike.lat = center.lat;
-        importLike.lng = center.lng;
-      }
+      if (center) { importLike.lat = center.lat; importLike.lng = center.lng; }
     }
-
     const newEvent = buildEventFromImport(importLike);
 
-    // Persist to chur_events_custom
-    customEvents.push(newEvent);
+    showCommitToast('Committe Approve …');
     try {
-      localStorage.setItem('chur_events_custom', JSON.stringify(customEvents));
+      curatedState = await window.AdminShared.appendToCurated(curatedState, newEvent, { origin: 'social-approve' });
+      events.unshift(newEvent);
+      reviewedIds.add(eventId);
+      persistReviewedIds();
+      filterEvents();
+      renderReviewList();
+      updateBanner();
+      showCommitToast('✓ Approved — live in ~30 s', 'ok');
     } catch (err) {
-      alert('Speicher voll: ' + err.message);
-      customEvents.pop();
-      return;
+      showCommitToast(`✗ Approve fehlgeschlagen: ${err.message}`, 'error');
     }
-
-    events.unshift(newEvent);
-    reviewedIds.add(eventId);
-    persistReviewedIds();
-    filterEvents();
-    renderReviewList();
-    updateBanner();
   }
 
   function skipReviewEvent(eventId) {
