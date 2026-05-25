@@ -1846,6 +1846,89 @@ document.addEventListener('DOMContentLoaded', () => {
     reviewBanner.classList.add('hidden');
   }
 
+  // --- Settings (Reviewer-only) ---
+  const GEMINI_KEY_STORAGE = 'chur_events_gemini_key';
+  const btnSettings = document.getElementById('btn-settings');
+  const settingsModal = document.getElementById('settings-modal');
+  const settingsModalClose = document.getElementById('settings-modal-close');
+  const settingsForm = document.getElementById('settings-form');
+  const settingsGeminiKey = document.getElementById('settings-gemini-key');
+  const settingsStatus = document.getElementById('settings-status');
+  const btnSettingsTest = document.getElementById('btn-settings-test');
+  const btnSettingsClear = document.getElementById('btn-settings-clear');
+
+  if (isReviewer()) {
+    btnSettings.classList.remove('hidden');
+  }
+
+  function setSettingsStatus(text, kind) {
+    settingsStatus.textContent = text || '';
+    settingsStatus.classList.remove('ok', 'error');
+    if (kind) settingsStatus.classList.add(kind);
+  }
+
+  function openSettingsModal() {
+    try { settingsGeminiKey.value = localStorage.getItem(GEMINI_KEY_STORAGE) || ''; }
+    catch (_) { settingsGeminiKey.value = ''; }
+    setSettingsStatus('');
+    settingsModal.classList.remove('hidden');
+  }
+  function closeSettingsModal() {
+    settingsModal.classList.add('hidden');
+  }
+
+  btnSettings.addEventListener('click', openSettingsModal);
+  settingsModalClose.addEventListener('click', closeSettingsModal);
+  settingsModal.addEventListener('click', (e) => {
+    if (e.target === settingsModal) closeSettingsModal();
+  });
+
+  settingsForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const key = settingsGeminiKey.value.trim();
+    try {
+      if (key) localStorage.setItem(GEMINI_KEY_STORAGE, key);
+      else localStorage.removeItem(GEMINI_KEY_STORAGE);
+      setSettingsStatus('Gespeichert.', 'ok');
+    } catch (err) {
+      setSettingsStatus('Speichern fehlgeschlagen: ' + err.message, 'error');
+    }
+  });
+
+  btnSettingsClear.addEventListener('click', () => {
+    settingsGeminiKey.value = '';
+    try { localStorage.removeItem(GEMINI_KEY_STORAGE); } catch (_) {}
+    setSettingsStatus('Gelöscht.', 'ok');
+  });
+
+  btnSettingsTest.addEventListener('click', async () => {
+    const key = settingsGeminiKey.value.trim();
+    if (!key) {
+      setSettingsStatus('Bitte zuerst einen Key eintragen.', 'error');
+      return;
+    }
+    setSettingsStatus('Prüfe …');
+    btnSettingsTest.disabled = true;
+    try {
+      // Models-Endpoint ist quota-frei und reicht, um den Key zu validieren.
+      const res = await fetch(
+        'https://generativelanguage.googleapis.com/v1beta/models?key=' + encodeURIComponent(key)
+      );
+      if (res.ok) {
+        const data = await res.json();
+        const count = Array.isArray(data.models) ? data.models.length : 0;
+        setSettingsStatus(`✓ Verbindung OK — ${count} Modelle verfügbar.`, 'ok');
+      } else {
+        const body = await res.text();
+        setSettingsStatus(`✗ Fehler ${res.status}: ${body.slice(0, 200)}`, 'error');
+      }
+    } catch (err) {
+      setSettingsStatus('✗ Netzwerk-Fehler: ' + err.message, 'error');
+    } finally {
+      btnSettingsTest.disabled = false;
+    }
+  });
+
   // --- Review Modal ---
 
   function renderReviewSummary() {

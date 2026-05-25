@@ -81,6 +81,10 @@
           <i data-lucide="upload"></i>
           Events importieren
         </button>
+        <button id="btn-settings" class="ghost-btn hidden">
+          <i data-lucide="settings"></i>
+          Einstellungen
+        </button>
         <div class="side-meta">
           <div class="live">Daten aktuell</div>
           <div id="side-updated">Aktualisiert soeben</div>
@@ -412,6 +416,35 @@
           <button type="button" id="btn-review-close-modal" class="btn btn-secondary">Schliessen</button>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- Settings Modal (Reviewer-only) -->
+  <div class="modal-backdrop hidden" id="settings-modal">
+    <div class="modal-container">
+      <button class="modal-close" id="settings-modal-close">
+        <i data-lucide="x"></i>
+      </button>
+      <div class="modal-header">
+        <h2>Einstellungen</h2>
+        <p>Lokale Einstellungen — werden nur in diesem Browser gespeichert.</p>
+      </div>
+      <form id="settings-form" class="modal-form">
+        <label class="form-field">
+          <span>Gemini API-Key</span>
+          <input type="password" id="settings-gemini-key" autocomplete="off"
+                 placeholder="AIza…" spellcheck="false" />
+          <small>Wird für den Foto-zu-Event-Wizard gebraucht. Bezugsquelle:
+            <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener noreferrer">aistudio.google.com/apikey</a>.
+          </small>
+        </label>
+        <div id="settings-status" class="settings-status"></div>
+        <div class="form-actions">
+          <button type="button" id="btn-settings-test" class="btn btn-secondary">Verbindung prüfen</button>
+          <button type="button" id="btn-settings-clear" class="btn btn-secondary">Löschen</button>
+          <button type="submit" class="btn btn-primary">Speichern</button>
+        </div>
+      </form>
     </div>
   </div>
 
