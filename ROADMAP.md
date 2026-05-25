@@ -4,13 +4,15 @@ Feature-Pipeline für CalandaKultur. Polish-Items aus PR-Reviews liegen separat 
 
 ## Now
 
-_(frisch deployed, kein aktives Feature in Arbeit)_
+_(zwischen Iterationen — kein aktives Feature in Arbeit)_
 
 ## Next
 
 ### 🏗️ Admin-Dashboard + persistente Event-Kuration
 
-Zusammenhängender Block — die einzelnen Schritte bauen aufeinander auf und ergeben isoliert weniger Sinn.
+Zusammenhängender Block. Foto-Scanner ist als MVP fertig (siehe Done), schreibt
+aber heute nur in lokales `chur_events_custom`. Damit gescannte/genehmigte
+Events live auf der Page landen, braucht's diesen Block.
 
 1. **`public/curated-events.json` einführen + Frontend-Merge.**
    Neue Datenquelle parallel zu `scraped-events.json`. Frontend merged beide (plus `customLocal` aus localStorage) beim Render. Verhindert Race Conditions mit dem täglichen Scraper-Commit.
@@ -19,22 +21,19 @@ Zusammenhängender Block — die einzelnen Schritte bauen aufeinander auf und er
    Eigene Datei, nicht Hash-Route — sauberer, kein Code-Bloat in der Public-App. Hinter Reviewer-Gate (selbes Secret-Pattern wie das Banner).
 
 3. **GitHub Contents API als Commit-Backend.**
-   Owner-PAT in localStorage (Settings-Modal), App macht `PUT /repos/.../contents/public/curated-events.json`. Pages re-deployt automatisch via bestehenden `pages.yml`-Workflow. Kein neues Hosting.
+   Owner-PAT im Settings-Modal (neben dem Gemini-Key), App macht `PUT /repos/.../contents/public/curated-events.json`. Pages re-deployt automatisch via bestehenden `pages.yml`-Workflow. Kein neues Hosting.
 
-4. **Review-Queue ins Dashboard migrieren.**
-   Heute Inline-Banner auf der Hauptseite → ins Admin-Dashboard heben mit Bulk-Approve + Edit-vor-Approve (Titel/Datum/Bild fixen, dann erst übernehmen). Approve = Commit nach `curated-events.json`, gleichzeitig in `chur_events_reviewed_social_ids` markieren.
+4. **Review-Queue + Foto-Scanner ins Dashboard migrieren.**
+   Heute Inline-Banner / Inline-Wizard auf der Hauptseite → beide ins Admin-Dashboard heben. Approve = Commit nach `curated-events.json`. Bulk-Approve + Edit-vor-Approve für die Social-Queue.
 
-5. **📸 Foto-zu-Event-Wizard.**
-   Das Trigger-Feature. `<input type="file" capture="environment">` → Gemini 2.5 Flash Vision mit Structured-Output-Schema (Titel/Datum/Zeit/Ort/Beschreibung/Kategorie/Veranstalter/Ticket-Link) → Wizard-Vorausfüllung → User korrigiert → Commit nach `curated-events.json`. Bild als komprimierte Base64-Data-URL (max 800 px breit) im Event-Objekt.
-   - Bring-your-own-key (Gemini-API-Key in Settings), Phase 1.
-   - Mehrere Events auf einem Plakat → Schema als Array, User wählt im Wizard.
-   - Edge-Cases: Datum ohne Jahr → nächstkommend; leere Felder erlaubt.
-
-6. **Manueller Event-CRUD im Dashboard.**
+5. **Manueller Event-CRUD im Dashboard.**
    Vorhandene Events in `curated-events.json` editieren / löschen — derselbe Commit-Pfad.
 
-7. **Scrape-Log-Viewer.**
+6. **Scrape-Log-Viewer.**
    `data/scrape-log.json` im Dashboard rendern: wann lief der letzte Run, wieviele Events, wo gabs Fehler. Read-only, hilft bei „warum tauchen die nicht auf"-Debugging.
+
+7. **Multi-Event-Auswahl im Foto-Wizard.**
+   Wenn das Plakat eine Konzert-/Festivalreihe zeigt → Liste aller erkannten Events mit Checkboxen, einzeln oder als Bulk übernehmen. Heute wird nur das erste extrahierte Event vorausgefüllt.
 
 ## Later
 
@@ -59,7 +58,7 @@ Sortiert nach erwartetem Impact, nicht nach Aufwand.
 
 ### Content-Qualität
 - **Event-Status-Detection** (Ausverkauft/Abgesagt aus Detail-Seite, mit Badge im UI).
-- **Duplikat-Heuristik** (ähnlicher Titel + selbe Location ± 1 Tag → markiere als „aktualisierte Version" statt als neu).
+- **Backend-Dedup**: Fuzzy-Pass im täglichen Scraper über die `event-dedup`-Lib (heute nur exakte ID-Dedup im Server).
 
 ### Optional / komplex
 - **Mehrsprachig DE/EN/IT** — Touristen-Region, aber großer Wartungsaufwand.
@@ -69,11 +68,32 @@ Sortiert nach erwartetem Impact, nicht nach Aufwand.
 
 ## Done
 
+### Foto-zu-Event-Wizard (MVP)
+Plakat fotografieren → Gemini 2.5 Flash Vision extrahiert Felder → Wizard vorausgefüllt → speichern.
+
+- 📸 Upload + Canvas-Compression (max 800 px, JPEG q=0.8)
+- ✨ Gemini-Call mit `response_schema` (typed enums für Kategorie/Gemeinde)
+- Vorausfüllung aller Form-Felder + Karte zoomt auf Gemeindezentrum
+- Reviewer-only Settings-Modal für Gemini-API-Key mit „Verbindung prüfen"
+- Speichert in lokales `chur_events_custom` (Live-Publishing kommt mit dem Admin-Dashboard, siehe Next)
+
+### Dedup-Schicht
+Gemeinsame Lib `public/lib/event-dedup.js` (UMD, mit Unit-Tests).
+
+- Pre-Filter (Datum ≤ 1 Tag, gleiche Gemeinde) + Fuzzy-Titel (Dice-Koeffizient auf normalisierten Bigrammen)
+- Sanftes Confirm-Prompt im Manual-Add-Wizard und beim Social-Review-Approve
+- Duplikat-Badge pro Karte im Social-Review-Modal
+
+### Infrastruktur
 - **GitHub Pages Deployment** via `actions/deploy-pages` (public/ → Auto-Deploy bei jedem Push).
-- **Reviewer-Gate**: Review-Banner hinter Obscurity-Secret (`?reviewer=…`).
+- **Reviewer-Gate** mit verifiziertem localStorage-Write (Tracking-Prevention-fähig).
 - **Workflow-Pfade** nach `src/`-Split nachgezogen + `node@22`.
+
+### Polish
 - **Mountain-Kontur** über `mask-image` + `var(--rule)` (Theme-fähig).
 - **`onerror`-Fallback** via `JSON.stringify` quote-safe.
 - **`cleanup-event-images`** Error-Pfade auf einheitlichen `done()`-Wrapper.
 - **`engines.node >=22`** deklariert.
 - **`scrape-log.json`** nach `data/` verschoben (vorher fälschlich in `src/`).
+- **Projektstruktur** aufgeräumt: `churevents-scraper/` + Top-Level `event-images/` weg, `events-data.js` Bild-URLs gefixt.
+- **README.md** mit App-Übersicht, Scraping-Flow und Review-Workflow.
