@@ -2,8 +2,6 @@
 
 Offene Polish-Items aus Code-Reviews. Reihenfolge ~ Priorität.
 
-## Aus PR #8 Review (24.05.2026)
-
 ## Aus PR #7 Review (24.05.2026)
 
 ### 🟢 Keine Migrations-Notiz für localStorage-Keys
