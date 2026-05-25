@@ -483,6 +483,20 @@ async function main() {
   let newEventsAdded = 0;
   let eventsUpdated = 0;
 
+  // Suppressed-IDs lesen (Events, die der Admin gelöscht hat — nicht
+  // re-importieren). Liegt unter public/, damit auch das Frontend drauf zugreift.
+  let suppressedIds = new Set();
+  const SUPPRESSED_FILE = path.join(__dirname, '../public/suppressed-event-ids.json').replace(/\\/g, '/');
+  if (fs.existsSync(SUPPRESSED_FILE)) {
+    try {
+      const parsed = JSON.parse(fs.readFileSync(SUPPRESSED_FILE, 'utf8'));
+      if (Array.isArray(parsed.ids)) suppressedIds = new Set(parsed.ids);
+      console.log(`🚫 ${suppressedIds.size} suppressed-IDs geladen.`);
+    } catch (e) {
+      console.warn('⚠️ suppressed-event-ids.json nicht lesbar, ignoriere:', e.message);
+    }
+  }
+
   // 2. Sequentielles Scraping aller Quellen
   for (const source of SOURCES) {
     const scrapedEvents = await runScraperForSource(source);
@@ -520,6 +534,14 @@ async function main() {
       const date = cleanDate(rawEvent.date);
       const titleKey = normalizeText(rawEvent.title);
       const compositeKey = `${titleKey}_${date}`;
+
+      // Suppression-Check: vom Admin gelöschte Events nicht re-importieren.
+      // Match über denselben compositeKey-Algorithmus, der unten zum Dedup
+      // verwendet wird.
+      if (suppressedIds.has(compositeKey)) {
+        console.log(`🚫 [${source.name}] Überspringe suppressed: "${rawEvent.title}" (${compositeKey})`);
+        continue;
+      }
 
       // Prüfen, ob das Event bereits in der Datenbank ist
       let existingEvent = database[compositeKey];

@@ -217,15 +217,21 @@ document.addEventListener('DOMContentLoaded', () => {
       customEvents = JSON.parse(savedEvents);
     }
 
-    // Versuche live gescrapte Events zu laden
+    // Drei-Schichten-Datenmodell: scraped + curated + suppressed parallel laden
     try {
-      const response = await fetch('scraped-events.json');
-      if (!response.ok) {
-        throw new Error('Fehler beim Laden der Datei');
-      }
-      const scrapedEvents = await response.json();
-      console.log(`📡 Echte Event-Daten geladen (${scrapedEvents.length} Events aus scraped-events.json).`);
-      events = [...customEvents, ...scrapedEvents];
+      const [scrapedRaw, curatedJson, suppressedJson] = await Promise.all([
+        fetch('scraped-events.json').then(r => r.ok ? r.json() : Promise.reject(new Error('scraped-events.json nicht ladbar'))),
+        fetch('curated-events.json').then(r => r.ok ? r.json() : { events: [] }).catch(() => ({ events: [] })),
+        fetch('suppressed-event-ids.json').then(r => r.ok ? r.json() : { ids: [] }).catch(() => ({ ids: [] })),
+      ]);
+      const scrapedEvents = Array.isArray(scrapedRaw) ? scrapedRaw : (scrapedRaw && Array.isArray(scrapedRaw.events) ? scrapedRaw.events : []);
+      const curated = curatedJson && Array.isArray(curatedJson.events) ? curatedJson.events : [];
+      const suppressedSet = new Set(suppressedJson && Array.isArray(suppressedJson.ids) ? suppressedJson.ids : []);
+      const merged = (window.EventState && window.EventState.mergeEventSources)
+        ? window.EventState.mergeEventSources(scrapedEvents, curated, suppressedSet)
+        : scrapedEvents;
+      console.log(`📡 Event-Daten geladen: ${scrapedEvents.length} scraped + ${curated.length} curated, ${suppressedSet.size} suppressed.`);
+      events = [...customEvents, ...merged];
     } catch (e) {
       console.warn('⚠️ scraped-events.json nicht gefunden oder blockiert. Verwende statische Fallback-Daten.', e.message);
       // Fallback auf statische Initial-Events aus events-data.js
