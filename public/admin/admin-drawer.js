@@ -22,6 +22,8 @@
   const btnClose = document.getElementById('btn-admin-drawer-close');
   const btnDatabase = document.getElementById('btn-admin-database');
   const btnReviewOpen = document.getElementById('btn-admin-review-open');
+  const btnAddEvent = document.getElementById('btn-admin-add-event');
+  const btnImportEvents = document.getElementById('btn-admin-import-events');
   const btnSettings = document.getElementById('btn-admin-settings');
   const btnLogout = document.getElementById('btn-admin-logout');
 
@@ -77,6 +79,14 @@
     close();
     const btn = document.getElementById('btn-review-open');
     if (btn) btn.click();
+  });
+  btnAddEvent.addEventListener('click', () => {
+    close();
+    document.getElementById('btn-add-event').click();
+  });
+  btnImportEvents.addEventListener('click', () => {
+    close();
+    document.getElementById('btn-import-events').click();
   });
   btnSettings.addEventListener('click', () => {
     close();

@@ -73,11 +73,11 @@
       </div>
 
       <div class="side-footer">
-        <button id="btn-add-event" class="add-btn">
+        <button id="btn-add-event" class="add-btn hidden">
           <i data-lucide="plus"></i>
           Event eintragen
         </button>
-        <button id="btn-import-events" class="ghost-btn">
+        <button id="btn-import-events" class="ghost-btn hidden">
           <i data-lucide="upload"></i>
           Events importieren
         </button>
@@ -497,6 +497,8 @@
       <h3>Werkzeuge</h3>
       <button type="button" id="btn-admin-database" class="btn btn-primary admin-drawer-action">🗂 Datenbank verwalten</button>
       <button type="button" id="btn-admin-review-open" class="btn btn-secondary admin-drawer-action">📋 Review-Queue</button>
+      <button type="button" id="btn-admin-add-event" class="btn btn-secondary admin-drawer-action">➕ Event eintragen</button>
+      <button type="button" id="btn-admin-import-events" class="btn btn-secondary admin-drawer-action">⬆ Events importieren</button>
     </section>
     <section class="admin-drawer-section">
       <h3>Konfiguration</h3>
