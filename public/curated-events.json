@@ -16,7 +16,32 @@
       "image": "https://unsplash.com/de/fotos/drittelregel-fotografie-der-brennenden-kerze-UiMkBvDQSAA",
       "organizerUrl": "https://www.malans.ch/de/aktuelles/veranstaltungen-termine?data=12140",
       "ticketUrl": null
+    },
+    {
+      "id": 1779635305746,
+      "title": "Churer Wochenmarkt",
+      "category": "markets",
+      "categoryLabel": "Märkte",
+      "municipality": "Chur",
+      "description": "Der Churer Wochenmarkt findet jeden Samstag von Mai bis Oktober statt. Produzenten aus ganz Graubünden bieten frische, saisonale Waren an. Aufgrund von Bauarbeiten findet der Markt teilweise auf dem Kornplatz statt.",
+      "date": "2026-05-24",
+      "time": "08:00 - 12:00",
+      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse, teilweise Kornplatz)",
+      "lat": 46.8504,
+      "lng": 9.5317,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1533900298318-6b8da08a523e?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.chur.ch/agenda/jahrliche-anlasse",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Other",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T16:35:30.236Z"
+  "lastUpdated": "2026-05-25T20:20:06.636Z"
 }
