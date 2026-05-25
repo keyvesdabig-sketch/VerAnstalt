@@ -1860,6 +1860,16 @@ document.addEventListener('DOMContentLoaded', () => {
   function renderReviewEventCard(ev) {
     const fallback = pickFallback(ev.category, ev.id || ev.title);
     const img = ev.image || fallback;
+    // Dedup-Hinweis gegen den aktuell gerenderten Event-Pool. Best Match zuerst.
+    const dupes = window.EventDedup
+      ? window.EventDedup.findPotentialDuplicates(
+          { title: ev.title, date: ev.date, locationName: ev.locationName },
+          events
+        )
+      : [];
+    const dupeBadge = dupes.length > 0
+      ? `<span class="import-summary-pill warn" title="${escapeHtml(dupes[0].reason)}">🔁 Möglicher Duplikat: „${escapeHtml(dupes[0].event.title)}"</span>`
+      : '';
     return `
       <div class="import-event-card" data-event-id="${escapeHtml(ev.id)}">
         <span></span>
@@ -1867,6 +1877,7 @@ document.addEventListener('DOMContentLoaded', () => {
              onerror="this.onerror=null;this.src=${escapeHtml(JSON.stringify(fallback))}" />
         <div class="import-event-body">
           <p class="import-event-title">${escapeHtml(ev.title)}</p>
+          ${dupeBadge}
           <div class="import-event-meta">
             <span>📅 ${escapeHtml(ev.date)}${ev.time ? ' · ' + escapeHtml(ev.time) : ''}</span>
             <span>📍 ${escapeHtml(ev.locationName)} (${escapeHtml(ev.municipality)})</span>
@@ -1908,6 +1919,11 @@ document.addEventListener('DOMContentLoaded', () => {
   function approveReviewEvent(eventId) {
     const ev = pendingSocialEvents.find(e => e.id === eventId);
     if (!ev) return;
+
+    // Dedup-Check vor dem Übernehmen — sanftes Confirm, User kann durchwinken
+    if (!confirmIfDuplicate({ title: ev.title, date: ev.date, locationName: ev.locationName }, events)) {
+      return;
+    }
 
     // Build internal event format (matches buildEventFromImport from import-feature)
     const importLike = {
