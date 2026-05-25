@@ -41,7 +41,32 @@
         }
       ],
       "locationApproximated": false
+    },
+    {
+      "id": 1779635319216,
+      "title": "Sunday Jam – Vol. 8",
+      "category": "music",
+      "categoryLabel": "Musik & Party",
+      "municipality": "Chur",
+      "description": "Sunday Jam in Chur.",
+      "date": "2026-05-24",
+      "time": "",
+      "locationName": "Werkstatt Kultur-Bar",
+      "lat": 46.85,
+      "lng": 9.53,
+      "price": "Eintritt frei",
+      "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=800",
+      "organizerUrl": "https://www.guidle.com/de/veranstaltung/sunday-jam-vol-8/1045258",
+      "ticketUrl": null,
+      "source": "import",
+      "sources": [
+        {
+          "name": "Guidle",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
+        }
+      ],
+      "locationApproximated": false
     }
   ],
-  "lastUpdated": "2026-05-25T20:20:06.636Z"
+  "lastUpdated": "2026-05-25T20:20:08.309Z"
 }
