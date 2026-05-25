@@ -68,6 +68,13 @@ Sortiert nach erwartetem Impact, nicht nach Aufwand.
 
 ## Done
 
+### Neue Event-Quellen + Firecrawl-Ersatz
+- **iCal-Parser** (`src/lib/ical-parse.js`, RFC 5545 Subset, 15 Tests) — Streaminghall/Handmade-Music-Serie als erste iCal-Quelle live (7 Konzerte).
+- **Gemini-Scraper** (`src/lib/gemini-extract.js`) als Firecrawl-Ersatz für SSR-Seiten — Credits-frei, ~4 Rp/Tag Tokenkosten. 13 von 15 LocalCities-Gemeinden liefern Events, Konsum-Cazis live.
+- **LocalCities-IDs aktualisiert** — LocalCities hatte die internen Gemeinde-IDs neu vergeben, alte URLs grossteils 404.
+- **Cazis als 16. Gemeinde** + Konsum-Cazis als Konzertquelle.
+- **Pages-Auto-Deploy nach Scrape**: `workflow_run`-Trigger umgeht die `GITHUB_TOKEN`-Push-Limitation, so dass der tägliche Scraper-Commit Pages wieder selbsttätig deployt.
+
 ### Foto-zu-Event-Wizard (MVP)
 Plakat fotografieren → Gemini 2.5 Flash Vision extrahiert Felder → Wizard vorausgefüllt → speichern.
 

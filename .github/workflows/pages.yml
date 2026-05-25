@@ -5,6 +5,12 @@ on:
     paths:
       - 'public/**'
       - '.github/workflows/pages.yml'
+  # Bot-Commits vom Scraper triggern `push` nicht (GITHUB_TOKEN-Limitation).
+  # Deshalb zusätzlich auf erfolgreiche Scrape-Workflow-Läufe horchen.
+  workflow_run:
+    workflows: ["Daily Event Scrape", "Daily Social Event Scrape"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
@@ -19,6 +25,9 @@ concurrency:
 
 jobs:
   deploy:
+    # Skip Pages-Deploy, wenn upstream workflow_run fehlgeschlagen ist —
+    # sonst deployt Pages auch bei Scrape-Fehlern (überflüssig + verwirrend).
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
