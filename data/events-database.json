@@ -65,50 +65,6 @@
       }
     ]
   },
-  "urbangolfsonntag_2026-05-24": {
-    "id": 1779536102307,
-    "title": "Urban Golf Sonntag",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Urban Golf Spieltag in der Stadt.",
-    "date": "2026-05-24",
-    "time": "09:00 - 19:30",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_904451128.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/urban-golf-sonntag-chur_AGBnq6W",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/urban-golf-sonntag-chur_AGBnq6W"
-      }
-    ]
-  },
-  "taminsertoene_2026-05-24": {
-    "id": 1779537997119,
-    "title": "Taminser Töne",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Pfingstsonntag, 24. Mai 14.00 Uhr, Kirche Tamins, Taminser Töne bis Pfingstmontag, 25. Mai, 18.00 Uhr Erik Satie «Vexations» 840 Wiederholungen – 28 Stunden Klang. Organistinnen und Pianisten der Region. Idee und Leitung: Annegret Ernst.",
-    "date": "2026-05-24",
-    "time": "14:00",
-    "locationName": "Ev.-ref. Kirche Tamins",
-    "municipality": "Tamins",
-    "lat": 46.8285,
-    "lng": 9.4069,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/e/8d/ee/e8dee306ae1d9b411a5e43823e1835ed86858329_929344002.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4766939?eventDateTime=24.05.2026%20%2014:00",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4766939?eventDateTime=24.05.2026%20%2014:00"
-      }
-    ]
-  },
   "taminserbergsturzarenagefuehrtewanderung_2026-05-25": {
     "id": 1779537998208,
     "title": "Taminser Bergsturzarena - Geführte Wanderung",
@@ -216,28 +172,6 @@
       {
         "name": "LocalCities-Tamins",
         "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4632547?eventDateTime=09.08.2026%20%2011:00"
-      }
-    ]
-  },
-  "sonntagsbrunchinderbergbaizbrambrueesch_2026-05-24": {
-    "id": 1779538439202,
-    "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
-    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
-    "date": "2026-05-24",
-    "time": "09:00-11:30",
-    "locationName": "Bergbaiz",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=24.05.2026%20%2009:00%20-%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=24.05.2026%20%2009:00%20-%2011:30"
       }
     ]
   },
@@ -1704,29 +1638,6 @@
       }
     ]
   },
-  "tiefenentspannungmitklang_2026-05-24": {
-    "id": 1779539072045,
-    "title": "Tiefenentspannung mit Klang",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
-    "date": "2026-05-24",
-    "time": "19:00",
-    "locationName": "Claudia Hablützel",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=24.05.2026%20%2019:00",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=24.05.2026%20%2019:00"
-      }
-    ],
-    "organizerUrl": "https://www.clahab.ch/"
-  },
   "tiefenentspannungmitklang_2026-05-31": {
     "id": 1779539073668,
     "title": "Tiefenentspannung mit Klang",
@@ -2127,21 +2038,22 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Kostenlos",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/76/27/276278651fc76500c32e280b93811ee61d2aa0e1_924720080.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4739439?eventDateTime=26.05.2026%20%2014:00%20-%2016:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4739439?eventDateTime=26.05.2026%20%2014:00%20-%2016:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bibliothek-thusis.ch"
   },
   "lauftrefftrailtreffthusis_2026-05-27": {
     "id": 1779539771929,
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Wir laufen in verschiedenen Stärkeklassen (Joggen oder Nordic-Walking). Die Leiter/innen können nützliche Tipps geben. Der Lauftreff findet bei jeder Witterung statt. Keine Anmeldung erforderlich.",
+    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-05-27",
     "time": "19:00 - 20:00",
     "locationName": "Sportplatz Rheinau",
@@ -2149,7 +2061,7 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Kostenlos",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/54/90/a5490268a63c7fec7a1c3ac98d262f3884b43027_621041262.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4712749?eventDateTime=27.05.2026%20%2019:00%20-%2020:00",
     "sources": [
       {
@@ -2163,7 +2075,7 @@
     "title": "Bike-Werkstattkurs \"Pro 1\"",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Unser erfahrener Mechaniker zeigt dir Schritt für Schritt, wie du deine Bremsleistung optimierst, Bremsbeläge wechselst und die richtigen Bremsflüssigkeiten verwendest. Die Bremsen sind eines der wichtigsten Sicherheitselemente deines Bikes – umso wichtiger ist es, sie richtig zu pflegen und zu warten.",
+    "description": "Unser erfahrener Mechaniker zeigt dir Schritt für Schritt, wie du deine Bremsleistung optimierst, Bremsbeläge wechselst und die richtigen Bremsflüssigkeiten verwendest. Anmeldung nötig.",
     "date": "2026-05-28",
     "time": "19:00 - 21:00",
     "locationName": "Sportwerkstatt Thusis",
@@ -2171,21 +2083,23 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Erw. CHF 59.00",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/35/d3/135d3b876d3f59aa60075cdf756b6c21e596b9e4_862126785.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4771405?eventDateTime=28.05.2026%20%2019:00%20-%2021:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4771405?eventDateTime=28.05.2026%20%2019:00%20-%2021:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.story-thusis.ch",
+    "ticketUrl": "https://story-thusis.ch/events/werkstattkurs-pro-1/"
   },
   "picantogoespop_2026-05-31": {
     "id": 1779539774157,
     "title": "piCANTO goes \"Pop\"",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Konzert mit dem Vocal Ensemble piCANTO und der Band \"Betty and the Crumbs\". Präsentiert werden bekannte Popsongs von Elton John, Phil Collins, Supertramp, Robbie Williams, Cyndi Lauper u.a. Keine Reservation erforderlich.",
+    "description": "Konzert mit dem Vocal Ensemble piCANTOmit Band \"Betty and the Crumbs\", die ihr neues Programm präsentieren. Keine Reservation erforderlich.",
     "date": "2026-05-31",
     "time": "17:00",
     "locationName": "Röm.-kath. Kirche Gut Hirt",
@@ -2193,7 +2107,7 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Erw. CHF 25.00, Kinder kostenlos",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/5e/88/85e88a32201854ed49e2f0d4513b8bee83090080_929222086.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4766535?eventDateTime=31.05.2026%20%2017:00",
     "sources": [
       {
@@ -2207,7 +2121,7 @@
     "title": "Spiel- und Jassnachmittag",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich. Spiele hat es vor Ort, gerne dürfen aber auch Lieblingsspiele mitgebracht werden! Am ersten Montag des Monats wird der Event jeweils durch Vertreterinnen des Frauenverein Thusis angeleitet.",
+    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
     "date": "2026-06-01",
     "time": "14:00 - 16:00",
     "locationName": "StoryThusis",
@@ -2215,21 +2129,22 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=01.06.2026%20%2014:00%20-%2016:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=01.06.2026%20%2014:00%20-%2016:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
   },
   "learninglunch_2026-06-02": {
     "id": 1779539776599,
     "title": "Learning Lunch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Diese Plattform wird von unterschiedlichen Referent:innen genutzt, die Wissen teilen und mit den Teilnehmenden im Austausch stehen. Der Learning Lunch findet am 1. Dienstag im Monat statt. Teilnehmer können ihr Mittagessen mitbringen oder vor Ort bestellen. Nach der Veranstaltung kann das Coworking den restlichen Nachmittag kostenlos genutzt werden. Online-Anmeldung erforderlich.",
+    "description": "Diese Plattform wird von unterschiedlichen ReferentInnen genutzt, die gerne etwas zu teilen haben und mal mehr, mal weniger interaktiv mit den Teilnehmenden im Austausch stehen. Online-Anmeldung nötig",
     "date": "2026-06-02",
     "time": "12:15 - 13:15",
     "locationName": "Story Thusis",
@@ -2237,21 +2152,22 @@
     "lat": 46.6925013,
     "lng": 9.4403449,
     "price": "Freier Eintritt",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/e/59/6f/e596fa67dc01cb57f92a2fb31c89e6202062cb84_904131087.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4623803?eventDateTime=02.06.2026%20%2012:15%20-%2013:15",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4623803?eventDateTime=02.06.2026%20%2012:15%20-%2013:15"
       }
-    ]
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/"
   },
   "lauftrefftrailtreffthusis_2026-06-03": {
     "id": 1779539778383,
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Wir laufen in verschiedenen Stärkeklassen (Joggen oder Nordic-Walking). Die Leiter/innen können nützliche Tipps geben. Der Lauftreff findet bei jeder Witterung statt. Keine Anmeldung erforderlich.",
+    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-06-03",
     "time": "19:00 - 20:00",
     "locationName": "Sportplatz Rheinau",
@@ -2259,7 +2175,7 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Kostenlos",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/54/90/a5490268a63c7fec7a1c3ac98d262f3884b43027_621041262.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4712749?eventDateTime=03.06.2026%20%2019:00%20-%2020:00",
     "sources": [
       {
@@ -2273,7 +2189,7 @@
     "title": "Spiel- und Jassnachmittag",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich. Spiele hat es vor Ort, gerne dürfen aber auch Lieblingsspiele mitgebracht werden! Am ersten Montag des Monats wird der Event jeweils durch Vertreterinnen des Frauenverein Thusis angeleitet.",
+    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
     "date": "2026-06-08",
     "time": "14:00 - 16:00",
     "locationName": "StoryThusis",
@@ -2281,21 +2197,22 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=08.06.2026%20%2014:00%20-%2016:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=08.06.2026%20%2014:00%20-%2016:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
   },
   "buchstartfuerkleinebibliothekbesucherinnen_2026-06-09": {
     "id": 1779539780326,
     "title": "\"Buchstart\" für kleine Bibliothekbesucher*innen",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Eine Buchveranstaltung mit Reimen, Versen und Liedern für die Kleinsten (0-3 Jahre) und eine Begleitperson. Buchstart ist ein gesamtschweizerisches Projekt zur frühen Sprachbildung, das die erste Begegnung von Kindern mit Büchern fördert.",
+    "description": "Eine Buchveranstaltung mit Reimen, Versen und Liedern für die Kleinsten und eine Begleitperson. Keine Anmeldung erforderlich.",
     "date": "2026-06-09",
     "time": "15:00",
     "locationName": "Regionalbibliothek Thusis",
@@ -2303,21 +2220,22 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Kostenlos",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/e/76/65/e76658636c67f8c3802f07f4830709b40275cb34.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/419661?eventDateTime=09.06.2026%20%2015:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/419661?eventDateTime=09.06.2026%20%2015:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bibliothek-thusis.ch"
   },
   "lauftrefftrailtreffthusis_2026-06-10": {
     "id": 1779539782812,
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Wir laufen in verschiedenen Stärkeklassen (Joggen oder Nordic-Walking). Die Leiter/innen können nützliche Tipps geben. Der Lauftreff findet bei jeder Witterung statt. Keine Anmeldung erforderlich.",
+    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-06-10",
     "time": "19:00 - 20:00",
     "locationName": "Sportplatz Rheinau",
@@ -2325,7 +2243,7 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Kostenlos",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/54/90/a5490268a63c7fec7a1c3ac98d262f3884b43027_621041262.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4712749?eventDateTime=10.06.2026%20%2019:00%20-%2020:00",
     "sources": [
       {
@@ -2361,7 +2279,7 @@
     "title": "Bike-Werkstattkurs \"Pro 2\"",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Ein sauber gewarteter Antrieb sorgt für präzise Schaltvorgänge und mehr Fahrspass. Lerne, Verschleiss früh zu erkennen und deinen Antrieb optimal zu pflegen. In diesem Kurs lernst du, wie du deinen Antrieb richtig wartest und Probleme selbst behebst.",
+    "description": "Ein sauber gewarteter Antrieb sorgt für präzise Schaltvorgänge und mehr Fahrspass. Lerne, Verschleiss früh zu erkennen und deinen Antrieb optimal zu pflegen. Anmeldung erforderlich bis 11.6., 12.00 h.",
     "date": "2026-06-11",
     "time": "19:00 - 21:00",
     "locationName": "Sportwerkstatt Thusis",
@@ -2369,21 +2287,23 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Erw. CHF 59.00",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/dd/c1/7ddc1f925a0c499c121e054fc71bbb86b4b238e4_862386223.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4771411?eventDateTime=11.06.2026%20%2019:00%20-%2021:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4771411?eventDateTime=11.06.2026%20%2019:00%20-%2021:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.story-thusis.ch",
+    "ticketUrl": "https://story-thusis.ch/events/werkstattkurs-pro-2/"
   },
   "ladysnightdisco_2026-06-11": {
     "id": 1779539790216,
     "title": "Ladys night disco",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Feiere das Leben, dich und deine Frauen bei der Ladies-Night-Disco. DJane Martina Calonder legt auf. Die Lounge verwandelt sich in eine Disco mit \"Her to Her\" Sound. Keine Reservation erforderlich.",
+    "description": "Feiere das Leben, dich und deine Frauen bei der Ladies-Night-Disco. DJane Martina Calonder legt auf. Keine Reservation erforderlich.",
     "date": "2026-06-11",
     "time": "21:00 - 23:00",
     "locationName": "Story Thusis",
@@ -2391,14 +2311,15 @@
     "lat": 46.6925013,
     "lng": 9.4403449,
     "price": "Eintritt CHF 15.00",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/e/9f/23/e9f23cebee7f68f650a7b7f5f38b8a7e1fa3fad9_929560565.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4768691?eventDateTime=11.06.2026%20%2021:00%20-%2023:00",
     "sources": [
       {
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4768691?eventDateTime=11.06.2026%20%2021:00%20-%2023:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.story-thusis.ch"
   },
   "rhbspeisewagengourmino_2026-12-31": {
     "id": 1779566366843,
@@ -2581,7 +2502,7 @@
     "title": "LANDI Fest 2026 Landquart",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Am 30. Mai 2026 wird gefeiert, getanzt und mitgesungen! Freut euch auf ein mega Line-up: Diana live Die Grubertaler DJ Edelweiss",
+    "description": "Am 30. Mai 2026 wird gefeiert, getanzt und mitgesungen!",
     "date": "2026-05-30",
     "time": "Siehe Beschreibung",
     "locationName": "LANDI Landquart",
@@ -2589,14 +2510,16 @@
     "lat": 46.9556028,
     "lng": 9.5614868,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/76/58/07658d9409f66663742e2b26ce04e58d98125917_919195167.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4704727?eventDateTime=30.05.2026",
     "sources": [
       {
         "name": "LocalCities-Landquart",
         "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4704727?eventDateTime=30.05.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://landi.swiss/de-CH/cooperative/landi-graubuenden/events/landi-fest-2026",
+    "ticketUrl": "https://eventfrog.ch/de/p/konzert/schlager-volksmusik/landi-fest-2026-7404148292097936573.html"
   },
   "kayayanarhoeruf_2026-09-05": {
     "id": 1779569150637,
@@ -2611,7 +2534,7 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/7b/d1/a7bd127f1baa7df69bf52df9d0c61b68e0ed3548_764684292.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4452411?eventDateTime=05.09.2026%20%2015:00",
     "sources": [
       {
@@ -2626,7 +2549,7 @@
     "title": "Grüezi Italia",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "La Dolce Vita",
+    "description": "La Dolce Vita – Eine multimediale Musikshow, die italienische Lebensfreude auf die Bühne bringt.",
     "date": "2026-09-12",
     "time": "Siehe Beschreibung",
     "locationName": "Forum Landquart",
@@ -2634,14 +2557,16 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "CHF 59.00",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/5f/62/b5f6290e581af8055086bb87caf474b05cef540d_875279164.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993",
     "sources": [
       {
         "name": "LocalCities-Landquart",
         "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.h2u-studios.ch/",
+    "ticketUrl": "https://www.ticketcorner.ch/artist/grueezi-italia/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
   "schwiizergoofe_2026-09-20": {
     "id": 1779569152490,
@@ -2656,7 +2581,7 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/0b/72/80b72e7b65ed210190fa21644e8c9c164a7e8829_911583166.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4659285?eventDateTime=20.09.2026%20%2012:30",
     "sources": [
       {
@@ -2679,7 +2604,7 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/be/26/1be269a90b9cb12be19162a56ca38df21300c523_853940566.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4398659?eventDateTime=23.10.2026%20%2020:00",
     "sources": [
       {
@@ -2702,7 +2627,7 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/fb/b1/2fbb147ea7a384a527aa654c3a3eb1eaf812cdac_915573779.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4680885?eventDateTime=20.11.2026%20%2020:00%20-%2022:00",
     "sources": [
       {
@@ -2726,7 +2651,7 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/b7/5a/ab75a4b5bfdcc4acee93d2ffe4fc8b23a94ae021_930948696.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4777219?eventDateTime=13.12.2026%20%2014:00",
     "sources": [
       {
@@ -2749,7 +2674,7 @@
     "lat": 46.957418,
     "lng": 9.563505,
     "price": "Eintritt frei",
-    "image": "",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/c9/c3/3c9c3609fe152e8aeb6ba14580d0e8ca87da3a36_924224912.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4737309?eventDateTime=17.12.2026%20%2019:30%20-%2022:00",
     "sources": [
       {
@@ -2759,5 +2684,550 @@
     ],
     "organizerUrl": "https://www.christophwalter.ch/",
     "ticketUrl": "https://eventfrog.ch/de/p/konzerte/weitere-musikrichtungen/it-s-christmas-time-landquart-7420527085200911388.html"
+  },
+  "rhbspeisewagengourmino_2026-05-25": {
+    "id": 1779703413120,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "09:58-20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-05-25": {
+    "id": 1779703413289,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "10:00-17:00",
+    "locationName": "Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "robertralstonwennwortenichtmehrweiterwissen_2026-05-25": {
+    "id": 1779703413444,
+    "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Kantonsspital Graubünden - Kreuzspital",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "heilenistkunstistheilen_2026-05-25": {
+    "id": 1779703413175,
+    "title": "Heilen ist Kunst ist Heilen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Kantonsspital Graubünden",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "imatelierraumarbeitmythos_2026-05-25": {
+    "id": 1779703412606,
+    "title": "Im Atelier. Raum, Arbeit, Mythos",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "begegnungscaf_2026-05-26": {
+    "id": 1779703414671,
+    "title": "Begegnungscafé",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "09:00-11:00",
+    "locationName": "Comanderzentrum",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "rhbspeisewagengourmino_2026-05-26": {
+    "id": 1779703415867,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "09:58-20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-05-26": {
+    "id": 1779703415519,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "imatelierraumarbeitmythos_2026-05-26": {
+    "id": 1779703415642,
+    "title": "Im Atelier. Raum, Arbeit, Mythos",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "heinerkielholz_2026-05-26": {
+    "id": 1779703415953,
+    "title": "Heiner Kielholz",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "danielakeiseroregano_2026-05-26": {
+    "id": 1779703415777,
+    "title": "Daniela Keiser. Oregano",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "jugendhausstadtchur_2026-05-26": {
+    "id": 1779703417145,
+    "title": "Jugendhaus Stadt Chur",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "15:00-19:00",
+    "locationName": "Jugendhaus Stadt Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "gameninderbibliothek_2026-05-26": {
+    "id": 1779703418088,
+    "title": "Gamen in der Bibliothek",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "15:45-17:45",
+    "locationName": "Stadtbibliothek & Ludothek",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "schnupperprobe1315jahre_2026-05-26": {
+    "id": 1779703419756,
+    "title": "Schnupperprobe (13-15 Jahre)",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "18:00-20:00",
+    "locationName": "Junges Theater Graubünden",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "generalversammlungnggundbuchvernissage_2026-05-26": {
+    "id": 1779703421188,
+    "title": "Generalversammlung NGG und Buchvernissage",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "19:15-21:00",
+    "locationName": "B12 - Brandis 12",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "buchvernissagemitphilippgurt_2026-05-26": {
+    "id": 1779703422691,
+    "title": "Buchvernissage mit Philipp Gurt",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "19:30",
+    "locationName": "Bücher Lüthy Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  "kranzenfuerfronleichnam_2026-05-26": {
+    "id": 1779703703032,
+    "title": "Kranzen für Fronleichnam",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Kranzen für Fronleichnam",
+    "date": "2026-05-26",
+    "time": "08:00 - 18:00",
+    "locationName": "Kirch- und Kulturzentrum Sentupada",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/society.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=26.05.2026%20%2008:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=26.05.2026%20%2008:00%20-%2018:00"
+      }
+    ]
+  },
+  "gebetsgruppe_2026-05-27": {
+    "id": 1779703704784,
+    "title": "Gebetsgruppe",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-27",
+    "time": "07:15",
+    "locationName": "Evang.-ref. Kirche Domat",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/0/8b/12/08b12ea51bfade1a386272fae8a2299bb187d9f5.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/1477218?eventDateTime=27.05.2026%20%2007:15",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/1477218?eventDateTime=27.05.2026%20%2007:15"
+      }
+    ],
+    "organizerUrl": "https://www.ref-domat-ems.ch"
+  },
+  "referatvonprofdradrianpfiffner_2026-05-27": {
+    "id": 1779703706032,
+    "title": "Referat von Prof. Dr. Adrian Pfiffner",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Spuren katastrophaler Naturereignisse in der Schweiz",
+    "date": "2026-05-27",
+    "time": "19:30",
+    "locationName": "Gemeindebibliothek Domat/Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.8348519,
+    "lng": 9.4525004,
+    "price": "Eintritt frei, Kollekte.",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/48/b8/648b83348f933fe23c46fc2474f5ef348c4b5a6d_929160271.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4765697?eventDateTime=27.05.2026%20%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4765697?eventDateTime=27.05.2026%20%2019:30"
+      }
+    ],
+    "organizerUrl": "http://www.gbde.ch"
+  },
+  "europameisterschaftfuerpraehistorischejagdwaffen_2026-05-30": {
+    "id": 1779703707826,
+    "title": "Europameisterschaft für prähistorische Jagdwaffen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Turnier für prähistorische Jagdwaffen\r\nBogenschiessen und Speerschleuderwerfen",
+    "date": "2026-05-30",
+    "time": "10:00 - 17:00",
+    "locationName": "Domat / Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.833235,
+    "lng": 9.4531304,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/9/7c/51/97c5111e56375cf28a66b015a3da7258bec0b202.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4717635?eventDateTime=30.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4717635?eventDateTime=30.05.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://www.praetech.ch/"
+  },
+  "jahreskonzert2026_2026-05-30": {
+    "id": 1779703708836,
+    "title": "Jahreskonzert 2026",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Jahreskonzert der Musikschule Imboden",
+    "date": "2026-05-30",
+    "time": "19:00 - 22:00",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Kollekte für Musikschulfonds",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/c0/03/3c0035c710865f27e5ba19f7dfc682305a29a829_877360191.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4507629?eventDateTime=30.05.2026%20%2019:00%20-%2022:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4507629?eventDateTime=30.05.2026%20%2019:00%20-%2022:00"
+      }
+    ],
+    "organizerUrl": "https://www.musikschule-imboden.ch"
+  },
+  "9internationalesgespanntreffen2026ch7013domatems_2026-06-05": {
+    "id": 1779703710343,
+    "title": "9. Internationales Gespanntreffen 2026, CH-7013 Domat/Ems",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Gerne laden wir euch zum 9. Internationalen Gespanntreffen 2026, \nvom Fr. 5. Juni, 16.00 Uhr - So 7. Juni, 11.00 Uhr ein.\nWeitere Infos auf unserer Homepage. www.crestas-biker.ch",
+    "date": "2026-06-05",
+    "time": "Siehe Beschreibung",
+    "locationName": "Schützenhaus Gonda",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/f7/46/9f74681144d854f7d712ca40d3789c88ece63a20_885177604.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=05.06.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=05.06.2026"
+      }
+    ],
+    "organizerUrl": "https://crestas-biker-fruenda.jimdoweb.com"
+  },
+  "jahreskonzertvom6juni2026_2026-06-06": {
+    "id": 1779703710559,
+    "title": "Jahreskonzert vom 6.Juni 2026",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Jahreskonzert von Chor viril Domat mit dem Komiker Luca Maurizio",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/concert-nightlife.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4682007?eventDateTime=06.06.2026%20%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4682007?eventDateTime=06.06.2026%20%2020:00"
+      }
+    ]
+  },
+  "jahreskonzertchorvirildomat_2026-06-06": {
+    "id": 1779703711693,
+    "title": "Jahreskonzert Chor viril Domat",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Jahreskonzert Chor viril Domat",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4607669?eventDateTime=06.06.2026%20%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4607669?eventDateTime=06.06.2026%20%2020:00"
+      }
+    ]
+  },
+  "flohmarkt_2026-06-07": {
+    "id": 1779703713128,
+    "title": "Flohmarkt",
+    "category": "markets",
+    "categoryLabel": "Märkte",
+    "description": "auf dem Sentupadaplatz, 11.00 – 14.00h",
+    "date": "2026-06-07",
+    "time": "11:00 - 14:00",
+    "locationName": "Kirch- und Kulturzentrum Sentupada",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690803?eventDateTime=07.06.2026%20%2011:00%20-%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690803?eventDateTime=07.06.2026%20%2011:00%20-%2014:00"
+      }
+    ],
+    "organizerUrl": "https://www.dunnas-a-domat.ch"
+  },
+  "oeffentlichefuehrungemsorama_2026-06-10": {
+    "id": 1779703713869,
+    "title": "Öffentliche Führung EMSORAMA",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Besuchen Sie das erste Bündner Science Center \"EMSORAMA\" in Domat/Ems. Hier kommen neugierige Entdecker:innen während rund 90 Minuten auf ihre Kosten. Erkunden Sie auf ca.",
+    "date": "2026-06-10",
+    "time": "16:00 - 17:30",
+    "locationName": "Domat / Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.833235,
+    "lng": 9.4531304,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/7a/10/67a10607d58703fcf9a6d7559ab27e1e82397072_810858922.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4451987?eventDateTime=10.06.2026%20%2016:00%20-%2017:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4451987?eventDateTime=10.06.2026%20%2016:00%20-%2017:30"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013005600103?globalReset=1"
+  },
+  "96mitgliederversammlungdunnasadomat_2026-06-10": {
+    "id": 1779703715503,
+    "title": "96. Mitgliederversammlung \"Dunnas A Domat\"",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "19.00h, Türöffnung 18.30h Mehrzweckhalle Tircal",
+    "date": "2026-06-10",
+    "time": "18:30",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/32/e4/b32e49825b99e802103c5f9730923929eff91fe1_889104721.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4554557?eventDateTime=10.06.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4554557?eventDateTime=10.06.2026%20%2018:30"
+      }
+    ],
+    "organizerUrl": "https://www.dunnas-a-domat.ch"
+  },
+  "seniorenmittagstisch_2026-06-11": {
+    "id": 1779703717026,
+    "title": "Senioren-Mittagstisch",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-06-11",
+    "time": "11:30",
+    "locationName": "Restaurant Term Bel",
+    "municipality": "Domat/Ems",
+    "lat": 46.834153,
+    "lng": 9.4544531,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culinary.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690805?eventDateTime=11.06.2026%20%2011:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690805?eventDateTime=11.06.2026%20%2011:30"
+      }
+    ],
+    "organizerUrl": "https://www.dunnas-a-domat.ch"
   }
 }

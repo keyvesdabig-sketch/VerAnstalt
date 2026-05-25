@@ -1,94 +1,5 @@
 [
   {
-    "id": 1779536102307,
-    "title": "Urban Golf Sonntag",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Urban Golf Spieltag in der Stadt.",
-    "date": "2026-05-24",
-    "time": "09:00 - 19:30",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_904451128.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/urban-golf-sonntag-chur_AGBnq6W",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/urban-golf-sonntag-chur_AGBnq6W"
-      }
-    ]
-  },
-  {
-    "id": 1779537997119,
-    "title": "Taminser Töne",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Pfingstsonntag, 24. Mai 14.00 Uhr, Kirche Tamins, Taminser Töne bis Pfingstmontag, 25. Mai, 18.00 Uhr Erik Satie «Vexations» 840 Wiederholungen – 28 Stunden Klang. Organistinnen und Pianisten der Region. Idee und Leitung: Annegret Ernst.",
-    "date": "2026-05-24",
-    "time": "14:00",
-    "locationName": "Ev.-ref. Kirche Tamins",
-    "municipality": "Tamins",
-    "lat": 46.8285,
-    "lng": 9.4069,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/e/8d/ee/e8dee306ae1d9b411a5e43823e1835ed86858329_929344002.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4766939?eventDateTime=24.05.2026%20%2014:00",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4766939?eventDateTime=24.05.2026%20%2014:00"
-      }
-    ]
-  },
-  {
-    "id": 1779538439202,
-    "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "family",
-    "categoryLabel": "Familie",
-    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
-    "date": "2026-05-24",
-    "time": "09:00-11:30",
-    "locationName": "Bergbaiz",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=24.05.2026%20%2009:00%20-%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=24.05.2026%20%2009:00%20-%2011:30"
-      }
-    ]
-  },
-  {
-    "id": 1779539072045,
-    "title": "Tiefenentspannung mit Klang",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Tiefenentspannung mit Klang – eine Reise zum Abschalten, Auftanken und Wohlfühlen",
-    "date": "2026-05-24",
-    "time": "19:00",
-    "locationName": "Claudia Hablützel",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/53/73/c53733bec511a994bf7c8ff673ca72cc7baf88c9_773263408.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=24.05.2026%20%2019:00",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=24.05.2026%20%2019:00"
-      }
-    ],
-    "organizerUrl": "https://www.clahab.ch/"
-  },
-  {
     "id": 1779537998208,
     "title": "Taminser Bergsturzarena - Geführte Wanderung",
     "category": "stage",
@@ -101,7 +12,7 @@
     "lat": 46.8279044,
     "lng": 9.4085327,
     "price": "Fr. 50.00 p.P., Mitglieder Verein TAS Fr. 30.00 p.P.",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/2f/a5/32fa566890c5a3d1d4320c56407cd1021bd44219_927479578.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/3/2f/a5/32fa566890c5a3d1d4320c56407cd1021bd44219_927479578.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4756323?eventDateTime=25.05.2026%20%2009:45%20-%2015:30",
     "sources": [
       {
@@ -123,7 +34,7 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
+    "image": "https://www.localcities.ch/build/images/rough-border/rough-border-white.94f06061.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=25.05.2026%20%2014:00%20-%2016:00",
     "sources": [
       {
@@ -131,6 +42,91 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=25.05.2026%20%2014:00%20-%2016:00"
       }
     ]
+  },
+  {
+    "id": 1779703413120,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "09:58-20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703413289,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "10:00-17:00",
+    "locationName": "Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703413444,
+    "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Kantonsspital Graubünden - Kreuzspital",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703413175,
+    "title": "Heilen ist Kunst ist Heilen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Kantonsspital Graubünden",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703412606,
+    "title": "Im Atelier. Raum, Arbeit, Mythos",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
   },
   {
     "id": 1779539768974,
@@ -152,6 +148,216 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4739439?eventDateTime=26.05.2026%20%2014:00%20-%2016:00"
       }
+    ],
+    "organizerUrl": "https://www.bibliothek-thusis.ch"
+  },
+  {
+    "id": 1779703414671,
+    "title": "Begegnungscafé",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "09:00-11:00",
+    "locationName": "Comanderzentrum",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703415867,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "09:58-20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703415519,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703415642,
+    "title": "Im Atelier. Raum, Arbeit, Mythos",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703415953,
+    "title": "Heiner Kielholz",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703415777,
+    "title": "Daniela Keiser. Oregano",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703417145,
+    "title": "Jugendhaus Stadt Chur",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "15:00-19:00",
+    "locationName": "Jugendhaus Stadt Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703418088,
+    "title": "Gamen in der Bibliothek",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "15:45-17:45",
+    "locationName": "Stadtbibliothek & Ludothek",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703419756,
+    "title": "Schnupperprobe (13-15 Jahre)",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "18:00-20:00",
+    "locationName": "Junges Theater Graubünden",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703421188,
+    "title": "Generalversammlung NGG und Buchvernissage",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "19:15-21:00",
+    "locationName": "B12 - Brandis 12",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703422691,
+    "title": "Buchvernissage mit Philipp Gurt",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-26",
+    "time": "19:30",
+    "locationName": "Bücher Lüthy Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "",
+    "sources": []
+  },
+  {
+    "id": 1779703703032,
+    "title": "Kranzen für Fronleichnam",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Kranzen für Fronleichnam",
+    "date": "2026-05-26",
+    "time": "08:00 - 18:00",
+    "locationName": "Kirch- und Kulturzentrum Sentupada",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/society.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=26.05.2026%20%2008:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=26.05.2026%20%2008:00%20-%2018:00"
+      }
     ]
   },
   {
@@ -167,7 +373,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/6/2a/24/62a2479280892ddcdd11af497e0df4983deac597.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/uploaded/6/2a/24/62a2479280892ddcdd11af497e0df4983deac597.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4748705?eventDateTime=27.05.2026%20%2009:30%20-%2011:30",
     "sources": [
       {
@@ -181,7 +387,7 @@
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Wir laufen in verschiedenen Stärkeklassen (Joggen oder Nordic-Walking). Die Leiter/innen können nützliche Tipps geben. Der Lauftreff findet bei jeder Witterung statt. Keine Anmeldung erforderlich.",
+    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-05-27",
     "time": "19:00 - 20:00",
     "locationName": "Sportplatz Rheinau",
@@ -199,6 +405,52 @@
     ]
   },
   {
+    "id": 1779703704784,
+    "title": "Gebetsgruppe",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-05-27",
+    "time": "07:15",
+    "locationName": "Evang.-ref. Kirche Domat",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/0/8b/12/08b12ea51bfade1a386272fae8a2299bb187d9f5.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/1477218?eventDateTime=27.05.2026%20%2007:15",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/1477218?eventDateTime=27.05.2026%20%2007:15"
+      }
+    ],
+    "organizerUrl": "https://www.ref-domat-ems.ch"
+  },
+  {
+    "id": 1779703706032,
+    "title": "Referat von Prof. Dr. Adrian Pfiffner",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Spuren katastrophaler Naturereignisse in der Schweiz",
+    "date": "2026-05-27",
+    "time": "19:30",
+    "locationName": "Gemeindebibliothek Domat/Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.8348519,
+    "lng": 9.4525004,
+    "price": "Eintritt frei, Kollekte.",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/48/b8/648b83348f933fe23c46fc2474f5ef348c4b5a6d_929160271.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4765697?eventDateTime=27.05.2026%20%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4765697?eventDateTime=27.05.2026%20%2019:30"
+      }
+    ],
+    "organizerUrl": "http://www.gbde.ch"
+  },
+  {
     "id": 1779538448265,
     "title": "Hotel Krone Stammtisch – wie früher!",
     "category": "stage",
@@ -211,7 +463,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=28.05.2026%20%2018:00",
     "sources": [
       {
@@ -225,7 +477,7 @@
     "title": "Bike-Werkstattkurs \"Pro 1\"",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Unser erfahrener Mechaniker zeigt dir Schritt für Schritt, wie du deine Bremsleistung optimierst, Bremsbeläge wechselst und die richtigen Bremsflüssigkeiten verwendest. Die Bremsen sind eines der wichtigsten Sicherheitselemente deines Bikes – umso wichtiger ist es, sie richtig zu pflegen und zu warten.",
+    "description": "Unser erfahrener Mechaniker zeigt dir Schritt für Schritt, wie du deine Bremsleistung optimierst, Bremsbeläge wechselst und die richtigen Bremsflüssigkeiten verwendest. Anmeldung nötig.",
     "date": "2026-05-28",
     "time": "19:00 - 21:00",
     "locationName": "Sportwerkstatt Thusis",
@@ -240,7 +492,9 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4771405?eventDateTime=28.05.2026%20%2019:00%20-%2021:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.story-thusis.ch",
+    "ticketUrl": "https://story-thusis.ch/events/werkstattkurs-pro-1/"
   },
   {
     "id": 1779566368865,
@@ -269,7 +523,7 @@
     "title": "LANDI Fest 2026 Landquart",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Am 30. Mai 2026 wird gefeiert, getanzt und mitgesungen! Freut euch auf ein mega Line-up: Diana live Die Grubertaler DJ Edelweiss",
+    "description": "Am 30. Mai 2026 wird gefeiert, getanzt und mitgesungen!",
     "date": "2026-05-30",
     "time": "Siehe Beschreibung",
     "locationName": "LANDI Landquart",
@@ -284,7 +538,55 @@
         "name": "LocalCities-Landquart",
         "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4704727?eventDateTime=30.05.2026"
       }
-    ]
+    ],
+    "organizerUrl": "https://landi.swiss/de-CH/cooperative/landi-graubuenden/events/landi-fest-2026",
+    "ticketUrl": "https://eventfrog.ch/de/p/konzert/schlager-volksmusik/landi-fest-2026-7404148292097936573.html"
+  },
+  {
+    "id": 1779703707826,
+    "title": "Europameisterschaft für prähistorische Jagdwaffen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Turnier für prähistorische Jagdwaffen\r\nBogenschiessen und Speerschleuderwerfen",
+    "date": "2026-05-30",
+    "time": "10:00 - 17:00",
+    "locationName": "Domat / Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.833235,
+    "lng": 9.4531304,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/9/7c/51/97c5111e56375cf28a66b015a3da7258bec0b202.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4717635?eventDateTime=30.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4717635?eventDateTime=30.05.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://www.praetech.ch/"
+  },
+  {
+    "id": 1779703708836,
+    "title": "Jahreskonzert 2026",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Jahreskonzert der Musikschule Imboden",
+    "date": "2026-05-30",
+    "time": "19:00 - 22:00",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Kollekte für Musikschulfonds",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/c0/03/3c0035c710865f27e5ba19f7dfc682305a29a829_877360191.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4507629?eventDateTime=30.05.2026%20%2019:00%20-%2022:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4507629?eventDateTime=30.05.2026%20%2019:00%20-%2022:00"
+      }
+    ],
+    "organizerUrl": "https://www.musikschule-imboden.ch"
   },
   {
     "id": 1779536093371,
@@ -343,7 +645,7 @@
     "lat": 46.8285,
     "lng": 9.4069,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/4c/e9/04ce958ec892e07540a63b1381918c0ed008b256_929344008.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/0/4c/e9/04ce958ec892e07540a63b1381918c0ed008b256_929344008.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4766945?eventDateTime=31.05.2026%20%2017:00",
     "sources": [
       {
@@ -365,7 +667,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=31.05.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -387,7 +689,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/53/73/c53733bec511a994bf7c8ff673ca72cc7baf88c9_773263408.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=31.05.2026%20%2019:00",
     "sources": [
       {
@@ -402,7 +704,7 @@
     "title": "piCANTO goes \"Pop\"",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Konzert mit dem Vocal Ensemble piCANTO und der Band \"Betty and the Crumbs\". Präsentiert werden bekannte Popsongs von Elton John, Phil Collins, Supertramp, Robbie Williams, Cyndi Lauper u.a. Keine Reservation erforderlich.",
+    "description": "Konzert mit dem Vocal Ensemble piCANTOmit Band \"Betty and the Crumbs\", die ihr neues Programm präsentieren. Keine Reservation erforderlich.",
     "date": "2026-05-31",
     "time": "17:00",
     "locationName": "Röm.-kath. Kirche Gut Hirt",
@@ -424,7 +726,7 @@
     "title": "Spiel- und Jassnachmittag",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich. Spiele hat es vor Ort, gerne dürfen aber auch Lieblingsspiele mitgebracht werden! Am ersten Montag des Monats wird der Event jeweils durch Vertreterinnen des Frauenverein Thusis angeleitet.",
+    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
     "date": "2026-06-01",
     "time": "14:00 - 16:00",
     "locationName": "StoryThusis",
@@ -439,14 +741,15 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=01.06.2026%20%2014:00%20-%2016:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
   },
   {
     "id": 1779539776599,
     "title": "Learning Lunch",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "Diese Plattform wird von unterschiedlichen Referent:innen genutzt, die Wissen teilen und mit den Teilnehmenden im Austausch stehen. Der Learning Lunch findet am 1. Dienstag im Monat statt. Teilnehmer können ihr Mittagessen mitbringen oder vor Ort bestellen. Nach der Veranstaltung kann das Coworking den restlichen Nachmittag kostenlos genutzt werden. Online-Anmeldung erforderlich.",
+    "description": "Diese Plattform wird von unterschiedlichen ReferentInnen genutzt, die gerne etwas zu teilen haben und mal mehr, mal weniger interaktiv mit den Teilnehmenden im Austausch stehen. Online-Anmeldung nötig",
     "date": "2026-06-02",
     "time": "12:15 - 13:15",
     "locationName": "Story Thusis",
@@ -461,14 +764,15 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4623803?eventDateTime=02.06.2026%20%2012:15%20-%2013:15"
       }
-    ]
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/"
   },
   {
     "id": 1779539778383,
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Wir laufen in verschiedenen Stärkeklassen (Joggen oder Nordic-Walking). Die Leiter/innen können nützliche Tipps geben. Der Lauftreff findet bei jeder Witterung statt. Keine Anmeldung erforderlich.",
+    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-06-03",
     "time": "19:00 - 20:00",
     "locationName": "Sportplatz Rheinau",
@@ -498,7 +802,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/56/5f/6565f1548af684ad6b64097887899f887e386fa1_829805356.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4697911?eventDateTime=04.06.2026%20%2019:00",
     "sources": [
       {
@@ -521,7 +825,7 @@
     "lat": 46.7596313,
     "lng": 9.5598212,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/15/37/f1537a3bb1834ac180a08eb6c879e3d576e0c5d9_930509428.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/15/37/f1537a3bb1834ac180a08eb6c879e3d576e0c5d9_930509428.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4774039?eventDateTime=05.06.2026%20%2013:00%20-%2017:00",
     "sources": [
       {
@@ -529,6 +833,29 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4774039?eventDateTime=05.06.2026%20%2013:00%20-%2017:00"
       }
     ]
+  },
+  {
+    "id": 1779703710343,
+    "title": "9. Internationales Gespanntreffen 2026, CH-7013 Domat/Ems",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Gerne laden wir euch zum 9. Internationalen Gespanntreffen 2026, \nvom Fr. 5. Juni, 16.00 Uhr - So 7. Juni, 11.00 Uhr ein.\nWeitere Infos auf unserer Homepage. www.crestas-biker.ch",
+    "date": "2026-06-05",
+    "time": "Siehe Beschreibung",
+    "locationName": "Schützenhaus Gonda",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/f7/46/9f74681144d854f7d712ca40d3789c88ece63a20_885177604.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=05.06.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4538071?eventDateTime=05.06.2026"
+      }
+    ],
+    "organizerUrl": "https://crestas-biker-fruenda.jimdoweb.com"
   },
   {
     "id": 1779538453811,
@@ -543,7 +870,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/90/82/a9082efb2083760ffc3198dd3572b967fb19ffbe_915073865.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/a/90/82/a9082efb2083760ffc3198dd3572b967fb19ffbe_915073865.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4678139?eventDateTime=06.06.2026",
     "sources": [
       {
@@ -575,6 +902,50 @@
     ]
   },
   {
+    "id": 1779703710559,
+    "title": "Jahreskonzert vom 6.Juni 2026",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Jahreskonzert von Chor viril Domat mit dem Komiker Luca Maurizio",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/concert-nightlife.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4682007?eventDateTime=06.06.2026%20%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4682007?eventDateTime=06.06.2026%20%2020:00"
+      }
+    ]
+  },
+  {
+    "id": 1779703711693,
+    "title": "Jahreskonzert Chor viril Domat",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Jahreskonzert Chor viril Domat",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4607669?eventDateTime=06.06.2026%20%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4607669?eventDateTime=06.06.2026%20%2020:00"
+      }
+    ]
+  },
+  {
     "id": 1779538455073,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
     "category": "family",
@@ -587,7 +958,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=07.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -609,7 +980,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/53/73/c53733bec511a994bf7c8ff673ca72cc7baf88c9_773263408.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=07.06.2026%20%2019:00",
     "sources": [
       {
@@ -620,11 +991,34 @@
     "organizerUrl": "https://www.clahab.ch/"
   },
   {
+    "id": 1779703713128,
+    "title": "Flohmarkt",
+    "category": "markets",
+    "categoryLabel": "Märkte",
+    "description": "auf dem Sentupadaplatz, 11.00 – 14.00h",
+    "date": "2026-06-07",
+    "time": "11:00 - 14:00",
+    "locationName": "Kirch- und Kulturzentrum Sentupada",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690803?eventDateTime=07.06.2026%20%2011:00%20-%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690803?eventDateTime=07.06.2026%20%2011:00%20-%2014:00"
+      }
+    ],
+    "organizerUrl": "https://www.dunnas-a-domat.ch"
+  },
+  {
     "id": 1779539779257,
     "title": "Spiel- und Jassnachmittag",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich. Spiele hat es vor Ort, gerne dürfen aber auch Lieblingsspiele mitgebracht werden! Am ersten Montag des Monats wird der Event jeweils durch Vertreterinnen des Frauenverein Thusis angeleitet.",
+    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
     "date": "2026-06-08",
     "time": "14:00 - 16:00",
     "locationName": "StoryThusis",
@@ -639,14 +1033,15 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=08.06.2026%20%2014:00%20-%2016:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
   },
   {
     "id": 1779539780326,
     "title": "\"Buchstart\" für kleine Bibliothekbesucher*innen",
     "category": "family",
     "categoryLabel": "Familie",
-    "description": "Eine Buchveranstaltung mit Reimen, Versen und Liedern für die Kleinsten (0-3 Jahre) und eine Begleitperson. Buchstart ist ein gesamtschweizerisches Projekt zur frühen Sprachbildung, das die erste Begegnung von Kindern mit Büchern fördert.",
+    "description": "Eine Buchveranstaltung mit Reimen, Versen und Liedern für die Kleinsten und eine Begleitperson. Keine Anmeldung erforderlich.",
     "date": "2026-06-09",
     "time": "15:00",
     "locationName": "Regionalbibliothek Thusis",
@@ -661,14 +1056,15 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/419661?eventDateTime=09.06.2026%20%2015:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.bibliothek-thusis.ch"
   },
   {
     "id": 1779539782812,
     "title": "Lauftreff/Trailtreff Thusis",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Wir laufen in verschiedenen Stärkeklassen (Joggen oder Nordic-Walking). Die Leiter/innen können nützliche Tipps geben. Der Lauftreff findet bei jeder Witterung statt. Keine Anmeldung erforderlich.",
+    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
     "date": "2026-06-10",
     "time": "19:00 - 20:00",
     "locationName": "Sportplatz Rheinau",
@@ -686,6 +1082,52 @@
     ]
   },
   {
+    "id": 1779703713869,
+    "title": "Öffentliche Führung EMSORAMA",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Besuchen Sie das erste Bündner Science Center \"EMSORAMA\" in Domat/Ems. Hier kommen neugierige Entdecker:innen während rund 90 Minuten auf ihre Kosten. Erkunden Sie auf ca.",
+    "date": "2026-06-10",
+    "time": "16:00 - 17:30",
+    "locationName": "Domat / Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.833235,
+    "lng": 9.4531304,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/7a/10/67a10607d58703fcf9a6d7559ab27e1e82397072_810858922.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4451987?eventDateTime=10.06.2026%20%2016:00%20-%2017:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4451987?eventDateTime=10.06.2026%20%2016:00%20-%2017:30"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013005600103?globalReset=1"
+  },
+  {
+    "id": 1779703715503,
+    "title": "96. Mitgliederversammlung \"Dunnas A Domat\"",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "19.00h, Türöffnung 18.30h Mehrzweckhalle Tircal",
+    "date": "2026-06-10",
+    "time": "18:30",
+    "locationName": "Mehrzweckhalle Tircal",
+    "municipality": "Domat/Ems",
+    "lat": 46.8354,
+    "lng": 9.4476,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/32/e4/b32e49825b99e802103c5f9730923929eff91fe1_889104721.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4554557?eventDateTime=10.06.2026%20%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4554557?eventDateTime=10.06.2026%20%2018:30"
+      }
+    ],
+    "organizerUrl": "https://www.dunnas-a-domat.ch"
+  },
+  {
     "id": 1779539784492,
     "title": "Orts-, Kirchen- und Museumsführung",
     "category": "stage",
@@ -698,7 +1140,7 @@
     "lat": 46.6972,
     "lng": 9.4402,
     "price": "Erwachsene: CHF 10.00, Kinder: CHF 5.00 (in bar vor Ort zu bezahlen)",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/f9/84/7f984db11c80c9b86c32abde6e17b9dd9261cb9a_917916248.jpg",
+    "image": "https://www.localcities.ch/build/images/rough-border/rough-border-white.94f06061.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4695407?eventDateTime=11.06.2026%20%2013:30%20-%2016:00",
     "sources": [
       {
@@ -712,7 +1154,7 @@
     "title": "Bike-Werkstattkurs \"Pro 2\"",
     "category": "sport",
     "categoryLabel": "Sport",
-    "description": "Ein sauber gewarteter Antrieb sorgt für präzise Schaltvorgänge und mehr Fahrspass. Lerne, Verschleiss früh zu erkennen und deinen Antrieb optimal zu pflegen. In diesem Kurs lernst du, wie du deinen Antrieb richtig wartest und Probleme selbst behebst.",
+    "description": "Ein sauber gewarteter Antrieb sorgt für präzise Schaltvorgänge und mehr Fahrspass. Lerne, Verschleiss früh zu erkennen und deinen Antrieb optimal zu pflegen. Anmeldung erforderlich bis 11.6., 12.00 h.",
     "date": "2026-06-11",
     "time": "19:00 - 21:00",
     "locationName": "Sportwerkstatt Thusis",
@@ -727,14 +1169,16 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4771411?eventDateTime=11.06.2026%20%2019:00%20-%2021:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.story-thusis.ch",
+    "ticketUrl": "https://story-thusis.ch/events/werkstattkurs-pro-2/"
   },
   {
     "id": 1779539790216,
     "title": "Ladys night disco",
     "category": "music",
     "categoryLabel": "Musik & Party",
-    "description": "Feiere das Leben, dich und deine Frauen bei der Ladies-Night-Disco. DJane Martina Calonder legt auf. Die Lounge verwandelt sich in eine Disco mit \"Her to Her\" Sound. Keine Reservation erforderlich.",
+    "description": "Feiere das Leben, dich und deine Frauen bei der Ladies-Night-Disco. DJane Martina Calonder legt auf. Keine Reservation erforderlich.",
     "date": "2026-06-11",
     "time": "21:00 - 23:00",
     "locationName": "Story Thusis",
@@ -749,7 +1193,31 @@
         "name": "LocalCities-Thusis",
         "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4768691?eventDateTime=11.06.2026%20%2021:00%20-%2023:00"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.story-thusis.ch"
+  },
+  {
+    "id": 1779703717026,
+    "title": "Senioren-Mittagstisch",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Keine Beschreibung verfügbar.",
+    "date": "2026-06-11",
+    "time": "11:30",
+    "locationName": "Restaurant Term Bel",
+    "municipality": "Domat/Ems",
+    "lat": 46.834153,
+    "lng": 9.4544531,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culinary.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690805?eventDateTime=11.06.2026%20%2011:30",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690805?eventDateTime=11.06.2026%20%2011:30"
+      }
+    ],
+    "organizerUrl": "https://www.dunnas-a-domat.ch"
   },
   {
     "id": 1779539076606,
@@ -764,7 +1232,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/3f/47/b3f47f6386ded73f9c518311e3f287335182cb30_925024238.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4711093?eventDateTime=13.06.2026%20%2009:30",
     "sources": [
       {
@@ -786,7 +1254,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/6e/50/36e507d76f5ba3088d4f90feb4b5f56ce639eaf6_798234647.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741297?eventDateTime=13.06.2026%20%2017:00",
     "sources": [
       {
@@ -808,7 +1276,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=14.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -830,7 +1298,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/d3/65/cd365f3d759d076ed123ac08b567f42313a286f9_839982124.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/d3/65/cd365f3d759d076ed123ac08b567f42313a286f9_839982124.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4501121?eventDateTime=14.06.2026%20%2014:00",
     "sources": [
       {
@@ -852,7 +1320,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/53/73/c53733bec511a994bf7c8ff673ca72cc7baf88c9_773263408.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=14.06.2026%20%2019:00",
     "sources": [
       {
@@ -875,7 +1343,7 @@
     "lat": 46.8285,
     "lng": 9.4069,
     "price": "CHF 39.00 / Person; AHV-Bezüger:innen: CHF 35.00",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/85/3f/3853f40811e28dacf1fc97f15f267bedcb540429_910531727.jpeg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/3/85/3f/3853f40811e28dacf1fc97f15f267bedcb540429_910531727.jpeg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4652923?eventDateTime=16.06.2026%20%2017:25%20-%2021:00",
     "sources": [
       {
@@ -897,7 +1365,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=21.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -919,7 +1387,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/53/73/c53733bec511a994bf7c8ff673ca72cc7baf88c9_773263408.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=21.06.2026%20%2019:00",
     "sources": [
       {
@@ -964,7 +1432,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=25.06.2026%20%2018:00",
     "sources": [
       {
@@ -986,7 +1454,7 @@
     "lat": 46.8285,
     "lng": 9.4069,
     "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381?eventDateTime=26.06.2026",
     "sources": [
       {
@@ -1030,7 +1498,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/02/1d/d021d3e036ed5db78f0e35289cf671f4e8dcc3c3.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4696587?eventDateTime=27.06.2026%20%2017:00",
     "sources": [
       {
@@ -1053,7 +1521,7 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/7e/f2/d7ef29a63793ff9bc8c1afabcd7ab415bee060a0.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=27.06.2026",
     "sources": [
       {
@@ -1076,7 +1544,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/8c/36/68c36f4848d56f9a95ad3527213e2241ab08d44b_925027556.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741301?eventDateTime=27.06.2026",
     "sources": [
       {
@@ -1099,7 +1567,7 @@
     "lat": 46.8298784,
     "lng": 9.4068316,
     "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
     "sources": [
       {
@@ -1121,7 +1589,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=28.06.2026%20%2009:00",
     "sources": [
       {
@@ -1143,7 +1611,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=28.06.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1165,7 +1633,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Kosten: CHF 15.00 Erwachsene, CHF 10.00 Kinder (13 bis 16 Jahre)",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=28.06.2026%20%2010:00",
     "sources": [
       {
@@ -1187,7 +1655,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/53/73/c53733bec511a994bf7c8ff673ca72cc7baf88c9_773263408.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4712981?eventDateTime=28.06.2026%20%2019:00",
     "sources": [
       {
@@ -1210,7 +1678,7 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/7e/f2/d7ef29a63793ff9bc8c1afabcd7ab415bee060a0.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=28.06.2026",
     "sources": [
       {
@@ -1233,7 +1701,7 @@
     "lat": 46.8298784,
     "lng": 9.4068316,
     "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
     "sources": [
       {
@@ -1255,7 +1723,7 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/7e/f2/d7ef29a63793ff9bc8c1afabcd7ab415bee060a0.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=29.06.2026",
     "sources": [
       {
@@ -1278,7 +1746,7 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/7e/f2/d7ef29a63793ff9bc8c1afabcd7ab415bee060a0.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=30.06.2026",
     "sources": [
       {
@@ -1301,7 +1769,7 @@
     "lat": 46.9803,
     "lng": 9.5658,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/60/00/d600002a46030f08cf4ce42b1caab754977d2960_925024266.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4710763?eventDateTime=01.07.2026%20%2019:00%20-%2021:00",
     "sources": [
       {
@@ -1323,7 +1791,7 @@
     "lat": 46.8488,
     "lng": 9.5302,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/7e/f2/d7ef29a63793ff9bc8c1afabcd7ab415bee060a0.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=01.07.2026",
     "sources": [
       {
@@ -1346,7 +1814,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Private Führungen: CHF 180.00, Termine nach Vereinbarung",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=04.07.2026%20%2017:00",
     "sources": [
       {
@@ -1368,7 +1836,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1390,7 +1858,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=12.07.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1414,7 +1882,7 @@
     "lat": 46.8103405,
     "lng": 9.3979824,
     "price": "CHF 63.00 / Person; AHV-Bezüger:innen: CHF 57.00 Im Preis inbegriffen: Instruktion/Betreuung durch Fachperson, Info- und Verbrauchsmaterial, kleiner Kräutersnack",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/57/fe/357fe13338d8a52c22b56772d6ccc39c6237fe2c_910531731.jpeg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4652925?eventDateTime=12.07.2026%20%2012:05%20-%2016:00",
     "sources": [
       {
@@ -1436,7 +1904,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=16.07.2026%20%2014:30",
     "sources": [
       {
@@ -1459,7 +1927,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=18.07.2026%20%2017:00",
     "sources": [
       {
@@ -1482,7 +1950,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=19.07.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1528,7 +1996,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=23.07.2026%20%2014:30",
     "sources": [
       {
@@ -1551,7 +2019,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=26.07.2026%20%2009:00",
     "sources": [
       {
@@ -1573,7 +2041,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=26.07.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1597,7 +2065,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=30.07.2026%20%2014:30",
     "sources": [
       {
@@ -1620,7 +2088,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=30.07.2026%20%2018:00",
     "sources": [
       {
@@ -1643,7 +2111,7 @@
     "lat": 46.8124,
     "lng": 9.3986,
     "price": "CHF 49.00",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/b8/8c/0b88caba0a660f44b6e7b3c2d4de28e6e12c9a01_926223274.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4747943?eventDateTime=31.07.2026%20%2015:00",
     "sources": [
       {
@@ -1665,7 +2133,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=01.08.2026%20%2017:00",
     "sources": [
       {
@@ -1688,7 +2156,7 @@
     "lat": 46.8124,
     "lng": 9.3986,
     "price": "CHF 49.00",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/b8/8c/0b88caba0a660f44b6e7b3c2d4de28e6e12c9a01_926223274.jpg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4747943?eventDateTime=01.08.2026%20%2014:00",
     "sources": [
       {
@@ -1710,7 +2178,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=02.08.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1734,7 +2202,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=02.08.2026%20%2010:00",
     "sources": [
       {
@@ -1757,7 +2225,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=06.08.2026%20%2014:30",
     "sources": [
       {
@@ -1780,7 +2248,7 @@
     "lat": 46.8261726,
     "lng": 9.5170869,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/b3/00/2b300fbb1d46d0d2435c8137a9ec26471a1c273c_928426809.png",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/2/b3/00/2b300fbb1d46d0d2435c8137a9ec26471a1c273c_928426809.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4762029?eventDateTime=07.08.2026",
     "sources": [
       {
@@ -1802,7 +2270,7 @@
     "lat": 46.8261726,
     "lng": 9.5170869,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/b3/00/2b300fbb1d46d0d2435c8137a9ec26471a1c273c_928426809.png",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/2/b3/00/2b300fbb1d46d0d2435c8137a9ec26471a1c273c_928426809.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4762029?eventDateTime=08.08.2026",
     "sources": [
       {
@@ -1824,7 +2292,7 @@
     "lat": 46.8354,
     "lng": 9.4476,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/d0/25/2d0257b74b07c989f4dcf5294555f8b154ea256f_931990950.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/2/d0/25/2d0257b74b07c989f4dcf5294555f8b154ea256f_931990950.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4632547?eventDateTime=09.08.2026%20%2011:00",
     "sources": [
       {
@@ -1846,7 +2314,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=09.08.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1870,7 +2338,7 @@
     "lat": 46.8261726,
     "lng": 9.5170869,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/b3/00/2b300fbb1d46d0d2435c8137a9ec26471a1c273c_928426809.png",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/2/b3/00/2b300fbb1d46d0d2435c8137a9ec26471a1c273c_928426809.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4762029?eventDateTime=09.08.2026",
     "sources": [
       {
@@ -1892,7 +2360,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=15.08.2026%20%2017:00",
     "sources": [
       {
@@ -1915,7 +2383,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=16.08.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1939,7 +2407,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=23.08.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -1963,7 +2431,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/5/0d/c8/50dc82fc22516949a81332012343c9aae3b2a8b7_928269289.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760577?eventDateTime=23.08.2026%20%2010:00",
     "sources": [
       {
@@ -1986,7 +2454,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=27.08.2026%20%2018:00",
     "sources": [
       {
@@ -2009,7 +2477,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=30.08.2026%20%2009:00",
     "sources": [
       {
@@ -2031,7 +2499,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=30.08.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2078,7 +2546,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=06.09.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2102,7 +2570,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=12.09.2026%20%2017:00",
     "sources": [
       {
@@ -2117,7 +2585,7 @@
     "title": "Grüezi Italia",
     "category": "stage",
     "categoryLabel": "Bühne & Kunst",
-    "description": "La Dolce Vita",
+    "description": "La Dolce Vita – Eine multimediale Musikshow, die italienische Lebensfreude auf die Bühne bringt.",
     "date": "2026-09-12",
     "time": "Siehe Beschreibung",
     "locationName": "Forum Landquart",
@@ -2132,7 +2600,9 @@
         "name": "LocalCities-Landquart",
         "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993"
       }
-    ]
+    ],
+    "organizerUrl": "https://www.h2u-studios.ch/",
+    "ticketUrl": "https://www.ticketcorner.ch/artist/grueezi-italia/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
   {
     "id": 1779538493714,
@@ -2147,7 +2617,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=13.09.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2171,7 +2641,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=20.09.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2218,7 +2688,7 @@
     "lat": 46.7635073,
     "lng": 9.5677003,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/41/4d/6414d6b3324c87f0835483cea254cb2b945b613d_931765856.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/41/4d/6414d6b3324c87f0835483cea254cb2b945b613d_931765856.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4782109?eventDateTime=21.09.2026%20%2015:00%20-%2017:30",
     "sources": [
       {
@@ -2242,7 +2712,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=24.09.2026%20%2018:00",
     "sources": [
       {
@@ -2265,7 +2735,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=26.09.2026%20%2017:00",
     "sources": [
       {
@@ -2288,7 +2758,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=27.09.2026%20%2009:00",
     "sources": [
       {
@@ -2310,7 +2780,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=27.09.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2356,7 +2826,7 @@
     "lat": 46.7776766,
     "lng": 9.5411792,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=03.10.2026%20%2017:00",
     "sources": [
       {
@@ -2379,7 +2849,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=04.10.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2403,7 +2873,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=11.10.2026%20%2009:00",
     "sources": [
       {
@@ -2425,7 +2895,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=11.10.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2449,7 +2919,7 @@
     "lat": 46.8103405,
     "lng": 9.3979824,
     "price": "CHF 63.00 / Person; AHV-Bezüger:innen: CHF 57.00 Im Preis inbegriffen: Instruktion/Betreuung durch Fachperson, Info- und Verbrauchsmaterial, kleiner Kräutersnack",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/20/21/c2021ee013741bf7b72bc2d3e778327f5c830045_910535032.jpeg",
+    "image": "https://www.localcities.ch/build/images/mask/item-mask-top.bfd3d32c.png",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/bonaduz/4701/4652949?eventDateTime=11.10.2026%20%2012:05%20-%2016:00",
     "sources": [
       {
@@ -2471,7 +2941,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=18.10.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2518,7 +2988,7 @@
     "lat": 46.7797,
     "lng": 9.5348,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=25.10.2026%20%2009:00%20-%2011:30",
     "sources": [
       {
@@ -2542,7 +3012,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=29.10.2026%20%2018:00",
     "sources": [
       {
@@ -2589,7 +3059,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=26.11.2026%20%2018:00",
     "sources": [
       {
@@ -2659,7 +3129,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=31.12.2026%20%2018:00",
     "sources": [
       {
@@ -2704,7 +3174,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=28.01.2027%20%2018:00",
     "sources": [
       {
@@ -2727,7 +3197,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=25.02.2027%20%2018:00",
     "sources": [
       {
@@ -2750,7 +3220,7 @@
     "lat": 46.7773237,
     "lng": 9.5454159,
     "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
+    "image": "https://ik.imagekit.io/guidle/tr:n-small/6/08/32/60832ced20d6ebd08e66bea06e448b94b885f124_879704929.jpg",
     "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4515863?eventDateTime=25.03.2027%20%2018:00",
     "sources": [
       {
