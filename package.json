@@ -12,5 +12,8 @@
     "@google/genai": "^2.4.0",
     "dotenv": "^17.2.3"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "private": true
 }

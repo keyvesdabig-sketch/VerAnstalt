@@ -4,10 +4,6 @@ Offene Polish-Items aus Code-Reviews. Reihenfolge ~ Priorität.
 
 ## Aus PR #8 Review (24.05.2026)
 
-### 🟢 Test-Glob ist Node-Version-abhängig
-`package.json` `"test": "node --test \"test/**/*.test.js\""` — Node selbst expandiert das Glob seit v22. Auf älteren Nodes ist es ein No-Match.
-**Fix:** `"engines": { "node": ">=22" }` in `package.json` ergänzen, sonst Stolperfalle für neue Mitwirkende.
-
 ## Aus PR #7 Review (24.05.2026)
 
 ### 🟢 Keine Migrations-Notiz für localStorage-Keys
