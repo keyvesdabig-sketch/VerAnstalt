@@ -94,7 +94,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Erfahre Erstaunliches über das grösste Nagetier Europas. Bei dieser abwechslungsreichen Wanderung (6.8 km) auf schönen Waldwegen entlang dem Hinterrhein erfährst du Interessantes über die grössten europäischen Nagetiere. Unterwegs geniessen wir ein gemütliches Feierabendpicknick aus dem eigenen Rucksack.",
     "date": "2026-06-16",
-    "time": "17:25 - 21:00",
+    "time": "17:25-21:00",
     "locationName": "Reichenau-Tamins Bahnhof",
     "municipality": "Tamins",
     "lat": 46.8285,
@@ -1981,29 +1981,6 @@
     ],
     "organizerUrl": "https://www.holzwärcher.ch"
   },
-  "strickcafzusammenstrickenundhaeckeln_2026-05-26": {
-    "id": 1779539768974,
-    "title": "Strick-Café - Zusammen stricken und häckeln",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Gemütliches Beisammensein in der Regionalbibliothek Thusis. Strickend, häkelnd oder stickend lauschen wir verwobenen Geschichten. Dazu geniessen wir Café und Kuchen. Keine Anmeldung erforderlich.",
-    "date": "2026-05-26",
-    "time": "14:00-16:00",
-    "locationName": "Regionalbibliothek Thusis",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Kostenlos",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/76/27/276278651fc76500c32e280b93811ee61d2aa0e1_924720080.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4739439?eventDateTime=26.05.2026%20%2014:00%20-%2016:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4739439?eventDateTime=26.05.2026%20%2014:00%20-%2016:00"
-      }
-    ],
-    "organizerUrl": "https://www.bibliothek-thusis.ch"
-  },
   "lauftrefftrailtreffthusis_2026-05-27": {
     "id": 1779539771929,
     "title": "Lauftreff/Trailtreff Thusis",
@@ -2577,7 +2554,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Diese ämäzing OROPAX-Show ist alles - ausser irdisch!",
     "date": "2026-11-20",
-    "time": "20:00 - 22:00",
+    "time": "20:00-22:00",
     "locationName": "Forum Landquart",
     "municipality": "Landquart",
     "lat": 46.957418,
@@ -2624,7 +2601,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Vertraut und berührend wie immer - lassen Sie sich vom Christoph Walter Orchestra begeistern.",
     "date": "2026-12-17",
-    "time": "19:30 - 22:00",
+    "time": "19:30-22:00",
     "locationName": "Forum Landquart",
     "municipality": "Landquart",
     "lat": 46.957418,
@@ -2640,279 +2617,6 @@
     ],
     "organizerUrl": "https://www.christophwalter.ch/",
     "ticketUrl": "https://eventfrog.ch/de/p/konzerte/weitere-musikrichtungen/it-s-christmas-time-landquart-7420527085200911388.html"
-  },
-  "begegnungscaf_2026-05-26": {
-    "id": 1779703414671,
-    "title": "Begegnungscafé",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Gemütliches Beisammensein",
-    "date": "2026-05-26",
-    "time": "09:00-11:00",
-    "locationName": "Comanderzentrum",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/47/59/3475951db2ab4887409b5af6c7f1da58decbff0f_905636148.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4631473?eventDateTime=26.05.2026%20%2009:00%20-%2011:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4631473?eventDateTime=26.05.2026%20%2009:00%20-%2011:00"
-      }
-    ]
-  },
-  "rhbspeisewagengourmino_2026-05-26": {
-    "id": 1779703415867,
-    "title": "RhB Speisewagen Gourmino",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein Restaurant, das fährt und verzaubert: Im Speisewagen Gourmino wird jede Fahrt auf der spektakulären Albulalinie von Chur nach St. Moritz zu einem besonderen Erlebnis.",
-    "date": "2026-05-26",
-    "time": "09:58-20:02",
-    "locationName": "Bahnhof Chur",
-    "municipality": "Chur",
-    "lat": 46.8535563,
-    "lng": 9.5296459,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/1a/15/91a15c7c553ed3ef2cb3d4936959e6b2244ce377_919153425.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=26.05.2026%20%2009:58%20-%2020:02",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=26.05.2026%20%2009:58%20-%2020:02"
-      }
-    ],
-    "organizerUrl": "https://www.rhb.ch/de/genussreisen/speisewagen-gourmino/?tabs-1xUPOzhzxfYekiH6X03rpV=57PPL5Zx5UXvGHCbPM0R1V"
-  },
-  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-05-26": {
-    "id": 1779703415519,
-    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Diese Sonderausstellung zeigt anhand von sechs Biografien, welche Rolle Migrantinnen und Migranten beim Aufbau des Alpen-Tourismus eingenommen haben.",
-    "date": "2026-05-26",
-    "time": "10:00-17:00",
-    "locationName": "Rätisches Museum",
-    "municipality": "Chur",
-    "lat": 46.8486,
-    "lng": 9.5328,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/08/4f/8084f6836c19021246c23cb7424a02d6c85af8f2_931453931.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=26.05.2026%20%2010:00%20-%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=26.05.2026%20%2010:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/Seiten/%C2%ABAddio-%E2%80%93-Willkommen-%E2%80%93-A-revair%C2%BB.aspx"
-  },
-  "imatelierraumarbeitmythos_2026-05-26": {
-    "id": 1779703415642,
-    "title": "Im Atelier. Raum, Arbeit, Mythos",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Mit Werken von Matthew Barney, Mirko Baselgia, Flurin Bisig, Klodin Erb, Stefan Gritsch, Maude Léonard-Contant, Catrin Lüthi K, Paul McCarthy, Adrian Paci",
-    "date": "2026-05-26",
-    "time": "10:00-17:00",
-    "locationName": "Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/e/b9/13/eb9136fb38d1d59bf3c1d0a25f352fa78479f16a_911622642.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=26.05.2026%20%2010:00%20-%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=26.05.2026%20%2010:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Atelier.aspx"
-  },
-  "heinerkielholz_2026-05-26": {
-    "id": 1779703415953,
-    "title": "Heiner Kielholz",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein grosser Unbekannter in der Schweizer Kunst. Er arbeitet kontinuierlich an einem stillen Werk, meist in kleinen Formaten.",
-    "date": "2026-05-26",
-    "time": "10:00-17:00",
-    "locationName": "Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/f9/36/df9363e95700b5f439b63368aa915e1fcacf910f_922215914.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4724877?eventDateTime=26.05.2026%20%2010:00%20-%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4724877?eventDateTime=26.05.2026%20%2010:00%20-%2017:00"
-      }
-    ]
-  },
-  "danielakeiseroregano_2026-05-26": {
-    "id": 1779703415777,
-    "title": "Daniela Keiser. Oregano",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Für das Kunstmuseum gestaltet Keiser eine multisensorische begehbare Installation. In grossen Fotografien bezieht sie sich auf eine indische Kunstform, bei der Muster auf den Boden gezeichnet werden.",
-    "date": "2026-05-26",
-    "time": "10:00-17:00",
-    "locationName": "Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/d7/63/8d763589533145b3fdb4824814423cb899447865_912877307.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=26.05.2026%20%2010:00%20-%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=26.05.2026%20%2010:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Daniela-Keiser.aspx"
-  },
-  "jugendhausstadtchur_2026-05-26": {
-    "id": 1779703417145,
-    "title": "Jugendhaus Stadt Chur",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Verschiedene Räume im Jugendhaus sind nach Vereinbarung auch ausserhalb der regulären Öffnungszeiten nutzbar. Mehr Infos bekommt man im Jugendbüro.",
-    "date": "2026-05-26",
-    "time": "15:00-19:00",
-    "locationName": "Jugendhaus Stadt Chur",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/20/f3/f20f35f1cb5579c23a74985500c80bc29ccaf60b_837449274.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4673169?eventDateTime=26.05.2026%20%2015:00%20-%2019:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4673169?eventDateTime=26.05.2026%20%2015:00%20-%2019:00"
-      }
-    ],
-    "organizerUrl": "https://www.jugendarbeitchur.ch/"
-  },
-  "gameninderbibliothek_2026-05-26": {
-    "id": 1779703418088,
-    "title": "Gamen in der Bibliothek",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Für Kinder ab 6 Jahren",
-    "date": "2026-05-26",
-    "time": "15:45-17:45",
-    "locationName": "Stadtbibliothek & Ludothek",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/b4/31/1b4316aac0df95cf2300b50fa635ba1555d29ecd_849898763.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4379755?eventDateTime=26.05.2026%20%2015:45%20-%2017:45",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4379755?eventDateTime=26.05.2026%20%2015:45%20-%2017:45"
-      }
-    ]
-  },
-  "schnupperprobe1315jahre_2026-05-26": {
-    "id": 1779703419756,
-    "title": "Schnupperprobe (13-15 Jahre)",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Schnupperproben für alle von 13 bis 15 Jahren",
-    "date": "2026-05-26",
-    "time": "18:00-20:00",
-    "locationName": "Junges Theater Graubünden",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/ad/1b/dad1bbf9e09291c15e222658a146a14a8b1c208c_930709547.jpeg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4775889?eventDateTime=26.05.2026%20%2018:00%20-%2020:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4775889?eventDateTime=26.05.2026%20%2018:00%20-%2020:00"
-      }
-    ],
-    "organizerUrl": "https://jungestheater.gr/"
-  },
-  "generalversammlungnggundbuchvernissage_2026-05-26": {
-    "id": 1779703421188,
-    "title": "Generalversammlung NGG und Buchvernissage",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Einführung mit Dr. Britta Allgöwer, Präsidentin der NGG.",
-    "date": "2026-05-26",
-    "time": "19:15-21:00",
-    "locationName": "B12 - Brandis 12",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4580893?eventDateTime=26.05.2026%20%2019:15%20-%2021:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4580893?eventDateTime=26.05.2026%20%2019:15%20-%2021:00"
-      }
-    ],
-    "organizerUrl": "https://naturmuseum.gr.ch"
-  },
-  "buchvernissagemitphilippgurt_2026-05-26": {
-    "id": 1779703422691,
-    "title": "Buchvernissage mit Philipp Gurt",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Der Bündner Bestsellerautor Philipp Gurt präsentiert seinen neuen Krimi \"Engadiner Rache\".",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "locationName": "Bücher Lüthy Chur",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/e2/d7/ce2d7bc0401b7329198c1fad106332277eabc4f4_926019786.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4746419?eventDateTime=26.05.2026%20%2019:30",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4746419?eventDateTime=26.05.2026%20%2019:30"
-      }
-    ],
-    "organizerUrl": "https://www.buchhaus.ch/de/about/events/eventDetail/2026_chur_gurt2/Buchvernissage-mit-Philipp-Gurt?bpmctrl=bpmrownr.32%7Cforeign.819137-2-0-580758",
-    "ticketUrl": "https://www.buchhaus.ch/de/about/events/anmeldung-chur-gurt-buchvernissage2"
-  },
-  "kranzenfuerfronleichnam_2026-05-26": {
-    "id": 1779703703032,
-    "title": "Kranzen für Fronleichnam",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Kranzen für Fronleichnam",
-    "date": "2026-05-26",
-    "time": "08:00-18:00",
-    "locationName": "Kirch- und Kulturzentrum Sentupada",
-    "municipality": "Domat/Ems",
-    "lat": 46.8354,
-    "lng": 9.4476,
-    "price": "Eintritt frei",
-    "image": "https://s.localcities.ch/event/images/placeholders/society.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=26.05.2026%20%2008:00%20-%2018:00",
-    "sources": [
-      {
-        "name": "LocalCities-Domat/Ems",
-        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4694915?eventDateTime=26.05.2026%20%2008:00%20-%2018:00"
-      }
-    ]
   },
   "gebetsgruppe_2026-05-27": {
     "id": 1779703704784,
@@ -2967,7 +2671,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Turnier für prähistorische Jagdwaffen\r\nBogenschiessen und Speerschleuderwerfen",
     "date": "2026-05-30",
-    "time": "10:00 - 17:00",
+    "time": "10:00-17:00",
     "locationName": "Domat / Ems",
     "municipality": "Domat/Ems",
     "lat": 46.833235,
@@ -3103,7 +2807,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Besuchen Sie das erste Bündner Science Center \"EMSORAMA\" in Domat/Ems. Hier kommen neugierige Entdecker:innen während rund 90 Minuten auf ihre Kosten. Erkunden Sie auf ca.",
     "date": "2026-06-10",
-    "time": "16:00 - 17:30",
+    "time": "16:00-17:30",
     "locationName": "Domat / Ems",
     "municipality": "Domat/Ems",
     "lat": 46.833235,
@@ -4956,191 +4660,6 @@
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/schneewittli/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
-  "zwischensichtbaremundgeahntem_2026-05-26": {
-    "id": 1779789271761,
-    "title": "Zwischen Sichtbarem und Geahntem",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Künstler Apéro, Freitag 29. Mai 17 – 20 Uhr, mit der Künstlerin",
-    "date": "2026-05-26",
-    "time": "09:00-18:00",
-    "locationName": "Galerie Crameri",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/63/1e/0631e40371ecebbf406ad72351416d1a8b307eab_933092417.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4790317?eventDateTime=26.05.2026%20%2009:00%20-%2018:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4790317?eventDateTime=26.05.2026%20%2009:00%20-%2018:00"
-      }
-    ],
-    "organizerUrl": "https://www.galerie-crameri.ch"
-  },
-  "urbangolf_2026-05-26": {
-    "id": 1779789273472,
-    "title": "Urban Golf",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Mit Schläger und Softball entdecken Sie Churs Altstadt auf spielerische Weise.",
-    "date": "2026-05-26",
-    "time": "09:00-20:30",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_928173484.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=26.05.2026%20%2009:00%20-%2020:30",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=26.05.2026%20%2009:00%20-%2020:30"
-      }
-    ],
-    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013024938333?globalReset=1"
-  },
-  "churergenussmission_2026-05-26": {
-    "id": 1779789274373,
-    "title": "Churer Genussmission",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein innovatives Erlebnis, das die Spannung von Rätseln und Abenteuern mit dem Genuss lokaler Spezialitäten verbindet.",
-    "date": "2026-05-26",
-    "time": "09:00-18:00",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/e0/1b/6e01b6682b951252f6f00ccf833b64a0b8f3a70c_810858779.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=26.05.2026%20%2009:00%20-%2018:00",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=26.05.2026%20%2009:00%20-%2018:00"
-      }
-    ],
-    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014733279618?globalReset=1"
-  },
-  "jodelkursfuerfortgeschrittene_2026-05-26": {
-    "id": 1779789275156,
-    "title": "Jodelkurs für Fortgeschrittene",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein Jodelkurs für Leute, die schon Jodelerfahrung haben.",
-    "date": "2026-05-26",
-    "time": "19:45-21:15",
-    "locationName": "Sinnhof",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/78/fa/678fa1e93790c8df13dfa1b0b3691ead13990ab0_919485569.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4706873?eventDateTime=26.05.2026%20%2019:45%20-%2021:15",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4706873?eventDateTime=26.05.2026%20%2019:45%20-%2021:15"
-      }
-    ],
-    "organizerUrl": "https://www.serainahartmann.com",
-    "ticketUrl": "https://www.serainahartmann.com/jodelkurse/jodelkurs-für-fortgeschrittene/"
-  },
-  "humoristischerblickaufdienaturzeichnungenvonrolfgiger_2026-05-26": {
-    "id": 1779789276857,
-    "title": "Humoristischer Blick auf die Natur – Zeichnungen von Rolf Giger",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Humoristische Zeichnungen aus der Natur von Rolf Giger. Tiere, Pflanzen und Landschaften aus Graubünden – beobachtet mit Humor und präziser Linie.",
-    "date": "2026-05-26",
-    "time": "Siehe Beschreibung",
-    "locationName": "Haus der Illustration",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/f6/c5/7f6c553761875d223cdb8e9b59148fa57a911f8c_921618881.jpeg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4623387?eventDateTime=26.05.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4623387?eventDateTime=26.05.2026"
-      }
-    ],
-    "organizerUrl": "https://gigercreative.com/humoristischer-blick-auf-die-natur/"
-  },
-  "robertralstonwennwortenichtmehrweiterwissen_2026-05-26": {
-    "id": 1779789276311,
-    "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Pop-Up-Ausstellung im Rahmen von «Heilen ist Kunst ist Heilen» \nDie Finissage beider Ausstellungen findet am 27. August 2026 um 17.15 Uhr statt.",
-    "date": "2026-05-26",
-    "time": "Siehe Beschreibung",
-    "locationName": "Kantonsspital Graubünden - Kreuzspital",
-    "municipality": "Chur",
-    "lat": 46.8615,
-    "lng": 9.5412,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/91/8f/0918f0f5cd4caa84c0afc35e587b0e78c406b71f_922948614.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=26.05.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=26.05.2026"
-      }
-    ],
-    "organizerUrl": "https://www.ksgr.ch/kunst#worte"
-  },
-  "heilenistkunstistheilen_2026-05-26": {
-    "id": 1779789276639,
-    "title": "Heilen ist Kunst ist Heilen",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Kunst auf Verordnung @ Atelier Hubert Crevoisier\n14. Mai 2025 - 27. August 2026 (Finissage um 17:15 Uhr)\nDas Atelier befindet sich in den beiden Vitrinen im Erdgeschoss des Haus H1 am KSGR.",
-    "date": "2026-05-26",
-    "time": "Siehe Beschreibung",
-    "locationName": "Kantonsspital Graubünden",
-    "municipality": "Chur",
-    "lat": 46.8615,
-    "lng": 9.5412,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/39/44/c39442cfe3547977b128206b551df9410263404c_922948623.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4473089?eventDateTime=26.05.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4473089?eventDateTime=26.05.2026"
-      }
-    ],
-    "organizerUrl": "https://www.ksgr.ch/kunst#heilenistkunst"
-  },
-  "susanhefuna_2026-05-26": {
-    "id": 1779789276155,
-    "title": "Susan Hefuna",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Susan Hefunas künstlerische Praxis umfasst Zeichnung, Fotografie, Installation, Video und Performance. Sie erforscht das Zusammenspiel von Ort, Zeit und Wahrnehmung.",
-    "date": "2026-05-26",
-    "time": "Siehe Beschreibung",
-    "locationName": "Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/2/18/86/218860f84c805c528de831f425f272f95540b5ac_912877288.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666047?eventDateTime=26.05.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666047?eventDateTime=26.05.2026"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/"
-  },
   "9internationalesgespanntreffen2026_2026-06-05": {
     "id": 1779789333532,
     "title": "9. Internationales Gespanntreffen 2026",
@@ -5523,5 +5042,511 @@
     ],
     "organizerUrl": "https://tilla-praez.ch/erlebniswanderweg.html",
     "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020016343042913#/"
+  },
+  "urbangolf_2026-05-27": {
+    "id": 1779872976685,
+    "title": "Urban Golf",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Mit Schläger und Softball entdecken Sie Churs Altstadt auf spielerische Weise.",
+    "date": "2026-05-27",
+    "time": "09:00-20:30",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_928173484.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=27.05.2026%20%2009:00%20-%2020:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=27.05.2026%20%2009:00%20-%2020:30"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013024938333?globalReset=1"
+  },
+  "zwischensichtbaremundgeahntem_2026-05-27": {
+    "id": 1779872978489,
+    "title": "Zwischen Sichtbarem und Geahntem",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Künstler Apéro, Freitag 29. Mai 17 – 20 Uhr, mit der Künstlerin",
+    "date": "2026-05-27",
+    "time": "09:00-18:00",
+    "locationName": "Galerie Crameri",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/63/1e/0631e40371ecebbf406ad72351416d1a8b307eab_933092417.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4790317?eventDateTime=27.05.2026%20%2009:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4790317?eventDateTime=27.05.2026%20%2009:00%20-%2018:00"
+      }
+    ],
+    "organizerUrl": "https://www.galerie-crameri.ch"
+  },
+  "churergenussmission_2026-05-27": {
+    "id": 1779872978586,
+    "title": "Churer Genussmission",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein innovatives Erlebnis, das die Spannung von Rätseln und Abenteuern mit dem Genuss lokaler Spezialitäten verbindet.",
+    "date": "2026-05-27",
+    "time": "09:00-18:00",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/e0/1b/6e01b6682b951252f6f00ccf833b64a0b8f3a70c_810858779.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=27.05.2026%20%2009:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=27.05.2026%20%2009:00%20-%2018:00"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014733279618?globalReset=1"
+  },
+  "rhbspeisewagengourmino_2026-05-27": {
+    "id": 1779872980595,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein Restaurant, das fährt und verzaubert: Im Speisewagen Gourmino wird jede Fahrt auf der spektakulären Albulalinie von Chur nach St. Moritz zu einem besonderen Erlebnis.",
+    "date": "2026-05-27",
+    "time": "09:58-20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/1a/15/91a15c7c553ed3ef2cb3d4936959e6b2244ce377_919153425.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=27.05.2026%20%2009:58%20-%2020:02",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=27.05.2026%20%2009:58%20-%2020:02"
+      }
+    ],
+    "organizerUrl": "https://www.rhb.ch/de/genussreisen/speisewagen-gourmino/?tabs-1xUPOzhzxfYekiH6X03rpV=57PPL5Zx5UXvGHCbPM0R1V"
+  },
+  "danielakeiseroregano_2026-05-27": {
+    "id": 1779872980175,
+    "title": "Daniela Keiser. Oregano",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Für das Kunstmuseum gestaltet Keiser eine multisensorische begehbare Installation. In grossen Fotografien bezieht sie sich auf eine indische Kunstform, bei der Muster auf den Boden gezeichnet werden.",
+    "date": "2026-05-27",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/d7/63/8d763589533145b3fdb4824814423cb899447865_912877307.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=27.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=27.05.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Daniela-Keiser.aspx"
+  },
+  "imatelierraumarbeitmythos_2026-05-27": {
+    "id": 1779872980655,
+    "title": "Im Atelier. Raum, Arbeit, Mythos",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit Werken von Matthew Barney, Mirko Baselgia, Flurin Bisig, Klodin Erb, Stefan Gritsch, Maude Léonard-Contant, Catrin Lüthi K, Paul McCarthy, Adrian Paci",
+    "date": "2026-05-27",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/e/b9/13/eb9136fb38d1d59bf3c1d0a25f352fa78479f16a_911622642.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=27.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=27.05.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Atelier.aspx"
+  },
+  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-05-27": {
+    "id": 1779872979838,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Diese Sonderausstellung zeigt anhand von sechs Biografien, welche Rolle Migrantinnen und Migranten beim Aufbau des Alpen-Tourismus eingenommen haben.",
+    "date": "2026-05-27",
+    "time": "10:00-17:00",
+    "locationName": "Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/08/4f/8084f6836c19021246c23cb7424a02d6c85af8f2_931453931.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=27.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=27.05.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/Seiten/%C2%ABAddio-%E2%80%93-Willkommen-%E2%80%93-A-revair%C2%BB.aspx"
+  },
+  "heinerkielholz_2026-05-27": {
+    "id": 1779872980157,
+    "title": "Heiner Kielholz",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein grosser Unbekannter in der Schweizer Kunst. Er arbeitet kontinuierlich an einem stillen Werk, meist in kleinen Formaten.",
+    "date": "2026-05-27",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/f9/36/df9363e95700b5f439b63368aa915e1fcacf910f_922215914.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4724877?eventDateTime=27.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4724877?eventDateTime=27.05.2026%20%2010:00%20-%2017:00"
+      }
+    ]
+  },
+  "kidztreff_2026-05-27": {
+    "id": 1779872982040,
+    "title": "Kidz Treff",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "offener Kidz Treff für Kinder von der 4. bis 6. Klasse, freiwillig, kostenlos und ohne Anmeldung.",
+    "date": "2026-05-27",
+    "time": "14:00-16:30",
+    "locationName": "Jugendhaus Stadt Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/70/17/670176ef6b640c3a447f9e8500c7ce808d8cc028_912442705.png",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4715381?eventDateTime=27.05.2026%20%2014:00%20-%2016:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4715381?eventDateTime=27.05.2026%20%2014:00%20-%2016:30"
+      }
+    ],
+    "organizerUrl": "https://www.jugendarbeit.chur.ch"
+  },
+  "spielnachmittageimhallenbad_2026-05-27": {
+    "id": 1779872981923,
+    "title": "Spielnachmittage im Hallenbad",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Spielfreudige Wasserratten aufgepasst! Mittwochs und samstags geht's rund im Hallenbad Obere Au.",
+    "date": "2026-05-27",
+    "time": "14:00-16:00",
+    "locationName": "Sport- und Eventanlagen Chur",
+    "municipality": "Chur",
+    "lat": 46.8475,
+    "lng": 9.5085,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/f6/a5/ff6a571480a8e4b7aadaa4a13e9644e7ba407ede_708945426.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/2999118?eventDateTime=27.05.2026%20%2014:00%20-%2016:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/2999118?eventDateTime=27.05.2026%20%2014:00%20-%2016:00"
+      }
+    ],
+    "organizerUrl": "https://www.sportanlagenchur.ch/familien"
+  },
+  "jugendhausstadtchur_2026-05-27": {
+    "id": 1779872982834,
+    "title": "Jugendhaus Stadt Chur",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Verschiedene Räume im Jugendhaus sind nach Vereinbarung auch ausserhalb der regulären Öffnungszeiten nutzbar. Mehr Infos bekommt man im Jugendbüro.",
+    "date": "2026-05-27",
+    "time": "14:00-19:00",
+    "locationName": "Jugendhaus Stadt Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/20/f3/f20f35f1cb5579c23a74985500c80bc29ccaf60b_837449274.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4673169?eventDateTime=27.05.2026%20%2014:00%20-%2019:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4673169?eventDateTime=27.05.2026%20%2014:00%20-%2019:00"
+      }
+    ],
+    "organizerUrl": "https://www.jugendarbeitchur.ch/"
+  },
+  "spielenundhuepfenfuerjungundalt_2026-05-27": {
+    "id": 1779872984601,
+    "title": "Spielen und Hüpfen für Jung und Alt",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Spielnachmittag für alle Generationen mit Hüpfburg, Bausteinen, Kapla und vielen verschiedenen Gemeinschaftsspielen, Zvieri und Abschluss.",
+    "date": "2026-05-27",
+    "time": "14:00-16:30",
+    "locationName": "Comanderzentrum",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/26/e7/726e7e8ee26a0ab65c1affc05bb5d0c50e19f01c_850993862.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4631681?eventDateTime=27.05.2026%20%2014:00%20-%2016:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4631681?eventDateTime=27.05.2026%20%2014:00%20-%2016:30"
+      }
+    ]
+  },
+  "oeffentlichealtstadtfuehrungchur_2026-05-27": {
+    "id": 1779872985181,
+    "title": "Öffentliche Altstadtführung Chur",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Lernen Sie Chur kennen bei der Altstadtführung durch die älteste Stadt der Schweiz, wo über 5000 Jahre Siedlungsgeschichte erlebbar sind.",
+    "date": "2026-05-27",
+    "time": "14:30-16:30",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/fe/98/8fe983792c87da6c829157472d41700a3cf184c5_928648104.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/1616482?eventDateTime=27.05.2026%20%2014:30%20-%2016:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/1616482?eventDateTime=27.05.2026%20%2014:30%20-%2016:30"
+      }
+    ],
+    "organizerUrl": "https://www.chur.graubuenden.ch/de/angebot/altstadtfuehrung",
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020012997639972?globalReset=1"
+  },
+  "schweizervorlesetag2026_2026-05-27": {
+    "id": 1779872986184,
+    "title": "Schweizer Vorlesetag 2026",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "«Der fantastische Bus» von Jakob Martin Strid",
+    "date": "2026-05-27",
+    "time": "14:30-16:00",
+    "locationName": "Stadtbibliothek & Ludothek",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/8b/7e/18b7e83b498fc3bd0c0ddacbe0afd504357543bf_930637064.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4775867?eventDateTime=27.05.2026%20%2014:30%20-%2016:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4775867?eventDateTime=27.05.2026%20%2014:30%20-%2016:00"
+      }
+    ],
+    "organizerUrl": "https://www.bibliochur.ch/events/eventdetails/schweizer-vorlesetag-2026.html"
+  },
+  "jugendtreff_2026-05-27": {
+    "id": 1779872987308,
+    "title": "Jugendtreff",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Offener Jugendtreff am Mittwoch, Freitag und Samstag - kostenlos und ohne Anmeldung.",
+    "date": "2026-05-27",
+    "time": "17:00-20:00",
+    "locationName": "Jugendhaus Stadt Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/04/06/604061643167b5fd1f4be42767e007162b28071b_912459118.png",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4691173?eventDateTime=27.05.2026%20%2017:00%20-%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4691173?eventDateTime=27.05.2026%20%2017:00%20-%2020:00"
+      }
+    ],
+    "organizerUrl": "https://www.jugendarbeit.chur.ch"
+  },
+  "zukunftholzdenwerkstoffvonmorgengemeinsamgestalten_2026-05-27": {
+    "id": 1779872988804,
+    "title": "Zukunft Holz: Den Werkstoff von morgen gemeinsam gestalten",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Holz als High-Tech-Werkstoff: Das Wissenschaftscafé beleuchtet Digitalisierung vom Forst bis zur Fertigung, neue Bauweisen sowie die Rolle von Aus- und Weiterbildung im Wandel.",
+    "date": "2026-05-27",
+    "time": "17:00-18:30",
+    "locationName": "ibW Höhere Fachschule Südostschweiz",
+    "municipality": "Chur",
+    "lat": 46.854963,
+    "lng": 9.5295064,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/28/66/d2866a8c7fe60feaf484ee34e21fcae23e2040de_919015860.png",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4703395?eventDateTime=27.05.2026%20%2017:00%20-%2018:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4703395?eventDateTime=27.05.2026%20%2017:00%20-%2018:30"
+      }
+    ],
+    "organizerUrl": "https://academiaraetica.ch/kurse-und-veranstaltungen/2026-05-27_csem_ibw_zukunft-holz"
+  },
+  "nnavytrio_2026-05-27": {
+    "id": 1779872988979,
+    "title": "NNAVY (Trio)",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Die Schweizer Soul- und R&B-Perle NNAVY kehrt im Trio zurück auf die Werkstatt-Bühne.",
+    "date": "2026-05-27",
+    "time": "20:00-22:00",
+    "locationName": "Werkstatt Kultur-Bar",
+    "municipality": "Chur",
+    "lat": 46.8488,
+    "lng": 9.5302,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/41/86/d4186ce7c8fa56100fdb56ba5e107f60a381b085_907507225.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4662157?eventDateTime=27.05.2026%20%2020:00%20-%2022:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4662157?eventDateTime=27.05.2026%20%2020:00%20-%2022:00"
+      }
+    ],
+    "organizerUrl": "https://nnavymusic.com/",
+    "ticketUrl": "https://eventfrog.ch/de/event/7406111305415849932/preview.html"
+  },
+  "ausstellungstadtgaleriechuragigregorineverendingstory20_2026-05-27": {
+    "id": 1779872989426,
+    "title": "Ausstellung Stadtgalerie Chur: AGI GREGORI - NEVER ENDING STORY 2.0",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Wir laden Sie herzlich an die neue Ausstellung: NEVER ENDING 2.0 von AGI GREGORI ein, für einen Moment den Alltag zu vergessen, und in ihre Farbwelt einzutauchen. Wir freuen uns auf Ihren Besuch!",
+    "date": "2026-05-27",
+    "time": "Siehe Beschreibung",
+    "locationName": "Stadtgalerie",
+    "municipality": "Chur",
+    "lat": 46.851,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/21/48/62148c30959c8a2e0c6317ed7a3fcfa860b7e97e_927145694.jpeg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4753601?eventDateTime=27.05.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4753601?eventDateTime=27.05.2026"
+      }
+    ]
+  },
+  "humoristischerblickaufdienaturzeichnungenvonrolfgiger_2026-05-27": {
+    "id": 1779872990189,
+    "title": "Humoristischer Blick auf die Natur – Zeichnungen von Rolf Giger",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Humoristische Zeichnungen aus der Natur von Rolf Giger. Tiere, Pflanzen und Landschaften aus Graubünden – beobachtet mit Humor und präziser Linie.",
+    "date": "2026-05-27",
+    "time": "Siehe Beschreibung",
+    "locationName": "Haus der Illustration",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/f6/c5/7f6c553761875d223cdb8e9b59148fa57a911f8c_921618881.jpeg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4623387?eventDateTime=27.05.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4623387?eventDateTime=27.05.2026"
+      }
+    ],
+    "organizerUrl": "https://gigercreative.com/humoristischer-blick-auf-die-natur/"
+  },
+  "robertralstonwennwortenichtmehrweiterwissen_2026-05-27": {
+    "id": 1779872990264,
+    "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Pop-Up-Ausstellung im Rahmen von «Heilen ist Kunst ist Heilen» \nDie Finissage beider Ausstellungen findet am 27. August 2026 um 17.15 Uhr statt.",
+    "date": "2026-05-27",
+    "time": "Siehe Beschreibung",
+    "locationName": "Kantonsspital Graubünden - Kreuzspital",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/0/91/8f/0918f0f5cd4caa84c0afc35e587b0e78c406b71f_922948614.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=27.05.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=27.05.2026"
+      }
+    ],
+    "organizerUrl": "https://www.ksgr.ch/kunst#worte"
+  },
+  "europameisterschaftfuerpraehistorischejagdwaffen_2026-05-31": {
+    "id": 1779873043899,
+    "title": "Europameisterschaft für prähistorische Jagdwaffen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Turnier für prähistorische Jagdwaffen\r\nBogenschiessen und Speerschleuderwerfen",
+    "date": "2026-05-31",
+    "time": "10:00-17:00",
+    "locationName": "Domat / Ems",
+    "municipality": "Domat/Ems",
+    "lat": 46.833235,
+    "lng": 9.4531304,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/9/7c/51/97c5111e56375cf28a66b015a3da7258bec0b202.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4717635?eventDateTime=31.05.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Domat/Ems",
+        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4717635?eventDateTime=31.05.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://www.praetech.ch/"
+  },
+  "exkursionbluetenreichetrockenwiesen_2026-06-13": {
+    "id": 1779873491776,
+    "title": "Exkursion \"Blütenreiche Trockenwiesen\"",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Die Trockenwiesen bei Obermutten zeichnen sich durch eine aussergewöhnlich reiche Vielfalt an Pflanzen & Tieren aus und gehören zu den besonders wertvollen Gebieten der Region. Online-Anmeldung nötig.",
+    "date": "2026-06-13",
+    "time": "09:15-12:30",
+    "locationName": "Postautohaltestelle, Obermutten",
+    "municipality": "Thusis",
+    "lat": 46.6972,
+    "lng": 9.4402,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/a1/a1/8a1a1570f311dfc5374df3a982312894a5a0124e_919304258.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4705513?eventDateTime=13.06.2026%20%2009:15%20-%2012:30",
+    "sources": [
+      {
+        "name": "LocalCities-Thusis",
+        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4705513?eventDateTime=13.06.2026%20%2009:15%20-%2012:30"
+      }
+    ],
+    "organizerUrl": "https://www.pronatura-gr.ch",
+    "ticketUrl": "https://www.pronatura-gr.ch/de/bluetenreiche-trockenwiesen?startDate=13.06.2026&amp;endDate=13.06.2026"
   }
 }
