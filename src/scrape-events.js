@@ -381,18 +381,19 @@ async function runIcalScraperForSource(source) {
     });
     if (!res.ok) {
       console.error(`❌ iCal-Fehler ${res.status} für "${source.name}"`);
-      return [];
+      return { events: [], error: `HTTP ${res.status}` };
     }
     const text = await res.text();
     const vevents = parseICalendar(text);
     console.log(`🔍 ${vevents.length} VEVENTs aus "${source.name}" geparsed.`);
-    return vevents.map(v => veventToRawEvent(v, {
+    const events = vevents.map(v => veventToRawEvent(v, {
       municipality: source.municipality,
       defaultLocation: source.defaultLocation
     }));
+    return { events, error: null };
   } catch (err) {
     console.error(`❌ Fehler beim iCal-Scrape "${source.name}": ${err.message}`);
-    return [];
+    return { events: [], error: err.message };
   }
 }
 
@@ -404,10 +405,10 @@ async function runGeminiScraperForSource(source) {
   try {
     const events = await geminiExtractFromUrl(source);
     console.log(`🔍 ${events.length} Events aus "${source.name}" extrahiert (Gemini).`);
-    return events;
+    return { events, error: null };
   } catch (err) {
     console.error(`❌ Fehler beim Gemini-Scrape "${source.name}": ${err.message}`);
-    return [];
+    return { events: [], error: err.message };
   }
 }
 
@@ -430,35 +431,35 @@ function runFirecrawlForSource(source) {
     exec(cmd, { maxBuffer: 1024 * 1024 * 10 }, (error, stdout, stderr) => {
       if (error) {
         console.error(`❌ Fehler beim Scrapen von "${source.name}": ${error.message}`);
-        return resolve([]); // Fehlertoleranz: leere Liste zurückgeben
+        return resolve({ events: [], error: error.message }); // Fehlertoleranz
       }
 
       console.log(`✅ Firecrawl-Extraktion für "${source.name}" abgeschlossen. Verarbeite Daten...`);
-      
+
       // JSON aus der Ausgabe extrahieren (falls andere Logmeldungen enthalten sind)
       const jsonStartIndex = stdout.indexOf('{');
       const jsonEndIndex = stdout.lastIndexOf('}');
-      
+
       if (jsonStartIndex === -1 || jsonEndIndex === -1) {
         console.error(`❌ Keine valide JSON-Ausgabe im CLI-Output für "${source.name}" gefunden.`);
-        return resolve([]);
+        return resolve({ events: [], error: 'Keine valide JSON-Ausgabe' });
       }
 
       try {
         const cleanJsonStr = stdout.substring(jsonStartIndex, jsonEndIndex + 1);
         const parsedResult = JSON.parse(cleanJsonStr);
         const scrapedEvents = parsedResult.events || (parsedResult.data && parsedResult.data.events);
-        
+
         if (!scrapedEvents || !Array.isArray(scrapedEvents)) {
           console.error(`❌ Keine Events im JSON-Ergebnis für "${source.name}" gefunden.`);
-          return resolve([]);
+          return resolve({ events: [], error: 'Keine Events im JSON-Ergebnis' });
         }
-        
+
         console.log(`🔍 ${scrapedEvents.length} Events aus "${source.name}" extrahiert.`);
-        resolve(scrapedEvents);
+        resolve({ events: scrapedEvents, error: null });
       } catch (e) {
         console.error(`❌ Fehler beim Parsen der JSON-Ausgabe für "${source.name}":`, e.message);
-        resolve([]);
+        resolve({ events: [], error: `JSON-Parse: ${e.message}` });
       }
     });
   });
@@ -498,9 +499,16 @@ async function main() {
   }
 
   // 2. Sequentielles Scraping aller Quellen
+  const sourceStats = []; // Per-Quelle-Statistik fürs Scrape-Log (Drawer-Viewer)
   for (const source of SOURCES) {
-    const scrapedEvents = await runScraperForSource(source);
-    
+    const { events: scrapedEvents, error: sourceError } = await runScraperForSource(source);
+    sourceStats.push({
+      name: source.name,
+      kind: source.kind || 'firecrawl',
+      events: scrapedEvents.length,
+      error: sourceError || null
+    });
+
     // 3. De-Duplizierung & Geocoding pro Quelle
     for (const rawEvent of scrapedEvents) {
       if (!rawEvent.title || !rawEvent.locationName) continue;
@@ -717,9 +725,13 @@ async function main() {
     eventsUpdated: eventsUpdated,
     eventsEnriched: eventsEnriched,
     enrichmentErrors: enrichmentErrors,
-    eventsCleaned: cleanedCount
+    eventsCleaned: cleanedCount,
+    sources: sourceStats
   };
-  fs.writeFileSync(path.join(__dirname, '../data/scrape-log.json'), JSON.stringify(logData, null, 2), 'utf8');
+  const logJson = JSON.stringify(logData, null, 2);
+  // data/ = Source-of-truth, public/ = deployt → Drawer-Viewer kann es fetchen.
+  fs.writeFileSync(path.join(__dirname, '../data/scrape-log.json'), logJson, 'utf8');
+  fs.writeFileSync(path.join(__dirname, '../public/scrape-log.json'), logJson, 'utf8');
   console.log(`📝 Log gespeichert: ${eventsEnriched} Events angereichert.`);
 
   console.log('🎉 Scraping- und Integrationsprozess erfolgreich abgeschlossen!');

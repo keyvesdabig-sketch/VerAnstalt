@@ -494,6 +494,12 @@
       <div class="admin-stat-row"><span id="admin-stat-pending">– Review-Queue</span></div>
     </section>
     <section class="admin-drawer-section">
+      <h3>Scrape-Status</h3>
+      <div id="admin-scrape-log" class="admin-scrape-log">
+        <p class="admin-scrape-log-loading">Lade Scrape-Log …</p>
+      </div>
+    </section>
+    <section class="admin-drawer-section">
       <h3>Werkzeuge</h3>
       <button type="button" id="btn-admin-database" class="btn btn-primary admin-drawer-action">🗂 Datenbank verwalten</button>
       <button type="button" id="btn-admin-review-open" class="btn btn-secondary admin-drawer-action">📋 Review-Queue</button>
@@ -571,6 +577,7 @@
   <script src="events-data.js"></script>
   <script src="lib/event-dedup.js"></script>
   <script src="lib/event-state.js"></script>
+  <script src="lib/scrape-log-format.js"></script>
   <script src="admin/admin-commit.js" defer></script>
   <script src="admin/admin-shared.js" defer></script>
   <script src="admin/admin-drawer.js" defer></script>

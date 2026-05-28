@@ -1647,6 +1647,29 @@ body[data-reviewer="true"] .admin-only.admin-only-grid { display: grid; }
 .admin-drawer-action { display: block; width: 100%; margin-bottom: 8px; text-align: left; }
 .admin-drawer-action:last-child { margin-bottom: 0; }
 
+/* === Scrape-Status im Drawer === */
+.admin-scrape-log { font-size: 13px; color: var(--ink); }
+.admin-scrape-log-loading,
+.admin-scrape-log-hint { color: var(--ink-mute); font-size: 12px; margin: 0; }
+.admin-scrape-log-error { color: var(--accent-deep, #b3261e); font-size: 12px; margin: 8px 0 0; }
+.admin-scrape-log-run { margin-bottom: 6px; cursor: default; }
+.admin-scrape-log-totals {
+  font-size: 12px; color: var(--ink-soft); line-height: 1.5;
+  padding-bottom: 10px; border-bottom: 1px solid var(--rule); margin-bottom: 8px;
+}
+.admin-scrape-log-sources { list-style: none; margin: 0; padding: 0; }
+.admin-scrape-log-src {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 10px; padding: 4px 0; font-size: 12px;
+}
+.admin-scrape-log-name { color: var(--ink-soft); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.admin-scrape-log-num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--ink); }
+.admin-scrape-log-src.has-error .admin-scrape-log-name { color: var(--ink); }
+.admin-scrape-log-err {
+  font-size: 11px; color: var(--accent-deep, #b3261e);
+  max-width: 60%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+
 /* === Admin-Datenbank-Modal === */
 .admin-db-container { max-width: 1100px; width: 95vw; max-height: 90vh; display: flex; flex-direction: column; }
 .admin-db-toolbar {

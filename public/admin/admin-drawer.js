@@ -31,6 +31,7 @@
 
   function open() {
     refreshStats();
+    loadScrapeLog();
     drawer.classList.remove('hidden');
     backdrop.classList.remove('hidden');
     requestAnimationFrame(() => {
@@ -61,6 +62,66 @@
     document.getElementById('admin-stat-curated').textContent = `${curatedCount} Curated`;
     document.getElementById('admin-stat-suppressed').textContent = `${suppressedCount} Suppressed`;
     document.getElementById('admin-stat-pending').textContent = `${pendingCount} Review-Queue ungelesen`;
+  }
+
+  // --- Scrape-Status (read-only) ---------------------------------------
+  function esc(str) {
+    return String(str == null ? '' : str)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function renderScrapeLog(log) {
+    const host = document.getElementById('admin-scrape-log');
+    if (!host) return;
+    const fmt = window.ScrapeLogFormat;
+    if (!fmt) { host.innerHTML = '<p class="admin-scrape-log-error">Formatter nicht geladen.</p>'; return; }
+
+    const s = fmt.summarizeLog(log);
+    const rel = fmt.formatRelativeTime(s.timestamp);
+    const abs = s.timestamp ? new Date(s.timestamp).toLocaleString('de-CH') : '–';
+    const t = s.totals;
+
+    let html = '';
+    html += `<div class="admin-scrape-log-run" title="${esc(abs)}">`
+      + `<strong>Letzter Run:</strong> ${esc(rel)}</div>`;
+    html += `<div class="admin-scrape-log-totals">`
+      + `${t.total} gesamt · ${t.added} neu · ${t.updated} aktualisiert`
+      + ` · ${t.enriched} angereichert · ${t.cleaned} bereinigt</div>`;
+
+    if (s.hasSources) {
+      html += '<ul class="admin-scrape-log-sources">';
+      for (const src of s.sources) {
+        const cls = src.error ? 'admin-scrape-log-src has-error' : 'admin-scrape-log-src';
+        const right = src.error
+          ? `<span class="admin-scrape-log-err" title="${esc(src.error)}">🔴 ${esc(src.error)}</span>`
+          : `<span class="admin-scrape-log-num">${src.events}</span>`;
+        html += `<li class="${cls}"><span class="admin-scrape-log-name">${esc(src.name)}</span>${right}</li>`;
+      }
+      html += '</ul>';
+      if (s.sourceErrorCount > 0) {
+        html += `<div class="admin-scrape-log-error">${s.sourceErrorCount} Quelle(n) mit Fehler</div>`;
+      }
+    } else {
+      html += '<p class="admin-scrape-log-hint">Quellen-Aufschlüsselung erscheint nach dem nächsten Scrape-Lauf.</p>';
+    }
+    host.innerHTML = html;
+  }
+
+  function loadScrapeLog() {
+    const host = document.getElementById('admin-scrape-log');
+    if (!host) return;
+    host.innerHTML = '<p class="admin-scrape-log-loading">Lade Scrape-Log …</p>';
+    fetch('scrape-log.json?t=' + Date.now())
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(renderScrapeLog)
+      .catch(function (err) {
+        host.innerHTML = '<p class="admin-scrape-log-error">Scrape-Log nicht ladbar: '
+          + esc(err.message) + '</p>';
+      });
   }
 
   btnOpen.addEventListener('click', open);
