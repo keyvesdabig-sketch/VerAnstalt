@@ -11,9 +11,6 @@ _(zwischen Iterationen — kein aktives Feature in Arbeit)_
 _(Admin-Block ist live — Hauptpipeline durch. Was hier landet, sind kleinere
 Anschluss-Features, sortiert nach erwartetem Nutzen.)_
 
-### 🪟 Scrape-Log-Viewer im Drawer
-`data/scrape-log.json` im Admin-Drawer rendern: wann lief der letzte Run, wieviele Events pro Quelle, wo gab's Fehler. Read-only, hilft bei „warum tauchen die nicht auf"-Debugging.
-
 ### 🎟️ Multi-Event-Auswahl im Foto-Wizard
 Wenn das Plakat eine Konzert-/Festivalreihe zeigt → Liste aller erkannten Events mit Checkboxen, einzeln oder als Bulk übernehmen. Heute wird nur das erste extrahierte Event vorausgefüllt.
 
@@ -55,6 +52,9 @@ Sortiert nach erwartetem Impact, nicht nach Aufwand.
 - **Push-Notifications** für Favoriten 24 h vorher — PWA-Erweiterung.
 
 ## Done
+
+### 🪟 Scrape-Log-Viewer im Drawer
+Read-only „Scrape-Status"-Sektion im Admin-Drawer: letzter Run (Relativzeit), Totale + Aufschlüsselung pro Quelle inkl. 🔴-Fehler-Markierung. Scraper trackt pro Quelle `{name, kind, events, error}` (Runner geben jetzt `{events, error}` statt nackter Arrays zurück), Log wird zusätzlich nach `public/scrape-log.json` geschrieben (deploybar). Neue UMD-Lib `scrape-log-format.js` (`formatRelativeTime`, `summarizeLog`, 11 Tests), graceful gegen Altbestand ohne `sources`-Feld.
 
 ### 🏗️ Admin-System (vollständig — 7 Tasks)
 Inline-CRUD, Drawer-Hub, DB-Dashboard, GitHub-Commit-Pipeline. Foto-Imports, Manual-Adds und Review-Approves landen jetzt alle in `curated-events.json` und sind für alle Besucher sichtbar nach ~30 s.
