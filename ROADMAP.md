@@ -17,9 +17,6 @@ Wenn das Plakat eine Konzert-/Festivalreihe zeigt → Liste aller erkannten Even
 ### 🪄 Bulk-Edit im DB-Dashboard
 Heute gibt's Bulk-Delete. Bulk-Edit (z.B. Kategorie einer Auswahl gleichzeitig ändern) wurde im Spec bewusst gestrichen — falls Bedarf entsteht, nachziehen.
 
-### 🔁 Chur-Kultur wieder onboarden
-JS-rendered SPA mit Guidle-Backend (siehe [TODO.md](TODO.md)). Optionen: Guidle-API direkt sniffen, Puppeteer ins Scrape-Workflow, oder die Source rauswerfen falls LocalCities-Chur reicht.
-
 ## Later
 
 Sortiert nach erwartetem Impact, nicht nach Aufwand.
@@ -52,6 +49,9 @@ Sortiert nach erwartetem Impact, nicht nach Aufwand.
 - **Push-Notifications** für Favoriten 24 h vorher — PWA-Erweiterung.
 
 ## Done
+
+### 🔁 Chur-Kultur wieder live
+Der vermeintliche „JS-only"-Befund war falsch: `chur-kultur.ch/de/suche` rendert server-seitig (Titel, `<time datetime>`, Detail-Links, Guidle-Bilder im statischen HTML). Damit reicht der bestehende `kind: 'gemini'`-Pfad — kein Firecrawl/Puppeteer/Guidle-API nötig. Source-Entry auf `kind: 'gemini'` umgestellt, `maxHtmlChars: 130000` (Listing ~113k gereinigt, sonst halbe Liste abgeschnitten). In `callGemini` zusätzlich `maxOutputTokens: 65536` + `thinkingConfig.thinkingBudget: 0` (langes Listing sprengte sonst das Output-Budget → abgeschnittenes JSON). Live verifiziert: 50/50 Events mit Datum/Ort/URL, 48/50 mit Bild. Limitierung: nur das near-term Fenster (~50 Events), weiter entfernte Events laden per Infinite-Scroll-JS nach — für den täglichen Lauf okay, Abdeckung akkumuliert.
 
 ### 🪟 Scrape-Log-Viewer im Drawer
 Read-only „Scrape-Status"-Sektion im Admin-Drawer: letzter Run (Relativzeit), Totale + Aufschlüsselung pro Quelle inkl. 🔴-Fehler-Markierung. Scraper trackt pro Quelle `{name, kind, events, error}` (Runner geben jetzt `{events, error}` statt nackter Arrays zurück), Log wird zusätzlich nach `public/scrape-log.json` geschrieben (deploybar). Neue UMD-Lib `scrape-log-format.js` (`formatRelativeTime`, `summarizeLog`, 11 Tests), graceful gegen Altbestand ohne `sources`-Feld.

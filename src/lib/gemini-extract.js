@@ -73,8 +73,10 @@ async function fetchHtml(url) {
   return res.text();
 }
 
+const DEFAULT_MAX_HTML_CHARS = 80000;
+
 async function callGemini({ prompt, html, apiKey, maxHtmlChars }) {
-  const excerpt = (html || '').slice(0, maxHtmlChars || 80000);
+  const excerpt = (html || '').slice(0, maxHtmlChars || DEFAULT_MAX_HTML_CHARS);
   const fullPrompt =
     `${prompt}\n\n` +
     `Wenn keine echten Events erkennbar sind, gib "events": [] zurück. ` +
@@ -84,7 +86,12 @@ async function callGemini({ prompt, html, apiKey, maxHtmlChars }) {
     contents: [{ parts: [{ text: fullPrompt }] }],
     generationConfig: {
       response_mime_type: 'application/json',
-      response_schema: EVENT_SCHEMA
+      response_schema: EVENT_SCHEMA,
+      // Lange Listings (Chur-Kultur ~50 Events) sprengen sonst das Default-
+      // Output-Budget → abgeschnittenes JSON. Thinking aus: für strukturierte
+      // Extraktion unnötig und frisst sonst aus demselben Token-Budget.
+      maxOutputTokens: 65536,
+      thinkingConfig: { thinkingBudget: 0 }
     }
   };
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${encodeURIComponent(apiKey)}`;
@@ -121,7 +128,10 @@ async function extractEventsFromUrl(source, opts) {
   const parsed = await callGemini({
     prompt: source.prompt,
     html: cleaned,
-    apiKey
+    apiKey,
+    // Quellen mit langem Listing (z.B. Chur-Kultur, ~113k gereinigt) dürfen
+    // den Default überschreiben, damit nicht die halbe Liste abgeschnitten wird.
+    maxHtmlChars: source.maxHtmlChars
   });
   const events = Array.isArray(parsed.events) ? parsed.events : [];
   // Gemini liefert URLs gerne relativ ("/de/.../123") — gegen die Source-URL absolutisieren,
@@ -147,6 +157,7 @@ function absolutize(url, baseUrl) {
 module.exports = {
   EVENT_SCHEMA,
   MODEL,
+  DEFAULT_MAX_HTML_CHARS,
   cleanHtmlForExtraction,
   fetchHtml,
   callGemini,

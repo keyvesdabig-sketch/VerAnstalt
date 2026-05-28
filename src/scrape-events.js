@@ -47,9 +47,13 @@ const MUNICIPALITIES = [
 const SOURCES = [
   {
     name: 'Chur-Kultur',
+    kind: 'gemini',
     url: 'https://www.chur-kultur.ch/de/suche',
     municipality: 'Chur',
-    prompt: "Extrahiere alle echten Veranstaltungen von der Seite. Stelle sicher, dass der Titel ('title') der tatsächliche Name des Events ist (wie 'Passenger', 'In the Grey' oder 'Frühlingsfest Chur') und NICHT das Datum wie '23' oder '24'. Der Ort ('locationName') ist der Veranstaltungsort (z.B. 'blue Cinema' oder 'Theaterplatz') und darf nicht nur ein Punkt '.' sein."
+    // Listing ist server-rendered (~113k gereinigt) → höheres Limit, damit
+    // nicht die halbe Liste abgeschnitten wird. ~50 Events pro Lauf.
+    maxHtmlChars: 130000,
+    prompt: "Extrahiere alle echten Veranstaltungen aus dieser HTML-Eventliste von chur-kultur.ch. Pro Listeneintrag: 'title' = sichtbarer Event-Name (z.B. 'In the Grey', 'Frühgebet', 'Buchstart'), NICHT das Datum, eine Zahl oder eine Kategorie. 'date' = das Event-Datum im Format YYYY-MM-DD; nimm den Wert aus dem zugehörigen <time datetime=\"...\">-Attribut des Eintrags. 'locationName' = konkreter Veranstaltungsort in Chur (z.B. 'Theater Chur', 'Stadtgalerie', 'blue Cinema'); niemals leer oder '.'. 'sourceUrl' = der Detail-Link des Eintrags (Pfad beginnt mit /de/suche/...). 'image' = die echte Event-Bild-URL (ik.imagekit.io/guidle/...), keine Logos/Platzhalter. Ignoriere Navigations-, Filter- und Footer-Elemente."
   },
   ...MUNICIPALITIES.map(m => ({
     name: `LocalCities-${m.name}`,

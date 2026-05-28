@@ -7,12 +7,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ```bash
 npm test              # node --test, läuft test/**/*.test.js (braucht Node >=22 für Glob-Expansion). Aktuell 75 Tests.
 npm run dev           # http-server auf public/ Port 8080 — Frontend lokal anschauen
-npm run scrape        # Multi-Source Event-Scrape (siehe SOURCES in src/scrape-events.js): LocalCities (16 Gemeinden) + Konsum-Cazis via Gemini, Streaminghall via iCal, Chur-Kultur via Firecrawl
+npm run scrape        # Multi-Source Event-Scrape (siehe SOURCES in src/scrape-events.js): LocalCities (16 Gemeinden) + Konsum-Cazis + Chur-Kultur via Gemini, Streaminghall via iCal
 npm run scrape:social # Gemini-basierter Daily-Scrape → public/pending-social-events.json (Review-Queue)
 node scripts/cleanup-event-images.js [--no-fetch]   # Backfill für public/scraped-events.json (idempotent)
 ```
 
-`npm run scrape` braucht `GEMINI_API_KEY` (für die Gemini-Quellen) und optional `FIRECRAWL_API_KEY` (für Chur-Kultur — Credits aktuell aufgebraucht, Source läuft silent fail).
+`npm run scrape` braucht `GEMINI_API_KEY` (für alle Gemini-Quellen inkl. Chur-Kultur). `FIRECRAWL_API_KEY` ist nur noch für etwaige `kind: 'firecrawl'`-Quellen relevant — aktuell nutzt keine Live-Source mehr Firecrawl.
 `npm run scrape:social` braucht `GEMINI_API_KEY`. Refused-to-write-mock-data: läuft ohne echten Key gar nicht erst los.
 
 ## Architecture
