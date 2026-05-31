@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-05-30T08:21:29.549Z",
-  "eventsTotal": 269,
-  "eventsNew": 26,
-  "eventsUpdated": 156,
-  "eventsEnriched": 33,
+  "timestamp": "2026-05-31T08:40:03.343Z",
+  "eventsTotal": 263,
+  "eventsNew": 27,
+  "eventsUpdated": 140,
+  "eventsEnriched": 34,
   "enrichmentErrors": 0,
   "eventsCleaned": 33,
   "sources": [
@@ -83,12 +83,12 @@
       "name": "LocalCities-Malans",
       "kind": "gemini",
       "events": 0,
-      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 65888 (line 1 column 65889) — Roh: {\"events\": [{\"title\": \"Malanser Weinpromenade\", \"date\": \"2026-05-30\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/3/ee/4f/3ee4f5c9fccee6d857e44dfb2c793918141c7362_930461458.jpg\", \"locationName\""
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 66261 (line 1 column 66262) — Roh: {\"events\": [{\"title\": \"Geführte Wanderung zur Bergblumenpracht\", \"date\": \"2026-06-05\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/3/f6/fd/3f6fd84c66050c7b07cff34dede062838d81880a_927607380.jpg"
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 11,
+      "events": 10,
       "error": null
     },
     {
@@ -100,7 +100,7 @@
     {
       "name": "LocalCities-Cazis",
       "kind": "gemini",
-      "events": 20,
+      "events": 10,
       "error": null
     },
     {
