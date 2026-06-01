@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-31T08:40:03.343Z",
-  "eventsTotal": 263,
-  "eventsNew": 27,
-  "eventsUpdated": 140,
-  "eventsEnriched": 34,
+  "timestamp": "2026-06-01T11:08:29.852Z",
+  "eventsTotal": 268,
+  "eventsNew": 32,
+  "eventsUpdated": 162,
+  "eventsEnriched": 38,
   "enrichmentErrors": 0,
-  "eventsCleaned": 33,
+  "eventsCleaned": 27,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -70,7 +70,7 @@
     {
       "name": "LocalCities-Bonaduz",
       "kind": "gemini",
-      "events": 9,
+      "events": 8,
       "error": null
     },
     {
@@ -82,8 +82,8 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 0,
-      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 66261 (line 1 column 66262) — Roh: {\"events\": [{\"title\": \"Geführte Wanderung zur Bergblumenpracht\", \"date\": \"2026-06-05\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/3/f6/fd/3f6fd84c66050c7b07cff34dede062838d81880a_927607380.jpg"
+      "events": 14,
+      "error": null
     },
     {
       "name": "LocalCities-Landquart",
@@ -100,7 +100,7 @@
     {
       "name": "LocalCities-Cazis",
       "kind": "gemini",
-      "events": 10,
+      "events": 20,
       "error": null
     },
     {
