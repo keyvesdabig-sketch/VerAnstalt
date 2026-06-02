@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T12:42:54.351Z",
+  "lastUpdated": "2026-06-02T11:25:31.663Z",
   "events": [
     {
       "id": "social-073b8e0a7824",
@@ -14286,26 +14286,6 @@
       "scrapedAt": "2026-05-31T09:48:47.075Z"
     },
     {
-      "id": "social-0096cb6fe68b",
-      "title": "Clubmeisterschaft Tennisclub Zizers",
-      "category": "sport",
-      "description": "Die jährliche Clubmeisterschaft des Tennisclubs Zizers. Findet von Juni bis September statt.",
-      "date": "2026-06-01",
-      "time": "Ganztägig",
-      "price": "Unbekannt",
-      "municipality": "Zizers",
-      "locationName": "Tennisclub Zizers",
-      "lat": 46.92,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.tczizers.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:47.075Z"
-    },
-    {
       "id": "social-f6623af497e6",
       "title": "Schlussmatch Sportschützen Zizers",
       "category": "sport",
@@ -15354,26 +15334,6 @@
       "scrapedAt": "2026-05-31T09:55:36.341Z"
     },
     {
-      "id": "social-522c697c9661",
-      "title": "UND IMMER SINGEN DIE AHNEN MIT",
-      "category": "stage",
-      "description": "Kleinkunst / Performance.",
-      "date": "2026-06-01",
-      "time": "19:30 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Postremise",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.628Z"
-    },
-    {
       "id": "social-530517697f99",
       "title": "Canturia Chur, Konzert 'Im Freundeskreis singen bei Meister Joseph Haydn'",
       "category": "music",
@@ -15612,47 +15572,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
-      "id": "social-2ffd753ba686",
-      "title": "Schiesstage - Pistole 25m",
-      "category": "sport",
-      "description": "Obligatorisches Programm Pistolen-Schiessen.",
-      "date": "2026-06-01",
-      "time": "08:30 - 10:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Schiessstand Gonda",
-      "lat": 46.828,
-      "lng": 9.471,
-      "image": "",
-      "organizerUrl": "https://sat-admin.ch/web/schiesstage/public/schiesstage",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "admin.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy0m1BKAi-4cVsDAGzb3b5VuOyM-_obcMZR4V7yxRE8-jrlLq4B0yuVkFUbkoGrcOhMz2snJhL7fwUSe6EnWcUEjBY2oADJI67BTpBFR6nGKO2aPhfo2o09f6MWNUv7i7ii5Njxf-e5Q=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtXuTrvbqqN0nxbC-wCk_FjkNcH2OFI7CJofRMb8IZzvjUqxCClk3P9rEPhCKYh5Kyk5nYUmgO2Je2Jy5GDe9ItbeqA_1qevQeDUzEqqe6VlQ7CrAbNq70jmra4q7GT0bh8YwwNfki9jE-Pmdr4QRNYB6Vm5xB_2IuaR4lpyGpbPXkJh0MCW60zULTpIqyjg=="
-        },
-        {
-          "title": "casa-falveng.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUMEjGebGbJehJX7EAp1CBMxS8wZ9kviuupkTuuPNAUF02nUNzzWuJodCj0xRibnLDC5b3OHze9PnuL5qGY9oA-1JwXgH1pgDPckJK7PAUzI0hY03gXX0UVsmcsf1cuMcwLYTaFf0="
-        },
-        {
-          "title": "musicadadomat.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH44LVlh4dQGJ3ToMKY6OQNWdysw5W8JRwBWmYBCIOsS2-aESFae7-h0WMtX7Z5hEOSxsFQlnaZbMBk7zF6EISKphTbt0AsWUHHjzC35TvD_nwd245dgdSwnpxGfmEb"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVrOtXOb3ww57W7yd7wtyqNC_RiBb2wr36opMh6Az0Qy3iaaasuSDNJpOzRLD8ocqDhbJBUGimbIX_LL8l52fH7HHTyJAIYcG_GsyMd1aWu2cEM77PrOY9d0MESE6QusugAbhUbj9er51eu2CRYL5HENFKyTjASTjQCwEwKP1z-zJy51Oaqgssmz5wCAsCOfpoNft5bFo_JgyjBkNGDFz-9tYB2Qd4f_A-wXPyeENs0sSTuA=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:32:49.137Z"
     },
     {
       "id": "social-8a49908bbcda",
@@ -16883,43 +16802,6 @@
       "scrapedAt": "2026-06-01T12:38:40.559Z"
     },
     {
-      "id": "social-e629af6f2fb7",
-      "title": "Leichtathletik-Tag OSBR",
-      "category": "sport",
-      "description": "Leichtathletik-Tag des Oberstufenschulverband Bonaduz-Rhäzüns.",
-      "date": "2026-06-01",
-      "time": "06:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns",
-      "lat": 46.81,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/termine-events.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqgW8OLInHha-2R-Sw7i57aZ-8ZFEAsLJwj4hWe-UqgrznVA_BKkBS20Pi3AijiY4LQb60e41GpaoPfrb8mXEuFmmH9ZwB9I2EwnBrTa0gFowoBQvLQfGchKEDQxiFapRVlGKnNGL7xbowN3bstkE="
-        },
-        {
-          "title": "kirchgemeinde-rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH19NlVGg21oals8R2Pqwqsn9bn4VY7WQ33ndt2hPOtWIxYKjzVRBG_5InQOyMR3ye0xd5IUsHW40jSf0UgPYyU9lWLxtWjSwcELlUEp860183Nz5HvqGvhSUBN3hrHjAymqA=="
-        },
-        {
-          "title": "118-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjv4IJRnPvU7ENaXHnqp4SFrRFUTrL3oNKSX3FLUURLnzBnIJBOc4W1mhnmUY6n6hzYUkidsIj6NxxnOrYhYmTSoAoAy5-A0PcZotASBAZ4B47e-eDa63oseqO3p2thHXZ4qlt"
-        },
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ULUDGNNtMB8Ky3ul5x8xVQZeTrsiXM9YanjkseVk_AF_hAn8v7-P2eb5Q5YuZmL37WPCpuoQfGzqwRJbuEA7ASSZX9hxp3cpbJwMqVPxf6Ua3oS2cv5cZg3h0Ple8aMO9UcHb0D5DMHZCaE="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:39:33.350Z"
-    },
-    {
       "id": "social-61ff7eeee892",
       "title": "Abschlussessen Schule Rhäzüns",
       "category": "family",
@@ -17861,6 +17743,3107 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:42:50.349Z"
+    },
+    {
+      "id": "social-c43d43a20d45",
+      "title": "Eidgenössisches Schützenfest",
+      "category": "sport",
+      "description": "Einer der grössten Schweizer Sportanlässe im 2026, ausgetragen in der Bündner Hauptstadt und der weiteren Umgebung. Hauptschiessstand ist die Schiessanlage auf dem Churer Rossboden.",
+      "date": "2026-06-05",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schiessanlage Rossboden",
+      "lat": 46.857,
+      "lng": 9.559,
+      "image": "",
+      "organizerUrl": "https://www.gr2026.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.037Z"
+    },
+    {
+      "id": "social-72bda9e20328",
+      "title": "Kinoa Open-Air-Kino",
+      "category": "family",
+      "description": "Magische Filmabende unter freiem Himmel mit einem abwechslungsreichen Programm für Gross und Klein.",
+      "date": "2026-06-11",
+      "time": "Abend",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Chur",
+      "lat": 46.84984,
+      "lng": 9.53286,
+      "image": "",
+      "organizerUrl": "https://www.churtourismus.ch/erleben/events/top-events",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.037Z"
+    },
+    {
+      "id": "social-fdc343b9232b",
+      "title": "Wand Festival Chur",
+      "category": "stage",
+      "description": "Chur verwandelt sich in eine offene Urban-Art-Galerie mit internationalen Künstlern, Murals, Live-Paintings, Jam, Workshops, Battles, Street Food & Drinks.",
+      "date": "2026-06-26",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Chur",
+      "lat": 46.84984,
+      "lng": 9.53286,
+      "image": "",
+      "organizerUrl": "https://www.churtourismus.ch/erleben/events/top-events",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-185f40d6e43d",
+      "title": "Festspiele im Schloss: Star Wars & Planeten",
+      "category": "music",
+      "description": "Orchesterkonzert mit Filmmusik aus Star Wars und Planeten, im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-fdb5175649cd",
+      "title": "Festspiele im Schloss: Symphonic Pops",
+      "category": "music",
+      "description": "Symphonische Pops-Konzerte im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-03",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-bf8c267548e6",
+      "title": "Festspiele im Schloss: Star Wars & Planeten",
+      "category": "music",
+      "description": "Orchesterkonzert mit Filmmusik aus Star Wars und Planeten, im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-05",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-213ec40edf5c",
+      "title": "Festspiele im Schloss: Symphonic Pops",
+      "category": "music",
+      "description": "Symphonische Pops-Konzerte im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-07",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-8676243a86ae",
+      "title": "Festspiele im Schloss: Star Wars & Planeten",
+      "category": "music",
+      "description": "Orchesterkonzert mit Filmmusik aus Star Wars und Planeten, im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-09",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-3e16c6d1d7a8",
+      "title": "Festspiele im Schloss: Bilder einer Ausstellung",
+      "category": "music",
+      "description": "Sommerkonzert 'Bilder einer Ausstellung' im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-14",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-e3cbf3268290",
+      "title": "Festspiele im Schloss: Bilder einer Ausstellung",
+      "category": "music",
+      "description": "Sommerkonzert 'Bilder einer Ausstellung' im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-657fd644bcc5",
+      "title": "Festspiele im Schloss: Bilder einer Ausstellung",
+      "category": "music",
+      "description": "Sommerkonzert 'Bilder einer Ausstellung' im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-16",
+      "time": "16:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-12cedacef6df",
+      "title": "Festspiele im Schloss: Symphonic Pops",
+      "category": "music",
+      "description": "Symphonische Pops-Konzerte im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-18",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-5ed5230a2a18",
+      "title": "Festspiele im Schloss: Star Wars & Planeten",
+      "category": "music",
+      "description": "Orchesterkonzert mit Filmmusik aus Star Wars und Planeten, im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-20",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-a4587b9fd456",
+      "title": "Festspiele im Schloss: Symphonic Pops",
+      "category": "music",
+      "description": "Symphonische Pops-Konzerte im Rahmen der Festspiele im Schloss Haldenstein.",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.883,
+      "lng": 9.531,
+      "image": "",
+      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-919d37b7831b",
+      "title": "JazzChurFestival",
+      "category": "music",
+      "description": "Europäischer Jazz in den Alpen. Das Festival vereint aufstrebende und etablierte Künstler:innen mit internationaler Strahlkraft.",
+      "date": "2026-09-02",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Chur",
+      "lat": 46.84984,
+      "lng": 9.53286,
+      "image": "",
+      "organizerUrl": "https://www.churtourismus.ch/erleben/events/top-events",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-f0fc8bfe5299",
+      "title": "Weihnachtsmarkt Chur",
+      "category": "markets",
+      "description": "Einer der grössten und stimmungsvollsten Weihnachtsmärkte der Schweiz mit rund 160 Marktständen in der festlich beleuchteten Churer Altstadt.",
+      "date": "2026-11-27",
+      "time": "14:00 - 21:00",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Churer Altstadt",
+      "lat": 46.8496,
+      "lng": 9.5297,
+      "image": "",
+      "organizerUrl": "https://weihnachtsmarkt.chur.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-015d27e5ea43",
+      "title": "Weihnachtsmarkt Chur",
+      "category": "markets",
+      "description": "Einer der grössten und stimmungsvollsten Weihnachtsmärkte der Schweiz mit rund 160 Marktständen in der festlich beleuchteten Churer Altstadt.",
+      "date": "2026-11-28",
+      "time": "11:00 - 19:00",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Churer Altstadt",
+      "lat": 46.8496,
+      "lng": 9.5297,
+      "image": "",
+      "organizerUrl": "https://weihnachtsmarkt.chur.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:13:28.038Z"
+    },
+    {
+      "id": "social-e5a3b3813aad",
+      "title": "Weihnachtsmarkt Domat/Ems",
+      "category": "markets",
+      "description": "Traditioneller Weihnachtsmarkt mit rund 60 Ausstellern, kulinarischen Leckerbissen, individuellen Geschenken, Handwerksarbeiten, Samichlaus, Kinderkarussell und musikalischer Unterhaltung.",
+      "date": "2026-11-29",
+      "time": "14:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Domat/Ems",
+      "locationName": "Dorfplatz und Gassen von Domat/Ems",
+      "lat": 46.82,
+      "lng": 9.49,
+      "image": "",
+      "organizerUrl": "www.domat-ems.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPqC_RdakFalW8H8lI0jnha9YpEmeDZOkfwXSQXYVWgwGEw0OhRZjTCTZToRbrzSfTs9Va4hGSl0F6rrXqYmDllQlma4fpIy-Ty4nZwE4i0jSAvjN97QGgVwe8P1O-wCCofhV-YTwniwStsgZdFOzPEh7STUXhB_DJrtaG3GhGJFtW0phxOMFIKvNUuGPPky51tSwpJ-M8ECbWRgfYT4DQNINizwvbq_ucdhXMmRjkf_ON"
+        },
+        {
+          "title": "domat-ems.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPB4vNID4NQmqQCSSpTQd3i-ucUhhWhHDEt364STB1UZAYxCOuLNlkDDpg3kg4d1vyKhoo6i220pQVYrdIBz_lyJrG7kRKLGqhTzkmho-lkh8JNj9Y1YyWZvR2E2LclKndML72kfUs7aWX6M4="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbZT-_D6xkCVzQQ9jupG6krqFyBCiKgrodILP-xg_mP23T7yr8EszbAW5DlZ4v3FmTxfqm7Q_MUvr_ujJ4VZSWGXMaSB5zFOjTzGg8HxY8V5MoSFoMtXMNzrxN0Kje1cIAqw_Vi9ege7Ng6eS-Gy4xpxfeDyhXn5Pl_0UOjU9LzmwFoHEQeNFFMZbN6SIfvaNlWCDcREEge1x8BrsvSXgm5_0r"
+        },
+        {
+          "title": "domat-ems.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJZWeheXz6IDNQHMc3U2V1X8IMcEgDYqcSXp3FcVWTB_39KT3Ix3vBuym7eK2RjI0NpgX0dd-WjRlzbcRhHWT6VBVxLRie1uV23vhv_4JBlmoknCu9HjoX1DFM66BbtkE0cr4Yj_M1NVhA_yo="
+        },
+        {
+          "title": "gartenatelier.org",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9EBD6BpNjse54dH_eboPip013Tf7wt2rQLeKeDRZaW3LG0T0uHLXLI7adgOnQ0carfyH0_X5lIAuutAXt8kYcA97GQiY8Dwfk16NZw4czM_W7O72-bsQuPulwtCQ="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:14:08.037Z"
+    },
+    {
+      "id": "social-4e1b1b9762cd",
+      "title": "Magnesia-Cup",
+      "category": "sport",
+      "description": "Sportwettkampf der Geräteriege Felsberg.",
+      "date": "2026-06-12",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Felsberg",
+      "locationName": "Doppelturnhalle",
+      "lat": 46.84,
+      "lng": 9.47,
+      "image": "",
+      "organizerUrl": "https://www.felsberg.ch/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:14:43.612Z"
+    },
+    {
+      "id": "social-952cc4538e8d",
+      "title": "Wettfischen",
+      "category": "sport",
+      "description": "Fischereiwettbewerb des Fischervereins Felsberg.",
+      "date": "2026-06-13",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Felsberg",
+      "locationName": "Besmerstein",
+      "lat": 46.84,
+      "lng": 9.47,
+      "image": "",
+      "organizerUrl": "https://www.felsberg.ch/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:14:43.612Z"
+    },
+    {
+      "id": "social-9daf508ab665",
+      "title": "Eidgenössisches Schützenfest 2026 (SG Haldenstein)",
+      "category": "sport",
+      "description": "Einer der grössten Schweizer Sportanlässe im 2026. Ausgetragen in der Bündner Hauptstadt Chur und der weiteren Umgebung mit Teilnahme der SG Haldenstein.",
+      "date": "2026-06-11",
+      "time": "ganztägig",
+      "price": "Not specified",
+      "municipality": "Haldenstein",
+      "locationName": "Chur und Umgebung",
+      "lat": 46.879,
+      "lng": 9.526,
+      "image": "",
+      "organizerUrl": "https://www.gr2026.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "local.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsOTgiApSLx1dCafRtJFUEauIqGbH6w07W-tluvr-Sc0imifHvegMDmnj7qz4z30ISnYh0623EXsw-QExUAjs2Qy3lUkKue1_0HX0fnoR1oAvQfGqBBHGS4kcQOGSxNi4LPte211t0FezVHGHuXto0LWtWjP2xv-H-qunl5sBtTP43a9xogPMp6b8BWHb5EA=="
+        },
+        {
+          "title": "search.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfZmYjjEiWUWTLUa9Q8RlVCE0J5saZdrM6I4hHzGk091g6UKMneUJrXuvWscIMbtjouO6KSImLp5_0YdxgEH8YFdjd9MLpuAikplRzI9OEm9TNJgtiDIjLs7fZIPZHQ3FS6gYZ0ytGlg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgH80WjaTBcrIjvRSrrVoa3RowF3f-u0J8IjxEC1ZtrstY0iE2LSJe723sY64iZ4e3T3vl2bw-5LFr97aj63Mk-CVSVKW9IrlxSzOrCYY5RG6ziLf4mb8Ws7m-SVGeACaS5PJNZzsHzYuWGqX-9lGVKxNmtWWsr433AYc="
+        },
+        {
+          "title": "wikipedia.org",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTkbrvwTTRtAaUmIZYEAiO3w_eHtjdXI_GBeKBXUpPF_gzLJEyQD2HGJ_Dix0DhxA1xbiYw3lwEPJIvdUbVbewDgDJaeRiEMA3_W0hnLhc75VCEeAJxwAyAqohu6y1XRE5PuS1VRSz8P6FNode1NEqsZqKtg=="
+        },
+        {
+          "title": "maptons.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUMHEs3wkdHgtzGpHDmOH9WZHhH_kPgWtind4fRakbFdyP7mASr8p-eUf8gFSIZgSWm9ddGpzLLqLdbp4qUKMofI8u_0U0aRwdAqEtINGX_B03Q7uWcbLE"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:16:35.483Z"
+    },
+    {
+      "id": "social-295e7be90693",
+      "title": "Bezirksmatch-Final SG Haldenstein",
+      "category": "sport",
+      "description": "Bezirksmatch-Final für Aktiv Mitglieder mit Lizenz.",
+      "date": "2026-08-07",
+      "time": "17:00 - 20:00",
+      "price": "Not specified",
+      "municipality": "Haldenstein",
+      "locationName": "SG Haldenstein Schiessanlage",
+      "lat": 46.879,
+      "lng": 9.526,
+      "image": "",
+      "organizerUrl": "https://www.sg-haldenstein.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "local.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsOTgiApSLx1dCafRtJFUEauIqGbH6w07W-tluvr-Sc0imifHvegMDmnj7qz4z30ISnYh0623EXsw-QExUAjs2Qy3lUkKue1_0HX0fnoR1oAvQfGqBBHGS4kcQOGSxNi4LPte211t0FezVHGHuXto0LWtWjP2xv-H-qunl5sBtTP43a9xogPMp6b8BWHb5EA=="
+        },
+        {
+          "title": "search.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfZmYjjEiWUWTLUa9Q8RlVCE0J5saZdrM6I4hHzGk091g6UKMneUJrXuvWscIMbtjouO6KSImLp5_0YdxgEH8YFdjd9MLpuAikplRzI9OEm9TNJgtiDIjLs7fZIPZHQ3FS6gYZ0ytGlg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgH80WjaTBcrIjvRSrrVoa3RowF3f-u0J8IjxEC1ZtrstY0iE2LSJe723sY64iZ4e3T3vl2bw-5LFr97aj63Mk-CVSVKW9IrlxSzOrCYY5RG6ziLf4mb8Ws7m-SVGeACaS5PJNZzsHzYuWGqX-9lGVKxNmtWWsr433AYc="
+        },
+        {
+          "title": "wikipedia.org",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTkbrvwTTRtAaUmIZYEAiO3w_eHtjdXI_GBeKBXUpPF_gzLJEyQD2HGJ_Dix0DhxA1xbiYw3lwEPJIvdUbVbewDgDJaeRiEMA3_W0hnLhc75VCEeAJxwAyAqohu6y1XRE5PuS1VRSz8P6FNode1NEqsZqKtg=="
+        },
+        {
+          "title": "maptons.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUMHEs3wkdHgtzGpHDmOH9WZHhH_kPgWtind4fRakbFdyP7mASr8p-eUf8gFSIZgSWm9ddGpzLLqLdbp4qUKMofI8u_0U0aRwdAqEtINGX_B03Q7uWcbLE"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:16:35.483Z"
+    },
+    {
+      "id": "social-6bbed704d43e",
+      "title": "BSV Bündner Kantonal-Meisterschaft (SG Haldenstein)",
+      "category": "sport",
+      "description": "Bündner Kantonal-Meisterschaft für Aktiv Mitglieder mit Lizenz.",
+      "date": "2026-08-08",
+      "time": "09:00 - 12:00",
+      "price": "Not specified",
+      "municipality": "Haldenstein",
+      "locationName": "SG Haldenstein",
+      "lat": 46.879,
+      "lng": 9.526,
+      "image": "",
+      "organizerUrl": "https://www.sg-haldenstein.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "local.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsOTgiApSLx1dCafRtJFUEauIqGbH6w07W-tluvr-Sc0imifHvegMDmnj7qz4z30ISnYh0623EXsw-QExUAjs2Qy3lUkKue1_0HX0fnoR1oAvQfGqBBHGS4kcQOGSxNi4LPte211t0FezVHGHuXto0LWtWjP2xv-H-qunl5sBtTP43a9xogPMp6b8BWHb5EA=="
+        },
+        {
+          "title": "search.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfZmYjjEiWUWTLUa9Q8RlVCE0J5saZdrM6I4hHzGk091g6UKMneUJrXuvWscIMbtjouO6KSImLp5_0YdxgEH8YFdjd9MLpuAikplRzI9OEm9TNJgtiDIjLs7fZIPZHQ3FS6gYZ0ytGlg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgH80WjaTBcrIjvRSrrVoa3RowF3f-u0J8IjxEC1ZtrstY0iE2LSJe723sY64iZ4e3T3vl2bw-5LFr97aj63Mk-CVSVKW9IrlxSzOrCYY5RG6ziLf4mb8Ws7m-SVGeACaS5PJNZzsHzYuWGqX-9lGVKxNmtWWsr433AYc="
+        },
+        {
+          "title": "wikipedia.org",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTkbrvwTTRtAaUmIZYEAiO3w_eHtjdXI_GBeKBXUpPF_gzLJEyQD2HGJ_Dix0DhxA1xbiYw3lwEPJIvdUbVbewDgDJaeRiEMA3_W0hnLhc75VCEeAJxwAyAqohu6y1XRE5PuS1VRSz8P6FNode1NEqsZqKtg=="
+        },
+        {
+          "title": "maptons.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUMHEs3wkdHgtzGpHDmOH9WZHhH_kPgWtind4fRakbFdyP7mASr8p-eUf8gFSIZgSWm9ddGpzLLqLdbp4qUKMofI8u_0U0aRwdAqEtINGX_B03Q7uWcbLE"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:16:35.483Z"
+    },
+    {
+      "id": "social-a5b8961166ba",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-06-03",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-cd46e4cb9102",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-06-10",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-fe08cfea9b53",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-06-12",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-c80f3661350d",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-06-17",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-7b2d59ecb1df",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-06-19",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-a3d2e90888f3",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-06-24",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-70dead7d959c",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-06-26",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-c8d342cc4d2e",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-07-01",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-e357c7881cdb",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-07-08",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-16d8221a70d5",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-07-15",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-a632a184c5b9",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-07-22",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-ecb21418d66d",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-07-29",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-263d8321b869",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-08-05",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-1c6329c0b0ff",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-08-12",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-5a11e79a44c2",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-08-19",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-cf3961064174",
+      "title": "Regelmässiges Training Feldschützengesellschaft",
+      "category": "sport",
+      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
+      "date": "2026-08-26",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Schiessstand Trimmis",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.fs-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-22103b7c3678",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-10-09",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-85b53dcf19b7",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-10-16",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-41f65f9952b8",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-10-23",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-f725b84ff717",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-10-30",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-8e8784c1ed5b",
+      "title": "Jubilarenkonzert Musikgesellschaft Trimmis",
+      "category": "music",
+      "description": "Konzert der Musikgesellschaft Trimmis zu Ehren der Jubilare.",
+      "date": "2026-11-06",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Aula",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.mg-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-f5b85649569e",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-11-06",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-a9540a451066",
+      "title": "Laternenumzug mit Risotto",
+      "category": "family",
+      "description": "Laternenumzug mit anschliessendem Risotto, organisiert vom ELKI-Verein.",
+      "date": "2026-11-07",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Pausenplatz Primarschule",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.elki-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-cb850a068fba",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-11-13",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-95683c62dd12",
+      "title": "Minivolleyballturnier",
+      "category": "sport",
+      "description": "Minivolleyballturnier des Turnerinnenvereins.",
+      "date": "2026-11-22",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "MZH/DTH",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-94485e8bfb12",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-11-20",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-04e9f2062d4b",
+      "title": "Adventsverkauf Frauenverein",
+      "category": "markets",
+      "description": "Adventsverkauf des Gemeinnützigen Frauenvereins Trimmis.",
+      "date": "2026-11-26",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.frauenverein-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-d4b6d437eb0c",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-11-27",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-0bb9d246ba8b",
+      "title": "Adventsverkauf Frauenverein",
+      "category": "markets",
+      "description": "Adventsverkauf des Gemeinnützigen Frauenvereins Trimmis.",
+      "date": "2026-11-27",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Beim Denner",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.frauenverein-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-700e95017e71",
+      "title": "Adventssonntag Frauenverein",
+      "category": "family",
+      "description": "Adventssonntag-Veranstaltung des Gemeinnützigen Frauenvereins Trimmis.",
+      "date": "2026-11-29",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Mehrzweckhalle",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "http://www.frauenverein-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-4400dfab9a47",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-12-04",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-b4b2ca7aab92",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-12-11",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-987b8c13b0c4",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-12-18",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-099399ed4b0d",
+      "title": "Wochenmarkt Trimmis",
+      "category": "markets",
+      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
+      "date": "2026-12-25",
+      "time": "09:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Rathausplatz",
+      "lat": 46.9,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
+        },
+        {
+          "title": "trimmis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:17:46.168Z"
+    },
+    {
+      "id": "social-2c021031a404",
+      "title": "Abschlussball-PromNight",
+      "category": "stage",
+      "description": "Abschlussball und Prom Night.",
+      "date": "2026-06-19",
+      "time": "14:00 - 00:00",
+      "price": "Keine Angabe",
+      "municipality": "Untervaz",
+      "locationName": "Untervaz",
+      "lat": 46.9,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:18:28.678Z"
+    },
+    {
+      "id": "social-b20b8c5a1161",
+      "title": "Eröffnung Bewegungs- und Begegnungsplatz",
+      "category": "family",
+      "description": "Eröffnung des temporären Pop-Up 'BeGe Zizers' beim Bahnhof Zizers. Die Bevölkerung ist herzlich eingeladen, vorbeizukommen, den Ort kennenzulernen und gemeinsam einen Abend mit Musik, Grill und Apéro zu verbringen.",
+      "date": "2026-06-03",
+      "time": "18:30 - 22:00",
+      "price": "Keine Angabe",
+      "municipality": "Zizers",
+      "locationName": "Bahnhof Zizers",
+      "lat": 46.94,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.zizers.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
+        },
+        {
+          "title": "tvzizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
+        },
+        {
+          "title": "frauenverein-zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:05.081Z"
+    },
+    {
+      "id": "social-5b00c8efd3d4",
+      "title": "Fritigstreff CEVI",
+      "category": "family",
+      "description": "Ein Fritigstreff organisiert vom CEVI auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
+      "date": "2026-06-19",
+      "time": "18:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Zizers",
+      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
+      "lat": 46.94,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
+        },
+        {
+          "title": "tvzizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
+        },
+        {
+          "title": "frauenverein-zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:05.082Z"
+    },
+    {
+      "id": "social-677decc41c3e",
+      "title": "Fritigstreff Musikgesellschaft Zizers",
+      "category": "music",
+      "description": "Ein Fritigstreff organisiert von der Musikgesellschaft Zizers auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
+      "date": "2026-08-21",
+      "time": "18:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Zizers",
+      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
+      "lat": 46.94,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
+        },
+        {
+          "title": "tvzizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
+        },
+        {
+          "title": "frauenverein-zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:05.082Z"
+    },
+    {
+      "id": "social-9c495c1eab35",
+      "title": "Fritigstreff Verein Seifenkistenrennen",
+      "category": "family",
+      "description": "Ein Fritigstreff organisiert vom Verein Seifenkistenrennen auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
+      "date": "2026-08-28",
+      "time": "18:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Zizers",
+      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
+      "lat": 46.94,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
+        },
+        {
+          "title": "tvzizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
+        },
+        {
+          "title": "frauenverein-zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:05.082Z"
+    },
+    {
+      "id": "social-dcb5fd0605f5",
+      "title": "Fritigstreff Rappagugga",
+      "category": "music",
+      "description": "Ein Fritigstreff organisiert von Rappagugga auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
+      "date": "2026-09-08",
+      "time": "18:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Zizers",
+      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
+      "lat": 46.94,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
+        },
+        {
+          "title": "tvzizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
+        },
+        {
+          "title": "frauenverein-zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:05.082Z"
+    },
+    {
+      "id": "social-cc7f541b9a36",
+      "title": "Fritigstreff Gemischter Chor Igis/Zizers",
+      "category": "music",
+      "description": "Ein Fritigstreff organisiert vom Gemischten Chor Igis/Zizers auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
+      "date": "2026-09-25",
+      "time": "18:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Zizers",
+      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
+      "lat": 46.94,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
+        },
+        {
+          "title": "tvzizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
+        },
+        {
+          "title": "zizerserdorfzitig.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
+        },
+        {
+          "title": "frauenverein-zizers.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:05.082Z"
+    },
+    {
+      "id": "social-b4e506dc4314",
+      "title": "Garten & Genussmarkt",
+      "category": "markets",
+      "description": "Einzigartiger Spezialitätenmarkt im Gartenatelier Domat/Ems mit Pflanzenschätzen, Gartendesign und kulinarischen Spezialitäten.",
+      "date": "2026-06-06",
+      "time": "09:00 - 16:00",
+      "price": "Keine Angabe",
+      "municipality": "Domat/Ems",
+      "locationName": "Gartenatelier Domat/Ems",
+      "lat": 46.824,
+      "lng": 9.471,
+      "image": "",
+      "organizerUrl": "https://www.gartenatelier.ch/garten-genussmarkt",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "tamins.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQnxZsJ0hyY5xD3QQ4EkMi0uNDqTrX2aQnK3ojAQBut62lBtQGe5yjVqBIhQ8nUXmZ2t35FxgPPFVNvxmdLlzA8h14-zvfeN-VbqsKSNgpidGh9yusU1RghvYPFdjjdtmM1NYqR7-QFMHl"
+        },
+        {
+          "title": "tamins.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_YtICym7a6ZMdqCX-XbZ4m9d5L8qSaAqej7pZOB83tpZFRn7azlTkO4EHNR-WrGhCzHD7j1Vu6ald9dyeZRm4w7RFoMzDzglW9dlGIGeVEOC8qaiXqMQX5WoF55r6odju3K8TLvqiGHczTfLJoo="
+        },
+        {
+          "title": "gartenatelier.org",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfSLXHbABulfLvO5t5wHw5gYG9Oqk6-c4E-dWBEyVlXv9RH7I3X72uQaR-1kZH72LbFim1rddsuGB0iOikjLYK93wHg6IPtz0ePS_0lR17hZUfc3N6"
+        },
+        {
+          "title": "tamins.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAMBBMh6oWXNC-OFk1OmOOUaSPCznDCTzSvN--LHR4sBokwJWqPW3gvI2pR_ysr5IjEzblD8EwpfkPeN15fBYofg5SAvkUMQQIU3pn1MGIILv2dMqoPnzV_b7QGgNf-skTFA=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxDxCk8y6J7yNMWN7fCFm3agpXQ-HD-UYdhAqT7z6SAgbIpgQ24VEIlSFFSCtvUr9il8H__vc5ls9qjZ1Dnn74O096s5A9FwOBo7ChMTyzWXAj82mQNyGJglu9oqaBEZldQHlvWVPnyv7WEovBp4EdLl_Njhh7dTBqFYLR_m2A3QsFgLzPvkHseNKnKMzI90oIEZzdR7-7A6vaylKpTjCZ"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:19:40.124Z"
+    },
+    {
+      "id": "social-8f4a14ddf290",
+      "title": "Fescht in da Steina 2026",
+      "category": "music",
+      "description": "Ds kliina aber sidafiina Openair in Churwalda. Vielseitige musikalische Darbietungen, die zum Tanzen einladen, diverse Aktivitäten abseits vom Lineup, ein stimmungsvolles Festgelände mit viel Liebe zum Detail, nachhaltige kulinarische Höhepunkte und eine ausgelassene, fröhliche Stimmung.",
+      "date": "2026-08-07",
+      "time": "",
+      "price": "Siehe Webseite für Details",
+      "municipality": "Churwalden",
+      "locationName": "In da Steina, Steina 9, Churwalden",
+      "lat": 46.780104,
+      "lng": 9.566373,
+      "image": "",
+      "organizerUrl": "https://fids-festival.ch/",
+      "ticketUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-7288647038164808390.html",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:20:23.276Z"
+    },
+    {
+      "id": "social-fbde470c8fdc",
+      "title": "IKAN HYU concert",
+      "category": "music",
+      "description": "Konzert der Band IKAN HYU.",
+      "date": "2026-08-08",
+      "time": "23:00 - 00:00",
+      "price": "Siehe Webseite für Ticketinformationen",
+      "municipality": "Churwalden",
+      "locationName": "Gemeinschaftsstall Churwalden",
+      "lat": 46.78207,
+      "lng": 9.56943,
+      "image": "",
+      "organizerUrl": "https://www.shazam.com/de/artist/ikan-hyu/1009968498",
+      "ticketUrl": "https://www.shazam.com/de/artist/ikan-hyu/1009968498",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:20:23.276Z"
+    },
+    {
+      "id": "social-ffa7c94faca0",
+      "title": "Fescht in da Steina 2026",
+      "category": "music",
+      "description": "Ds kliina aber sidafiina Openair in Churwalda. Vielseitige musikalische Darbietungen, die zum Tanzen einladen, diverse Aktivitäten abseits vom Lineup, ein stimmungsvolles Festgelände mit viel Liebe zum Detail, nachhaltige kulinarische Höhepunkte und eine ausgelassene, fröhliche Stimmung.",
+      "date": "2026-08-08",
+      "time": "",
+      "price": "Siehe Webseite für Details",
+      "municipality": "Churwalden",
+      "locationName": "In da Steina, Steina 9, Churwalden",
+      "lat": 46.780104,
+      "lng": 9.566373,
+      "image": "",
+      "organizerUrl": "https://fids-festival.ch/",
+      "ticketUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-7288647038164808390.html",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:20:23.276Z"
+    },
+    {
+      "id": "social-63c6122cb5a1",
+      "title": "Fescht in da Steina 2026",
+      "category": "music",
+      "description": "Ds kliina aber sidafiina Openair in Churwalda. Vielseitige musikalische Darbietungen, die zum Tanzen einladen, diverse Aktivitäten abseits vom Lineup, ein stimmungsvolles Festgelände mit viel Liebe zum Detail, nachhaltige kulinarische Höhepunkte und eine ausgelassene, fröhliche Stimmung.",
+      "date": "2026-08-09",
+      "time": "",
+      "price": "Siehe Webseite für Details",
+      "municipality": "Churwalden",
+      "locationName": "In da Steina, Steina 9, Churwalden",
+      "lat": 46.780104,
+      "lng": 9.566373,
+      "image": "",
+      "organizerUrl": "https://fids-festival.ch/",
+      "ticketUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-7288647038164808390.html",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:20:23.276Z"
+    },
+    {
+      "id": "social-268e485eaaf6",
+      "title": "3. Begegnungstag Churwalden",
+      "category": "family",
+      "description": "Dritter Begegnungstag für Einheimische, Zweitheimische und Interessierte der drei Gemeinden Churwalden, Lantsch/Lenz und Vaz/Obervaz. Am Samstag von 10:00 bis 16:00 Uhr diverse Aktivitäten im Dorf Churwalden/Parpan und in Brambrüesch, wie Führungen und offene Türen. Ab 16:00 Uhr Musik mit Alpenflieger und ab 19:30 Uhr mit Quartett Waschächt.",
+      "date": "2026-08-29",
+      "time": "10:00 - ",
+      "price": "Nicht angegeben",
+      "municipality": "Churwalden",
+      "locationName": "Schiba Platz Churwalden",
+      "lat": 46.782,
+      "lng": 9.568,
+      "image": "",
+      "organizerUrl": "https://www.churwalden.ch/de/kalender/begegnungstag-churwalden",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:20:23.276Z"
+    },
+    {
+      "id": "social-b26bd2af2040",
+      "title": "DART-FRIDAY im Edelweiss",
+      "category": "sport",
+      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
+      "date": "2026-06-05",
+      "time": "19:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Tschiertschen-Praden",
+      "locationName": "Hotel Edelweiss, Pajüel 4",
+      "lat": 46.84,
+      "lng": 9.59,
+      "image": "",
+      "organizerUrl": "info@edelweiss-tschiertschen.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC3FVK4FmmjAerAjI1R7TtnIg_1IDdXSr_Vyn96ateMGeZwd1CCjtRkxpn8jtFt2UATjlZAQBuPQYtiNgWUQrHa-KrIG5bkSKqh2_YnCmrDQmhu9xK9-_vMvK5I2VYMP36R_Vh00pvNqBJHa9TtNmVazkQMEKMaq4VXsxGyCT6cxg="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVDyoXZ44gsuXs95eTp6F3aPtJcUJ0TYjiM_1Ffw2UVM-3kU7EBdA_2AfSQC1XKTXu1GIokd9WRyzXe_t4nxz4lD7EiQMLX81FWqQbESyt-Nb_qFaxtbXww=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJR9v1_fwP1gfmHmkAZP2WNn-4yl_ptZwy0fLPmURvbWKflAT2ppFulJKAEtVfODuBRgsTAH9oaK8qxqaewT4BNzsFxpHdAUD5nu5zuZtpYwPhMqveE87FHo2CwkpLz-USB27yOx_EagaeN1xL3QmuQh6JuzKTaAzisvsBHf1Ikynsc0hAGdiwgMuuhVy4F95wtemzguGw0I2-LUUyQ=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8MaRWfWqfkzfN3Lk1HLdrhwV40JQSbDbnFw8IeQmsW9ZaqUU1sE-k3QvgnhuxXQEOq6sauhnO_pwCsmV_uBniJ-S4vc54yYGwpNdHBBU1LzMznvNVbVYekYJQkyNPlrSUQHJayFjyFfd8kEBzzRefppIml5r4iUSRvJcx2MEJhtRFAAqN4FFsAlWa1d2g3qprBzvkQp0JaSqCTf8TQ=="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGncEXM7MpUNtgIuE-2lLholxwXY-_sS9rsty_a6sJLXxAgnoBStVp6Tp4u0tSttDlktF4AgT_q7dJJ6j1soCS2GKZ1XxVrp1yANQhHQw0ym-qUIUHonukPDMdRhJbm4z5p93PuH3b5ZOtf_uTya0uY"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:02.005Z"
+    },
+    {
+      "id": "social-fd107af1345c",
+      "title": "BERGFEST TSCHIERTSCHEN",
+      "category": "music",
+      "description": "Ein zweitägiges Fest mit viel Musik, Tanz, grosser Tombola und Festwirtschaft im grossen Festzelt! Stimmung pur mit 5 Musikgruppen, grosser Tombola und Festwirtschaft. Jugendliche unter 16 Jahren zahlen keinen Eintritt.",
+      "date": "2026-06-26",
+      "time": "17:00 - 02:00",
+      "price": "Tickets ab Dezember 2025 im Vorverkauf und an der Abendkasse.",
+      "municipality": "Tschiertschen-Praden",
+      "locationName": "Parkplatz Tschiertschen, Pajüel",
+      "lat": 46.84,
+      "lng": 9.59,
+      "image": "",
+      "organizerUrl": "https://tschiertschen.ch/aktuelles/",
+      "ticketUrl": "https://eventfrog.ch/de/p/volksfeste/sommerfest/bergfest-tschiertschen-2026-7281308311132641019.html",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC3FVK4FmmjAerAjI1R7TtnIg_1IDdXSr_Vyn96ateMGeZwd1CCjtRkxpn8jtFt2UATjlZAQBuPQYtiNgWUQrHa-KrIG5bkSKqh2_YnCmrDQmhu9xK9-_vMvK5I2VYMP36R_Vh00pvNqBJHa9TtNmVazkQMEKMaq4VXsxGyCT6cxg="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVDyoXZ44gsuXs95eTp6F3aPtJcUJ0TYjiM_1Ffw2UVM-3kU7EBdA_2AfSQC1XKTXu1GIokd9WRyzXe_t4nxz4lD7EiQMLX81FWqQbESyt-Nb_qFaxtbXww=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJR9v1_fwP1gfmHmkAZP2WNn-4yl_ptZwy0fLPmURvbWKflAT2ppFulJKAEtVfODuBRgsTAH9oaK8qxqaewT4BNzsFxpHdAUD5nu5zuZtpYwPhMqveE87FHo2CwkpLz-USB27yOx_EagaeN1xL3QmuQh6JuzKTaAzisvsBHf1Ikynsc0hAGdiwgMuuhVy4F95wtemzguGw0I2-LUUyQ=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8MaRWfWqfkzfN3Lk1HLdrhwV40JQSbDbnFw8IeQmsW9ZaqUU1sE-k3QvgnhuxXQEOq6sauhnO_pwCsmV_uBniJ-S4vc54yYGwpNdHBBU1LzMznvNVbVYekYJQkyNPlrSUQHJayFjyFfd8kEBzzRefppIml5r4iUSRvJcx2MEJhtRFAAqN4FFsAlWa1d2g3qprBzvkQp0JaSqCTf8TQ=="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGncEXM7MpUNtgIuE-2lLholxwXY-_sS9rsty_a6sJLXxAgnoBStVp6Tp4u0tSttDlktF4AgT_q7dJJ6j1soCS2GKZ1XxVrp1yANQhHQw0ym-qUIUHonukPDMdRhJbm4z5p93PuH3b5ZOtf_uTya0uY"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:02.005Z"
+    },
+    {
+      "id": "social-56b551ee2faf",
+      "title": "Sommermarkt in Tschiertschen",
+      "category": "markets",
+      "description": "Ein charmanter Sommermarkt mit liebevoll gefertigtem Handwerk, vielfältigem kulinarischem Angebot, musikalischer Unterhaltung und einer gemütlichen Festwirtschaft.",
+      "date": "2026-08-08",
+      "time": "14:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Tschiertschen-Praden",
+      "locationName": "Postauto-Kehrplatz",
+      "lat": 46.84,
+      "lng": 9.59,
+      "image": "",
+      "organizerUrl": "https://www.churtourismus.ch/erleben/events/event-detailansicht/?tx_solr[q]=Sommermarkt%20in%20Tschiertschen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Guidle",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC3FVK4FmmjAerAjI1R7TtnIg_1IDdXSr_Vyn96ateMGeZwd1CCjtRkxpn8jtFt2UATjlZAQBuPQYtiNgWUQrHa-KrIG5bkSKqh2_YnCmrDQmhu9xK9-_vMvK5I2VYMP36R_Vh00pvNqBJHa9TtNmVazkQMEKMaq4VXsxGyCT6cxg="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVDyoXZ44gsuXs95eTp6F3aPtJcUJ0TYjiM_1Ffw2UVM-3kU7EBdA_2AfSQC1XKTXu1GIokd9WRyzXe_t4nxz4lD7EiQMLX81FWqQbESyt-Nb_qFaxtbXww=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJR9v1_fwP1gfmHmkAZP2WNn-4yl_ptZwy0fLPmURvbWKflAT2ppFulJKAEtVfODuBRgsTAH9oaK8qxqaewT4BNzsFxpHdAUD5nu5zuZtpYwPhMqveE87FHo2CwkpLz-USB27yOx_EagaeN1xL3QmuQh6JuzKTaAzisvsBHf1Ikynsc0hAGdiwgMuuhVy4F95wtemzguGw0I2-LUUyQ=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8MaRWfWqfkzfN3Lk1HLdrhwV40JQSbDbnFw8IeQmsW9ZaqUU1sE-k3QvgnhuxXQEOq6sauhnO_pwCsmV_uBniJ-S4vc54yYGwpNdHBBU1LzMznvNVbVYekYJQkyNPlrSUQHJayFjyFfd8kEBzzRefppIml5r4iUSRvJcx2MEJhtRFAAqN4FFsAlWa1d2g3qprBzvkQp0JaSqCTf8TQ=="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGncEXM7MpUNtgIuE-2lLholxwXY-_sS9rsty_a6sJLXxAgnoBStVp6Tp4u0tSttDlktF4AgT_q7dJJ6j1soCS2GKZ1XxVrp1yANQhHQw0ym-qUIUHonukPDMdRhJbm4z5p93PuH3b5ZOtf_uTya0uY"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:02.005Z"
+    },
+    {
+      "id": "social-4c8b9471389e",
+      "title": "DART-FRIDAY im Edelweiss",
+      "category": "sport",
+      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
+      "date": "2026-09-11",
+      "time": "19:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Tschiertschen-Praden",
+      "locationName": "Hotel Edelweiss, Pajüel 4",
+      "lat": 46.84,
+      "lng": 9.59,
+      "image": "",
+      "organizerUrl": "info@edelweiss-tschiertschen.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC3FVK4FmmjAerAjI1R7TtnIg_1IDdXSr_Vyn96ateMGeZwd1CCjtRkxpn8jtFt2UATjlZAQBuPQYtiNgWUQrHa-KrIG5bkSKqh2_YnCmrDQmhu9xK9-_vMvK5I2VYMP36R_Vh00pvNqBJHa9TtNmVazkQMEKMaq4VXsxGyCT6cxg="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVDyoXZ44gsuXs95eTp6F3aPtJcUJ0TYjiM_1Ffw2UVM-3kU7EBdA_2AfSQC1XKTXu1GIokd9WRyzXe_t4nxz4lD7EiQMLX81FWqQbESyt-Nb_qFaxtbXww=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJR9v1_fwP1gfmHmkAZP2WNn-4yl_ptZwy0fLPmURvbWKflAT2ppFulJKAEtVfODuBRgsTAH9oaK8qxqaewT4BNzsFxpHdAUD5nu5zuZtpYwPhMqveE87FHo2CwkpLz-USB27yOx_EagaeN1xL3QmuQh6JuzKTaAzisvsBHf1Ikynsc0hAGdiwgMuuhVy4F95wtemzguGw0I2-LUUyQ=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8MaRWfWqfkzfN3Lk1HLdrhwV40JQSbDbnFw8IeQmsW9ZaqUU1sE-k3QvgnhuxXQEOq6sauhnO_pwCsmV_uBniJ-S4vc54yYGwpNdHBBU1LzMznvNVbVYekYJQkyNPlrSUQHJayFjyFfd8kEBzzRefppIml5r4iUSRvJcx2MEJhtRFAAqN4FFsAlWa1d2g3qprBzvkQp0JaSqCTf8TQ=="
+        },
+        {
+          "title": "tschiertschen.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGncEXM7MpUNtgIuE-2lLholxwXY-_sS9rsty_a6sJLXxAgnoBStVp6Tp4u0tSttDlktF4AgT_q7dJJ6j1soCS2GKZ1XxVrp1yANQhHQw0ym-qUIUHonukPDMdRhJbm4z5p93PuH3b5ZOtf_uTya0uY"
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:02.005Z"
+    },
+    {
+      "id": "social-b0e39f52e916",
+      "title": "Sommerfest der Tagesstruktur",
+      "category": "family",
+      "description": "Sommerfest der Tagesstruktur Bonaduz.",
+      "date": "2026-06-10",
+      "time": "00:00 - 00:00",
+      "price": "-",
+      "municipality": "Bonaduz",
+      "locationName": "Bonaduz",
+      "lat": 46.83,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhbL3SUTLcxBgwsYWX7RWQQnpDYCgHuVD1ov1WxAd873nZn6RN7S7UyDjCKeQRaDM3_ue57Zhlxh8UU_YpCgpQfcDmUlwQmR39dphqT0dE1nVXzvSvC5RodIVsxWusdoN80NY-Iuyo1u4a"
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVQjr06_gddWpmMkeKCwjQiwo_C2eiZ0Z-EhoPDsvsxSj2wAFntljaZsX4YEGcHpgpKonrGxaEsZtXXf_Wc7YXa1PW-jNooCDjL20H516vvfbwGuXLER0mge3pgbGmDND8g=="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV1CIUaubcHhWHpS-kHOErWnkTF3u27s6q-f9R6gmG0TrvmJsASnYz_uAZZLfj-ounBqKVQbBOVOWLy92yTO8w4V9DsfZ1T6wiLGH4SfAsU3ZwYpbyoOShO_POsZjR2Q=="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-edXZvLOi_YsomnZoCXIzcq23GAhMo1goq6vpsLv4XCQi3a1Ne5fNXY_448fNusIIgc2eVZRMOYRIMIoakSNlWIaNnd1fK3lbwyej427gK9OhcwrdAfTQS2acE4VvqTYJ"
+        },
+        {
+          "title": "senioren-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98gdwxvosomrNJYLdNYs1oVG80OMPPv6hWmIWnOFEgpbFcWzklEDFe2X5-XRo8VAgLDOS38TPn6WQBJy0AY-7tznJLE_Rk_89pZi8becTGKSQ2bwFEPI0bd0B1IUXAi-2KhYSaw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:47.565Z"
+    },
+    {
+      "id": "social-7fc5af998170",
+      "title": "Fritigstreff Musikgesellschaft Bonaduz",
+      "category": "music",
+      "description": "Fritigstreff organisiert durch Musikgesellschaft Bonaduz.",
+      "date": "2026-06-12",
+      "time": "17:00 - 22:00",
+      "price": "-",
+      "municipality": "Bonaduz",
+      "locationName": "Dorfplatz Bonaduz",
+      "lat": 46.83,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhbL3SUTLcxBgwsYWX7RWQQnpDYCgHuVD1ov1WxAd873nZn6RN7S7UyDjCKeQRaDM3_ue57Zhlxh8UU_YpCgpQfcDmUlwQmR39dphqT0dE1nVXzvSvC5RodIVsxWusdoN80NY-Iuyo1u4a"
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVQjr06_gddWpmMkeKCwjQiwo_C2eiZ0Z-EhoPDsvsxSj2wAFntljaZsX4YEGcHpgpKonrGxaEsZtXXf_Wc7YXa1PW-jNooCDjL20H516vvfbwGuXLER0mge3pgbGmDND8g=="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV1CIUaubcHhWHpS-kHOErWnkTF3u27s6q-f9R6gmG0TrvmJsASnYz_uAZZLfj-ounBqKVQbBOVOWLy92yTO8w4V9DsfZ1T6wiLGH4SfAsU3ZwYpbyoOShO_POsZjR2Q=="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-edXZvLOi_YsomnZoCXIzcq23GAhMo1goq6vpsLv4XCQi3a1Ne5fNXY_448fNusIIgc2eVZRMOYRIMIoakSNlWIaNnd1fK3lbwyej427gK9OhcwrdAfTQS2acE4VvqTYJ"
+        },
+        {
+          "title": "senioren-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98gdwxvosomrNJYLdNYs1oVG80OMPPv6hWmIWnOFEgpbFcWzklEDFe2X5-XRo8VAgLDOS38TPn6WQBJy0AY-7tznJLE_Rk_89pZi8becTGKSQ2bwFEPI0bd0B1IUXAi-2KhYSaw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:47.565Z"
+    },
+    {
+      "id": "social-448cd352019b",
+      "title": "Samiklausbesuche",
+      "category": "family",
+      "description": "Samiklausbesuche organisiert durch FC Bonaduz.",
+      "date": "2026-12-05",
+      "time": "00:00 - 00:00",
+      "price": "-",
+      "municipality": "Bonaduz",
+      "locationName": "Bonaduz",
+      "lat": 46.83,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.fcbonaduz.ch/jahresprogramm",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhbL3SUTLcxBgwsYWX7RWQQnpDYCgHuVD1ov1WxAd873nZn6RN7S7UyDjCKeQRaDM3_ue57Zhlxh8UU_YpCgpQfcDmUlwQmR39dphqT0dE1nVXzvSvC5RodIVsxWusdoN80NY-Iuyo1u4a"
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVQjr06_gddWpmMkeKCwjQiwo_C2eiZ0Z-EhoPDsvsxSj2wAFntljaZsX4YEGcHpgpKonrGxaEsZtXXf_Wc7YXa1PW-jNooCDjL20H516vvfbwGuXLER0mge3pgbGmDND8g=="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV1CIUaubcHhWHpS-kHOErWnkTF3u27s6q-f9R6gmG0TrvmJsASnYz_uAZZLfj-ounBqKVQbBOVOWLy92yTO8w4V9DsfZ1T6wiLGH4SfAsU3ZwYpbyoOShO_POsZjR2Q=="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-edXZvLOi_YsomnZoCXIzcq23GAhMo1goq6vpsLv4XCQi3a1Ne5fNXY_448fNusIIgc2eVZRMOYRIMIoakSNlWIaNnd1fK3lbwyej427gK9OhcwrdAfTQS2acE4VvqTYJ"
+        },
+        {
+          "title": "senioren-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98gdwxvosomrNJYLdNYs1oVG80OMPPv6hWmIWnOFEgpbFcWzklEDFe2X5-XRo8VAgLDOS38TPn6WQBJy0AY-7tznJLE_Rk_89pZi8becTGKSQ2bwFEPI0bd0B1IUXAi-2KhYSaw=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:21:47.565Z"
+    },
+    {
+      "id": "social-1cab113c3d13",
+      "title": "Leichtathletik-Tag OSBR",
+      "category": "sport",
+      "description": "Leichtathletik-Tag des Oberstufenschulverband Bonaduz-Rhäzüns (Verschiebedatum).",
+      "date": "2026-06-08",
+      "time": "06:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Rhäzüns / Bonaduz",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-faebad72ea21",
+      "title": "UBS-Kidscup, 1. Verschiebedatum",
+      "category": "sport",
+      "description": "UBS-Kidscup Sportveranstaltung der Schule Rhäzüns (1. Verschiebedatum).",
+      "date": "2026-06-03",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Schule Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-f7c518337ac0",
+      "title": "FC Rhäzüns Turnier E-Kids",
+      "category": "sport",
+      "description": "Fussballturnier für E-Kids veranstaltet vom FC Rhäzüns.",
+      "date": "2026-06-06",
+      "time": "01:00 - 14:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "FC Rhäzüns Sportplatz",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-7215a1496a78",
+      "title": "SC Rhäzüns Einführung/Apero",
+      "category": "family",
+      "description": "Einführung und Apero des SC Rhäzüns.",
+      "date": "2026-06-06",
+      "time": "10:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-473ea22f67fc",
+      "title": "Grillabend",
+      "category": "family",
+      "description": "Gemütlicher Grillabend in Rhäzüns.",
+      "date": "2026-06-13",
+      "time": "11:00 - 09:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-4fa79ce1632e",
+      "title": "FC Rhäzüns Turnier F-Kids",
+      "category": "sport",
+      "description": "Fussballturnier für F-Kids veranstaltet vom FC Rhäzüns.",
+      "date": "2026-06-13",
+      "time": "01:00 - 14:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "FC Rhäzüns Sportplatz",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-99bf667cba23",
+      "title": "Chor mischedau Razén Abschluss Chorjahr",
+      "category": "music",
+      "description": "Abschlussveranstaltung des Chorjahres vom Chor mischedau Razén.",
+      "date": "2026-06-15",
+      "time": "12:00 - 00:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-46d1525fd4b2",
+      "title": "KiTu Abschluss in Saulzas",
+      "category": "family",
+      "description": "Abschlussveranstaltung des Kinderturnens (KiTu) in Saulzas, Rhäzüns.",
+      "date": "2026-06-16",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Saulzas, Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-e4fa78bae0bf",
+      "title": "Mädchenriege Rhäzüns Abschluss",
+      "category": "sport",
+      "description": "Abschlussveranstaltung der Mädchenriege Rhäzüns.",
+      "date": "2026-06-18",
+      "time": "17:00 - 19:15",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-62cdf2a99bc1",
+      "title": "Tv Rhäzüns Jugend Abschluss Jugi",
+      "category": "sport",
+      "description": "Abschlussveranstaltung der Jugendriege (Jugi) des TV Rhäzüns.",
+      "date": "2026-06-23",
+      "time": "17:30 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Rhäzüns",
+      "locationName": "Rhäzüns",
+      "lat": 46.79,
+      "lng": 9.4,
+      "image": "",
+      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-02T11:22:24.898Z"
+    },
+    {
+      "id": "social-21cd286e9445",
+      "title": "Schnuppertraining 2026 ATHLETIK-JUNIORS TV LANDQUART",
+      "category": "sport",
+      "description": "Taster training for boys and girls born 2016 or later, for athletics enthusiasts. Registration required.",
+      "date": "2026-06-13",
+      "time": "09:00 - 11:30",
+      "price": "N/A (likely free)",
+      "municipality": "Landquart",
+      "locationName": "Rundbahn Landquart",
+      "lat": 46.9404,
+      "lng": 9.5484,
+      "image": "",
+      "organizerUrl": "https://tvlandquart.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "mslu.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgPkq6l71J-GlfDd366VjWp0Zz36avSFTjR3n02MhVwafAc3IzjJySYgvc_DSEqBJeOSV2bEju3ao7TA2z6Dk0tgmuP-rnWY3hjZfeNdVIzCbZpH668gOSXDbe"
+        },
+        {
+          "title": "tvlandquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-BKv5-QwJRgz9qDVkEYuU8JiyW7XAOnO5qs_gWKOhOwrIEeSuZyxSnLzEb3U9GRm9Ru653qtaUW67kOjujJa9u_GHWFJcAUCUBGxqPvo50Vrb"
+        },
+        {
+          "title": "tvlandquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEubEfLfnDoRx4shKdUXXjbC5jv2EpyuurKQdDZsQ-Qszvgfqs6F_cduWhM8GWqV82mbHdYYETFd7cnY2rTkbFqWtLynqkObA5QYu_D9eVSzaMWRa-Tk_YVgw=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwqnf4oGH7K_o_D6cBMKV2T-Tb8OZfesJEyL9UrgL5mrXXpqvnUdW3HVIEtsy35sG40Pdyy-jP67n3uRHMOzOAqQGfw7ZZNAIkdf99P2uUITxzQy5zx3IpKtyYoh0kILJRYnTScdAn5UdDz59A6eKmjoGiuKTj7A=="
+        },
+        {
+          "title": "landquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNXExYKd78jLJ_Ct4D-66zBQ3R_c5fGxQL0-n4mphxiT6hwhufonSirmtHw-uPIhsQlrmFRd62M8gy_swqOqHKRCter4bBNboRTCmyGM5PmHVCCrxCt4lN_OUfzYuUlXlPggzvLecv5qSgjixT2OuJx68="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:23:56.742Z"
+    },
+    {
+      "id": "social-3b8927310c10",
+      "title": "Spiel- und Jassnachmittag",
+      "category": "family",
+      "description": "Ein Nachmittag für Spiele und Jass.",
+      "date": "2026-06-03",
+      "time": "14:00 - 16:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Thusis",
+      "lat": 46.69,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen/?q=thusis",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9z8mP5SpLp1Ui2MiOeas5cIG__zW97Tk26KzkEZPsheO0vgBrl9E7XRlbVXcF7H1TWyU8heYS627hqn7amgxvJ18B4mhHZzoBA7obpJaYLNc0td9Afl5iBbKLUvy_-Fv_l4wOM6DMhLFyfrGEP38dSnW763NeZbTiwWeUrXURX9b5io88U4fhdRPAvuBj8AhufSFPZaM="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPJCN-SyvFo9KqLtjgQawGf6T4oJw-CxI_2MbpRAJ-MtMfKHYmPfVMy0t6PBAZgdOtefVDxGJ8Hq-RM07vQvt6A5iIquNd3CO-EgUQkmrwpsn3ZvIYblGVU0V_tm7ESXuqmHWEUkFfIFVlCp0Qhgpkj46hg=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETM91FfYPJ4Mtm-O8YbE2b3imYRd8_R8t6sD6mvVn7AclRRWtehPPwKmUuTbxrf6ytFQdLCd9C1CElnwspkE76fSxoIz2BnK1q8lkF2Jwbk6vLBBP9rWCfKM0KtoB0hcBxvlnCBL435rJhuFQXTb9EICiSWS-ZYbHZYXC0WOBlDrGLSmuQc0loJg=="
+        },
+        {
+          "title": "story-thusis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG46mdtmhwFXvsB7SPRV6f_BGY2mEV0emymwRmhYoFtouVA60cUeXmLTCNsXK40EG6YSECmtI5TpoJUsW1Ziw8rbW37zSMubut6UX5pcl44NqDFhQ=="
+        },
+        {
+          "title": "viamala.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrRa3FdUrvlIcJb82dmZxCdBuxC3QVLwrSNdEi63ncbO-T9kVJE47O8P2em_mmbBYrhoZ375QkFyaKS3RnZMqcEWHCkkKxl8j2NKmJHTUM3qlZlBBTLtOH9ppqG3AsF-cvvL85wM9RZWaKDiTD3CzkNxeSpxBiijfrDI4L4tpBFMFv4wDOoEdcC0czMQRSA=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:25:01.963Z"
+    },
+    {
+      "id": "social-461dcc45151c",
+      "title": "Learning Lunch",
+      "category": "stage",
+      "description": "Learning Lunch Event.",
+      "date": "2026-06-09",
+      "time": "12:15 - 13:15",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Thusis",
+      "lat": 46.69,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen/?q=thusis",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9z8mP5SpLp1Ui2MiOeas5cIG__zW97Tk26KzkEZPsheO0vgBrl9E7XRlbVXcF7H1TWyU8heYS627hqn7amgxvJ18B4mhHZzoBA7obpJaYLNc0td9Afl5iBbKLUvy_-Fv_l4wOM6DMhLFyfrGEP38dSnW763NeZbTiwWeUrXURX9b5io88U4fhdRPAvuBj8AhufSFPZaM="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPJCN-SyvFo9KqLtjgQawGf6T4oJw-CxI_2MbpRAJ-MtMfKHYmPfVMy0t6PBAZgdOtefVDxGJ8Hq-RM07vQvt6A5iIquNd3CO-EgUQkmrwpsn3ZvIYblGVU0V_tm7ESXuqmHWEUkFfIFVlCp0Qhgpkj46hg=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETM91FfYPJ4Mtm-O8YbE2b3imYRd8_R8t6sD6mvVn7AclRRWtehPPwKmUuTbxrf6ytFQdLCd9C1CElnwspkE76fSxoIz2BnK1q8lkF2Jwbk6vLBBP9rWCfKM0KtoB0hcBxvlnCBL435rJhuFQXTb9EICiSWS-ZYbHZYXC0WOBlDrGLSmuQc0loJg=="
+        },
+        {
+          "title": "story-thusis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG46mdtmhwFXvsB7SPRV6f_BGY2mEV0emymwRmhYoFtouVA60cUeXmLTCNsXK40EG6YSECmtI5TpoJUsW1Ziw8rbW37zSMubut6UX5pcl44NqDFhQ=="
+        },
+        {
+          "title": "viamala.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrRa3FdUrvlIcJb82dmZxCdBuxC3QVLwrSNdEi63ncbO-T9kVJE47O8P2em_mmbBYrhoZ375QkFyaKS3RnZMqcEWHCkkKxl8j2NKmJHTUM3qlZlBBTLtOH9ppqG3AsF-cvvL85wM9RZWaKDiTD3CzkNxeSpxBiijfrDI4L4tpBFMFv4wDOoEdcC0czMQRSA=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:25:01.963Z"
+    },
+    {
+      "id": "social-00aa3b536ce4",
+      "title": "Roger Stein concert",
+      "category": "music",
+      "description": "Ein Konzert von Roger Stein.",
+      "date": "2026-12-12",
+      "time": "20:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Kino Rätia Thusis",
+      "lat": 46.69,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.shazam.com/de/artist/roger-stein/101292104",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9z8mP5SpLp1Ui2MiOeas5cIG__zW97Tk26KzkEZPsheO0vgBrl9E7XRlbVXcF7H1TWyU8heYS627hqn7amgxvJ18B4mhHZzoBA7obpJaYLNc0td9Afl5iBbKLUvy_-Fv_l4wOM6DMhLFyfrGEP38dSnW763NeZbTiwWeUrXURX9b5io88U4fhdRPAvuBj8AhufSFPZaM="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLPJCN-SyvFo9KqLtjgQawGf6T4oJw-CxI_2MbpRAJ-MtMfKHYmPfVMy0t6PBAZgdOtefVDxGJ8Hq-RM07vQvt6A5iIquNd3CO-EgUQkmrwpsn3ZvIYblGVU0V_tm7ESXuqmHWEUkFfIFVlCp0Qhgpkj46hg=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETM91FfYPJ4Mtm-O8YbE2b3imYRd8_R8t6sD6mvVn7AclRRWtehPPwKmUuTbxrf6ytFQdLCd9C1CElnwspkE76fSxoIz2BnK1q8lkF2Jwbk6vLBBP9rWCfKM0KtoB0hcBxvlnCBL435rJhuFQXTb9EICiSWS-ZYbHZYXC0WOBlDrGLSmuQc0loJg=="
+        },
+        {
+          "title": "story-thusis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG46mdtmhwFXvsB7SPRV6f_BGY2mEV0emymwRmhYoFtouVA60cUeXmLTCNsXK40EG6YSECmtI5TpoJUsW1Ziw8rbW37zSMubut6UX5pcl44NqDFhQ=="
+        },
+        {
+          "title": "viamala.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrRa3FdUrvlIcJb82dmZxCdBuxC3QVLwrSNdEi63ncbO-T9kVJE47O8P2em_mmbBYrhoZ375QkFyaKS3RnZMqcEWHCkkKxl8j2NKmJHTUM3qlZlBBTLtOH9ppqG3AsF-cvvL85wM9RZWaKDiTD3CzkNxeSpxBiijfrDI4L4tpBFMFv4wDOoEdcC0czMQRSA=="
+        }
+      ],
+      "scrapedAt": "2026-06-02T11:25:01.963Z"
     }
   ]
 }
