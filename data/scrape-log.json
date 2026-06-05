@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-04T09:44:06.496Z",
-  "eventsTotal": 263,
-  "eventsNew": 27,
-  "eventsUpdated": 157,
-  "eventsEnriched": 34,
+  "timestamp": "2026-06-05T09:06:04.821Z",
+  "eventsTotal": 278,
+  "eventsNew": 44,
+  "eventsUpdated": 131,
+  "eventsEnriched": 50,
   "enrichmentErrors": 0,
-  "eventsCleaned": 32,
+  "eventsCleaned": 29,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -22,7 +22,7 @@
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
-      "events": 20,
+      "events": 2,
       "error": null
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
-      "events": 2,
+      "events": 1,
       "error": null
     },
     {
@@ -76,7 +76,7 @@
     {
       "name": "LocalCities-Rhäzüns",
       "kind": "gemini",
-      "events": 0,
+      "events": 2,
       "error": null
     },
     {
