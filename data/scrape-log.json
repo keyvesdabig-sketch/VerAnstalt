@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-05T09:06:04.821Z",
-  "eventsTotal": 278,
-  "eventsNew": 44,
-  "eventsUpdated": 131,
-  "eventsEnriched": 50,
+  "timestamp": "2026-06-06T08:28:40.994Z",
+  "eventsTotal": 266,
+  "eventsNew": 19,
+  "eventsUpdated": 133,
+  "eventsEnriched": 27,
   "enrichmentErrors": 0,
-  "eventsCleaned": 29,
+  "eventsCleaned": 31,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -22,7 +22,7 @@
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
-      "events": 2,
+      "events": 20,
       "error": null
     },
     {
@@ -82,8 +82,8 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 14,
-      "error": null
+      "events": 0,
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 265573 (line 1 column 265574) — Roh: {\"events\": [{\"title\": \"Exkursion zum 'Verhalten gegenüber Herdenschutzhunden'\", \"date\": \"2026-06-20\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/b/65/a7/b65a76a5cc24255b1bd072dd7e0c876c6dab524"
     },
     {
       "name": "LocalCities-Landquart",
