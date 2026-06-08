@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-07T08:46:03.455Z",
-  "eventsTotal": 260,
-  "eventsNew": 25,
-  "eventsUpdated": 152,
-  "eventsEnriched": 32,
+  "timestamp": "2026-06-08T10:21:37.492Z",
+  "eventsTotal": 268,
+  "eventsNew": 36,
+  "eventsUpdated": 136,
+  "eventsEnriched": 42,
   "enrichmentErrors": 0,
-  "eventsCleaned": 31,
+  "eventsCleaned": 28,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -70,7 +70,7 @@
     {
       "name": "LocalCities-Bonaduz",
       "kind": "gemini",
-      "events": 8,
+      "events": 6,
       "error": null
     },
     {
@@ -82,8 +82,8 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 13,
-      "error": null
+      "events": 0,
+      "error": "fetch failed"
     },
     {
       "name": "LocalCities-Landquart",
