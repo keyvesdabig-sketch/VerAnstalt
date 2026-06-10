@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-08T10:21:37.492Z",
-  "eventsTotal": 268,
-  "eventsNew": 36,
-  "eventsUpdated": 136,
-  "eventsEnriched": 42,
+  "timestamp": "2026-06-10T09:41:56.845Z",
+  "eventsTotal": 275,
+  "eventsNew": 48,
+  "eventsUpdated": 142,
+  "eventsEnriched": 54,
   "enrichmentErrors": 0,
-  "eventsCleaned": 28,
+  "eventsCleaned": 41,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -82,13 +82,13 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 0,
-      "error": "fetch failed"
+      "events": 14,
+      "error": null
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 10,
+      "events": 11,
       "error": null
     },
     {
