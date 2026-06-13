@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-12T09:57:27.204Z",
-  "eventsTotal": 278,
-  "eventsNew": 35,
-  "eventsUpdated": 154,
-  "eventsEnriched": 42,
+  "timestamp": "2026-06-13T08:47:54.279Z",
+  "eventsTotal": 273,
+  "eventsNew": 31,
+  "eventsUpdated": 153,
+  "eventsEnriched": 37,
   "enrichmentErrors": 0,
-  "eventsCleaned": 33,
+  "eventsCleaned": 36,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -34,13 +34,13 @@
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
-      "events": 0,
+      "events": 4,
       "error": null
     },
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
-      "events": 1,
+      "events": 3,
       "error": null
     },
     {
