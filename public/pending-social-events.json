@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T11:08:23.024Z",
+  "lastUpdated": "2026-06-13T10:05:36.309Z",
   "events": [
     {
       "id": "social-5c00a37f7dc0",
@@ -1262,27 +1262,6 @@
       "legacyId": "social-1779631927899-Trimmis-10"
     },
     {
-      "id": "social-edf43eacfa31",
-      "title": "Fritigstreff",
-      "category": "family",
-      "description": "Ein Treffen am Freitagabend bei Bawangs.",
-      "date": "2026-06-12",
-      "time": "17:00 - 23:59",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Bawangs",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/news/mai-2026-8",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:12:36.501Z",
-      "legacyId": "social-1779631956501-Untervaz-8"
-    },
-    {
       "id": "social-0fc1f56c7667",
       "title": "Prov. Konzert 3/4 Klasse",
       "category": "music",
@@ -1344,27 +1323,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:12:36.501Z",
       "legacyId": "social-1779631956501-Untervaz-11"
-    },
-    {
-      "id": "social-624cc8c32fdd",
-      "title": "Fritigstreff (Jugendriege TV Ziziers)",
-      "category": "family",
-      "description": "Die Fritigstreffs finden auf dem südlichen Schulhausplatz der Schulanlage Obergasse statt. Ein Verein ist jeweils für die Festwirtschaft zuständig.",
-      "date": "2026-06-12",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.943,
-      "lng": 9.571,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch/daten-fritigstreff/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:08.761Z",
-      "legacyId": "social-1779631988761-Zizers-2"
     },
     {
       "id": "social-6741a2a87ea2",
@@ -1554,27 +1512,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:13:49.600Z",
       "legacyId": "social-1779632029600-Tamins-5"
-    },
-    {
-      "id": "social-caae40a54ede",
-      "title": "Eidgenössisches Schützenfest 2026",
-      "category": "sport",
-      "description": "The Swiss Federal Shooting Festival, with the shooting range in Cartschitscha as one of the venues. A public festival restaurant will be open on these days.",
-      "date": "2026-06-12",
-      "time": "07:30 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Schiessstand Cartschitscha",
-      "lat": 46.85,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/eidgenoessisches-schuetzenfest-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:49.600Z",
-      "legacyId": "social-1779632029600-Tamins-6"
     },
     {
       "id": "social-e388492cf505",
@@ -3005,27 +2942,6 @@
       "legacyId": "social-1779632100434-TschiertschenPraden-15"
     },
     {
-      "id": "social-a53f29b2045a",
-      "title": "3. Fritigstreff 2026",
-      "category": "family",
-      "description": "Ein geselliges Beisammensein, organisiert durch die Musikgesellschaft Bonaduz.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8333,
-      "lng": 9.4217,
-      "image": "",
-      "organizerUrl": "https://www.gewerbevereinbonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:15:34.976Z",
-      "legacyId": "social-1779632134976-Bonaduz-0"
-    },
-    {
       "id": "social-9fc2f32c2b7f",
       "title": "Plausch-Fussballturnier für Vereine/Firmen/Freunde",
       "category": "sport",
@@ -3171,27 +3087,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:16:03.363Z",
       "legacyId": "social-1779632163363-Rhzns-3"
-    },
-    {
-      "id": "social-f0fb4c987da7",
-      "title": "Eidg. Schützenfest Chur/Graubünden 2026 - Schiessplatz Malans",
-      "category": "sport",
-      "description": "Teil des Eidgenössischen Schützenfests 2026 auf dem Schiessplatz Malans.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Schützenhaus",
-      "lat": 46.992,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/de/aktuelles/veranstaltungen-termine?data=12140",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:17:00.486Z",
-      "legacyId": "social-1779632220486-Malans-12"
     },
     {
       "id": "social-8791e09b7162",
@@ -4490,26 +4385,6 @@
       "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
-      "id": "social-c98e8c77d622",
-      "title": "Radio Grischa Summerfescht",
-      "category": "music",
-      "description": "Das Sommerfest von Radio Grischa mit Live-Musik.",
-      "date": "2026-06-12",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8521,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/radio-grischa-summerfescht/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
       "id": "social-d19101c03236",
       "title": "Churer Wochenmarkt",
       "category": "markets",
@@ -5452,26 +5327,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:54:53.807Z"
-    },
-    {
-      "id": "social-9915feca21ab",
-      "title": "KiKi Treff mit Kirchenübernachtung",
-      "category": "family",
-      "description": "Ein Treff für Kinder mit einer Übernachtung in der Kirche.",
-      "date": "2026-06-12",
-      "time": "18:00 - 09:00",
-      "price": "Unbekannt",
-      "municipality": "Untervaz",
-      "locationName": "Evangelisch-Reformierte Kirchgemeinde Untervaz",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://ref-untervaz.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:55:21.295Z"
     },
     {
       "id": "social-3192509a8d08",
@@ -8699,26 +8554,6 @@
       "scrapedAt": "2026-05-28T10:52:58.960Z"
     },
     {
-      "id": "social-623244b47f6a",
-      "title": "Fritigstreff (Musikgesellschaft Bonaduz)",
-      "category": "music",
-      "description": "Fritigstreff organized by the Bonaduz Music Society on the village square.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "Free",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.833,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-28T10:53:32.846Z"
-    },
-    {
       "id": "social-7abdcc2a8e07",
       "title": "Fritigstreff (Tennisclub Bonaduz)",
       "category": "family",
@@ -9567,26 +9402,6 @@
       "scrapedAt": "2026-05-29T10:43:12.630Z"
     },
     {
-      "id": "social-907553eadc80",
-      "title": "Fritigstreff Jugi",
-      "category": "sport",
-      "description": "Freitags-Treff der Jugendriege des TV Zizers.",
-      "date": "2026-06-12",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Zizers",
-      "locationName": "Zizers",
-      "lat": 46.93653,
-      "lng": 9.56552,
-      "image": "",
-      "organizerUrl": "https://tvzizers.ch/jahresprogramm-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-29T10:44:13.763Z"
-    },
-    {
       "id": "social-4ba49564b4a9",
       "title": "Familiensonntag Benis Boden",
       "category": "family",
@@ -9790,35 +9605,6 @@
         }
       ],
       "scrapedAt": "2026-05-29T10:46:07.560Z"
-    },
-    {
-      "id": "social-9c470a43a4d4",
-      "title": "3. Fritigstreff 2026 (Musikgesellschaft Bonaduz)",
-      "category": "music",
-      "description": "Offener Treffpunkt organisiert von der Musikgesellschaft Bonaduz.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8306,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2LKQyKgdSBOGHlIlzvXBFpqhLeQmo33VtooR3-uo1Vjr7JITzHEgKLydeAE6zUnuMAiqmjgyHQPnSG2saZcS8AxrpzAIZXa9iOEdPc1-mwLtJH5o6vHEdOy7kxbHYOeos5y63_GiucvhTeoPHwqeBu1qqlle5IHz-jI1n2PQQzI1gCWstG4QiA1ETHCZmVQT5qeVwSx-TiUI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmmqP5n3AljP-hOYL3rTzd03MCHCI-h2TgIxYJDXcxvhGncfp23gzdarCbQZIm3J-uUSpoN-vSEmcPUEVN1-h4dFzRfcbI6TzHxsWVwh2Sa1N4-DN0TTSWvpCw-7ALGBhl2YL2COzRSovHad4Lmm0CVp1lRqgAn4KAnSR2h5vZ7B88fgqsvsUVAQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-29T10:46:39.078Z"
     },
     {
       "id": "social-256e4c6f8af1",
@@ -10472,47 +10258,6 @@
       "lng": 9.4,
       "image": "",
       "organizerUrl": "https://www.fcbonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhnlGDRfwvecK6SlxcAjjMX-Zucj_ZMljiSJGTHL6AimdggZS2Iz9ykRNoHMjMdV8FFfg34U_8PhZWZE17l2aScTzU1KJMbmU31vfgGYJf9YWQvd6CP9NIaiCknAB4"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHQmgPPc6xMeS-jW37c4QCKh6wTG3g9pmVV-y3K1QfdLyKrczz85OlGnK4fEI_9qrO-pBOxlUsIQ_DhFNMmvlHrF9Ikye7STMR0qJ5qbQqWAOQrAhmbhL3GrRnF9Ez9w=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmhh3MwWYDuFF2w0twRCvasWjlmryv7WObRhE6TKlV8VaboWx3W6GRtPFWnEhcgNinuzX2s0HfSq8N7qKROhZGzmAhO2Cfg-zwiE0in0TvyeMDyp5QdkeORL8ZKBWCdbzAw=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtQHGSfQoWHGViv_FPYw0sM6bXSkNSm0MriLhZuXnKEGclGcROpE9jJB5hmsgEZdnnk7-VenaJxbr1Hch7CpBKodycwgYvuvFXZkTaVsRWpchfXlwMiO2lF7rypzJ31FXw"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdHbdFOvcUQy1RFhcSIaayDH2HvDdBBDTKqOASNX5NRS6StxY7VwNVMmN8cZHcVkctjykWIRebSOQFQxGjV5R1PYfLVkIoLV-4k1H25EqdLg9V7f8fEpkTJ_eWM7IRSbQ8ib9qYB6bdUO6dIioRXusnTA3_SM="
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:18:10.390Z"
-    },
-    {
-      "id": "social-9470a4b7395b",
-      "title": "Fritigstreff 2026 (Musikgesellschaft Bonaduz)",
-      "category": "music",
-      "description": "Ein Fritigstreff organisiert von der Musikgesellschaft Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "Gratis",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch",
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Other",
@@ -11337,26 +11082,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-32ad1665e34b",
-      "title": "Spielnomi im Sunnaschii",
-      "category": "family",
-      "description": "",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Kinderhuus/Spielgruppa Sunnaschii",
-      "lat": 46.839,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/aktuelles/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:46:06.829Z"
     },
     {
       "id": "social-20ede239372a",
@@ -12340,67 +12065,6 @@
       "scrapedAt": "2026-05-31T09:51:30.300Z"
     },
     {
-      "id": "social-7d766ea5e310",
-      "title": "Sternen Degustation - Louis Liesch",
-      "category": "markets",
-      "description": "Weindegustation mit Louis Liesch in der Wein Bar & Café Sternen.",
-      "date": "2026-06-12",
-      "time": "17:00 - 21:00",
-      "price": "Siehe Lokalität",
-      "municipality": "Malans",
-      "locationName": "Wein Bar & Café Sternen",
-      "lat": 46.958,
-      "lng": 9.534,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/de/aktuelles/veranstaltungen-termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:52:48.382Z"
-    },
-    {
-      "id": "social-a27bb1ee1705",
-      "title": "CinémART «Naturfotografien» (Vernissage)",
-      "category": "family",
-      "description": "Vernissage der Ciném'ART-Ausstellung „Naturfotografien“ von Renato Bertschart, gefolgt von der Filmvorführung „Le chant des forêts“.",
-      "date": "2026-06-12",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/veranstaltung/cinemart-naturfotografien-32/#top",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxVXCcsFekaI0Wyfiw2dersnHjjqMKMpXDeR2gISMU_LTRAW8w04tL0Z1HUhFu6EaUSKgoThO_byUSlQd3dGbwoVbLcIGr2tB5CiqW-hdHGMd1kAA66kCHcpZvo2e66Ep0ZUpiPaRdwF8BioO28M--3pp9Cc0ckIHYUim_Vp1WQDpxH_v1nfmu5Q-h9kgN"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF5YbExJT9gNPE6-eOemgnPkAM0yGcOQ_cqih3odJ7Z18ojuyAMwXH-prkQ1burDgRYAos0_CN1l12jQiyUP3v3YJp7mq2DQF7_LdvO7oM-tCWeyZrIm9-6dvCVgbzGxai3dRPpby6yl_2Mx7ouRX5sqKLVTznNmbFXFsYsfismGktg6pagGXBBOdInbXYvz_Q8lxH24Y="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7ApVxR_pw4f9Bdf-y5dMowiFFehc8I1cHULfrgPm5y6GJdL66Ry3NsFzZMKf5rQiUvufWJL8u70WOe2i-gBa0d5aQb4pR_myIkjVCmt7K9Fl-7G1PX1h7Bdft5W0jFebUsnveg5eO2W1_jTd-L-k8pwpDQ=="
-        },
-        {
-          "title": "naturpark-beverin.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbRBMdvlTzJG138WjElW_bmI5QSRmwbDBIK7JruTMzQ0xfxWyAnqt_mgGB7cot22UHXREVh5_0e0KTz_WlbBeqaFJh--SaK_TwZsCG7wkIOn8Ok0mv7auc24m18cKw7l8wQSdAocq26IF0JDnTGNQTfSQOxhg5DEBBK304iUA5FakzU9xhw8SF11AGGJzmEpUCMDm7vX8ZEXzO-QA="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDdJZCpQ_qjxmDIIuU4-aSqCF4uigo7fBD4A17GojuOZQFuCB0g9uDqhq29gpFUopYS7i-pnAZEdudBZ0gojbx8GNmTtBTGwmhTWryjFg1QGYaGmR8idVUB60kWCRhSkzgHKrhgUDA8mOsjKMLdHsXOVuzM4sSxtcrcWkNeRZVInKo7ANIJ6aWR2wAE0dm3rCugDTTAwHfs345GGpt86rwZHUm"
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:55:09.509Z"
-    },
-    {
       "id": "social-1f1ebd0551d8",
       "title": "Thusner Dorffest (Bühne im Kino Raetia)",
       "category": "stage",
@@ -12481,86 +12145,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:55:09.510Z"
-    },
-    {
-      "id": "social-3ec59576c36a",
-      "title": "Radio Grischa Summerfescht powered by die Mobiliar Chur",
-      "category": "music",
-      "description": "Sommerfest mit Musik.",
-      "date": "2026-06-12",
-      "time": "18:00 - 00:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
-      "id": "social-f1c0b9b6aea3",
-      "title": "Alma Naidu (GER)",
-      "category": "music",
-      "description": "Konzert mit Alma Naidu (GER).",
-      "date": "2026-06-12",
-      "time": "20:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
-      "id": "social-49a7b81161b5",
-      "title": "BUBBLES #4.1: Roland Signer – Autopoiesis",
-      "category": "music",
-      "description": "Performance/Konzert.",
-      "date": "2026-06-12",
-      "time": "19:00 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
-      "id": "social-444bbb06f178",
-      "title": "Kemadito Sound",
-      "category": "music",
-      "description": "Konzert/DJ-Set.",
-      "date": "2026-06-12",
-      "time": "21:00 - 01:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.629Z"
     },
     {
       "id": "social-8d73b5ab1c5c",
@@ -12805,26 +12389,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-953a41f61419",
-      "title": "Fritigstreff Jugi Zizers",
-      "category": "sport",
-      "description": "Fritigstreff der Jugendriege des TV Zizers.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Zizers",
-      "lat": 46.914,
-      "lng": 9.552,
-      "image": "",
-      "organizerUrl": "https://www.tvzizers.ch/jahresprogramm-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:35:38.428Z"
     },
     {
       "id": "social-b5cec30944c5",
@@ -14737,26 +14301,6 @@
       "scrapedAt": "2026-06-02T11:14:08.037Z"
     },
     {
-      "id": "social-4e1b1b9762cd",
-      "title": "Magnesia-Cup",
-      "category": "sport",
-      "description": "Sportwettkampf der Geräteriege Felsberg.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Doppelturnhalle",
-      "lat": 46.84,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:14:43.612Z"
-    },
-    {
       "id": "social-952cc4538e8d",
       "title": "Wettfischen",
       "category": "sport",
@@ -14857,47 +14401,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:16:35.483Z"
-    },
-    {
-      "id": "social-fe08cfea9b53",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-06-12",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-c80f3661350d",
@@ -16724,47 +16227,6 @@
       "scrapedAt": "2026-06-02T11:21:02.005Z"
     },
     {
-      "id": "social-7fc5af998170",
-      "title": "Fritigstreff Musikgesellschaft Bonaduz",
-      "category": "music",
-      "description": "Fritigstreff organisiert durch Musikgesellschaft Bonaduz.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "-",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhbL3SUTLcxBgwsYWX7RWQQnpDYCgHuVD1ov1WxAd873nZn6RN7S7UyDjCKeQRaDM3_ue57Zhlxh8UU_YpCgpQfcDmUlwQmR39dphqT0dE1nVXzvSvC5RodIVsxWusdoN80NY-Iuyo1u4a"
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVQjr06_gddWpmMkeKCwjQiwo_C2eiZ0Z-EhoPDsvsxSj2wAFntljaZsX4YEGcHpgpKonrGxaEsZtXXf_Wc7YXa1PW-jNooCDjL20H516vvfbwGuXLER0mge3pgbGmDND8g=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV1CIUaubcHhWHpS-kHOErWnkTF3u27s6q-f9R6gmG0TrvmJsASnYz_uAZZLfj-ounBqKVQbBOVOWLy92yTO8w4V9DsfZ1T6wiLGH4SfAsU3ZwYpbyoOShO_POsZjR2Q=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-edXZvLOi_YsomnZoCXIzcq23GAhMo1goq6vpsLv4XCQi3a1Ne5fNXY_448fNusIIgc2eVZRMOYRIMIoakSNlWIaNnd1fK3lbwyej427gK9OhcwrdAfTQS2acE4VvqTYJ"
-        },
-        {
-          "title": "senioren-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH98gdwxvosomrNJYLdNYs1oVG80OMPPv6hWmIWnOFEgpbFcWzklEDFe2X5-XRo8VAgLDOS38TPn6WQBJy0AY-7tznJLE_Rk_89pZi8becTGKSQ2bwFEPI0bd0B1IUXAi-2KhYSaw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:21:47.565Z"
-    },
-    {
       "id": "social-448cd352019b",
       "title": "Samiklausbesuche",
       "category": "family",
@@ -18171,47 +17633,6 @@
       "scrapedAt": "2026-06-04T10:39:44.339Z"
     },
     {
-      "id": "social-e5e35246eb44",
-      "title": "Überflug der Patrouille Suisse (Training)",
-      "category": "sport",
-      "description": "Trainingsflug der Patrouille Suisse der Schweizer Luftwaffe zur Vorbereitung auf die offizielle Vorführung im Rahmen des Eidgenössischen Schützenfestes 2026.",
-      "date": "2026-06-12",
-      "time": "11:10 - 11:30",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Über dem Festzentrum am Fusse des Calanda (bei Chur), sichtbar von Tamins",
-      "lat": 46.83,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/aktuelles/neuigkeiten/eidgenoessisches-schuetzenfest-churgraubuenden-2026-ueberfluege-der-patrouille-suisse-am-12-und-13-juni-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq5sT0jW_kg79GRAJ-clZXfQCd_1SQ-oK6zp5tirJ9e7L46PyXzDZgPunHaE4eeQkMVdR13I20KKkVTFuop9mPpCMhHZdd4D5uqbm4JebiLYLTqc_ZjTmi05VbjLxIoeRQwavxS9Zltg=="
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkKCIKBybZVB8M-F8Dtsy9Il4Gy4B-E-q6Vq5vBj_EeYWipwmoNPs5wUwZB4maGdvOlnBcxUQ6XsGAcmoATO3HwZc_Mkl-Oi9mEKyCwilRnws532Df-W8TjIt9Yp89ldr-9ixJNaOVy3s="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNDqMZHqr0k3WlY04jaIaJwQCGzXYb0XTH7ZsXkryk2RiNZoKk9C9tGjwbljwm5ygxSOuk67zt6cxlcRYkoqqTroAn-rjBfc-odpoYKfu7ogbj27CQt7TuK1iC1IcE_HUdJIESmw-VaGIFgPpcVLjwv0WSMdw6kps7mW3QzlmYcEVT2_6IE-6WjO6nAOe94RptH3rsFcHw9f1qzUqfpC4="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVje_y_6XBQTObrs0sgLO6WmLxuWtnXPof2Xjrm7wSwujWoh-9Uid-rVHWHfvTlkM4HytgqJykSNuNF1x0q5fsnBkiEczglAn2xkfHPt3QxIAvH9I7Y1-MhIISmGiykAYqx1EEjqVAzT5btpamOUyhTJQn2n3NLstyYrnUw2ouUPP7sOUvKmGEH2I-a0aAOD4qDHkEinRbiFM-nYzVRwJ8"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd5hrzpb7Iw1GAGrsUUlJTE3y_OE8gMews25BawpL6_hgwxJgHSPrJxCntreq09aKXLMZcgKxfJidgdgaYPUn-IW8Teu8gmHg6m5wWiU2BzCbUkm10oN1m9jCEyf4wpB_916G0KuNUTsvL8wcmX1cWGXd61Zmscm5UAqXwYHKGIa-Yqz5G4Ug0M7oSUWGuM9hDozG6Ch5K1O-bRo6Pmw=="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:40:31.060Z"
-    },
-    {
       "id": "social-27f7cf9c1376",
       "title": "Überflug der Patrouille Suisse (Offizielle Vorführung)",
       "category": "sport",
@@ -18456,47 +17877,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:41:46.772Z"
-    },
-    {
-      "id": "social-4238dd6035e7",
-      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026 (Schiessstand Bonaduz)",
-      "category": "sport",
-      "description": "Teilnahme des Schützenvereins Bonaduz am Eidgenössischen Schützenfest Chur/Graubünden 2026, mit Veranstaltungen am Schiessstand in Bonaduz.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Schiessstand Bonaduz",
-      "lat": 46.837,
-      "lng": 9.407,
-      "image": "",
-      "organizerUrl": "https://www.bonaduz.ch/aktuelles/termine-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXZG_Amu6w-uQ3tXajzkGbZNJXmH5b6bVBThGUcFd6WmXqBCKnX3aXs9S0CGsMEpfoZPnwda117yl-lu8rBDD_cu9fcjo2S-hUg-UcIuJ-IvG7P_nPJF2C6K2qe0arRRbVQ6A0MjPXFo="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVypF0V5n0zjmQ56HHnnCL4bL16JmAdDwJD_qyy06twPLr8ZxeGX-GthXY3UftwNR0NK2tXeuLwquvDXVbTY-ur9iLaopSIZ8ziLVff6_mz1h8ywkw9hTi9KzmxcJ_ApA-"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB5FNZlLkOgfuG-gRs5DjENLmSrvY3sGsr2VwehZdo6l0WvcL171J-kF4Imfn5BDM0DMRWm20PZN4KJ-eNWa0sHe-r9lsHT3gcB5wEv4h_g8F_N5w8bOtiEK-9VBnM"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4lr5X8uiJtcOfW3KDZGhESRyyJu2bUyY2sD7olWCEHwMY8_0YbjfxrEBTHDAyTzeH3DSqDJyedBUEsV-ivyEHcL5fbm4PmFAe-htCr-T6_0pDLc="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DuXsJbteXbti7IAp3-YzasAYuHiVi78cxyqFsGoX1Ly8Q9bUj2NGgNVMTr9LuU_iOaJUV2Ixqcy-Obc_J2OajmK9-UomR4ucLPcbFCI_ueMn6L-0wAMbIie4DJrm3vs="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:42:38.444Z"
     },
     {
       "id": "social-313611e06c0b",
@@ -19943,47 +19323,6 @@
       "scrapedAt": "2026-06-05T10:48:04.084Z"
     },
     {
-      "id": "social-9e4a6e97a20b",
-      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
-      "category": "sport",
-      "description": "Fortsetzung des Eidgenössischen Schützenfests 2026, mit Beteiligung des Schützenvereins Bonaduz.",
-      "date": "2026-06-12",
-      "time": "Ganztägig",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Chur / Region Graubünden (Beteiligung Schützenverein Bonaduz)",
-      "lat": 46.82,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.esf2026.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGptEszfrs3N_Kl21aJ8meIhJGpyOhUvs4_apb1kjB3UigZH0Sth61XBw7Zq4XpQSyIyXlsbkhSD3dxnbwfdKvKcvDDS7w5WqJrA6xNDx3W6scRBZBm68zh1FkDcRSYmJu4vGQl1ylb2rFc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjBP6H7o98CKReOu_KeK3wbNfOvizb6bgGP0L1V9p4Ioiluf5Z67fIZ0JmtOx-j1hJPcP_hrbSRzR4Y5Jn_U6UeNqLruhUQ3-B8bKv7g=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvAD1cDc1mQaiRccNEtyS51d_zXvJkkBh7SJIZGQ1tsk5gG1LVzdMJywpDmn2B0BfiIcQdHgJzmB70kCukxoJo-cbtkmVkvLhFuDMIMPDmhXdAdi6mi6-XBIb4tQgj_-VPrQ=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN929xi5QRqBrpu00AbV9aKaMinR-9H24s0o3eq6SsDruyK4pzvhMc5Th9p1trcucN9vW8cWdqJLC_GksrF465GswncNltVDnMxVPnaY1-oIogHeDk"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESD74mMVfIXl9J45i47capZ8WgiLSUZ3DbQC30VSIeXYiWp1zaK-ZP3dOLPIt_SPKzfsS_aJjOYUKTGlAKDfb3hsxu6PeoI5Col8-4xKy4EZmHuHqIAMJHDw2hUzCEMA=="
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:49:42.490Z"
-    },
-    {
       "id": "social-b8c1af07044d",
       "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
       "category": "sport",
@@ -20938,47 +20277,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-06T09:28:22.642Z"
-    },
-    {
-      "id": "social-ff7ffc84d0ba",
-      "title": "Sternen Degustation — Louis Liesch",
-      "category": "markets",
-      "description": "Degustationen mit Malanser Winzern – exklusive Weine, Raritäten und spannende Einblicke in die Welt des Weins im Sternen Malans.",
-      "date": "2026-06-12",
-      "time": "17:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Wein Bar & Café Sternen",
-      "lat": 46.99,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://sternen.cafe/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXMOmAQGSnYn3aHlYRNBPbwCnEaj4njaZ9YkzpfyE9XQUrl9ZV6LTr2IjtZhTTg7-Md8K8hIPfOyRV-UUdYw7BVSPUZSxEEjEUFGcBEW3PVhqY1NUNoFtMT5y9CMw="
-        },
-        {
-          "title": "sternen.cafe",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxNeYL10i7G76J2IZdxCQ_q5XLmdfEfKaG1qPQhYZLUDFzI4goM5sAAabzktq1sH9gCMGXIuHCUDXykR0HEuupFvNaJYXxV3elPo8fD1xC2XwdidXwp9QYhe0="
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe2b9Aji2qDTgci-9sFNH4WrcjX1DpTidxc61eNT8pYQrzOmY1QicUSy-OgVJQAuGnajGPBLkRY_GKk-1rE57hPbEh5QN9-M_lLPl0u7p5XSGwa4VkT77u_KP2Oi-aiAST"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzo_iMKAeZU2oVnbOfeTitAFkT_e1ap5-RNn8zGudTxDGdjIJd8OhqH-d8qrnIyC7aUtQoRgUa3qXmknmpdnCGMSTekCJLEtt2lvetQ8KtWF0K2N4mm0yc19inDyWC1uY="
-        },
-        {
-          "title": "aelplibahn.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGzD1yJ24vczZUpdQUBzxwguTnfPXlFj2voHwN7T6mVoR75UZquRfkao0oiwTihCcCnIrd0zzCQaoWsu8pvliA2jf9PNpuUdRRD7GiyGUge3SIZ6eeqn2BqLOWcsjLRrxiu1X4SQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-06T09:29:36.945Z"
     },
     {
       "id": "social-cc33193550a9",
@@ -22574,26 +21872,6 @@
       "scrapedAt": "2026-06-07T10:04:26.672Z"
     },
     {
-      "id": "social-51e500b36f46",
-      "title": "Eidg. Schützenfest Chur/Graubünden 2026",
-      "category": "sport",
-      "description": "Teil des Eidgenössischen Schützenfests in Chur/Graubünden 2026 am Schiessplatz Malans.",
-      "date": "2026-06-12",
-      "time": "07:30 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Schiessplatz Malans, Schützenhaus",
-      "lat": 46.998,
-      "lng": 9.572,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/de/freizeit-kultur/veranstaltungen-termine.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-29c8947e5ab3",
       "title": "Eidg. Schützenfest Chur/Graubünden 2026",
       "category": "sport",
@@ -23192,47 +22470,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:06:04.781Z"
-    },
-    {
-      "id": "social-84a0006d1e4d",
-      "title": "CinémART «Naturfotografien» (Vernissage & Film)",
-      "category": "stage",
-      "description": "Vernissage der Ciném'ART-Ausstellung „Naturfotografien“ von Renato Bertschart, gefolgt von der Filmvorführung „Le chant des forêts“.",
-      "date": "2026-06-12",
-      "time": "19:00 (Vernissage), 20:00 (Film)",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/",
-      "ticketUrl": "https://kinoraetia.ch/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kinoraetia.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyyVCeZ396YF6UINId3fqm8syHzH41t5v5sMJMfOwvCkvQV_kGNCFmOsKrZNQOy-fQXYlLhHkhzvaJ1I4b01aDUjwebn3EidmH_HgdJ2ctwQ=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7m5U133tQnC8jkIKXMGzoXnvufJc9j504Ts8RL6iQ4UutbOUtKPJWXSpA3RYxL9iCdfWwhBykIlTB2vz6hZOAdPuw-xyJdwPLIGpwk2T_FAAqCEffLsZ6S4p_n7Rc1sOng2mqMP5JmLxVRza5wMfuB06ZKs33zijKOIfsBUlc17Gt6ARwik6OWe5ryLLINziWk5TSOyUyO7IihNWleA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFslklmgm9y9aDuNFWFFHLJw9YetowuEe_FU3-V3OqFaLDppQEz1BMHOynqGlu1-yxxK6Sv0twSdqfIt1DKh6dHnIwXYo8CZP9OAdFrQq-E52BJAVeVEKFdmSCvWTfetJrB4lHi5sC9IKg4tTCt8mVpuTAZcoD7Ge0ZLC7AbZARGr9g00xnTlWXK0ythgGq5HWXugutA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELisOCXj7FUhMwjpUxKs_iDsO--lSYea3WIgdK2_MyjHc-iFgHOo-ZfN2NRAs5Gy2vxUTReh68tE7BUKyL9FeKWZ1A1T8cDTiEDXiDnahrWzwmYXtTVNjaL1DtPNnIMl9XxgXWlBONAOHfo05ZBtcjHqDr"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3uqCLBwkT9Rz3ed4j0hcvY9yqv53HBFnICxMkMQxt23upLoz4bAbBbjpsmwHL3kt9HcFfJ2NCqIIkACz6Kmwxd7eDYUfEZ0tt8l9d-E5juSMJ3Mh5xxtpXRUSjD5lIhh6DIrdFmzCdqRk"
-        }
-      ],
-      "scrapedAt": "2026-06-07T10:07:15.743Z"
     },
     {
       "id": "social-23482118a00f",
@@ -24745,26 +23982,6 @@
       "scrapedAt": "2026-06-08T11:57:01.840Z"
     },
     {
-      "id": "social-05e7aad749f7",
-      "title": "3. Fritigstreff 2026 - Musikgesellschaft Bonaduz",
-      "category": "music",
-      "description": "Der dritte Fritigstreff des Jahres, organisiert von der Musikgesellschaft Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.828,
-      "lng": 9.388,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:58:32.845Z"
-    },
-    {
       "id": "social-c3338df5449a",
       "title": "1. TuleuTanzBall Plauschturnier",
       "category": "sport",
@@ -24883,43 +24100,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-08T11:58:32.845Z"
-    },
-    {
-      "id": "social-fb7beed93675",
-      "title": "Offenes Atelier",
-      "category": "stage",
-      "description": "Unser Atelier öffnet jeden Donnerstagabend seine Türen für alle, die kreativ sein möchten. Komm spontan vorbei, male, gestalte oder probiere Neues aus – ganz frei und in entspannter Atmosphäre.",
-      "date": "2026-06-12",
-      "time": "Evening",
-      "price": "Keine Angaben",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns",
-      "lat": 46.8,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/event-kalender/offenes-atelier/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU_Je_YQD15fUU_sM6foQWyA5UTP5KBrAYGRPYqFZR5NrowrIhn1hONXkyqg4mlt51dPKNRNtwSMqbtaFMC1m84pQM-TH3mteP6PLwUgBh4ujqOPSoZadJl33762YJ1k6qxkxKBI2OPa_RlV0uMw=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqDIttkoI6HDQs7FOQ5gX4IZ_vBmIpFV7TmNack2c_CVSVTwkBfdLJl93gmlFR4sGyYOyHGuWH6qkNy9pZ4rUFnTC8LPdFJHxjowLlLfJccCE75mJPegWN21oRmuXNRR6EimpgVRonV35TbH7xBIH9xiu0O8BJxyu22Ki_9jQ-T3bPOeqClW55pIkz8DLtAXmc5A_oFipepb_HpUKB5jT8QFdfipiPDv59"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNCPo-esMYoYiISedS3TvE4SEBCPMb_ZxiW3dYLTXF5clGY3tNSwUBfuW7qK2Jf5wcl_2e2YW5iaCqYoQWmOXKe_iFcoNsmwZLRoNQE7fZdnlBBKUPuJ9IIeAEZAzb2-FB6izhIApMdhMCu8JHogkE0S6lZfL0s3siY7-CgyWyMjXPD9WXiGzQF-ZVpf51d4cECWtRxrQPoC74pomm7w=="
-        },
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv3INl7IRqu5VKMDQTFKzt7o_jHkUNi0dtVuPOyKG7HgJR_-RnOIauod5EQFn5KI0OayMEJOfAffPDA2n2_yAniS82AvkLXh-vV1lRyoQBSFeAGvziP6XnLmQv-AUdS8ZowMZ7C_3OGoqBRA=="
-        }
-      ],
-      "scrapedAt": "2026-06-08T11:59:26.909Z"
     },
     {
       "id": "social-31c4f51b2655",
@@ -25154,47 +24334,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-08T12:01:13.890Z"
-    },
-    {
-      "id": "social-af3e176a784c",
-      "title": "Buchstart für kleine Bibliothekbesucher*innen",
-      "category": "family",
-      "description": "Ein Angebot für die jüngsten Bibliotheksbesucher*innen.",
-      "date": "2026-06-12",
-      "time": "09:15 - 10:15",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Neudorfstrasse 56",
-      "lat": 46.7,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/thusis/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeFDXTEJ25oR-NNpvPcpSkWx-dED6rZFMnfBpgccxRzXAl_B27b5FVgvGMxJaiuZ00uK1mrxChBfwMBICG34elHdGDAW5jC1N_1Bsy_2BYd_Rb2Y9sTGZQcaHaNHHj7i00fCfIrLdwCtRG7_WFlI-aXkB4q4X1UDJCZS91VguHuoL28VBFFai1_BAS5s7c"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVsehmdcnXUlGQMjaZPXRJiTCCS0AgUG5JsCzODk2iPnVCSAjWzqUh0JP4X6uPx6v2dfIShZaBnqMHF6DDZ6boE1hQDro6crYfzu3hdkXONYlhKU5UBIlBp7yepRxY6kK85qcwu9GzwqoebZvyMiKDXpdIJLa0RwZ-CJYPcrZbojxNxttiJdaA"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx-X660t2_5Np8_5ViFUqql-bOur_p4iNCJXXJaLO8glE3zGthKnAlfrPCr7bQko9bhRTiXYHqxfZ3ZK0UThsbdvnFicqTnuvpz9pP2IuySdphYhdSWlsNZmQs1sv19Ig2CJNqpwuU-8sL1c2gMSEHhkPHwHJ0e0nm"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCQGZv6vqEi8fLeWfHeTCuaYAvV0xsHSf1BWaU64wpkB8ioXbc8BJqkanPRGxyNID46ru6J8TMMIJyP_OatGFUB_8qCJsXua7uNFITolUS38zWCUy7g3ytrXSDWlN9m_oAiyrvUwWCOEn1tH9HLpAjqKxkpffejuZ7aH8VsDGPpzn3WWWMFxkUWhenVgl4iw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMul4zoGBSsK31sxfv7LcfMu6T4dLq8EKtLQVyyPPVrbBUdZ1MUG-GdnwJff5GVGIwhxzcTfPEhpKLUzMQCX-u2UNU-f3YA8xScR8O_VA--qwUFOD83CLkSsd7HYGti02WKlZr80-ZSNMHfFvu3GfX331ASHubEifcag=="
-        }
-      ],
-      "scrapedAt": "2026-06-08T12:02:21.455Z"
     },
     {
       "id": "social-8973be6bca52",
@@ -25482,26 +24621,6 @@
         }
       ],
       "scrapedAt": "2026-06-09T10:30:47.990Z"
-    },
-    {
-      "id": "social-96036e68a6ab",
-      "title": "Auftritt Eidg. Schützenfest in Chur",
-      "category": "music",
-      "description": "Auftritt der Schwyzerörgeli Fründa Felsberg am Eidg. Schützenfest in Chur.",
-      "date": "2026-06-12",
-      "time": "11:30 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Eidg. Schützenfest in Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.schwyzeroergeliffruenda-felsberg.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-09T10:32:14.761Z"
     },
     {
       "id": "social-c75e5b8f93f4",
@@ -27355,67 +26474,6 @@
       "scrapedAt": "2026-06-10T10:52:25.650Z"
     },
     {
-      "id": "social-d2d67d794623",
-      "title": "Spielnomi im Sunnaschii, dussa-verussa Spielgruppa Sunnaschii",
-      "category": "family",
-      "description": "Spielnachmittag mit der dussa-verussa Spielgruppa Sunnaschii.",
-      "date": "2026-06-12",
-      "time": "Unknown",
-      "price": "Unknown",
-      "municipality": "Felsberg",
-      "locationName": "Kinderhuus/Spielgruppa Sunnaschii",
-      "lat": 46.83,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.gemeinde-felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:52:59.917Z"
-    },
-    {
-      "id": "social-51521c8ea6b1",
-      "title": "Kinoa Open-Air-Kino Chur",
-      "category": "family",
-      "description": "Magische Filmabende unter freiem Himmel! Geniessen Sie beim KINOA OpenAir Cinema unvergessliche Kinomomente in einzigartiger Atmosphäre – mit einem abwechslungsreichen Programm für Gross und Klein.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Chur",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/kinoa-open-air-cinema",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
-    },
-    {
       "id": "social-5f0995d69352",
       "title": "Kinoa Open-Air-Kino Chur",
       "category": "family",
@@ -28564,35 +27622,6 @@
       "scrapedAt": "2026-06-10T10:54:42.214Z"
     },
     {
-      "id": "social-632efd6c193d",
-      "title": "Fritigstreff (Hug & Co. Getränke & Weine)",
-      "category": "family",
-      "description": "Ein Treffpunkt am Freitagabend.",
-      "date": "2026-06-12",
-      "time": "17:00 - 23:59",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Hug & Co. Getränke & Weine",
-      "lat": 46.91,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG82jWdsZfe0QegqzQOmx8FnvIu0sfTaBUj8lDoUhnaZCdK50qAGTY63rnb6NlYSQX9M3TW5bZWRK9ntvHk9PFljrgOyOVylRlOIPzkGxKybgpZA1syBDLIqR1cGBlDAYfIzhtOJB2f06llXZ2Hagg9bCm1Kmm8Py32yMeuU3SxaOtqzIiHn8AGNTEYeo2-LTapKd-fXvD8OGfQHmaXw1mODg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_JVxXJG7OMZYD6-MtKGnZt7COOUHlt1UeR9jAJelI5SVQJI2VOkZRSqEUHdjXmy6mWTg62nhB7QIAWNK6dAHB_nurv9F2hYHhPO02h3FE3Uk4cAbCZvQe0aZiMTjit2qCTTAlYhlAI8wFrCDXa3bdmeG0N6HiNhfWgGMfQkWmsUFy80c2Cipqfk13chsz2UUbHA=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:55:17.772Z"
-    },
-    {
       "id": "social-09152662c7b5",
       "title": "Fritigstreff (Theater Salaz)",
       "category": "family",
@@ -28649,47 +27678,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T10:55:17.772Z"
-    },
-    {
-      "id": "social-8a0a23f27df4",
-      "title": "Rewind Festival - Michael Jackson & Tina Turner Tribute",
-      "category": "music",
-      "description": "Hochkarätige Tribute-Acts auf der Bühne, die legendäre Künstler und Bands authentisch zum Leben erwecken.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "CHF 25.–",
-      "municipality": "Zizers",
-      "locationName": "Zizers",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://rewindfestival.ch",
-      "ticketUrl": "https://rewindfestival.ch",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "vilan24.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0FW_Uk6ADrJ6sfZ1ss0aImHr-bkC-1YSrHCfDwSy74Sl9KX9yroYf2yx_CjOQg5VnuFVgnW5_IcWEiyUyP3u8_Nut0r9Zy7wP3yaaMtOVYB8FKwMU5AwtA7jb2P-tmBDcwECPSk5s14i0Vs_qKlt9FrJpCPUqknaAigasXyOVJoGax2Nkfbi0HxCP6g4iWDZwBU="
-        },
-        {
-          "title": "zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp-Jyfdfrs_DNeQ6J4JxIxZo8ueDpiydDQ5ITKagCpqrrmDNH7lPCwJ_yEWdM0pVoA2XJBbBBlrVn_bQrOjr2THLTYJDDMeMUKWsfYi1bTH-YoUXqucgPrKBmH2b23T9UrIhU="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO5KML4P9HeRU5vofZK2EH2wloSDVH1I2nEjvwYjrvk5bDtfJH6VSWoL5rbSlHikWcaSZ0hB9nrop1e4AtDvLGOoiUQsDTubfyjcNQR9zlFED_RBeucuMKvYv-fzMBVanHnIID0xkCUgy2VF-I"
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa_qjrgvasLSbEmYCcTUQyANl_0j45bGr3AdJHoqbO3KdmV8eP7pfCy26WLP-ZvPa9Q6SBlUIh9zfwduRpTFmXwJD25OvWN778JkJLCaOyMlRFmkMIygn4tketuEdByN7d_Bszc0w="
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNtiLxcqK8Cd-bJscz9BrQUTgVBe916jwms6qGe0aOyjlplWIq4ng3RF5FVw0-HMMfh3IidtVL6Y7LFXRFNY7AXbrIAEOON7-eQANV33tAQqfzQRF32zUbrYKCtoPs2Q=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:55:53.062Z"
     },
     {
       "id": "social-7d8758a1a7f4",
@@ -29037,26 +28025,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:57:51.671Z"
-    },
-    {
-      "id": "social-c80440933ea0",
-      "title": "3. Fritigstreff (Musikgesellschaft Bonaduz)",
-      "category": "music",
-      "description": "Fritigstreff organisiert von der Musikgesellschaft Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-06-12",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:59:15.254Z"
     },
     {
       "id": "social-e4708a45d186",
@@ -31650,170 +30618,6 @@
       "scrapedAt": "2026-06-11T11:28:04.138Z"
     },
     {
-      "id": "social-b1039d803380",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude. Von Mai bis August feiern Sie das süsse Nichtstun, das nach Sommer schmeckt.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta 7000",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
-    },
-    {
-      "id": "social-f4e207580ed5",
-      "title": "Kinoa Open-Air-Kino",
-      "category": "family",
-      "description": "Magische Filmabende unter freiem Himmel! Geniessen Sie unvergessliche Kinomomente in einzigartiger Atmosphäre – mit einem abwechslungsreichen Programm für Gross und Klein. Findet vom 11. bis 21. Juni 2026 statt.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
-    },
-    {
-      "id": "social-e39617f8fed2",
-      "title": "Eidgenössisches Schützenfest",
-      "category": "sport",
-      "description": "Einer der grössten Schweizer Sportanlässe im 2026. Ausgetragen in der Bündner Hauptstadt und der weiteren Umgebung. Findet vom 5. Juni bis 5. Juli 2026 statt.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schiessanlage Rossboden und Umgebung",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://gr2026.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
-    },
-    {
-      "id": "social-c081f09706d4",
-      "title": "Alma Naidu (JazzChur)",
-      "category": "music",
-      "description": "Jazzkonzert im Rahmen des JazzChurSommers 2026, eine Kooperation.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Streaming Hall, Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://jazzchur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
-    },
-    {
       "id": "social-66fd4fa63b42",
       "title": "Öffentliche Führung im Domschatzmuseum",
       "category": "family",
@@ -32511,170 +31315,6 @@
       "scrapedAt": "2026-06-12T10:58:18.374Z"
     },
     {
-      "id": "social-26f7df4a2fcf",
-      "title": "Im Atelier. Raum, Arbeit, Mythos (Ausstellung)",
-      "category": "family",
-      "description": "Ausstellung im Bündner Kunstmuseum Chur. Das Atelier als Projektionsfläche, Ort des Rückzugs, der Inspiration. Läuft bis zum 5. Juli 2026.",
-      "date": "2026-06-12",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.8471,
-      "lng": 9.5342,
-      "image": "",
-      "organizerUrl": "https://www.buendner-kunstmuseum.ch/de/vorschau",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.374Z"
-    },
-    {
-      "id": "social-3630692bb032",
-      "title": "Susan Hefuna (Ausstellung)",
-      "category": "family",
-      "description": "Erste umfangreiche Ausstellung der international renommierten Künstlerin Susan Hefuna in der Schweiz. Läuft bis zum 26. Juli 2026.",
-      "date": "2026-06-12",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.8471,
-      "lng": 9.5342,
-      "image": "",
-      "organizerUrl": "https://www.buendner-kunstmuseum.ch/de/vorschau",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.374Z"
-    },
-    {
-      "id": "social-91559438a431",
-      "title": "Daniela Keiser. Oregano (Ausstellung)",
-      "category": "family",
-      "description": "Ausstellung von Daniela Keiser. Läuft bis zum 5. Juli 2026.",
-      "date": "2026-06-12",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.8471,
-      "lng": 9.5342,
-      "image": "",
-      "organizerUrl": "https://www.buendner-kunstmuseum.ch/de/vorschau",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.374Z"
-    },
-    {
-      "id": "social-f896801df0ce",
-      "title": "Heiner Kielholz (Ausstellung)",
-      "category": "family",
-      "description": "Ausstellung von Heiner Kielholz, bekannt für sein stilles Werk in kleinen Formaten. Läuft bis zum 2. August 2026.",
-      "date": "2026-06-12",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.8471,
-      "lng": 9.5342,
-      "image": "",
-      "organizerUrl": "https://www.buendner-kunstmuseum.ch/de/vorschau",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.374Z"
-    },
-    {
       "id": "social-a211ddfbe8ba",
       "title": "Flugvorführung Patrouille Suisse im Rahmen des Eidgenössischen Schützenfests 2026",
       "category": "sport",
@@ -33159,47 +31799,6 @@
       "scrapedAt": "2026-06-12T11:05:09.900Z"
     },
     {
-      "id": "social-494211a59b34",
-      "title": "Pétanque auf dem Dorfplatz",
-      "category": "sport",
-      "description": "Regelmässiges Pétanque-Spiel auf dem Dorfplatz. Die Veranstaltung läuft vom 04.06.2026 bis zum 19.08.2026.",
-      "date": "2026-06-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Dorfplatz",
-      "lat": 46.96,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/Anlaesse-Termine.htm?setLang=de",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpUV2Xejk7slb0Nm-H8ngyf2j0lmE1QvTnYvhpreB34QToRCrn_PU2pvcYNLzuhMQJuHXTP0RCx7Par7-UIaiM0RJZurzPpzhkCczrcdWnW0tUcArMYrhe9qjMYFbJX5Q="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYY_XrRwwZ_InARBix_dvckmxho4OvD4_wJ6wrYk92AMv34cH3xnwpnVXzxeJ2J-tEvwwjLgVHryX6Ic0xsTjd6R8rRk_ao0bjFNZ6dg=="
-        },
-        {
-          "title": "frauenverein-malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm40ILZ6h_DHxA94DWvPh20aM350TwbA_7-e8aPYQcv0DpMkOmKoFE4gFyE9jIsYmkXakReC2isY2x2toJFQDc8rGulRRtObnpzBWt2HBCXHyajj6_KOGrd8njwjKz3f7WlHXSbkYUoumB2pRDOyIa9BQ="
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjyB5d_GEg1Eqh5qdTO4BklRPeGjqaooDGUXJBdQnwJaRxLeS9EESFkFBS0ou41RF7m4tg3yd9Fsuwnw3mZTC_zwUrtEKO0JN4akGfyNXTLMyRUf2OJTlesvvqvCoF1nm5"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFthM24n67Uz1FU9Td_o2eQjDZhVUsO_4Ru5xYlDw3O-GUWRtfhE3XgViKE5AMwwBePS4mrxCseDlJJosiQAgdw67ZRcxntilLU6HnLq4cruXkdamiQcMRo0Xq5XgPGbWWD7ymR-jE38n3dv-o_EZB7sgZCP5xsqlYddJtqC6MHD_6TP_ELctslzUp2y-6psYXUfhWiu0kvmJE="
-        }
-      ],
-      "scrapedAt": "2026-06-12T11:06:17.389Z"
-    },
-    {
       "id": "social-355e04d1dd6c",
       "title": "Kulturtisch",
       "category": "stage",
@@ -33363,26 +31962,6 @@
       "scrapedAt": "2026-06-12T11:07:00.791Z"
     },
     {
-      "id": "social-5a0720fa3ddb",
-      "title": "Hart auf Hart mit Sie sagen Stopp",
-      "category": "music",
-      "description": "Konzert mit 'Hart auf Hart' und 'Sie sagen Stopp'.",
-      "date": "2026-06-12",
-      "time": "20:00 - 23:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/thusis/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:07:45.887Z"
-    },
-    {
       "id": "social-433c146f7372",
       "title": "Exkursion Blütenreiche Trockenwiesen",
       "category": "family",
@@ -33441,6 +32020,1494 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:07:45.887Z"
+    },
+    {
+      "id": "social-8b126b3eedf3",
+      "title": "Offizieller Tag Eidgenössisches Schützenfest 2026 & Schützen-Party mit Megawatt",
+      "category": "sport",
+      "description": "Der offizielle Tag des Eidgenössischen Schützenfestes mit eindrücklicher Flugshow der Patrouille Suisse, einem grossen Festumzug durch die Churer Altstadt und einer Abendparty mit einem Konzert der Rockband Megawatt.",
+      "date": "2026-06-13",
+      "time": "13:30 - 01:00",
+      "price": "CHF 20",
+      "municipality": "Chur",
+      "locationName": "Obere Au, Altstadt, Alexanderplatz",
+      "lat": 46.8524,
+      "lng": 9.5317,
+      "image": "",
+      "organizerUrl": "https://gr2026.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:53:02.024Z"
+    },
+    {
+      "id": "social-4285f495b0ef",
+      "title": "Churer Wochenmarkt",
+      "category": "markets",
+      "description": "Der Churer Wochenmarkt bringt jeden Samstag von Mai bis Oktober Leben, Genuss und Regionalität in die Altstadt. Produzentinnen und Produzenten aus ganz Graubünden bieten ihre frischen, saisonalen Waren direkt an.",
+      "date": "2026-06-14",
+      "time": "08:00 - 12:00",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Altstadt (Obere Gasse / Untere Gasse, Martinsplatz/Arcas)",
+      "lat": 46.8524,
+      "lng": 9.5317,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:53:02.024Z"
+    },
+    {
+      "id": "social-5e7ebd4fde1d",
+      "title": "Festspiele im Schloss Haldenstein - Star Wars & Planeten",
+      "category": "music",
+      "description": "Sommer-Musikfestival im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente.",
+      "date": "2026-07-31",
+      "time": "20:30 - 22:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.877,
+      "lng": 9.537,
+      "image": "",
+      "organizerUrl": "https://kammerphilharmonie-graubuenden.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:53:02.024Z"
+    },
+    {
+      "id": "social-2945c06da3e2",
+      "title": "Festspiele im Schloss Haldenstein - Symphonic Pops",
+      "category": "music",
+      "description": "Sommer-Musikfestival im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente.",
+      "date": "2026-08-03",
+      "time": "20:30 - 22:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.877,
+      "lng": 9.537,
+      "image": "",
+      "organizerUrl": "https://kammerphilharmonie-graubuenden.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:53:02.024Z"
+    },
+    {
+      "id": "social-79c566d929eb",
+      "title": "Pho3nix Kids Triathlon by Nicola Spirig 2026 (Chur)",
+      "category": "sport",
+      "description": "Ein Triathlon-Event für Kinder, unterstützt von Nicola Spirig.",
+      "date": "2026-08-15",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Chur",
+      "lat": 46.8524,
+      "lng": 9.5317,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:53:02.024Z"
+    },
+    {
+      "id": "social-475dd0cccc3b",
+      "title": "Stubete Gäng Samichlaus Tour",
+      "category": "music",
+      "description": "Konzert der Stubete Gäng als Teil ihrer Samichlaus Tour.",
+      "date": "2026-12-12",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "AREON EVENTHALLE CHUR",
+      "lat": 46.8524,
+      "lng": 9.5317,
+      "image": "",
+      "organizerUrl": "https://areon-eventhalle.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:53:02.024Z"
+    },
+    {
+      "id": "social-fc7e1c70a0d3",
+      "title": "Jugitag 2026",
+      "category": "sport",
+      "description": "Kantonaler Jugitag, bei dem die Jugi des Turnvereins Domat/Ems im Einsatz sein wird.",
+      "date": "2026-06-14",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Domat/Ems",
+      "locationName": "Vial",
+      "lat": 46.833,
+      "lng": 9.49,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "gartenatelier.org",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHHq6V_KRnPTfm1CjHtEtlhsSzpQl8iZCE6EleJu6OgKLubYuB-5ESHMMDFoizUwT0SS9CX0MG1H4dzMBpWbM8t_vBK46sZGTkwNVZLUGeGwvZFhp6mVxa--TjdOa"
+        },
+        {
+          "title": "tvdomatems.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOD6mH4moLcqOD89pFpKXuZGbcrQ-9hB2xeRExFq0-gfrJTJwsRc0K3gshNseU34iI47hHbMQ42Wf9eVEJglRJfRQKeeihd2Ayv_sK_ZKb_U4="
+        },
+        {
+          "title": "domat-ems.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm0Tc7yZB-kqxt9Ou9odJ7aa17rrTZPWcw0weB2Xciwbqga1ghbhUjxCnifv5i24NoorPREcQlvcRICbPvCg7CBov216-L_t5aGa6i5WIe5k0hsl4="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcjjXF7ap9nGrXf3j87EmK9CrDVWHD4Bhk0_in7r-N0IuqzQY6PedGt80DWvFDZlPiFgznIbDTyhmkUxPNoKdemeRcsLnjEudFffTp5dH5o3BwKdBX89PrJoEhDNPYS0L6Ayx3lKqSmh_sfIZBh5vo-bUkFIglXenbzt5izztxcVCksqLi8KYYK5HN"
+        },
+        {
+          "title": "domat-ems.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpke-a3RVwSvlfV_vgODf-aqymYze0xdTY6SpnUBUJ20hdj0BNv35OWnr0qDWO9IWHF-w5JC32P1Q6F35ONsHlEeCI2purLxx9tyOunHS3rhg8ndZsyQIgKBd3fLI2xVH5VKH8bmsFbp6Sea5P"
+        }
+      ],
+      "scrapedAt": "2026-06-13T09:53:46.703Z"
+    },
+    {
+      "id": "social-af9eddd26560",
+      "title": "Abschlusshock Turnverein",
+      "category": "family",
+      "description": "Abschlusshock des Turnvereins Felsberg.",
+      "date": "2026-07-03",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Felsberg",
+      "locationName": "Waldfesthütte",
+      "lat": 46.83,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://gemeinde.felsberg.ch/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:54:24.846Z"
+    },
+    {
+      "id": "social-18014b887d23",
+      "title": "Offene Turnhalle",
+      "category": "sport",
+      "description": "Offene Turnhalle, organisiert vom Damenturnverein Felsberg.",
+      "date": "2026-07-05",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Felsberg",
+      "locationName": "Doppelturnhalle",
+      "lat": 46.83,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://gemeinde.felsberg.ch/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:54:24.846Z"
+    },
+    {
+      "id": "social-b28cf25233d1",
+      "title": "Familienolympiade",
+      "category": "family",
+      "description": "Familienolympiade organisiert vom Turnverein Felsberg.",
+      "date": "2026-07-21",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Felsberg",
+      "locationName": "Doppelturnhalle + roter Platz",
+      "lat": 46.83,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://gemeinde.felsberg.ch/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:54:24.846Z"
+    },
+    {
+      "id": "social-8d638c6cba98",
+      "title": "Obligatorisches Schiessen 2026 (Nachschiesskurs)",
+      "category": "sport",
+      "description": "Nachschiesskurs für das obligatorische Schiessen der Vereinigten Schützengesellschaft Chur und Umgebung. Mitzubringen sind Aufforderungsschreiben, Dienstbüchlein, Schiessbüchlein, amtlicher Ausweis, persönliche Dienstwaffe mit Putzzeug und Gehörschutz.",
+      "date": "2026-11-07",
+      "time": "08:00 - 12:00",
+      "price": "Keine Angabe",
+      "municipality": "Haldenstein",
+      "locationName": "Schiessanlage SG Haldenstein",
+      "lat": 46.883,
+      "lng": 9.533,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfLFtz8CO-4ktgPLCvCtcyt5L2_uyoCTZOm-H1K5FbN5l6kAhLRfNffJASOBTcvfC27UhM2hvIu0o-Mw1AHxfLC1N2MHxNHXirrKjGT_vOkVdL14dzSy1Q8c7V21LnTNa6l_0OASlC-hNuPG4FzYoRCMs-R84ns-Jf14vewVW387nCV26X6o-YlLhy24o-MWNEPTRCYMe0earYd13iHYyddHsvXj7dmSEIBw=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH21ieA2qNAZy4S9wq22w9p5E98LciUwHf1UiBf3QR3BzeKwOmsHSGvKSUzUI1-feWCa5Gpzj551jbzMCjH83aegYGUOfLqHsyHnxoJCMXilLJsIc6VOD2ignxyAWBouvGekPXaNYGg0M_0-fe_yvqv_kP_OSxvTHfak6xJ7HNzOr-FpUZ6-pP55Kr5RQvBRWhpMy3FGeWKjKTh"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofBa3hZDovLCLcDxmoApkDRmaGRbp-IYwQcKREFe-4OJfH187Uaq36ciVoMMZbtEP8ip2_UxevHklOmM6oYges-CRBBoMKEBL6gCESC6XENBRmR3EH750EeVs6f1JNOUvc0dl2ldMjxBjuQuEfyFt-LXqC9MKon9RD-A5ftGiXg1oX3__12FrBJPdAxI="
+        },
+        {
+          "title": "kammerphilharmonie.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xPDIOxAxbTitCLPnvzKgqCwTnB6zuLRZdn_h58WqpLQYMqOVzVybCl2UKQSgZKnkRdOEktl1QwHr1Go-Y5xf0G6rO8UzZOJJqLbpAZY3XyJJUJrdConKO3Wa79Dk0oC1jk3H3NEjBKXd2Nkj8oOxziydvtM="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUgaiRPfpEfc7p2zhvNhbj7ZUoB1vHWoy7AbtLIaOjlkHbqxKn5-T6udN1NkMPzTThBsfce5aGE4CpekMyvxos5_Qqy6ZcHrGBKYIpXqbEsnhovJSF2tU0yST_GW34IZZUJD9YUHcn"
+        }
+      ],
+      "scrapedAt": "2026-06-13T09:55:17.671Z"
+    },
+    {
+      "id": "social-68682d1c0291",
+      "title": "Gospelkonzert des Blue Wonderful Gospelchors",
+      "category": "music",
+      "description": "Ein Gospelkonzert des Blue Wonderful Gospelchors.",
+      "date": "2027-01-10",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Haldenstein",
+      "locationName": "Haldenstein",
+      "lat": 46.883,
+      "lng": 9.533,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfLFtz8CO-4ktgPLCvCtcyt5L2_uyoCTZOm-H1K5FbN5l6kAhLRfNffJASOBTcvfC27UhM2hvIu0o-Mw1AHxfLC1N2MHxNHXirrKjGT_vOkVdL14dzSy1Q8c7V21LnTNa6l_0OASlC-hNuPG4FzYoRCMs-R84ns-Jf14vewVW387nCV26X6o-YlLhy24o-MWNEPTRCYMe0earYd13iHYyddHsvXj7dmSEIBw=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH21ieA2qNAZy4S9wq22w9p5E98LciUwHf1UiBf3QR3BzeKwOmsHSGvKSUzUI1-feWCa5Gpzj551jbzMCjH83aegYGUOfLqHsyHnxoJCMXilLJsIc6VOD2ignxyAWBouvGekPXaNYGg0M_0-fe_yvqv_kP_OSxvTHfak6xJ7HNzOr-FpUZ6-pP55Kr5RQvBRWhpMy3FGeWKjKTh"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofBa3hZDovLCLcDxmoApkDRmaGRbp-IYwQcKREFe-4OJfH187Uaq36ciVoMMZbtEP8ip2_UxevHklOmM6oYges-CRBBoMKEBL6gCESC6XENBRmR3EH750EeVs6f1JNOUvc0dl2ldMjxBjuQuEfyFt-LXqC9MKon9RD-A5ftGiXg1oX3__12FrBJPdAxI="
+        },
+        {
+          "title": "kammerphilharmonie.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xPDIOxAxbTitCLPnvzKgqCwTnB6zuLRZdn_h58WqpLQYMqOVzVybCl2UKQSgZKnkRdOEktl1QwHr1Go-Y5xf0G6rO8UzZOJJqLbpAZY3XyJJUJrdConKO3Wa79Dk0oC1jk3H3NEjBKXd2Nkj8oOxziydvtM="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUgaiRPfpEfc7p2zhvNhbj7ZUoB1vHWoy7AbtLIaOjlkHbqxKn5-T6udN1NkMPzTThBsfce5aGE4CpekMyvxos5_Qqy6ZcHrGBKYIpXqbEsnhovJSF2tU0yST_GW34IZZUJD9YUHcn"
+        }
+      ],
+      "scrapedAt": "2026-06-13T09:55:17.671Z"
+    },
+    {
+      "id": "social-cc5976d0f3ac",
+      "title": "MGT unterwegs im Dorf",
+      "category": "music",
+      "description": "Die Musikgesellschaft Trimmis unternimmt einen musikalischen Spaziergang durchs Dorf, ähnlich der Brunnentour ihres Jubiläumsjahres. Die genauen Orte werden noch bekannt gegeben. Zum Abschluss gibt es eine kleine Festwirtschaft mit Grill beim Rathaus. Findet nur bei guter Witterung statt. Verschiebedatum: 25. Juni 2026.",
+      "date": "2026-06-25",
+      "time": "19:00 - 22:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Verschiedene Orte in Trimmis, Abschluss beim Rathaus",
+      "lat": 46.8812,
+      "lng": 9.5524,
+      "image": "",
+      "organizerUrl": "https://www.mgtrimmis.ch/uftritt",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-f54fb12d858d",
+      "title": "Dorfmarkt Trimmis 2026",
+      "category": "markets",
+      "description": "Herzlich Willkommen zum traditionellen Dorfmarkt in Trimmis! Ein abwechslungsreicher Tag voller regionaler Spezialitäten, handgefertigter Produkte und gemütlicher Begegnungen. Marktstände mit frischen Lebensmitteln, Handwerkskunst und Geschenkideen. Lokale Vereine sorgen für das leibliche Wohl. Stimmungsvolles Rahmenprogramm für Gross und Klein.",
+      "date": "2026-09-12",
+      "time": "10:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Obergass / neba dr Rüfi / Galbutz, Trimmis",
+      "lat": 46.881,
+      "lng": 9.552,
+      "image": "",
+      "organizerUrl": "https://dorfmarkt-trimmis.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-3ddf658ec055",
+      "title": "Kirchenkonzert",
+      "category": "music",
+      "description": "Nach langer Zeit findet wieder ein Kirchenkonzert der Musikgesellschaft Trimmis in der katholischen Kirche statt. Weitere Informationen folgen.",
+      "date": "2026-11-22",
+      "time": "11:00 - 12:30",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Katholische Kirche Trimmis",
+      "lat": 46.881,
+      "lng": 9.5516,
+      "image": "",
+      "organizerUrl": "https://www.mgtrimmis.ch/uftritt",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-3297e99bee57",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-02",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-ae260485f4a3",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-03",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-4d9398c198b7",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-04",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-7e7508036ead",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-05",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-72eacffa9e0b",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-06",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-e092fd8475f7",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-07",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-10282a08f58c",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-08",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-9f3df0c993d2",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-09",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-fd7829d27565",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-10",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-3bccde50f2c1",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-11",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-c762d02114a2",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-12",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-020ad7805c6a",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-13",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-29be33239d16",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-14",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-1651c44107ef",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-15",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-22a2100166a2",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-16",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-2cc8c2956ac4",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-17",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-3fc44c18af2f",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-18",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-7fc5886dd03b",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-19",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-77af0d64a41b",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-20",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-b3642c7307eb",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-21",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-484a0858080b",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-22",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-522f7426aa7f",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-23",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-65c09ac5c52a",
+      "title": "Adventsfenster",
+      "category": "family",
+      "description": "Community-Event mit Adventsfenstern in Trimmis.",
+      "date": "2026-12-24",
+      "time": "Ganztägig",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Trimmis",
+      "lat": 46.88,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://frauenverein-trimmis.ch/jahresprogramm/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:56:08.554Z"
+    },
+    {
+      "id": "social-5d227bf8430b",
+      "title": "Bundesfeier",
+      "category": "family",
+      "description": "Feier zum Schweizer Nationalfeiertag.",
+      "date": "2026-08-01",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Schulareal",
+      "lat": 46.85,
+      "lng": 9.45,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "tamins.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdVRVUWEKHMnNuc6BD99CTHAlmKJ4SkrrMLFVfmyLgZYuVT4xWvXhjqqW4K2soqQJj7mHzBCBV3n_eyZdHpDdcMQjVGy-XpWRCyhFbWrdaSiKFFqLuuBIz_d-o_7iFzPE2-Hlw56yzhx_H"
+        },
+        {
+          "title": "gr2026.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB19WngqzHe6wEpXOnQdy3_04K8CYTf2vNZ8heIphQMHsQBaetkHphAQd6xNhmxp6V5YKBKeipeHCCQLrHdvIfAMkJ1rU1YYNcKGFr9owgd67M8odksWySRfyU4lHX8c7uO5bb9cFqOodTKzqxAEOm3nBC3SHFwfUodRrQLcBKDpAQazJkpoGpMfHWufACqaB4eA=="
+        },
+        {
+          "title": "gr2026.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSl_8KQLVUHlVR9GVy-Es9yg6ZEZhabs9TeivfQsvmayn7TvwtOSIB2fv7flQo3_Dobob787LQGe6sCINbt3vjELOAqgpoqqYfoLX5yjaaWBw3wJZ2udlPYGgrBw=="
+        },
+        {
+          "title": "tamins.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt9AnzTAmS1NHRvgfzJCCqGIw61u6wcuCHn-4m1usS-4GDBYyRn19RVyP_6pxcO0RumTaHBf6q9yExDbt8s8KLzRANtbxQzw6iur2OSoDChGSnBd9cFdXOEd78IeiqPZMXtw=="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUU9YSMjimXnke-RTA8TqQ8nL4_r1zicr_Ptt7ROhm3br4yfLIWdSL9OtHcFSQo1vjK9JKluqYjVfFYKH2-x7Odl6t8WEVS9twY83TaVJiic95ht_zaTGn6ay4quTCWBOEYd25qosa7bfsykwI7YCzJxTJG0iPlMqR6miEMNPYUKkcxqWYPXtK2mmsOQL8DdPOpmOImMOoJmCFu_FFdvbG"
+        }
+      ],
+      "scrapedAt": "2026-06-13T09:58:14.411Z"
+    },
+    {
+      "id": "social-fb1791276faf",
+      "title": "Dorfführung in Churwalden",
+      "category": "family",
+      "description": "Eine Reise durch die Zeit! Entdecken Sie die Ursprünge des Bündnerfleisches, überraschende Anekdoten und spannende Persönlichkeiten – eine Reise durch die lebendige Vergangenheit eines besonderen Dorfes.",
+      "date": "2026-10-03",
+      "time": "17:00 - 19:00",
+      "price": "Keine Angabe",
+      "municipality": "Churwalden",
+      "locationName": "Churwalden",
+      "lat": 46.81,
+      "lng": 9.57,
+      "image": "",
+      "organizerUrl": "https://kulturampass.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERSet_XvnKBKJV6nJyO_I8aGDmLYMimK3r7y-YFhio94qAHWdpaDEFKzzNq1ryyS1Iz0UiCHpXBUbf0dA2Qj6ChNDSTZHLOflzMHSObz_sIMvRBhv4KBBFOepfADQu1GLFiKY7Htz_6HiUO5MBNhAcMZvQnDfeZ7WyorjKBe2m6lFKAgVU6zmL3SaMmLN5Bet8ouaF3ag3DjA="
+        },
+        {
+          "title": "churwalden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfzk-FdvsLfnXqknfPf7HqkE3rU7yrPlRqEM_TakwGib5fPI2dx3hmdZ1R_H29_I6TIjgL0NuicaQ4k6659BEbmZneZ5ZfytUd54s1G913cSzLDnxqAr_Gbw=="
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiPpQcLlbXXH3hhThEuZexHPFH6s6_NGYLkKczVexPiMbzffd17mukGMeyP_LKqmzsJ39E89CQEsmyylalUkfopTcoV_jRaLx2U76OqAnV7R1hGSMdFmLeESnYXbrnJ_EZqUO8c2p43FMStbfhwpNrHouCDpnm"
+        },
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHijkzbddFa54b2qbjVZsjZ68d6JOvfMDANjV_bIpJqttqhFyhfI65858LgOdxGD5ca535AbsAye5_zwA-wimr4iqt1aAOhPNK3eZF-YzdbmHWWwkhKWqBY5qqGmhJ0A8bqtu_wvolVNK_UBTeQUgNiQNZGi8QpdnJbkg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqfBwpUMHmEWixee1yESAnPx6h-jYl_--FHbRf3VVOgYbaE3q1iCkPoJEkF30Xm8jxIPMYCzXVF3lnuhebSm5QBKtWROLgQsThL6uri0Wr8zA45Xjw76lsXsnQt77IhBV8l3dR7cOKGP-X7ML_DNzzttMwx_tu0YnWOyYQ07x2tRlvknjCg67hG61v"
+        }
+      ],
+      "scrapedAt": "2026-06-13T09:59:04.126Z"
+    },
+    {
+      "id": "social-a070f6e7ab41",
+      "title": "\"DART-FRIDAY\" im Edelweiss in Tschiertschen",
+      "category": "sport",
+      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
+      "date": "2026-06-19",
+      "time": "19:00 - open end",
+      "price": "Unbekannt",
+      "municipality": "Tschiertschen-Praden",
+      "locationName": "Hotel Edelweiss",
+      "lat": 46.85,
+      "lng": 9.61,
+      "image": "",
+      "organizerUrl": "https://www.churtourismus.ch/events",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T09:59:37.617Z"
+    },
+    {
+      "id": "social-bec158411dfd",
+      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
+      "category": "sport",
+      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
+      "date": "2026-06-19",
+      "time": "00:00 - 00:00",
+      "price": "Nicht spezifiziert",
+      "municipality": "Chur",
+      "locationName": "Chur/Graubünden",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
+        },
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
+        },
+        {
+          "title": "openairguide.net",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:00:41.293Z"
+    },
+    {
+      "id": "social-49fd84ac79f8",
+      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
+      "category": "sport",
+      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
+      "date": "2026-06-20",
+      "time": "00:00 - 00:00",
+      "price": "Nicht spezifiziert",
+      "municipality": "Chur",
+      "locationName": "Chur/Graubünden",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
+        },
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
+        },
+        {
+          "title": "openairguide.net",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:00:41.293Z"
+    },
+    {
+      "id": "social-142f485efb25",
+      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
+      "category": "sport",
+      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
+      "date": "2026-06-21",
+      "time": "00:00 - 00:00",
+      "price": "Nicht spezifiziert",
+      "municipality": "Chur",
+      "locationName": "Chur/Graubünden",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
+        },
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
+        },
+        {
+          "title": "openairguide.net",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:00:41.293Z"
+    },
+    {
+      "id": "social-5c839b219808",
+      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
+      "category": "sport",
+      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
+      "date": "2026-06-26",
+      "time": "00:00 - 00:00",
+      "price": "Nicht spezifiziert",
+      "municipality": "Chur",
+      "locationName": "Chur/Graubünden",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
+        },
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
+        },
+        {
+          "title": "openairguide.net",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:00:41.293Z"
+    },
+    {
+      "id": "social-5b433999dd33",
+      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
+      "category": "sport",
+      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
+      "date": "2026-06-27",
+      "time": "00:00 - 00:00",
+      "price": "Nicht spezifiziert",
+      "municipality": "Chur",
+      "locationName": "Chur/Graubünden",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
+        },
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
+        },
+        {
+          "title": "openairguide.net",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:00:41.293Z"
+    },
+    {
+      "id": "social-8e72705e8d09",
+      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
+      "category": "sport",
+      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
+      "date": "2026-06-28",
+      "time": "00:00 - 00:00",
+      "price": "Nicht spezifiziert",
+      "municipality": "Chur",
+      "locationName": "Chur/Graubünden",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
+        },
+        {
+          "title": "fcbonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
+        },
+        {
+          "title": "bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
+        },
+        {
+          "title": "openairguide.net",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
+        },
+        {
+          "title": "gewerbe-bonaduz.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:00:41.293Z"
+    },
+    {
+      "id": "social-faee21ec2ca5",
+      "title": "Pétanque auf dem Dorfplatz",
+      "category": "sport",
+      "description": "Offenes Pétanque-Spiel auf dem Dorfplatz, verfügbar über einen längeren Zeitraum.",
+      "date": "2026-06-14",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Malans",
+      "locationName": "Dorfplatz",
+      "lat": 46.9922,
+      "lng": 9.5303,
+      "image": "",
+      "organizerUrl": "https://www.malans.ch/veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:08.667Z"
+    },
+    {
+      "id": "social-f17892ec21e3",
+      "title": "JazzChur @ Sternen Café: Schnoz-Sisera-Caflisch",
+      "category": "music",
+      "description": "Jazz-Konzert von Schnoz-Sisera-Caflisch im Rahmen von JazzChur.",
+      "date": "2026-08-21",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Malans",
+      "locationName": "Sternen Café",
+      "lat": 46.9922,
+      "lng": 9.5303,
+      "image": "",
+      "organizerUrl": "https://eventfrog.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:08.667Z"
+    },
+    {
+      "id": "social-fc2bdc08e600",
+      "title": "Abendstimmung auf dem Zuckerstock mit Gerstensuppe",
+      "category": "family",
+      "description": "Eine gemütliche Wanderung auf den Zuckerstock, um die Abendstimmung und den Sonnenuntergang zu geniessen, gefolgt von einer warmen Gerstensuppe auf dem Älpli.",
+      "date": "2026-09-19",
+      "time": "15:30 - ",
+      "price": "Keine Angabe",
+      "municipality": "Malans",
+      "locationName": "Zuckerstock / Älpli",
+      "lat": 46.9922,
+      "lng": 9.5303,
+      "image": "",
+      "organizerUrl": "https://www.aelplibahn.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:08.667Z"
+    },
+    {
+      "id": "social-b163b77d6a90",
+      "title": "Jahreskonzert (2-Länder Musikanten)",
+      "category": "music",
+      "description": "Das Jahreskonzert der 2-Länder Musikanten.",
+      "date": "2026-10-17",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Malans",
+      "locationName": "Malans",
+      "lat": 46.9922,
+      "lng": 9.5303,
+      "image": "",
+      "organizerUrl": "https://2-laender-musikanten.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:08.667Z"
+    },
+    {
+      "id": "social-0793a48e7e06",
+      "title": "Raclette-Essen (TV Malans)",
+      "category": "family",
+      "description": "Ein geselliges Raclette-Essen des Turnvereins Malans.",
+      "date": "2026-12-18",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Malans",
+      "locationName": "Malans",
+      "lat": 46.9922,
+      "lng": 9.5303,
+      "image": "",
+      "organizerUrl": "https://www.tv-malans.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:08.667Z"
+    },
+    {
+      "id": "social-38090bbc3294",
+      "title": "Mineralientage im Forum Landquart",
+      "category": "markets",
+      "description": "Die Mineralientage im Forum Landquart präsentieren eine Vielfalt an Mineralien und Gesteinen.",
+      "date": "2026-08-29",
+      "time": "10:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Landquart",
+      "locationName": "Forum Landquart",
+      "lat": 46.95,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.forum-landquart.ch/programm",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:54.991Z"
+    },
+    {
+      "id": "social-12299fdc6997",
+      "title": "Mineralientage im Forum Landquart",
+      "category": "markets",
+      "description": "Die Mineralientage im Forum Landquart präsentieren eine Vielfalt an Mineralien und Gesteinen.",
+      "date": "2026-08-30",
+      "time": "10:00 - 16:00",
+      "price": "Keine Angabe",
+      "municipality": "Landquart",
+      "locationName": "Forum Landquart",
+      "lat": 46.95,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.forum-landquart.ch/programm",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:54.991Z"
+    },
+    {
+      "id": "social-0c7b8fa28e5a",
+      "title": "Claudio Zuccolini - Der Vorsorger",
+      "category": "stage",
+      "description": "Claudio Zuccolini mit humorvoller und tiefgründiger Stand-Up-Comedy über das Älterwerden, voller Selbstironie und alltäglicher Sorgen.",
+      "date": "2026-11-20",
+      "time": "20:00 - ",
+      "price": "Keine Angabe",
+      "municipality": "Landquart",
+      "locationName": "Forum Landquart",
+      "lat": 46.95,
+      "lng": 9.55,
+      "image": "",
+      "organizerUrl": "https://www.ticketcorner.ch/event/claudio-zuccolini-der-vorsorger-forum-landquart-19597143/",
+      "ticketUrl": "https://www.ticketcorner.ch/event/claudio-zuccolini-der-vorsorger-forum-landquart-19597143/",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:03:54.991Z"
+    },
+    {
+      "id": "social-d6982c524c55",
+      "title": "Hart auf Hart mit Sie sagen Stopp",
+      "category": "stage",
+      "description": "Ein satirisches Schauspiel voller Überraschungen, sprachlich und spielerisch ein Fest: Zwei Menschen, zwei Mentalitäten, ein Alltag. Autorin und Autor erzählen von tatsächlichen und unmöglichen Begegnungen.",
+      "date": "2026-06-13",
+      "time": "20:00 - 23:00",
+      "price": "Erw. CHF 35.00, Mitglieder CHF 28.00, Kinder CHF 15.00",
+      "municipality": "Thusis",
+      "locationName": "Kino Rätia Bühne, Obere Stallstrasse 14",
+      "lat": 46.683,
+      "lng": 9.407,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:04:49.311Z"
+    },
+    {
+      "id": "social-2a75905909fc",
+      "title": "Orts-, Kirchen- und Museumsführung",
+      "category": "family",
+      "description": "",
+      "date": "2026-06-13",
+      "time": "13:30 - 16:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Thusis",
+      "lat": 46.683,
+      "lng": 9.407,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:04:49.311Z"
+    },
+    {
+      "id": "social-8bf864bdb1ac",
+      "title": "Eidgenössisches Schützenfest (ESF) 2026 - Schiessen Tag 1",
+      "category": "sport",
+      "description": "Die Schiessanlage Rheinau ist Teil des Eidgenössischen Schützenfests 2026.",
+      "date": "2026-06-19",
+      "time": "07:30 - 19:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Schiessanlage Rheinau",
+      "lat": 46.683,
+      "lng": 9.407,
+      "image": "",
+      "organizerUrl": "https://www.schiesssport-rheinau.ch/esf-2026/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:04:49.311Z"
+    },
+    {
+      "id": "social-c90334012a43",
+      "title": "Eidgenössisches Schützenfest (ESF) 2026 - Schiessen Tag 2",
+      "category": "sport",
+      "description": "Die Schiessanlage Rheinau ist Teil des Eidgenössischen Schützenfests 2026.",
+      "date": "2026-06-20",
+      "time": "07:30 - 19:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Schiessanlage Rheinau",
+      "lat": 46.683,
+      "lng": 9.407,
+      "image": "",
+      "organizerUrl": "https://www.schiesssport-rheinau.ch/esf-2026/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:04:49.311Z"
+    },
+    {
+      "id": "social-2d0dfc2060bc",
+      "title": "Eidgenössisches Schützenfest (ESF) 2026 - Schiessen Tag 3",
+      "category": "sport",
+      "description": "Die Schiessanlage Rheinau ist Teil des Eidgenössischen Schützenfests 2026.",
+      "date": "2026-06-21",
+      "time": "08:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Schiessanlage Rheinau",
+      "lat": 46.683,
+      "lng": 9.407,
+      "image": "",
+      "organizerUrl": "https://www.schiesssport-rheinau.ch/esf-2026/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:04:49.311Z"
+    },
+    {
+      "id": "social-1b663e22feb1",
+      "title": "Arno Camenisch liest",
+      "category": "stage",
+      "description": "Der Bündner Autor und Performer Arno Camenisch liest zusammen mit dem Gitarristen Roman Nowka aus seinem neuesten Buch «Die Launen des Tages».",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "price": "Keine Angabe",
+      "municipality": "Thusis",
+      "locationName": "Kino Rätia Thusis",
+      "lat": 46.683,
+      "lng": 9.407,
+      "image": "",
+      "organizerUrl": "https://www.kinoraetia.ch/buehne",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-06-13T10:04:49.311Z"
+    },
+    {
+      "id": "social-4b2192abd81f",
+      "title": "Thusner Dorffest",
+      "category": "family",
+      "description": "Das Thusner Dorffest findet am 21. und 22. August 2026 statt.",
+      "date": "2026-08-21",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Cazis",
+      "locationName": "Thusis",
+      "lat": 46.69,
+      "lng": 9.38,
+      "image": "",
+      "organizerUrl": "https://fctc.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "mycity.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJFsghM4sOdmnNfDP3KE8rvC0DXHmTShgiUwlbOf9Exl8mAw8DGY3CJTORfXZPi-C1gRmSJLrCxrwm0f_hamYR7J8rnlCL9bXsEWid5dwF14A8Jdz40GUAdN9viq7sqRNHDaWScAbi1PslFYR0v-qM3H-TABvHgixsnRwvmGcYEYHBsQWJFgbcewz4Nt0XIWvfz9U="
+        },
+        {
+          "title": "fctc.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKjszyWlncDdM7_hbgoJwUveEEmG1iQ7Ywbjmaf-q2kL7Fe5lsyXcGpiIRHezK-H_N4t3x6crO7o3qG45UXRT3TPB_EEjMXhWoaBXTs6d-JOyOQ6nHkZGf2ihDmyQucftm3qU5mYlm4H3t8fNZrdVuidsdyqxV8C-8QT95T7jtq8L7YA=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1UPYPgiCvlkEfrz-gjFGE0M8V8fhqnM69qF18s7V8FusSJECtxQMt9AOlDuATkCGRWHkKdRShz3UteTYJDRD5e8_g4P8hXdEuUTIe0m9Kky09Q5PTABdCiwD5afhD3C0n-aedOJS1tnrB8885Q0Qi4gAnY0v8CriulucrsaCxCCjLMOYlnYwk6vBE"
+        },
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiXXnDwqbPA8WRwWcfKvcJGjeQ3YOUOrR_R28dBnKKRzGksYUMiLTw_MSE6Wmgx5NHho3FzVnVi2pSmr5cFkZh2wRRAgEG3aUYMX_TrILjaFU1MueZLW1i89q_CQZirh7y3p8k5NW7N1hWDU3d_WeIKg=="
+        }
+      ],
+      "scrapedAt": "2026-06-13T10:05:32.307Z"
     }
   ]
 }
