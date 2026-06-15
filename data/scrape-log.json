@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-14T09:03:16.324Z",
-  "eventsTotal": 270,
-  "eventsNew": 30,
-  "eventsUpdated": 147,
-  "eventsEnriched": 31,
+  "timestamp": "2026-06-15T11:48:12.324Z",
+  "eventsTotal": 280,
+  "eventsNew": 37,
+  "eventsUpdated": 133,
+  "eventsEnriched": 38,
   "enrichmentErrors": 0,
-  "eventsCleaned": 33,
+  "eventsCleaned": 27,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -16,7 +16,7 @@
     {
       "name": "LocalCities-Chur",
       "kind": "gemini",
-      "events": 20,
+      "events": 3,
       "error": null
     },
     {
@@ -34,7 +34,7 @@
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
-      "events": 4,
+      "events": 5,
       "error": null
     },
     {
@@ -88,7 +88,7 @@
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 11,
+      "events": 12,
       "error": null
     },
     {
@@ -106,7 +106,7 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 5,
+      "events": 4,
       "error": null
     },
     {
