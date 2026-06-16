@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-15T11:48:12.324Z",
-  "eventsTotal": 280,
-  "eventsNew": 37,
-  "eventsUpdated": 133,
-  "eventsEnriched": 38,
+  "timestamp": "2026-06-16T10:53:03.464Z",
+  "eventsTotal": 287,
+  "eventsNew": 18,
+  "eventsUpdated": 154,
+  "eventsEnriched": 24,
   "enrichmentErrors": 0,
-  "eventsCleaned": 27,
+  "eventsCleaned": 11,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -16,13 +16,13 @@
     {
       "name": "LocalCities-Chur",
       "kind": "gemini",
-      "events": 3,
+      "events": 20,
       "error": null
     },
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
-      "events": 20,
+      "events": 1,
       "error": null
     },
     {
@@ -34,13 +34,13 @@
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
-      "events": 5,
+      "events": 0,
       "error": null
     },
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
-      "events": 3,
+      "events": 1,
       "error": null
     },
     {
@@ -106,14 +106,14 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 4,
+      "events": 5,
       "error": null
     },
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 7,
-      "error": null
+      "events": 0,
+      "error": "HTTP 403"
     }
   ]
 }
