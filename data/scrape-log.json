@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-17T10:23:25.558Z",
-  "eventsTotal": 281,
-  "eventsNew": 21,
-  "eventsUpdated": 7,
-  "eventsEnriched": 21,
-  "enrichmentErrors": 6,
-  "eventsCleaned": 27,
+  "timestamp": "2026-06-18T10:07:06.169Z",
+  "eventsTotal": 300,
+  "eventsNew": 54,
+  "eventsUpdated": 144,
+  "eventsEnriched": 58,
+  "enrichmentErrors": 0,
+  "eventsCleaned": 35,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -16,97 +16,97 @@
     {
       "name": "LocalCities-Chur",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/chur/4865"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/domat-ems/4745"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Felsberg",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/felsberg/4733"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
       "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/trimmis/4905"
+      "error": null
     },
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/untervaz/4897"
+      "events": 1,
+      "error": null
     },
     {
       "name": "LocalCities-Zizers",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/zizers/4917"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Tamins",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/tamins/4737"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Churwalden",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/churwalden/4881"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Tschiertschen-Praden",
       "kind": "gemini",
       "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/tschiertschen-praden/4925"
+      "error": "HTTP 404 beim Fetch von https://www.localcities.ch/de/veranstaltungen/tschiertschen-praden/4925"
     },
     {
       "name": "LocalCities-Bonaduz",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/bonaduz/4701"
+      "events": 6,
+      "error": null
     },
     {
       "name": "LocalCities-Rhäzüns",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/rhaezuens/4721"
+      "events": 2,
+      "error": null
     },
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/malans/4949"
+      "events": 14,
+      "error": null
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/landquart/4945"
+      "events": 12,
+      "error": null
     },
     {
       "name": "LocalCities-Thusis",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/thusis/4641"
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Cazis",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/cazis/4633"
+      "events": 20,
+      "error": null
     },
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 0,
+      "events": 5,
       "error": null
     },
     {
