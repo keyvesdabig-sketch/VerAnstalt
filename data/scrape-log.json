@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-18T10:07:06.169Z",
-  "eventsTotal": 300,
-  "eventsNew": 54,
-  "eventsUpdated": 144,
-  "eventsEnriched": 58,
+  "timestamp": "2026-06-19T10:12:53.898Z",
+  "eventsTotal": 297,
+  "eventsNew": 34,
+  "eventsUpdated": 153,
+  "eventsEnriched": 37,
   "enrichmentErrors": 0,
-  "eventsCleaned": 35,
+  "eventsCleaned": 37,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -82,13 +82,13 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 14,
+      "events": 5,
       "error": null
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 12,
+      "events": 13,
       "error": null
     },
     {
@@ -112,8 +112,8 @@
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 0,
-      "error": "HTTP 403"
+      "events": 6,
+      "error": null
     }
   ]
 }
