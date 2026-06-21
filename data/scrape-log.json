@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-20T08:47:55.107Z",
-  "eventsTotal": 294,
-  "eventsNew": 29,
-  "eventsUpdated": 164,
-  "eventsEnriched": 33,
-  "enrichmentErrors": 2,
-  "eventsCleaned": 32,
+  "timestamp": "2026-06-21T09:36:45.811Z",
+  "eventsTotal": 288,
+  "eventsNew": 38,
+  "eventsUpdated": 158,
+  "eventsEnriched": 35,
+  "enrichmentErrors": 0,
+  "eventsCleaned": 44,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -82,13 +82,13 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 14,
+      "events": 13,
       "error": null
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 13,
+      "events": 14,
       "error": null
     },
     {
@@ -106,7 +106,7 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 0,
+      "events": 9,
       "error": null
     },
     {
