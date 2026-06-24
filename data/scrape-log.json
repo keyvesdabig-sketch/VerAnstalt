@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-06-23T08:57:42.636Z",
-  "eventsTotal": 298,
-  "eventsNew": 18,
-  "eventsUpdated": 192,
-  "eventsEnriched": 20,
+  "timestamp": "2026-06-24T08:49:55.406Z",
+  "eventsTotal": 277,
+  "eventsNew": 1,
+  "eventsUpdated": 5,
+  "eventsEnriched": 8,
   "enrichmentErrors": 0,
-  "eventsCleaned": 20,
+  "eventsCleaned": 22,
   "sources": [
     {
       "name": "Chur-Kultur",
       "kind": "gemini",
-      "events": 50,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Chur",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Felsberg",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
       "events": 0,
-      "error": null
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
-      "events": 1,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Zizers",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Tamins",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Churwalden",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Tschiertschen-Praden",
@@ -70,44 +70,44 @@
     {
       "name": "LocalCities-Bonaduz",
       "kind": "gemini",
-      "events": 6,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Rhäzüns",
       "kind": "gemini",
-      "events": 1,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 13,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 15,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Thusis",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Cazis",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 5,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "Streaminghall-Handmade-Music",
