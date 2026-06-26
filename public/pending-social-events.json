@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T10:12:53.032Z",
+  "lastUpdated": "2026-06-26T10:16:39.948Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -4809,26 +4809,6 @@
         }
       ],
       "scrapedAt": "2026-05-27T10:59:13.310Z"
-    },
-    {
-      "id": "social-21f7d88f5aa1",
-      "title": "Asado & Wine",
-      "category": "family",
-      "description": "Ein Fest für alle Sinne – Südamerikanisches Genuss-Erlebnis mit einem grosszügigen Buffet voller köstlicher südamerikanischer Vorspeisen. Anmeldung erforderlich.",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Plozza Wine Group",
-      "lat": 46.9902,
-      "lng": 9.5707,
-      "image": "",
-      "organizerUrl": "https://www.plozzawinegroup.ch/aktuelles/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T11:00:12.161Z"
     },
     {
       "id": "social-4a8afa71c211",
@@ -14690,26 +14670,6 @@
       "scrapedAt": "2026-06-04T10:36:21.992Z"
     },
     {
-      "id": "social-34dc3264afdc",
-      "title": "Vorbereitungskonzert EMF",
-      "category": "music",
-      "description": "Vorbereitungskonzert der Musikgesellschaft Trimmis für das Eidgenössische Musikfest 2026. Weitere Infos folgen.",
-      "date": "2026-06-25",
-      "time": "19:00 - offen",
-      "price": "Unbekannt",
-      "municipality": "Trimmis",
-      "locationName": "Katholische Kirche Trimmis (impliziert)",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-04T10:38:06.051Z"
-    },
-    {
       "id": "social-97b7e4a0b314",
       "title": "Kirchenkonzert",
       "category": "music",
@@ -17283,47 +17243,6 @@
       "scrapedAt": "2026-06-06T09:31:13.390Z"
     },
     {
-      "id": "social-b6afa43295d6",
-      "title": "ONE LAST DANCE SUMMER NIGHT ABSCHLUSS PARTY",
-      "category": "music",
-      "description": "Sommernachtsparty zum Abschluss der Saison.",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Fabrik Club",
-      "lat": 46.8522,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://www.fabrikclub.ch/programm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
-    },
-    {
       "id": "social-146e05500622",
       "title": "Gänggali-Markt",
       "category": "markets",
@@ -17977,26 +17896,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:00:28.044Z"
-    },
-    {
-      "id": "social-4030fb26b716",
-      "title": "Jassen Partnerschieber",
-      "category": "family",
-      "description": "Jass-Partnerschieber-Veranstaltung in Zizers (Untervaz).",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Zizers (Untervaz)",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://localcities.ch/de/veranstaltungen/zizers",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:01:28.978Z"
     },
     {
       "id": "social-7c52e262cbd8",
@@ -18968,26 +18867,6 @@
       "scrapedAt": "2026-06-08T11:51:07.392Z"
     },
     {
-      "id": "social-5986be0c487e",
-      "title": "Duo Rachide-Müller",
-      "category": "music",
-      "description": "",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:51:07.392Z"
-    },
-    {
       "id": "social-639fbaac8739",
       "title": "JazzChur @ Polenta Jazz Club",
       "category": "music",
@@ -19657,26 +19536,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
-      "id": "social-2da3e28e65d8",
-      "title": "Gemeinsames Tanzen mit Corina und Joe Kilchmann",
-      "category": "family",
-      "description": "Gemeinsames Tanzen mit Corina und Joe Kilchmann am Bewegungs- und Begegnungsplatz beim Bahnhof Zizers.",
-      "date": "2026-06-25",
-      "time": "17:00 - 19:30",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Bewegungs- und Begegnungsplatz beim Bahnhof Zizers",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:55:16.422Z"
     },
     {
       "id": "social-8af7725dfa54",
@@ -22058,47 +21917,6 @@
       "scrapedAt": "2026-06-10T10:54:00.045Z"
     },
     {
-      "id": "social-8acac1efbe02",
-      "title": "MGT unterwegs im Dorf (Verschiebedatum)",
-      "category": "music",
-      "description": "Die Musikgesellschaft Trimmis unternimmt einen Spaziergang durchs Dorf mit musikalischen Darbietungen, ähnlich der Brunnentour. Der Abschluss findet mit einer kleinen Festwirtschaft und Grill beim Rathaus statt.",
-      "date": "2026-06-25",
-      "time": "19:00 - open end",
-      "price": "Kostenlos (Konsumation kostenpflichtig)",
-      "municipality": "Trimmis",
-      "locationName": "Verschiedene Orte im Dorf, Abschluss beim Rathaus",
-      "lat": 46.9016,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QBua8gqAgD2yvth2BZAE61Lw7-38_F0qsp3QA4e14XhERFwxSj8Je5jqF7UxZxG6oG74MsSwO5JJUlPqqAsZHXBY_OumN2yUOHDjmgH1L4JQAjLSJNKp4dC6UQ=="
-        },
-        {
-          "title": "kyokushinkai-trimmis.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4hvOhHKW_sSPzXXyaYP_N5cF4FUgixYnfhBfU-vJxWe4HKX7yhCw99SRFr-WbOYeRw2hvANfbpSznUGhn_RGb1s_Rlyt4qs5H9use3y3Fwi35WVjXNgEnVA8TBu9iHgAWD_dFfX-mL6gFng=="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdT5Ko-EvsYoj5Ol3qP_jPL-bmEX0YxLBBQuG43hYxSUe1L6EaVifc5abQ18Jp9cOR51DawlrGMmuDUQGksSNsZzHPAYwHxj4agCbl93mCmZmywcY73a0OB2DoBg=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT0cfY7LTi7hIOBoVlpwo0bYEF5K78KYbOzE4IUs2IpUrYUzl9ZRNM7lSE1l3JgmvdWFfCvojveEvno6l61mxNgZV-avdSYMCzTlN6rRR5Oj6-Lm7_h1k-ruZ1HebYz-N64Y0CtWJRo3vciLVEq7c5H37sQy2loWXCauo42Rgi6UWkWkM="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCqo1FGclv0iN_8YWpORd_UnZKKo5RtfwJDaqOrvaeHrW9XhTAezUSuSHFsccjjbnKMRw8hMUZQ9m42PIUvjxve8iuiB0lK9DuRvWPQC9oHNkXfZqloPFlcddiAKpFO9JVPlyqb9U76cAgn4fevlKkJHLRrSedwd-z0igMOTRSYQyHKZD5ERxDk_PuZNUq9-0P0Un6IxybfdBjS8fGt2F7RiXzOJQGKeoejTVMuq3oL2RYOPTyPkLDGSFbSNPHk9k1p2vNFDraCf42nNNdvsofrA=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:42.214Z"
-    },
-    {
       "id": "social-4fa7aa0a28bc",
       "title": "Jubilarenkonzert",
       "category": "music",
@@ -22928,47 +22746,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T11:01:17.264Z"
-    },
-    {
-      "id": "social-10d55a0439ea",
-      "title": "Grill-Spass Seniorenriege TV Landquart",
-      "category": "family",
-      "description": "Ein Grillanlass für die Seniorenriege des Turnvereins Landquart.",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.94,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://tvlandquart.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fclandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbKWLxX79cWl_-ATpXG8_MfpyfbSOfJ_7tpQ9TDg1qH_ol_JCulek9NMx-eQItz5I1vE5l1j0n8BLfOpLbOwMG7FrOlDqHIqaSwgy1FUnQTFF4mp_umKEmpsb7P8VeDENwMviLfdvd90="
-        },
-        {
-          "title": "seetickets.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlecyadShSdV8aTpz4BC6ug31vPv1OAiwmSqi4_bUAgsv7Xqt0wKCAV3tcq9CmXYYiOAqwbU3cA0n8ucEjpFjhE6e8_6XYXEqGKk10-bKRaV2EZz12VtYcZIj5LOdLMdaatydCvvZ0H6tBLk6DiXr9ZSonxetFck7odOUBdRDGVHqWOo0M"
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfLLJ1zDSa35_qcUNo3g0sYVLEk3wiQv4fTJPx63u5WkGJIsDIlOJugmfuPJGKbcTWSkWd8iLyEqvwfHiMpvjrgU_ArSLKc5RpjetdsnrreLybo0HNhknH3M6X0QMeZH-gHRHVOzqjSnffbw=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz9HlrxGDU81A7VJl51LzeyVYr7G0t2PYSIgnTEeQ8u-LHLorK2ULYNSdUdBE1w1D0r-BHcFwM0Uhc01OVnSAyOY3s8dytnu_MvqLf9xZtUUy8iRX3_z6bd7BgQKVwFIou3c8CMicg0MvRQ39-qSvzJdEtv3da0TSZ4Uyl-Ow1qhCu1BdvupFIvZ_N7MRQHSacbjeMuP5-jx-GRil4yc8="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvCzc7NJ0ikF3UiVLbva9cxTTKl1Es7apKab6ZiAytLtU3P91-lsi0Hji_lbTWrtQZ759GVfZL39MKE8a13aO3fncLTB4jSoaoBfmO__S-mZpnsYzvfiS-CSRCiSl2MOxyzsQrMajSNmGu_Oi_pe_fbuqNdnABhWWZ4X0MESHZo0QbgeX5v3sQUJa86c8uMh31PdumVzS3N8gZSst2P0Vv9UYuiiDna_E="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:02:25.271Z"
     },
     {
       "id": "social-3ad2a41c6c95",
@@ -23832,88 +23609,6 @@
       "scrapedAt": "2026-06-11T11:20:27.034Z"
     },
     {
-      "id": "social-245227f7de8f",
-      "title": "Konzert Band Oberstufe",
-      "category": "music",
-      "description": "Konzert der Band der Oberstufe Felsberg.",
-      "date": "2026-06-25",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Felsberg",
-      "locationName": "Aula, Schule Felsberg",
-      "lat": 46.85,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5OhAorihVAIeINNNWPHhRFrfl_mqLjvJqZcMc_VCWIn4DlWEl_b4_Y1YBimY-cgbeudqoZTYps_YqSQDRNWSYbyi0gYNuL3nJpo-gdpi5oMYfZQ=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi6pd8-NqBxYrcSjVIeLnQpmmcXRW1O1O-CH0W_RJwa0RmOkHMHcVOWWKum79VvwwUAnB_NRFqPy_bZWLOiF0vT8m1qe_eCIdgXA5xXsdvLd0kLj660u1XKs3ji5wEIg9bcIXi"
-        },
-        {
-          "title": "sf-felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE3aQ4SQM5NWEmkKplT-rVtwd4Tg33uqnPQY1apP212yEFCwEokeqhOiee5zIORZEjU5BzSoOtV66tZMhtpHNfwGanhSelRkIwBMr0xWgOeK_sHmQ4DNNLRTDdPI40GBj4TtxzAJgTRaCz_-LMfg=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE3wZiYYbXdRsOjJ-8iPAcO68ZWhigqbm91fE_6C1_PhmAiVxxq7VpUxkZxtWGyO0RBYNvwzTyuUfBbl7USTcFepsvxbNNAOcV7UQsWvRm4UmtAG75kid3nhE7ziuSqmd-MVm1"
-        },
-        {
-          "title": "unihockeyfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiW1GtHVXBiKWAjQS5wX-yFlrcOacQn57QOhMYkbfjDR5Zft230FfSzAN9yT8aJZidXEhihHJ8TJWhtYYgG1-SrrWFl1zUc5LYQt-5mdwzwOEMJtmGho7wy4UAMJ5kT-OzkQgG"
-        }
-      ],
-      "scrapedAt": "2026-06-11T11:21:07.455Z"
-    },
-    {
-      "id": "social-ffc6a794c760",
-      "title": "Jasstreff im Weiss Kreuz - Einzelschieber",
-      "category": "family",
-      "description": "Jasstreff (Kartenspiel) im Restaurant Weiss Kreuz, organisiert von Felsberg Vereint.",
-      "date": "2026-06-25",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Felsberg",
-      "locationName": "Restaurant Weiss Kreuz, Felsberg Vereint",
-      "lat": 46.85,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5OhAorihVAIeINNNWPHhRFrfl_mqLjvJqZcMc_VCWIn4DlWEl_b4_Y1YBimY-cgbeudqoZTYps_YqSQDRNWSYbyi0gYNuL3nJpo-gdpi5oMYfZQ=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi6pd8-NqBxYrcSjVIeLnQpmmcXRW1O1O-CH0W_RJwa0RmOkHMHcVOWWKum79VvwwUAnB_NRFqPy_bZWLOiF0vT8m1qe_eCIdgXA5xXsdvLd0kLj660u1XKs3ji5wEIg9bcIXi"
-        },
-        {
-          "title": "sf-felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE3aQ4SQM5NWEmkKplT-rVtwd4Tg33uqnPQY1apP212yEFCwEokeqhOiee5zIORZEjU5BzSoOtV66tZMhtpHNfwGanhSelRkIwBMr0xWgOeK_sHmQ4DNNLRTDdPI40GBj4TtxzAJgTRaCz_-LMfg=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE3wZiYYbXdRsOjJ-8iPAcO68ZWhigqbm91fE_6C1_PhmAiVxxq7VpUxkZxtWGyO0RBYNvwzTyuUfBbl7USTcFepsvxbNNAOcV7UQsWvRm4UmtAG75kid3nhE7ziuSqmd-MVm1"
-        },
-        {
-          "title": "unihockeyfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiW1GtHVXBiKWAjQS5wX-yFlrcOacQn57QOhMYkbfjDR5Zft230FfSzAN9yT8aJZidXEhihHJ8TJWhtYYgG1-SrrWFl1zUc5LYQt-5mdwzwOEMJtmGho7wy4UAMJ5kT-OzkQgG"
-        }
-      ],
-      "scrapedAt": "2026-06-11T11:21:07.455Z"
-    },
-    {
       "id": "social-4587263721eb",
       "title": "Turnfest Islikon",
       "category": "sport",
@@ -24374,47 +24069,6 @@
       "lng": 9.6052,
       "image": "",
       "organizerUrl": "https://churkultur.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
-    },
-    {
-      "id": "social-4427c5317a60",
-      "title": "JazzChur @ Restaurant Da Noi Duo Rachide-Müller",
-      "category": "music",
-      "description": "Jazzkonzert im Restaurant Da Noi als Teil des JazzChurSommers 2026.",
-      "date": "2026-06-25",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Restaurant Da Noi, Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://jazzchur.ch/programm/",
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Other",
@@ -25352,26 +25006,6 @@
         }
       ],
       "scrapedAt": "2026-06-13T09:55:17.671Z"
-    },
-    {
-      "id": "social-cc5976d0f3ac",
-      "title": "MGT unterwegs im Dorf",
-      "category": "music",
-      "description": "Die Musikgesellschaft Trimmis unternimmt einen musikalischen Spaziergang durchs Dorf, ähnlich der Brunnentour ihres Jubiläumsjahres. Die genauen Orte werden noch bekannt gegeben. Zum Abschluss gibt es eine kleine Festwirtschaft mit Grill beim Rathaus. Findet nur bei guter Witterung statt. Verschiebedatum: 25. Juni 2026.",
-      "date": "2026-06-25",
-      "time": "19:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Verschiedene Orte in Trimmis, Abschluss beim Rathaus",
-      "lat": 46.8812,
-      "lng": 9.5524,
-      "image": "",
-      "organizerUrl": "https://www.mgtrimmis.ch/uftritt",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T09:56:08.554Z"
     },
     {
       "id": "social-f54fb12d858d",
@@ -26619,26 +26253,6 @@
       "scrapedAt": "2026-06-14T10:26:30.147Z"
     },
     {
-      "id": "social-1ce9b8f50ba1",
-      "title": "Jahresabschluss (DTV Bonaduz)",
-      "category": "family",
-      "description": "Jahresabschlussveranstaltung des DTV Bonaduz.",
-      "date": "2026-06-25",
-      "time": "00:00 - 00:00",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.804,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.dtvbonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-14T10:27:33.336Z"
-    },
-    {
       "id": "social-708a7d831361",
       "title": "Commedia | caesar und kleopatra",
       "category": "stage",
@@ -27878,26 +27492,6 @@
         }
       ],
       "scrapedAt": "2026-06-15T13:00:02.366Z"
-    },
-    {
-      "id": "social-cfa3a291861f",
-      "title": "Konzert Band Oberstufe und Vorbereitung Abschlussfeier Oberstufe",
-      "category": "music",
-      "description": "Konzert der Oberstufenband und Vorbereitung der Abschlussfeier.",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Aula, Schule Felsberg",
-      "lat": 46.833,
-      "lng": 9.499,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "https://www.felsberg.ch/anlaesse",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-15T13:01:17.520Z"
     },
     {
       "id": "social-5526be58e9df",
@@ -29771,47 +29365,6 @@
       "scrapedAt": "2026-06-16T12:18:03.581Z"
     },
     {
-      "id": "social-eff838424be8",
-      "title": "JazzChur @ Restaurant Da Noi",
-      "category": "music",
-      "description": "JazzChur verlässt die Stammlokale und kommt in das Restaurant Da Noi.",
-      "date": "2026-06-25",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Restaurant Da Noi",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://jazzchur.ch/programm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVFswrIpMyuiEa8wIWciH_bn4b6c9xcCF14XLUqJ5RdNPUKOlJT4D85xybL3SpMslC19X7Nm11BTGCWrEPdvAVtgBkgtUpwXFuoIsZn8GWsKPqcvqgU5dXyLQt-pUlxWXf6-Kp__nmFw=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIs5pv9QYH6I1izkc5oJ9V9HXFUG-H9EXRmU6Y5t-DBiTH5ZDIVc1auTdBNJdXfj0CbOZl71t7oLleedgNmqT8vjn-WUUMLN7TCHUporw6va1qKqAiRqkPhl7e57G1NKN25xvf_Faskt_J1_IyOnVdorWIU1M-pFbUoWLcHLdfQKySj3LncUFba6weBFCCQBn7JRFFSgWZI_vtBrpV29A="
-        },
-        {
-          "title": "kammerchorchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwlK4Bf0sV09R4HcRozxxfUAb4uZOiL3gNzZlSmHgzlf7lw-VOUM4HvK2jJmskrInJlrR-WsP87BRTqrSLlbjL9ImlfcKgGRvWgNzeDclhC5QA3bo-WY3-8Ep8PxLC7snpD0tlyw=="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgow0Oda8r2WBR8BwYo7CIjPwqY_AXFgmzQFLvHGVw5hKP81EfHmL9dkY9VYRiFtuC6z1YcoTAGvvzzhmkFktdNEg1WdfxVUD_PG5GvqRPjMwcEV8wDTE7Qg=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcSxFF55RRT6D7Qt787eTuO7P8wIhGBLw-k7ac2A6ol83DYDf6h1JtmjoFTdWH6mQwWohupvIZluFff6trOmes-AENsOyCpUK5vPh_QGGyAux2oQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:30:01.776Z"
-    },
-    {
       "id": "social-ec75c8cd72b4",
       "title": "KURS: bessere Gartenfotos",
       "category": "family",
@@ -30639,26 +30192,6 @@
       "scrapedAt": "2026-06-18T11:08:28.703Z"
     },
     {
-      "id": "social-986ccda1eb3f",
-      "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässiges Training der Feldschützengesellschaft Trimmis.",
-      "date": "2026-06-25",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:09:11.117Z"
-    },
-    {
       "id": "social-2dfc0f849863",
       "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
       "category": "sport",
@@ -31226,47 +30759,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:12:32.035Z"
-    },
-    {
-      "id": "social-136a6e139849",
-      "title": "Jahresabschluss DTV Bonaduz",
-      "category": "sport",
-      "description": "Jährlicher Abschlussanlass des DTV Bonaduz (Damenturnverein).",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.833,
-      "lng": 9.423,
-      "image": "",
-      "organizerUrl": "https://www.dtvbonaduz.ch/jahresprogramm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZZdu-QbjduLphRHNYO_f_pwUssVOKmqQMIzguUnJGFymmK94ImN604QHJKcyqbyafAwpDt789FG4aSgZyvyee5Y9usACdbhysyr_OLi46iWU47mYfq97bKBe92BPQhVg8ffw5zR0dsQVqzpRZygHzmdL0ERj6Sl_bDFHHTr_u"
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBRh4G67NxJxvoHhUcdfKdiCfRHSQ6PKs4b_RYc_f4ebgZAV4Wp7zrYUgjJmuwVRvFN8Hn7YTKKF1GGW_c751cwM3eJWy3XEV7HxVXpQijIGTkZxe6SX4NpBrbRd8WLWSdZgOCrBzeGm_YGAA2Rhjl5ZdkeW_8jIPIvHSUo2aQ7ecXj_e3X43AbzjpWAk="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM_F9eVQXVGA1FDR9rKqGTb9oY0qCyLD5eFM2yqihFAPjtW3SpqQ-I_wf8suqAChrGvnv1gv_qXNLCGfFXpdJyyEB3G_xmbuxqwGfZxgM9NAsNwbilhKBIx8orltwERAGpbfDE_79rbFIfIJFDKybu2aqoO1ybbeHOI07waqwGavUp_b8-Aup_Ss0="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdcd5djrfNRfsDCy32vkUaMU1CtRbrAPGyMHoBJwHKLXcJLIUDDEcNTt_7FnO4DwLn65FxoYUbkWcrKWGe0v6xDCx1rTgETFcggGB07n0EdEulMc7Vn_3McUXvk9TU0aRYLA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiMP6D0XAhIkBtegel3OMezGcf8N4M9FL3VT374JCLDNCfJsA48Lg7YnKUAMxHuLuXecIGucrfDobGp405IobpXCTddJpD_3PCXABk6V7HASbAYpXQujxraleq4Sd4QCSdb4youLModmQJsrjRu1HNW1ocHWA="
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:13:21.433Z"
     },
     {
       "id": "social-c8092edc1cb8",
@@ -32314,26 +31806,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-21fce0626dcb",
-      "title": "Eidgenössisches Schützenfest",
-      "category": "sport",
-      "description": "Einer der grössten Schweizer Sportanlässe im 2026, ausgetragen in der Bündner Hauptstadt und der weiteren Umgebung.",
-      "date": "2026-06-25",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Churer Rossboden",
-      "lat": 46.8498,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-571e8320fded",
@@ -35673,26 +35145,6 @@
       "scrapedAt": "2026-06-21T10:28:37.826Z"
     },
     {
-      "id": "social-8270857e0a57",
-      "title": "Natur z'Khur – Diin Isatz für d'Natur vor dinra Hustür!",
-      "category": "family",
-      "description": "Engagiere dich für die Natur vor deiner Haustür. Kostenloses Community-Natur-Event.",
-      "date": "2026-06-25",
-      "time": "17:30 - 19:30",
-      "price": "gratis",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://events.wwf.ch/en/natur-zkhur-diin-isatz-fur-dnatur-vor-dinra-hustur-bisch-dabi-4a6vVj1qe5/overview",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:29:08.311Z"
-    },
-    {
       "id": "social-02d1b9a02d42",
       "title": "Tennislager Kids",
       "category": "sport",
@@ -35901,26 +35353,6 @@
       "scrapedAt": "2026-06-21T10:34:40.200Z"
     },
     {
-      "id": "social-4762c4f78e02",
-      "title": "Grill-Spass Seniorenriege",
-      "category": "family",
-      "description": "",
-      "date": "2026-06-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.94,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:35:48.017Z"
-    },
-    {
       "id": "social-384ab91707a4",
       "title": "Grill-Spass-Abschluss Aktivriege",
       "category": "family",
@@ -36097,47 +35529,6 @@
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdJteLbAf4ERDejQGfzJw_Ta8L9wR0NwyVQWsjo0_WJn_6gx8s8Sy5WVSsaTerPZS74giGtX8dAU7a-qRW_TeqBsMbiFgUKjvlxc4DGcs2quje7JbUqhLuF2zI_M9IYOKwgE2KHbLqg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdlueN8CmGWAioN8maspsVJdwsONHrkgemmuHwY5BSCSw54I_XJYOvEOOdXMCCGrCejZ--64WzPaFldFOLfy5YwhkvZROTM-ANjWxj1w=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvmU3gE5t8eaRvBD-XZGOlRakpZ6AkW4LUa5gZq3Gd3XTd-JZhQCxbcwWg0tFe8wlLjtBGkfpPIeLrSrw1vxz_pv01dxiLfLOgO_JmTmtycL7m8zuiO3_C"
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANblN4Wse5cZCp6BL8rfJ69O_gyTA54SztDvO0MDlB_-f64yt-fHKTTbaXRxOn3jXopJgMuSYmQg_7u-jvlbj0KcYkG3CQY2Npyg7UhR-INOFJA=="
-        },
-        {
-          "title": "chur-kultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU_FLsDm3hIdHS-0nLjYjVhhUFTQ54f-89jbnxcsTmJ9_A5oRoZUnzTIqMQQsmVYEKXp0gQXUHjlV9Gr5hJyADJe95ZnYNIp9Q9-0e5vB9BQuLvBYUbJkufJCjF4O59bYo1fRiJfpi0lOu_RWpr7HtjkRhhanohQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-22T12:44:52.793Z"
-    },
-    {
-      "id": "social-e781e9bc53b4",
-      "title": "Buch am Bach",
-      "category": "family",
-      "description": "Buch am Bach Event an der Arbeiterkammer-Bibliothek.",
-      "date": "2026-06-25",
-      "time": "08:30 - 10:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Arbeiterkammer-Bibliothek",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
       "citations": [
         {
           "title": "graubuenden.ch",
