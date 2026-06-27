@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-06-26T08:46:13.039Z",
-  "eventsTotal": 240,
-  "eventsNew": 1,
+  "timestamp": "2026-06-27T08:23:26.904Z",
+  "eventsTotal": 238,
+  "eventsNew": 0,
   "eventsUpdated": 5,
-  "eventsEnriched": 5,
-  "enrichmentErrors": 0,
-  "eventsCleaned": 20,
+  "eventsEnriched": 0,
+  "enrichmentErrors": 5,
+  "eventsCleaned": 2,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -17,91 +17,91 @@
       "name": "LocalCities-Chur",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/chur/4865"
     },
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/domat-ems/4745"
     },
     {
       "name": "LocalCities-Felsberg",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/felsberg/4733"
     },
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/trimmis/4905"
     },
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/untervaz/4897"
     },
     {
       "name": "LocalCities-Zizers",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/zizers/4917"
     },
     {
       "name": "LocalCities-Tamins",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/tamins/4737"
     },
     {
       "name": "LocalCities-Churwalden",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/churwalden/4881"
     },
     {
       "name": "LocalCities-Tschiertschen-Praden",
       "kind": "gemini",
       "events": 0,
-      "error": "HTTP 404 beim Fetch von https://www.localcities.ch/de/veranstaltungen/tschiertschen-praden/4925"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/tschiertschen-praden/4925"
     },
     {
       "name": "LocalCities-Bonaduz",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/bonaduz/4701"
     },
     {
       "name": "LocalCities-Rhäzüns",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/rhaezuens/4721"
     },
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/malans/4949"
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/landquart/4945"
     },
     {
       "name": "LocalCities-Thusis",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/thusis/4641"
     },
     {
       "name": "LocalCities-Cazis",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
+      "error": "HTTP 403 beim Fetch von https://www.localcities.ch/de/veranstaltungen/cazis/4633"
     },
     {
       "name": "Konsum-Cazis",
@@ -112,7 +112,7 @@
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 6,
+      "events": 5,
       "error": null
     }
   ]
