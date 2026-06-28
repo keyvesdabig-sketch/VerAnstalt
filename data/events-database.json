@@ -1,26 +1,4 @@
 {
-  "portfoliovorbereitungillustration3monateinchur_2026-06-27": {
-    "id": 1779536094017,
-    "title": "Portfolio-Vorbereitung Illustration – 3 Monate in Chur",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Vorbereitungskurs für Illustrations-Portfolios über einen Zeitraum von drei Monaten.",
-    "date": "2026-06-27",
-    "time": "09:00 - 12:00",
-    "locationName": "Chur, Haus der Illustration",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/f/e5/06/fe5064799c766939b28a41d0cb512314afbbec7f_920292491.png",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/portfolio-vorbereitung-illustration--3-monate-in-chur-chur_AC5sPdq",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/portfolio-vorbereitung-illustration--3-monate-in-chur-chur_AC5sPdq"
-      }
-    ]
-  },
   "kirchenregionamrheinfamiliensonntagbenisboden_2026-08-09": {
     "id": 1779538004057,
     "title": "Kirchenregion Am Rhein: Familiensonntag Benis Boden",
@@ -1286,75 +1264,6 @@
       }
     ]
   },
-  "folkrockdanceburgfestival_2026-06-27": {
-    "id": 1779539081576,
-    "title": "Folk, Rock & Dance Burg-Festival",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
-    "description": "Folk, Rock & Dance Burg-Festival",
-    "date": "2026-06-27",
-    "time": "17:00",
-    "locationName": "Burg Castels Putz",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/02/1d/d021d3e036ed5db78f0e35289cf671f4e8dcc3c3.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4696587?eventDateTime=27.06.2026%20%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4696587?eventDateTime=27.06.2026%20%2017:00"
-      }
-    ],
-    "ticketUrl": "https://www.marchufnagllegacy.com/event-details/folk-rock-dance-burg-festival-2026"
-  },
-  "holzskulpturen_2026-06-27": {
-    "id": 1779539081371,
-    "title": "Holz Skulpturen",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Holz Skulpturen von der Werkstatt uf der Saga",
-    "date": "2026-06-27",
-    "time": "Siehe Beschreibung",
-    "locationName": "Werkstatt uf der Saga",
-    "municipality": "Malans",
-    "lat": 46.8488,
-    "lng": 9.5302,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/7e/f2/d7ef29a63793ff9bc8c1afabcd7ab415bee060a0.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=27.06.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741299?eventDateTime=27.06.2026"
-      }
-    ],
-    "organizerUrl": "https://www.holzwärcher.ch"
-  },
-  "klettersteigpartnunblick_2026-06-27": {
-    "id": 1779539082270,
-    "title": "Klettersteig Partnunblick",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Klettersteig Partnunblick",
-    "date": "2026-06-27",
-    "time": "Siehe Beschreibung",
-    "locationName": "7246 St. Antönien",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/8c/36/68c36f4848d56f9a95ad3527213e2241ab08d44b_925027556.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741301?eventDateTime=27.06.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/luzein/4909/4741301?eventDateTime=27.06.2026"
-      }
-    ],
-    "organizerUrl": "https://www.raetikonsport.ch/event/klettersteig-partnunblick"
-  },
   "tiefenentspannungmitklang_2026-06-28": {
     "id": 1779539084038,
     "title": "Tiefenentspannung mit Klang",
@@ -1555,28 +1464,6 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/daniela-keiser-oregano-chur_AKFYbHB"
-      }
-    ]
-  },
-  "alpinwanderkursindertektonikarenasardona_2026-06-27": {
-    "id": 1779567487352,
-    "title": "Alpinwanderkurs in der Tektonikarena Sardona",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "In diesem Kurs hast du die Gelegenheit dich mit dem Alpinwandern bekannt zu machen. Wir werden meist im T4 Bereich unterwegs sein. Ausserdem entdecken wir während dieser drei Tagen die faszinierende Tektonikarena Sardona. Wir bestaunen die verschiedenen Landschafts- und Naturelemente dieser Region.",
-    "date": "2026-06-27",
-    "time": "Siehe Beschreibung",
-    "locationName": "Tamins",
-    "municipality": "Tamins",
-    "lat": 46.8298784,
-    "lng": 9.4068316,
-    "price": "CHF 760.- inkl. Unterkunft, Halbpension und Kursleitung",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/b5/58/bb5586ad7b8efcfb3e12468a5fa74d9183aa4c8e_910824151.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4653381"
       }
     ]
   },
@@ -2994,30 +2881,6 @@
       }
     ]
   },
-  "ringelspitzpizbarghis3247mhochtour_2026-06-27": {
-    "id": 1779962198765,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-06-27",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=27.06.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=27.06.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
-  },
   "ringelspitzpizbarghis3247mhochtour_2026-06-28": {
     "id": 1779962200370,
     "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
@@ -4387,30 +4250,6 @@
       }
     ]
   },
-  "schweizerwandernachtnachtpfadederviamala_2026-06-27": {
-    "id": 1781258173468,
-    "title": "Schweizer Wandernacht: Nachtpfade der Viamala",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Geführte Nachtwanderung entlang der viaSpluga durch die Viamala-Schlucht bis nach Andeer, inkl. Frühstück im Hotel Fravi und Eintritt ins Mineralbad Andeer. Online-Anmeldung erforderlich bis 17. Juni.",
-    "date": "2026-06-27",
-    "time": "22:45-09:30",
-    "locationName": "Bahnhof Thusis",
-    "municipality": "Thusis",
-    "lat": 46.6982369,
-    "lng": 9.4405157,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/c9/be/bc9beef34344a0a41e102d017132874ebf9116c8_803282420.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4792877?eventDateTime=27.06.2026%20%2022:45%20-%2009:30",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4792877?eventDateTime=27.06.2026%20%2022:45%20-%2009:30"
-      }
-    ],
-    "organizerUrl": "https://viamala.ch/",
-    "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020013662967786#/"
-  },
   "schweizerwandernachtnachtpfadederviamala_2026-06-28": {
     "id": 1781258174137,
     "title": "Schweizer Wandernacht: Nachtpfade der Viamala",
@@ -4714,29 +4553,6 @@
     "image": "https://konsum-cazis.ch/wp-content/uploads/2026/06/attila_vural1-e1781426892259-1024x1024.png",
     "sourceUrl": "",
     "sources": []
-  },
-  "sommerlagercevijungscharzizers_2026-06-27": {
-    "id": 1781523879892,
-    "title": "Sommerlager CEVI Jungschar Zizers",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Sommerlager in Churwalden",
-    "date": "2026-06-27",
-    "time": "Siehe Beschreibung",
-    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
-    "municipality": "Zizers",
-    "lat": 46.9348,
-    "lng": 9.5667,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/uploaded/5/34/ea/534ea1a22e483d70d3340ddca12dcbf72f894be7.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4807295?eventDateTime=27.06.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Zizers",
-        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4807295?eventDateTime=27.06.2026"
-      }
-    ],
-    "organizerUrl": "http://www.cevi-zizers.ch"
   },
   "sommerlagercevijungscharzizers_2026-06-28": {
     "id": 1781523881481,
