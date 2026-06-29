@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T09:54:57.653Z",
+  "lastUpdated": "2026-06-29T11:54:04.019Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -1241,27 +1241,6 @@
       "legacyId": "social-1779631988761-Zizers-10"
     },
     {
-      "id": "social-cce9837b1547",
-      "title": "Eidgenössisches Schützenfest 2026",
-      "category": "sport",
-      "description": "The Swiss Federal Shooting Festival, with the shooting range in Cartschitscha as one of the venues. A public festival restaurant will be open on these days.",
-      "date": "2026-06-28",
-      "time": "08:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Schiessstand Cartschitscha",
-      "lat": 46.85,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/eidgenoessisches-schuetzenfest-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:49.600Z",
-      "legacyId": "social-1779632029600-Tamins-19"
-    },
-    {
       "id": "social-ae757c5e28cb",
       "title": "Eidgenössisches Schützenfest 2026",
       "category": "sport",
@@ -1449,48 +1428,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:13:49.600Z",
       "legacyId": "social-1779632029600-Tamins-28"
-    },
-    {
-      "id": "social-b7e1d31efcad",
-      "title": "Parpaner Sonntagsmarkt",
-      "category": "markets",
-      "description": "Traditioneller Markt für Neues und Antikes sowie Bündner Spezialitäten. Im Sommer 2026 finden wieder 5 Märkte statt, jeweils an einem Sonntag im Juni, Juli, August und September/Oktober.",
-      "date": "2026-06-28",
-      "time": "09:00 - ",
-      "price": "Gratis",
-      "municipality": "Churwalden",
-      "locationName": "Parpan",
-      "lat": 46.8016,
-      "lng": 9.5709,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/event/parpaner-sonntagsmarkt-8430635",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtJ0EpPK3CxSB2Le_ssheIk7fLbvNvRQjzZForsIX1zX6QzbaF759eN_bvhLwUnMweXW_xQvTJoW9W2wzxaKE1rdqtmLurojJgsZQW5u0HBtRUTt9k_SjYoVtTUPISl_P5unX5-nhnM5paSdegEQDJIiNg7I5PFusqSptMslF3PRZ-f-Bj_HkBUHsbURVDLpc="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif-qvfRNC3B0HRCmJ66jphF1OrDa_aWRK-ltwl6rRhcWBIGWN6xUt4MUyyc6bnujLH-yUWvGVDz4cAl69_H5n-Y18Y2piL2SjeXLZIBvlz0bfINDfWAB7DtHoUmKb5X03jVcSpp5paPb1a_gz2Tb2t-sdz8SciB0cWoZW6X8BqkEI6LRbxH_3DK1kD7thAbMR3g=="
-        },
-        {
-          "title": "arosalenzerheide.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhfEw8zB_KVOOqUvo1ksuxn6CFvl5DllSBm2gTNjUZnQXsAojbMNIJhbE7eNF7FlACu-gEHQsQFAn7-RoXQRBdgPU60D8WnNAxH2j8yTivv8lGXgBudYh28YLR288o52oG04tRYnhqctqSfdbyu2ctgGCL8edgUZatB1fHf93eGvT2ni6W4fjbaskY9TS2yT-PtiXrO3mi58gceEKGa0mXIpqhnKa_pX060JyHpD-5a4BofmExPd4fpZwPF2ZEywKTd9nagg=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6qwW1qgTCB7e8Q8yWCDNr3D31mW3bspLLBeSp3xr6DZWVF0niL2J__dVmQjjHVR-6AYrYTvdPFgvgsXP1Un0WuuAxdEXjFU5GF2e2nTetOuL-TMgzpaR2PBzXec-5GOKmqjmEIr7cny02t3-8WDKdLEQRpw1EXw=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwIT0NmQQThnxMtCXoLDrp1tonvV_TLK8hnSYfLQkJku1ZVATd0KJJtZ5D8WyZJBn0VJ3nPnc6FWXbfflesFWW0WLMiaL8fGTp73_FUkIlpibKaoTNxcDDqRoBKD4wjPh5A-Hie6iO3ylW-GaGwUOAQhKuwcl8ErraLwNFk0jWbOtg4aAH5kYxfrFQlgV1w2WUvDUtrdXXEnTt38XPAgwClY8-aJQ2Rw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:14:23.487Z",
-      "legacyId": "social-1779632063487-Churwalden-1"
     },
     {
       "id": "social-4341a2a0c203",
@@ -1869,48 +1806,6 @@
       ],
       "scrapedAt": "2026-05-24T14:14:23.487Z",
       "legacyId": "social-1779632063487-Churwalden-10"
-    },
-    {
-      "id": "social-b83ef0699c9a",
-      "title": "Bergfest Tschiertschen 2026",
-      "category": "music",
-      "description": "Stimmung pur mit Musik von Sauguat, ZPUR, Inderbitzibuäbä u.v.m. sowie Festwirtschaft im grossen Festzelt.",
-      "date": "2026-06-28",
-      "time": "17:00 - 02:00",
-      "price": "Ab 10.00 CHF",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Parkplatz Tschiertschen, Pajüel",
-      "lat": 46.83,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://www.eventfrog.ch/de/p/volksfest/summer-festival/bergfest-tschiertschen-2026-7289569032742915830.html",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/volksfest/summer-festival/bergfest-tschiertschen-2026-7289569032742915830.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk545UWiMimYo1WAVzsJSFEWvQkbZN5oo6TOSBIP8I-hBVPXgTxvldtWxFl-fOznx3pIjzNlU8ViniiC2cnaBiohQSXqv5m3cQNyXEWlqCJA6Tu_V5tlDG132rIMGiwe3WlQQkuRdKHAEqtxkv-QBzB_mMuI6G9LdWJJpzoAI4roI0fdpgsl_hARzzarXQuFWQ2LTlaPWwMQ-lTr6QQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1shb0v9oFuGAHnY8y60Ddr8zz8c4trkWG8jcfNQj1K7KUkhmIqy9MLwsJGA4MPEjPwnpu_o20CQ6AZ0xo-XgqMSwdAVVntMaXtxDZq_2WjeG7Masd_mbwFL9DH1MdeGyA0YocBHdgENTF4cyieElxftMGceEtIK5KjrOK5UlWy6q-dDiL9dVe-OeIox3ZMfwEQQJn0jV2M6qEZNaw3Q=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJOp2z4GaHZX6FZyFWhhgBzDt4Lvsn2Y4TkxTucWVdjrbllDXMyCvIvPMDJNR-LXxoWF5RxkKt7NJfz-J8N8dTLia4OKosD798D9vznYrBdyUCnlArlgWC7nnzT2NMfPFngukWDs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzy86lqnz9ONH-a4KbfdVHkMxSnq7FouP5lHXAD0BDRIiS5lu3SUbk54YrslfsVTEck8grFIxbJxrzs-C1QOXIt0ZkzVwdonZ-yDxhJ5G_ex75OeJ1Rgx8ayialzmmuHGJhicGqkBkAhx4E6gopELifObC0wF1kI8GUiy9IhbHs8o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8HXmRmbCCALk_RbuES9IMKsxtTAMcR_g3HwLfP8YEEPZ6wVFRrt3WbEV17FuKNLp8cLRYgyTRyhqnw3VQLNduMWurFhLEXoyiTedozaO_Ed877zahKvBCfY2hozUPU_QA2yHeIR0k8LIUKp8xzksVegvipQOdICMg6lUPraku6dA="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:15:00.434Z",
-      "legacyId": "social-1779632100434-TschiertschenPraden-2"
     },
     {
       "id": "social-271a8bfc4a71",
@@ -4825,88 +4720,6 @@
         }
       ],
       "scrapedAt": "2026-05-27T11:00:54.781Z"
-    },
-    {
-      "id": "social-726263e302b4",
-      "title": "Eidgenössisches Schützenfest 2026 - Aussenstandort Thusis",
-      "category": "sport",
-      "description": "Die Schiessanlage Rheinau ist Teil des Eidgenössischen Schützenfests 2026. Zusammen mit dem Schiessverein Beverin bilden wir den Aussenstandort Thusis für das ESF 2026.",
-      "date": "2026-06-28",
-      "time": "08:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Schiessanlage Rheinau",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.schiesssportrheinau.ch/esf-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqJW36c_66V-8yx1Ci_en9kQRVTQfYcQYyAuNKfuZtRnS-ejG5paovkIckGvDXy2WaFVZhmu8vdHIOkk6xdr6JyTBwHPuLjVv9NuTRT-uDOpdSyt7xFrgGk2hWYUqMpkGCv67w37v6TMgX_DulOTuC5A6MUmn3TS3nWZU"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETrMBzX1nHyePPswJ_k8MDTmEN5GGRb7JCKi59GU5rskL1VCOjssTFhe2B1JBnXxzCWeK9Gp6YEobRrVj-1-ZjEDSSK1mZi4wWuhIUhA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYrYCwu2S85bS1n0aAseXheKZd2QZU5VoZXTXLxz6VWoQytcTOIjYandjmhD8upWgEYYVkKUwlOiaAnZERmWuhQlIzohrE-r6GUVWUtMGIFkyoM3MhSk8rYkZUtk5HBWAZHvZdhkocdgLe_63nA2nEOC4kjebgTDIShlM7bOTSuLPy3snFGxgfWbymC5fBXHYYayucoDY="
-        },
-        {
-          "title": "ssp-rheinau.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMyv2--lxVf7BTZ39IZw3fpCPGbi2oQawdrpIC2AYev8-ybJJu1clKWqEgAtPf7ITXYlNChFfGvue_90rITZ577AnGfvgSwnejevW47YlAIysiOfH5LFeXez74"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_ch-M6ZZcPjh2r5QaA4hOfTIJ1Q5LAExeMSTknftQXKF-Pca_oPate0hVg-yYmGgno7mcF4WGeolzCnOc2kO6kCsIW_H-xI6JRUur8y-kKRL5tigvoH888lA335z5J8QC9tQE5ZMFPjDjxzsiFEPSOPBtA7b9P6XKQwfVAc1vJHgqlUcXowxX-XXKV5a"
-        }
-      ],
-      "scrapedAt": "2026-05-27T11:01:55.774Z"
-    },
-    {
-      "id": "social-0ae6f957d57c",
-      "title": "Schweizer Wandernacht: Nachtpfade der Viamala",
-      "category": "sport",
-      "description": "Erlebe die Nachtpfade der Viamala während der Schweizer Wandernacht.",
-      "date": "2026-06-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqJW36c_66V-8yx1Ci_en9kQRVTQfYcQYyAuNKfuZtRnS-ejG5paovkIckGvDXy2WaFVZhmu8vdHIOkk6xdr6JyTBwHPuLjVv9NuTRT-uDOpdSyt7xFrgGk2hWYUqMpkGCv67w37v6TMgX_DulOTuC5A6MUmn3TS3nWZU"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETrMBzX1nHyePPswJ_k8MDTmEN5GGRb7JCKi59GU5rskL1VCOjssTFhe2B1JBnXxzCWeK9Gp6YEobRrVj-1-ZjEDSSK1mZi4wWuhIUhA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYrYCwu2S85bS1n0aAseXheKZd2QZU5VoZXTXLxz6VWoQytcTOIjYandjmhD8upWgEYYVkKUwlOiaAnZERmWuhQlIzohrE-r6GUVWUtMGIFkyoM3MhSk8rYkZUtk5HBWAZHvZdhkocdgLe_63nA2nEOC4kjebgTDIShlM7bOTSuLPy3snFGxgfWbymC5fBXHYYayucoDY="
-        },
-        {
-          "title": "ssp-rheinau.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMyv2--lxVf7BTZ39IZw3fpCPGbi2oQawdrpIC2AYev8-ybJJu1clKWqEgAtPf7ITXYlNChFfGvue_90rITZ577AnGfvgSwnejevW47YlAIysiOfH5LFeXez74"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_ch-M6ZZcPjh2r5QaA4hOfTIJ1Q5LAExeMSTknftQXKF-Pca_oPate0hVg-yYmGgno7mcF4WGeolzCnOc2kO6kCsIW_H-xI6JRUur8y-kKRL5tigvoH888lA335z5J8QC9tQE5ZMFPjDjxzsiFEPSOPBtA7b9P6XKQwfVAc1vJHgqlUcXowxX-XXKV5a"
-        }
-      ],
-      "scrapedAt": "2026-05-27T11:01:55.774Z"
     },
     {
       "id": "social-475b6c2fc256",
@@ -9806,88 +9619,6 @@
       "scrapedAt": "2026-06-01T12:33:34.997Z"
     },
     {
-      "id": "social-7f8cd24452fa",
-      "title": "Parpaner Sunday market",
-      "category": "markets",
-      "description": "Traditional market for new and antiques and Bündner specialities.",
-      "date": "2026-06-28",
-      "time": "09:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Parpan",
-      "lat": 46.76,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/parpaner-sunntigsmarkt-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
-    },
-    {
-      "id": "social-000608434273",
-      "title": "Sommer, Sonne, Krone-Grill – genussvolle Sonntage",
-      "category": "family",
-      "description": "Enjoyable Sundays at Hotel Krone Churwalden.",
-      "date": "2026-06-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Hotel Krone Churwalden, Hauptstrasse 155",
-      "lat": 46.78,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/en-ch/experiences/events/sommer-sonne-krone-grill-genussvolle-sonntage/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
-    },
-    {
       "id": "social-7c6ee2627595",
       "title": "Flohmarkt Churwalden",
       "category": "markets",
@@ -10665,43 +10396,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:38:01.505Z"
-    },
-    {
-      "id": "social-60591e99b682",
-      "title": "Kirchenkaffi nach dem Gottesdienst",
-      "category": "family",
-      "description": "Kirchenkaffee organisiert vom Pfarreirat Rhäzüns nach dem Gottesdienst.",
-      "date": "2026-06-28",
-      "time": "09:30 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Pavillon, Rhäzüns",
-      "lat": 46.81,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/termine-events.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqgW8OLInHha-2R-Sw7i57aZ-8ZFEAsLJwj4hWe-UqgrznVA_BKkBS20Pi3AijiY4LQb60e41GpaoPfrb8mXEuFmmH9ZwB9I2EwnBrTa0gFowoBQvLQfGchKEDQxiFapRVlGKnNGL7xbowN3bstkE="
-        },
-        {
-          "title": "kirchgemeinde-rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH19NlVGg21oals8R2Pqwqsn9bn4VY7WQ33ndt2hPOtWIxYKjzVRBG_5InQOyMR3ye0xd5IUsHW40jSf0UgPYyU9lWLxtWjSwcELlUEp860183Nz5HvqGvhSUBN3hrHjAymqA=="
-        },
-        {
-          "title": "118-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjv4IJRnPvU7ENaXHnqp4SFrRFUTrL3oNKSX3FLUURLnzBnIJBOc4W1mhnmUY6n6hzYUkidsIj6NxxnOrYhYmTSoAoAy5-A0PcZotASBAZ4B47e-eDa63oseqO3p2thHXZ4qlt"
-        },
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ULUDGNNtMB8Ky3ul5x8xVQZeTrsiXM9YanjkseVk_AF_hAn8v7-P2eb5Q5YuZmL37WPCpuoQfGzqwRJbuEA7ASSZX9hxp3cpbJwMqVPxf6Ua3oS2cv5cZg3h0Ple8aMO9UcHb0D5DMHZCaE="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:39:33.350Z"
     },
     {
       "id": "social-708becd5bae3",
@@ -15616,26 +15310,6 @@
       "scrapedAt": "2026-06-05T10:49:42.490Z"
     },
     {
-      "id": "social-5416accf6bfa",
-      "title": "Kirchenkaffi",
-      "category": "family",
-      "description": "Pfarreirat Rhäzüns lädt zum Kirchenkaffee nach dem Gottesdienst im Pavillon ein.",
-      "date": "2026-06-28",
-      "time": "09:30 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Pavillon",
-      "lat": 46.8105,
-      "lng": 9.3808,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-05T10:50:12.456Z"
-    },
-    {
       "id": "social-0c5976022d6d",
       "title": "Schneewittli",
       "category": "stage",
@@ -15896,88 +15570,6 @@
         }
       ],
       "scrapedAt": "2026-06-06T09:23:43.715Z"
-    },
-    {
-      "id": "social-d5e6ad1eaed9",
-      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
-      "category": "sport",
-      "description": "Das Eidgenössische Schützenfest findet in Graubünden statt, wobei Bonaduz einer der Schiessplätze ist.",
-      "date": "2026-06-28",
-      "time": "Ganztägig",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz (Schiessplatz)",
-      "lat": 46.8288,
-      "lng": 9.3879,
-      "image": "",
-      "organizerUrl": "https://www.bonaduz.ch/aktuelles/termine-events.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrZO-TPSAk4p_oy1qceoIe9D2pyRO5ShGdjzbO06f3HXOiYF5tCIiTlQUwd-tdg_pmReRcjUFx30qS4jVEdRdL2vMCEENqKJyYwgn-tZ_gbSnji7hPKBwx_v-2GEqmtSle6nc0qFyQ8Lc="
-        },
-        {
-          "title": "schweizerbauer.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWAutkiVurKg_63tH89yiD0qciU8IooCcNQTY7Hsip5UsiIhku6zpykmF_NkpI783QYbzMPtyIlboUtBeMsp-lMIrEJdhJyWl5ji7_CVHjSI7zmzsUJnWZisoEetJ6VjzFzHI4_rqoGHTASei9M7X-0q2Uzb44UdIkO1t9_-Hy3brjl1PizX0my6gYT5cOnovg6yYXt6zj7nt2u-fLsK-n6LejTcU="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkNX1uOfy4v6IznBFaibiNBv8WrQtyRxqUotVaMR3IThWhjqeBBMjCqraEFh7epguUfgZWJm4FlqNk55GY0xMKxPLeZ9Bo9JVdGjy5VCbUXWDVZH7IL_wgHoJrMsqXpPhI"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3vPFm2tOHe3OlBrBOywU_J-LQG_6F5SVYie_-Flv68THdMTU02FOT6TzRrOQ2wY8lgjg7vxr8h4uBAcn_1Rn50qpa0UmzHhLP0bU_dcc3tXXPTK84dhFYP3iZUM="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx47FNd3zcRadvmRsFl8jfoEpk9nyjjLkuvaUPMA4qobT4XJoj4UWcFBaC0HiaLyplQaokoDXrYhNYOavyyQC2KgMwE2njt5bB-thV_-KFASpJqrTTVGUSC3eubp-wMf8="
-        }
-      ],
-      "scrapedAt": "2026-06-06T09:27:52.806Z"
-    },
-    {
-      "id": "social-fb86befe52d2",
-      "title": "Eidg. Schützenfest Chur/Graubünden 2026 - Schiessplatz Malans",
-      "category": "sport",
-      "description": "Eidgenössisches Schützenfest mit Schiessen auf dem Schiessplatz Malans. Inklusive Shuttletransport und öffentlichem Gastrobetrieb. Lärmimmissionen sind freitags bis sonntags zu erwarten.",
-      "date": "2026-06-28",
-      "time": "08:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Schiessplatz Malans, Schützenhaus Heubergweg",
-      "lat": 46.99,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/veranstaltungen-termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXMOmAQGSnYn3aHlYRNBPbwCnEaj4njaZ9YkzpfyE9XQUrl9ZV6LTr2IjtZhTTg7-Md8K8hIPfOyRV-UUdYw7BVSPUZSxEEjEUFGcBEW3PVhqY1NUNoFtMT5y9CMw="
-        },
-        {
-          "title": "sternen.cafe",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxNeYL10i7G76J2IZdxCQ_q5XLmdfEfKaG1qPQhYZLUDFzI4goM5sAAabzktq1sH9gCMGXIuHCUDXykR0HEuupFvNaJYXxV3elPo8fD1xC2XwdidXwp9QYhe0="
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe2b9Aji2qDTgci-9sFNH4WrcjX1DpTidxc61eNT8pYQrzOmY1QicUSy-OgVJQAuGnajGPBLkRY_GKk-1rE57hPbEh5QN9-M_lLPl0u7p5XSGwa4VkT77u_KP2Oi-aiAST"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzo_iMKAeZU2oVnbOfeTitAFkT_e1ap5-RNn8zGudTxDGdjIJd8OhqH-d8qrnIyC7aUtQoRgUa3qXmknmpdnCGMSTekCJLEtt2lvetQ8KtWF0K2N4mm0yc19inDyWC1uY="
-        },
-        {
-          "title": "aelplibahn.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGzD1yJ24vczZUpdQUBzxwguTnfPXlFj2voHwN7T6mVoR75UZquRfkao0oiwTihCcCnIrd0zzCQaoWsu8pvliA2jf9PNpuUdRRD7GiyGUge3SIZ6eeqn2BqLOWcsjLRrxiu1X4SQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-06T09:29:36.945Z"
     },
     {
       "id": "social-82ad8e4ab3ca",
@@ -16940,26 +16532,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:00:28.044Z"
-    },
-    {
-      "id": "social-c205ee4223ac",
-      "title": "Medientag und Grill SC Rhäzüns",
-      "category": "sport",
-      "description": "Der SC Rhäzüns veranstaltet einen Medientag mit anschliessendem Grillfest.",
-      "date": "2026-06-28",
-      "time": "09:00 - 23:45",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns",
-      "lat": 46.815,
-      "lng": 9.38,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:04:26.672Z"
     },
     {
       "id": "social-b763dd81832d",
@@ -18865,47 +18437,6 @@
       "scrapedAt": "2026-06-08T12:02:50.913Z"
     },
     {
-      "id": "social-8e52521e7076",
-      "title": "3. Churer Orgelkonzert 2026",
-      "category": "music",
-      "description": "Das dritte Orgelkonzert in Chur für das Jahr 2026.",
-      "date": "2026-06-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/jazzchur-restaurant-da-noi/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH37aweLUVjwQXgWG4MAWfmrx2bDUQ5nK7IUBejciZrVLbWUrF8xdd1OsIe3qDdCSiczRpRVj0IfyigwctQxoEwwp4l6ASxCEKX5mEiV1DRDfCI1LU0Rn_fWSEU2rpGL7XMGnEgPPEaiA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZLkztDpEbWRrBzW5qLZgWJi38QzqZ1VSRl78dsm_lICFM4s8jel8u1jdvcrfwO3nXEvAEZqWaNoTBALDJjMjLptm-imcfL6YbScLCEQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQtqOmKQoVjXBoFa01dEixI4bGTjjmc3M1LTTfpNMhJUI5-DRhDb19MhqwAWkdOEjma50Tp0Wdcfi7qwSgX942_5H-hC-MbtvSxe5aQoqR2o4v_do4mWSGrmJDNkCltlqwGx5hMcTpQ_E5zVmV"
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSdUa639TK6RjEM2vy3ou8eBSb5rka-FeyIYxT0fNAa8MId9EpuWhuUdkM6eaG0IQtX1vxAjfB2tDnH_zAWCCQA4C8GGReWEGR_2MVEe91Z3mrbIguZIXNHm042UG9bAOTQgCoG3u1BuQ7msTDFv4tNG8TFlOdPRNu8i4_FnWTuRNOMNOKvFATZ98K_X9aKdJcbA_zpQtpwruRhJRit5aH6bs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUnyijd--tge4poCTyQPmlhI2KKWcSmcZ3QIXeyLS-5s51nXW7baqCTm-k5mKN6IykyS5tHqkNQNtjY5xTMH6O_YoQDrDhcUuYeeIg8d1TbM7J3oSMWzveUCXbU80VUjfUTp5ogXG_2DEe6DFsi4YqwNIyVONokO9swNEAu0KNjcA="
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:30:47.990Z"
-    },
-    {
       "id": "social-408e147776f1",
       "title": "Jass-Treff",
       "category": "family",
@@ -18984,88 +18515,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-09T10:32:14.761Z"
-    },
-    {
-      "id": "social-66b5e9ebb80a",
-      "title": "Tour Brambrüesch",
-      "category": "family",
-      "description": "Führung auf Brambrüesch.",
-      "date": "2026-06-28",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Brambrüesch, Churwalden",
-      "lat": 46.81,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/events-in-churwalden/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XF0fL6C42w9BN2bXRk6X-FvqOvoAvfVxK3tPHQUutmFrcOgN8oCW6oItcMTqIVxq1FjoLydAz9U2h66e1Owh2A4z0ukjs2vvWjzJIX15iKiRLYqg2Be8wxrlTenoAUnU0wlPIu-1E7InMZ9sCr8="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdC9bOTKQ842-t8Xw8p7z6gwGjiBzcIk1GbSJqC_wk99hyj1OCrttSyiA_25LFNSdxAMIyDO046h-nwvqGajG0SImxFixtC7XBEunYG5lqwYC2BK4_YRcqO8e36_QTnx7Crv0Kn30TbQGlNPZq4iKuzdok3dpjrR0="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dQHr49x6EvmXcEvbQ7f6V65Zkcf-q02W8R981nQKvUSNO7fjr95qvwg5rirRfN76alxbCv_zBP8JO71R45FQo0Z55NkI-Mof0Qw8AkFSAaGmYiFwCkFrV5pdEAbHj8TKJ_N5TZCQGQF-cNh0oK1a-qApqmBeWmYjyRnjkFxDTSibGnvMR-TPexXx-TI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGowCzkD4Pm_i3-8tAuU1dg4xKaYTYqQ-D-xJz-X0mWWH_F_-3KvNqmbvSCgBINLBoU2zQDjnvEIV7RCkgUoxj91vPTXGzxpKLM_a74K4qwO92obqxCyG2tiv_ckU3Ai7rkyK5Cqq4siBL2-33wFCwoZMTltvEH7AxfF8e875l2eosihpZjcoU8CNCchtGOWaECJCyoQjQZ3Bj0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQnaRtsMmKSnRojPKPhqDlNu93pxonU5kM_8wwDk31qkWeuu7_4qlbib8uUgOIXX_7sk1XUufMNLd2Q1whekKhogEOC9_v8ndJnxJG2gtaN4ni69Beq6_vC3l7ROIp_XiwDlU4dXAPORQGELLQ0rz63xdH5Bwk8gyfEo8S1CYEy9kCM-mgYi8_XV5Ov21"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:35:59.371Z"
-    },
-    {
-      "id": "social-1648565e641b",
-      "title": "Summer, sun, crown grill – enjoyable Sundays",
-      "category": "family",
-      "description": "Genussvolle Sonntage mit Grill.",
-      "date": "2026-06-28",
-      "time": "12:00 - 18:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden",
-      "lat": 46.77,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/events-in-churwalden/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XF0fL6C42w9BN2bXRk6X-FvqOvoAvfVxK3tPHQUutmFrcOgN8oCW6oItcMTqIVxq1FjoLydAz9U2h66e1Owh2A4z0ukjs2vvWjzJIX15iKiRLYqg2Be8wxrlTenoAUnU0wlPIu-1E7InMZ9sCr8="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdC9bOTKQ842-t8Xw8p7z6gwGjiBzcIk1GbSJqC_wk99hyj1OCrttSyiA_25LFNSdxAMIyDO046h-nwvqGajG0SImxFixtC7XBEunYG5lqwYC2BK4_YRcqO8e36_QTnx7Crv0Kn30TbQGlNPZq4iKuzdok3dpjrR0="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dQHr49x6EvmXcEvbQ7f6V65Zkcf-q02W8R981nQKvUSNO7fjr95qvwg5rirRfN76alxbCv_zBP8JO71R45FQo0Z55NkI-Mof0Qw8AkFSAaGmYiFwCkFrV5pdEAbHj8TKJ_N5TZCQGQF-cNh0oK1a-qApqmBeWmYjyRnjkFxDTSibGnvMR-TPexXx-TI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGowCzkD4Pm_i3-8tAuU1dg4xKaYTYqQ-D-xJz-X0mWWH_F_-3KvNqmbvSCgBINLBoU2zQDjnvEIV7RCkgUoxj91vPTXGzxpKLM_a74K4qwO92obqxCyG2tiv_ckU3Ai7rkyK5Cqq4siBL2-33wFCwoZMTltvEH7AxfF8e875l2eosihpZjcoU8CNCchtGOWaECJCyoQjQZ3Bj0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQnaRtsMmKSnRojPKPhqDlNu93pxonU5kM_8wwDk31qkWeuu7_4qlbib8uUgOIXX_7sk1XUufMNLd2Q1whekKhogEOC9_v8ndJnxJG2gtaN4ni69Beq6_vC3l7ROIp_XiwDlU4dXAPORQGELLQ0rz63xdH5Bwk8gyfEo8S1CYEy9kCM-mgYi8_XV5Ov21"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:35:59.371Z"
     },
     {
       "id": "social-49f7810a626c",
@@ -19601,26 +19050,6 @@
       "scrapedAt": "2026-06-09T10:37:28.392Z"
     },
     {
-      "id": "social-ab4e66672110",
-      "title": "SC Rhäzüns Medientag und Grill",
-      "category": "sport",
-      "description": "Medientag und Grillabend des SC Rhäzüns.",
-      "date": "2026-06-28",
-      "time": "09:00 - 23:45",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns",
-      "lat": 46.822,
-      "lng": 9.389,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-09T10:38:18.586Z"
-    },
-    {
       "id": "social-83eb88e7f7b1",
       "title": "Führung Kirche St. Georg",
       "category": "family",
@@ -20124,47 +19553,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:52:25.650Z"
-    },
-    {
-      "id": "social-bef2a43670ef",
-      "title": "Street Art Festival Chur",
-      "category": "stage",
-      "description": "Chur verwandelt sich in eine offene Urban-Art-Galerie: Internationale Artists gestalten Murals & Live-Paintings, dazu Jam, Workshops, Battles, Street Food & Drinks – ein kreatives Erlebnis für alle!",
-      "date": "2026-06-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Chur",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/street-art-festival-chur",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
     },
     {
       "id": "social-0d9acf2ac8e0",
@@ -21181,26 +20569,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
-      "id": "social-099d543e8980",
-      "title": "Pfarreirat Rhäzüns Kirchenkaffi",
-      "category": "family",
-      "description": "Kirchenkaffee des Pfarreirats Rhäzüns nach dem Gottesdienst.",
-      "date": "2026-06-28",
-      "time": "09:30 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Pavillon",
-      "lat": 46.816,
-      "lng": 9.425,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T11:00:08.726Z"
     },
     {
       "id": "social-170dbcc90cb9",
@@ -22635,26 +22003,6 @@
       "scrapedAt": "2026-06-11T11:26:33.609Z"
     },
     {
-      "id": "social-28f6adc5029b",
-      "title": "Pfarreirat Rhäzüns. Kirchenkaffi nach dem Gottesdienst.",
-      "category": "family",
-      "description": "Gemeinschaftliches Kirchenkaffee nach dem Gottesdienst, organisiert vom Pfarreirat Rhäzüns.",
-      "date": "2026-06-28",
-      "time": "09:30 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Katholische Pfarrkirche Mariä Geburt",
-      "lat": 46.7997,
-      "lng": 9.3993,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/aktuelles/termine-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-11T11:27:18.225Z"
-    },
-    {
       "id": "social-f607785b96cb",
       "title": "JazzChur @ Polenta Jazz Club JazzChur Hausquartett",
       "category": "music",
@@ -23120,46 +22468,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:04:27.610Z"
-    },
-    {
-      "id": "social-439b62cad3f1",
-      "title": "SC Rhäzüns - Medientag und Grill",
-      "category": "sport",
-      "description": "Medientag und Grillanlass des Sportclub Rhäzüns.",
-      "date": "2026-06-28",
-      "time": "09:00 - 23:45",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns",
-      "lat": 46.77,
-      "lng": 9.38,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/termine-events.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:05:09.900Z"
-    },
-    {
-      "id": "social-eab753ebb1f2",
-      "title": "Kirchenkaffee nach dem Gottesdienst",
-      "category": "family",
-      "description": "Kirchenkaffee nach dem Gottesdienst, organisiert vom Pfarreirat Rhäzüns.",
-      "date": "2026-06-28",
-      "time": "09:30 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Kirche Rhäzüns",
-      "lat": 46.77,
-      "lng": 9.38,
-      "image": "",
-      "organizerUrl": "https://www.rhaezuens.ch/termine-events.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:05:09.900Z"
     },
     {
       "id": "social-02242a901c56",
@@ -24107,47 +23415,6 @@
       "scrapedAt": "2026-06-13T09:59:04.126Z"
     },
     {
-      "id": "social-8e72705e8d09",
-      "title": "Eidgenössisches Schützenfest Chur/Graubünden 2026",
-      "category": "sport",
-      "description": "Eidgenössisches Schützenfest Chur/Graubünden 2026, organisiert vom Schützenverein Bonaduz.",
-      "date": "2026-06-28",
-      "time": "00:00 - 00:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Chur/Graubünden",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.bonaduz.ch/de/gemeinde/termine-events/?action=showevent&event_id=1011664",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbiTwXAVNdi6Czq00mvMJBXDhIwQ4u8Ir3Xc82Y_lf_H5soiIG18ye39Gz0d3e56zh6DKR9RiwmjSvlYfj2ER1AcE8oucdjE011R6hxqSHhePub8="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC3t2m6GUXi8BIER7VkpehP8oktTu4QSJS-UXF97gMF3nZyJBqz5PR0581MCRO00ZA4E6fUFslZ7M10Ws7k6Q2p0nkDaIbeF0_r5SBr7Q2F5c-N0Vl8TGXQG-ABACOIbg="
-        },
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ReRjo97Jpc5l3P_K2p6ae5qnekvSZM5u4KW57GWCxdqNck1FA-bIOhjRaJLEnP78kFiQH3u_Im2Rf1ar65-bub3P2GCD1HvWUxDVMst7y8ghHIypH9hu8-xp75GCCO25rDEj44OOvag="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGszBhRksR_R6vAUmUsGVgHZH_T9D81gSM2uqq6VAmSp9KA9GQGrJ7KQabvPLNrZFIfSS1v7hcOo5WdCouBRv77nAUhZABOnGzYVD-YOURSWdupWChPW9nHmzcIwFMbB-s87wYJXhTX54Q4WR6LUv934gsu-nH9mF66MwSTGrU="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5l0koQqro7G8flQo07T0MECkLHy_umsgmA0WXjw75OPoKB7bIkiAY4me43OBM8iwGBEIK-BLjsn9N0WAk1X6kAmM8gXN6g4aAE8WQ6PHA1xAB_yj-D_3eHXCWk5PTL34L"
-        }
-      ],
-      "scrapedAt": "2026-06-13T10:00:41.293Z"
-    },
-    {
       "id": "social-f17892ec21e3",
       "title": "JazzChur @ Sternen Café: Schnoz-Sisera-Caflisch",
       "category": "music",
@@ -24861,47 +24128,6 @@
         }
       ],
       "scrapedAt": "2026-06-14T10:31:13.242Z"
-    },
-    {
-      "id": "social-568305ec6307",
-      "title": "Wand Festival Chur (Street Art Chur)",
-      "category": "stage",
-      "description": "Chur verwandelt sich in eine offene Urban-Art-Galerie: Internationale Artists gestalten Murals & Live-Paintings, dazu Jam, Workshops, Battles, Street Food & Drinks.",
-      "date": "2026-06-28",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt",
-      "lat": 46.8496,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/top-events/wand-festival-chur",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
     },
     {
       "id": "social-9a11d567c911",
@@ -27164,26 +26390,6 @@
         }
       ],
       "scrapedAt": "2026-06-16T12:12:01.128Z"
-    },
-    {
-      "id": "social-85496871f3e8",
-      "title": "Kirchenkaffi nach dem Gottesdienst Pfarreirat Rhäzüns",
-      "category": "family",
-      "description": "Gemeinsames Kirchenkaffee nach dem Gottesdienst, organisiert vom Pfarreirat Rhäzüns.",
-      "date": "2026-06-28",
-      "time": "09:30 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns",
-      "lat": 46.81,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://rhaezuens.ch/home/aktuelles/termine-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:13:47.104Z"
     },
     {
       "id": "social-2d15328b97bc",
@@ -29933,26 +29139,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-99a0bb24b6b6",
-      "title": "Eidgenössisches Schützenfest",
-      "category": "sport",
-      "description": "Einer der grössten Schweizer Sportanlässe im 2026, ausgetragen in der Bündner Hauptstadt und der weiteren Umgebung.",
-      "date": "2026-06-28",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Churer Rossboden",
-      "lat": 46.8498,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-c0d17f9be090",
       "title": "Eidgenössisches Schützenfest",
       "category": "sport",
@@ -30066,26 +29252,6 @@
       "lng": 9.5323,
       "image": "",
       "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
-      "id": "social-96d88e794470",
-      "title": "Wand Festival Chur",
-      "category": "family",
-      "description": "Chur verwandelt sich in eine offene Urban‑Art‑Galerie: Internationale Artists gestalten Murals & Live‑Paintings, dazu Jam, Workshops, Battles, Street Food & Drinks.",
-      "date": "2026-06-28",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur (various locations)",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://wandfestival.ch/",
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Other",
@@ -32097,26 +31263,6 @@
       "scrapedAt": "2026-06-19T11:27:43.348Z"
     },
     {
-      "id": "social-5f6050d6b08a",
-      "title": "Brom - Equinox",
-      "category": "music",
-      "description": "Konzert von Brom - Equinox.",
-      "date": "2026-06-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
       "id": "social-cb454efd282e",
       "title": "3. Churer Orgelkonzert 2026",
       "category": "music",
@@ -33135,26 +32281,6 @@
         }
       ],
       "scrapedAt": "2026-06-21T10:33:57.582Z"
-    },
-    {
-      "id": "social-90935972f097",
-      "title": "Eidg. Schützenfest Chur/Graubünden 2026 (Teil in Malans)",
-      "category": "sport",
-      "description": "Bundesweites Schützenfest mit Schiesswettbewerben in Malans.",
-      "date": "2026-06-28",
-      "time": "08:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Schiessplatz Malans, Schützenhaus",
-      "lat": 46.99,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.schuetzenverein-malans.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:34:40.200Z"
     },
     {
       "id": "social-7cffafb99ae9",
