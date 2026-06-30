@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T11:54:04.019Z",
+  "lastUpdated": "2026-06-30T10:27:54.272Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -8664,26 +8664,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-31T09:46:47.612Z"
-    },
-    {
-      "id": "social-0fac0a0c8416",
-      "title": "Swisscom Football Camp Untervaz (GR)",
-      "category": "sport",
-      "description": "Fussballcamp für Kinder und Jugendliche.",
-      "date": "2026-06-29",
-      "time": "09:30 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Untervaz (GR)",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-138311230ed9",
@@ -23612,26 +23592,6 @@
       "scrapedAt": "2026-06-13T10:05:32.307Z"
     },
     {
-      "id": "social-2d09be941303",
-      "title": "Swisscom Football Camp Chur",
-      "category": "sport",
-      "description": "A football camp for all kids, offering a fun and active experience.",
-      "date": "2026-06-29",
-      "time": "",
-      "price": "ab 315",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/familien/was-laeuft",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-14T10:21:06.358Z"
-    },
-    {
       "id": "social-ff5be6a0ae4d",
       "title": "Festspiele im Schloss",
       "category": "music",
@@ -29137,26 +29097,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-c0d17f9be090",
-      "title": "Eidgenössisches Schützenfest",
-      "category": "sport",
-      "description": "Einer der grössten Schweizer Sportanlässe im 2026, ausgetragen in der Bündner Hauptstadt und der weiteren Umgebung.",
-      "date": "2026-06-29",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Churer Rossboden",
-      "lat": 46.8498,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-0ca76e627136",
