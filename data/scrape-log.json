@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-01T09:32:10.239Z",
-  "eventsTotal": 263,
-  "eventsNew": 54,
-  "eventsUpdated": 137,
-  "eventsEnriched": 50,
+  "timestamp": "2026-07-02T08:42:39.569Z",
+  "eventsTotal": 266,
+  "eventsNew": 37,
+  "eventsUpdated": 156,
+  "eventsEnriched": 37,
   "enrichmentErrors": 0,
-  "eventsCleaned": 6,
+  "eventsCleaned": 34,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -106,13 +106,13 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 7,
+      "events": 6,
       "error": null
     },
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 5,
+      "events": 4,
       "error": null
     }
   ]
