@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-02T08:42:39.569Z",
-  "eventsTotal": 266,
-  "eventsNew": 37,
-  "eventsUpdated": 156,
-  "eventsEnriched": 37,
+  "timestamp": "2026-07-03T08:52:01.418Z",
+  "eventsTotal": 260,
+  "eventsNew": 34,
+  "eventsUpdated": 135,
+  "eventsEnriched": 33,
   "enrichmentErrors": 0,
-  "eventsCleaned": 34,
+  "eventsCleaned": 40,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -52,8 +52,8 @@
     {
       "name": "LocalCities-Tamins",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 65848 (line 1 column 65849) — Roh: {\"events\":[{\"title\":\"Ringelspitz / Piz Barghis, 3247 m, Hochtour\",\"date\":\"2026-07-03\",\"image\":\"https://ik.imagekit.io/guidle/tr:n-small/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg\","
     },
     {
       "name": "LocalCities-Churwalden",
