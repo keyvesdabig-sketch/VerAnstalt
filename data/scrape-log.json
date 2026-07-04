@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-03T08:52:01.418Z",
-  "eventsTotal": 260,
-  "eventsNew": 34,
-  "eventsUpdated": 135,
-  "eventsEnriched": 33,
+  "timestamp": "2026-07-04T08:25:54.111Z",
+  "eventsTotal": 257,
+  "eventsNew": 21,
+  "eventsUpdated": 146,
+  "eventsEnriched": 27,
   "enrichmentErrors": 0,
-  "eventsCleaned": 40,
+  "eventsCleaned": 24,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -52,8 +52,8 @@
     {
       "name": "LocalCities-Tamins",
       "kind": "gemini",
-      "events": 0,
-      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 65848 (line 1 column 65849) — Roh: {\"events\":[{\"title\":\"Ringelspitz / Piz Barghis, 3247 m, Hochtour\",\"date\":\"2026-07-03\",\"image\":\"https://ik.imagekit.io/guidle/tr:n-small/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg\","
+      "events": 20,
+      "error": null
     },
     {
       "name": "LocalCities-Churwalden",
@@ -82,8 +82,8 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 13,
-      "error": null
+      "events": 0,
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 214945 (line 1 column 214946) — Roh: {\"events\": [{\"title\": \"Alpwanderung mit Besuch beim Alpmeister\", \"date\": \"2026-07-04\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/f/03/4e/f034ea405e62f3373efcc87b64d87f9caef0c0db_927604121.jpg"
     },
     {
       "name": "LocalCities-Landquart",
@@ -106,14 +106,14 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 6,
+      "events": 0,
       "error": null
     },
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 4,
-      "error": null
+      "events": 0,
+      "error": "HTTP 403"
     }
   ]
 }
