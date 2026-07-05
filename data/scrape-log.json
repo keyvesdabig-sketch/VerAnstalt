@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-04T08:25:54.111Z",
-  "eventsTotal": 257,
-  "eventsNew": 21,
-  "eventsUpdated": 146,
-  "eventsEnriched": 27,
+  "timestamp": "2026-07-05T08:40:29.118Z",
+  "eventsTotal": 256,
+  "eventsNew": 25,
+  "eventsUpdated": 156,
+  "eventsEnriched": 30,
   "enrichmentErrors": 0,
-  "eventsCleaned": 24,
+  "eventsCleaned": 26,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -82,8 +82,8 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 0,
-      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 214945 (line 1 column 214946) — Roh: {\"events\": [{\"title\": \"Alpwanderung mit Besuch beim Alpmeister\", \"date\": \"2026-07-04\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/f/03/4e/f034ea405e62f3373efcc87b64d87f9caef0c0db_927604121.jpg"
+      "events": 12,
+      "error": null
     },
     {
       "name": "LocalCities-Landquart",
@@ -112,8 +112,8 @@
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 0,
-      "error": "HTTP 403"
+      "events": 4,
+      "error": null
     }
   ]
 }
