@@ -21,28 +21,6 @@
       }
     ]
   },
-  "sonntagsbrunchinderbergbaizbrambrueesch_2026-07-05": {
-    "id": 1779538466151,
-    "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre). Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch. Was gibt es Gemütlicheres als mit einem währschaften Brunch in den Sonntag zu starten? Auf der Bergbahnfahrt nach Brambrüesch und dem kurzen Spaziergang zur Bergbaiz geniessen Sie schon mal die Aussicht und holen sich Appetit. ...",
-    "date": "2026-07-05",
-    "time": "09:00-11:30",
-    "locationName": "Bergbaiz",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Brunch inkl. Bahnfahrt Chur-Brambrüesch, retour für CHF 52.50 Erwachsene, CHF 48.– mit Halbtax/GA und CHF 30.– Kids (bis 15 Jahre).",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30"
-      }
-    ]
-  },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-07-12": {
     "id": 1779538467071,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
@@ -2385,28 +2363,6 @@
       }
     ]
   },
-  "flohmarkt_2026-07-05": {
-    "id": 1779789504088,
-    "title": "Flohmarkt",
-    "category": "markets",
-    "categoryLabel": "Märkte",
-    "description": "Verkaufen-Kaufen-Stöbern-Feilschen",
-    "date": "2026-07-05",
-    "time": "09:00",
-    "locationName": "Oase",
-    "municipality": "Churwalden",
-    "lat": 46.776557,
-    "lng": 9.545016,
-    "price": "null",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/33/09/f330957c4693e1f24cfcdb7f77b86223c1d024a5_933102699.png",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4790729?eventDateTime=05.07.2026%20%2009:00",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4790729?eventDateTime=05.07.2026%20%2009:00"
-      }
-    ]
-  },
   "12leschafescht_2026-07-19": {
     "id": 1779789798475,
     "title": "12. Lescha Fescht",
@@ -2497,54 +2453,6 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=03.09.2026%20%2018:30%20-%2019:45"
       }
     ]
-  },
-  "ringelspitzpizbarghis3247mhochtour_2026-07-05": {
-    "id": 1779962207352,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-07-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=05.07.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=05.07.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
-  },
-  "ringelspitzpizbarghis3247mhochtour_2026-07-06": {
-    "id": 1779962208536,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-07-06",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=06.07.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=06.07.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
   },
   "ringelspitzpizbarghis3247mhochtour_2026-07-07": {
     "id": 1779962208843,
@@ -2891,30 +2799,6 @@
       }
     ],
     "organizerUrl": "https://zizers-reformiert.ch/"
-  },
-  "sonntagsbrunchinderbergbaizbrambrfresch_2026-07-05": {
-    "id": 1780650232891,
-    "title": "Sonntags-Brunch in der Bergbaiz Brambr\r\n\t\t\t\t\t\t\t\t\t\tf\nr\r\n\t\t\t\t\t\t\t\t\t\fesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
-    "date": "2026-07-05",
-    "time": "09:00-11:30",
-    "locationName": "Bergbaiz, 7074 Malix",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=05.07.2026%20%2009:00%20-%2011:30"
-      }
-    ],
-    "organizerUrl": "https://www.bergbaiz.ch",
-    "ticketUrl": "https://www.bergbaiz.ch"
   },
   "sonntagsbrunchinderbergbaizbrambrfresch_2026-07-12": {
     "id": 1780650233332,
@@ -3886,53 +3770,6 @@
     ],
     "organizerUrl": "https://bluewonderful.ch"
   },
-  "spielundjassnachmittag_2026-07-06": {
-    "id": 1781523994116,
-    "title": "Spiel- und Jassnachmittag",
-    "category": "family",
-    "categoryLabel": "Familie",
-    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
-    "date": "2026-07-06",
-    "time": "14:00-16:00",
-    "locationName": "StoryThusis",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=06.07.2026%20%2014:00%20-%2016:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=06.07.2026%20%2014:00%20-%2016:00"
-      }
-    ],
-    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
-  },
-  "dorffuehrungthusis_2026-07-06": {
-    "id": 1781523995613,
-    "title": "Dorfführung Thusis",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein Handelsort mit Tradition. Erfahren Sie mehr auf einem spannenden Rundgang durch die Geschichte(n). Treffpunkt beim Rathaus. Anmeldung erforderlich bis am Durchführungstag 14.00 Uhr.",
-    "date": "2026-07-06",
-    "time": "17:30",
-    "locationName": "Rathaus",
-    "municipality": "Thusis",
-    "lat": 46.6943798,
-    "lng": 9.4376753,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/40/33/64033129f0fd5723e759c898f0f3df8930ff6254_619639067.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4478799?eventDateTime=06.07.2026%20%2017:30",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4478799?eventDateTime=06.07.2026%20%2017:30"
-      }
-    ],
-    "organizerUrl": "http://www.viamala.ch",
-    "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020013139244967#/"
-  },
   "regionalevorstellungderkonfirmandinnenundkonfirmanden_2026-08-30": {
     "id": 1781524012637,
     "title": "Regionale Vorstellung der Konfirmandinnen und Konfirmanden",
@@ -4458,29 +4295,6 @@
       }
     ],
     "organizerUrl": "http://www.zizers-reformiert.ch"
-  },
-  "taminsertoene_2026-07-05": {
-    "id": 1782898108228,
-    "title": "Taminser Töne",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Sonntag, 05. Juli \n17.00 Uhr, Kirche Tamins, Taminser Töne\nAbschlusskonzert 20. Musiktage Valendas „Inter Tempora“\nZwischen Barock und Klassik: Wo Bach endet und Mozart beginnt",
-    "date": "2026-07-05",
-    "time": "17:00",
-    "locationName": "Ev.-ref. Kirche Tamins",
-    "municipality": "Tamins",
-    "lat": 46.8285,
-    "lng": 9.4069,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/9f/23/a9f23622913a2c61f33baa0523b50361ef2d68c2_938280803.png",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4816907?eventDateTime=05.07.2026%20%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4816907?eventDateTime=05.07.2026%20%2017:00"
-      }
-    ],
-    "organizerUrl": "https://www.musiktagevalendas.ch"
   },
   "ringelspitzpizbarghis3247mhochtour_2026-07-14": {
     "id": 1782898110193,
@@ -5059,33 +4873,6 @@
     ],
     "organizerUrl": "https://www.obermutten.ch"
   },
-  "kulturenbrunch_2026-07-05": {
-    "id": 1783068296561,
-    "title": "Kulturen Brunch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Gemeinsam interkulturell frühstückenLass uns zusammen ein buntes Morgen-Buffet geniessen – bringe einfach eine Spezialität aus deinem Heimatland mit. So entsteht ein vielfältiges Frühstück, bei dem alle Kulturen gefeiert werden. Freunde und Gäste sind jederzeit herzlich willkommen!Falls du nichts mitbringen kannst, freuen wir uns, wenn du mit einem freiwilligen Beitrag die Kosten der Produzent*innen unterstützt.Erlebe köstliche Gerichte aus aller Welt, lerne neue Menschen kennen und tausche dich in entspannter Atmosphäre aus. Getränke sind vor Ort erhältlich – wir sind ein Café Surprise.",
-    "date": "2026-07-05",
-    "time": "09:00-12:00",
-    "locationName": "Chur, KulturPunkt",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/0/cb/58/0cb58d5df1b997c7e3023c1d3ed9995ca000dbf2_923127440.png",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/kulturen-brunch-chur_AkJ6VwT",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/kulturen-brunch-chur_AkJ6VwT"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4730391?eventDateTime=05.07.2026%20%2009:00%20-%2012:00"
-      }
-    ],
-    "organizerUrl": "https://www.kulturpunktgr.ch"
-  },
   "geschichtebauenlegohoeren_2026-09-30": {
     "id": 1783068328650,
     "title": "Geschichte bauen - Lego hören",
@@ -5131,137 +4918,6 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=01.09.2026%20%2019:00"
       }
     ]
-  },
-  "finissagedanielakeiseroreganomitgedichtenvonfelixurech_2026-07-05": {
-    "id": 1783153125234,
-    "title": "Finissage \"Daniela Keiser. Oregano\" mit Gedichten von Felix Urech",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Daniela Keiser ( *1963 ) lotet in ihren Arbeiten seit Beginn ihres künstlerischen Schaffens unterschiedliche Darstellungsformate aus. Im Fokus steht dabei die Beziehung zwischen Bild, Sprache und Text. Ihre grossangelegten Installationen beziehen oft den ganzen Raum mit ein. Daniela Keisers Werke entstehen meist im Austausch mit Künstlerinnen und Künstlern aus verschiedenen Kulturen und anderen Sparten wie Musik, Literatur und Architektur.Für das Bündner Kunstmuseum gestaltet sie eine multisensorische begehbare Installation. In grossen Fotografien bezieht sie sich auf eine traditionelle indische Kunstform, bei der Muster auf den Boden vor Hauseingängen gezeichnet werden. In den Mustern sind Zeichen zu erkennen, deren Bedeutung aber verborgen bleibt. Der ganze Boden des Ausstellungsraumes ist zudem bemalt und lädt zum Nachdenken, zu Gesprächen und zum Austausch ein. Dabei spielt die Gebärdensprache als fünfte Landessprache eine zentrale Rolle. Das Labor des Bündner Kunstmuseums wird so zu einem sozialen Raum, in dem verschiedene Kommunikationsformen verhandelt werden.",
-    "date": "2026-07-05",
-    "time": "11:00-12:00",
-    "locationName": "Chur, Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/d7/63/8d763589533145b3fdb4824814423cb899447865_912877307.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/finissage-daniela-keiser-oregano-mit-gedichten-von-felix-urech-chur_Acq51W3",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/finissage-daniela-keiser-oregano-mit-gedichten-von-felix-urech-chur_Acq51W3"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4790783?eventDateTime=05.07.2026%20%2011:00%20-%2012:00"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Daniela-Keiser.aspx"
-  },
-  "sonntagsmilonga_2026-07-05": {
-    "id": 1783153126009,
-    "title": "Sonntagsmilonga",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "🕯 Bereit für einen unvergesslichen Tango-Nachmittag?Tango Chur ladet euch herzlich ein am Sonntag, 05. Juli in Chur:📍 Gürtelstrasse 24, Chur🕑 14:00 Uhr – Workshop mit Cami & Mati➡ Anmeldung paarweise | CHF 35.– pro Person📩 abrazandotangos@gmail.com🧉 Danach 30 Min. Pause mit Kaffee & etwas Süssem🎶 16:00–20:00 Uhr – Milonga mit TDJ Urs Chiara🎟 Eintritt: CHF 15.–🔁 Workshop + Milonga: CHF 40.– pro Person🥟 Musik, Empanadas, Umarmungen & kleine Überraschungen erwarten euch!",
-    "date": "2026-07-05",
-    "time": "14:00-20:00",
-    "locationName": "Chur, El Correo",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/4/64/07/46407f1ac7363b909a4a24a92a66a890eccc5fd2_935341925.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/sonntagsmilonga-chur_A8HbhLf",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/sonntagsmilonga-chur_A8HbhLf"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4802049?eventDateTime=05.07.2026%20%2014:00%20-%2020:00"
-      }
-    ],
-    "organizerUrl": "https://www.tangochur.ch"
-  },
-  "kulinariktourgenusswanderungmitpfiff_2026-07-05": {
-    "id": 1783153127056,
-    "title": "Kulinarik Tour: Genusswanderung...mit Pfiff!",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Freuen Sie sich auf eine einfache Wanderung mit traumhaftem Panorama, feinem 3-Gang-Menü in drei Restaurants und einer rasanten Rodelbahnfahrt. Bergbahnfahrt, Menü, Rodelbahn und Rückreise mit dem Postauto sind inklusive - einzig für die Getränke benötigen Sie noch ein wenig Kleingeld.Das Angebot inkludiert folgende Leistungen: 3-Gang-Menü in den teilnehmenden RestaurantsRoutenbeschreib mit detaillierten InformationenBergbahnfahrt Chur-BrambrüeschAbfahrt mit der Rodelbahn von Pradaschier nach ChurwaldenRückfahrt mit dem Postauto von Churwalden nach ChurBuchung mit einem Geschenkgutschein von Geschenkidee/Geschenkparadies&nbsp;&nbsp;Falls Sie einen Gutschein von Geschenkidee oder Geschenkparadies einlösen möchten, bitten wir Sie, uns den Gutscheincode sowie Ihre Kontaktangaben für die Buchung zu übermitteln. Die Buchung kann in diesem Fall nicht selbstständig vorgenommen werden. Menü&nbsp;&nbsp;Einen Überblick über die Menüwahl finden Sie hier.&nbsp;&nbsp;Ab 5 Personen bitten wir die Gäste, uns ihre Menüwünschebereits im Voraus über das Anfrageformular mitzuteilen.",
-    "date": "2026-07-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/3/71/23/37123e4e659c85fda10bb8f21a3d8f220883de7c_810859420.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/kulinarik-tour-genusswanderungmit-pfiff-chur_A23rjVG",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/kulinarik-tour-genusswanderungmit-pfiff-chur_A23rjVG"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4713845?eventDateTime=05.07.2026"
-      }
-    ],
-    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014124266820?globalReset=1"
-  },
-  "rundwanderungflaescherberg412std135kmaufab750750hmt2t3_2026-07-05": {
-    "id": 1783153127704,
-    "title": "Rundwanderung Fläscherberg, 4 1/2 Std, 13.5 km, Auf/Ab 750/750 hm, T2/T3.",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Rundwanderung Fläscherberg ab Fläsch, 4 1/2 Std, 13.5 km, Auf/Ab 750/750 hm, T2/T3. Ausrüstung\tGutes SchuhwerkKondition\tGute Kondition erforderlich",
-    "date": "2026-07-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/5/cb/20/5cb201e1365e26217874be695429faf2cd581c2b_768482075.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/rundwanderung-flaescherberg-4-12-std-135-km-aufab-750750-hm-t2t3-chur_Axh5Bcp",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/rundwanderung-flaescherberg-4-12-std-135-km-aufab-750750-hm-t2t3-chur_Axh5Bcp"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4817065?eventDateTime=05.07.2026"
-      }
-    ],
-    "organizerUrl": "https://www.naturfreunde-chur.ch"
-  },
-  "offenestrainingacroyogapartnerundluftakrobatikslacklineetcmo_2026-07-06": {
-    "id": 1783153129258,
-    "title": "Offenes Training Acroyoga, Partner- und Luftakrobatik, Slackline etc. [MO]",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Es findet jeweils jeden Montag Abend zwischen 18:40 und 20:20 ein offenes Training (Jam session) statt für Acroyoga, Partner-, Luftakrobatik, Slackline etc.Bei dem offenen Training werden keine Klassen oder Kurse angeboten und für die Sicherheit ist jede und jeder für sich selbst verantwortlich. Dennoch sind Interessierte und Anfänger herzlich willkommen, unsere Gruppe zeigt Dir gerne die Grundlagen. Je nach Bedarf organisieren wir auch Klassen und Workshops.Neben dem üblichen Material der Turnhalle steht bei Bedarf auch eine Longe zur verfügung, anderes Material (Tuch, Hoop etc. muss selbst mitgebracht und aufgehängt werden).Für Fragen und weitere Informationen kann man sich bei info@acroyoga.group melden, bzw. für Slackline bei info@grischaslack.ch",
-    "date": "2026-07-06",
-    "time": "18:40 - 20:20",
-    "locationName": "Chur, Schulhaus Masans",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/ca/70/8ca70851647e0d79c4b06cd535856ba0d012c586_770742742.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/offenes-training-acroyoga-partner-und-luftakrobatik-slackline-etc-mo-chur_AssKbAJ",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/offenes-training-acroyoga-partner-und-luftakrobatik-slackline-etc-mo-chur_AssKbAJ"
-      }
-    ],
-    "organizerUrl": "https://acroyoga.GRoup"
   },
   "ringelspitzpizbarghis3247mhochtour_2026-07-21": {
     "id": 1783153210454,
@@ -5311,313 +4967,6 @@
     "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
     "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
   },
-  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-07-05": {
-    "id": 1783240628012,
-    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Diese Sonderausstellung zeigt anhand von sechs Biografien, welche Rolle Migrantinnen und Migranten beim Aufbau des Alpen-Tourismus eingenommen haben.",
-    "date": "2026-07-05",
-    "time": "10:00-17:00",
-    "locationName": "Chur, Rätisches Museum",
-    "municipality": "Chur",
-    "lat": 46.8486,
-    "lng": 9.5328,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/08/4f/8084f6836c19021246c23cb7424a02d6c85af8f2_931453931.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=05.07.2026%20%2010:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/Seiten/%C2%ABAddio-%E2%80%93-Willkommen-%E2%80%93-A-revair%C2%BB.aspx"
-  },
-  "ausstellungnaturfigurinderstadtgaleriechur_2026-07-05": {
-    "id": 1783240628265,
-    "title": "Ausstellung Natur & Figur in der Stadtgalerie Chur",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Die Ausstellung präsentiert Holzskulpturen, Skulpturen und Bilder. Die Werke zeigen unterschiedliche Formen des künstlerischen Ausdrucks und den kreativen Umgang mit verschiedenen Materialien.",
-    "date": "2026-07-05",
-    "time": "14:00-17:00",
-    "locationName": "Chur, Stadtgalerie",
-    "municipality": "Chur",
-    "lat": 46.851,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/ausstellung-natur-und-figur-in-der-stadtgalerie-chur-chur_ANQnVNF",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/ausstellung-natur-und-figur-in-der-stadtgalerie-chur-chur_ANQnVNF"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4801529?eventDateTime=05.07.2026%20%2014:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://www.janna-naturfigur.com/"
-  },
-  "beauxlosangesbueel_2026-07-05": {
-    "id": 1783240629033,
-    "title": "BEAUX LOSANGES BÜEL",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Remo Albert Alig / Selina Baumann / Alex Dorici / frölicher I bietenhader / Gabriela Gerber & Lukas Bardill / Peter Regli / Barbara Signer / Andrea VogelKuratiert von Luciano Fasciati, Assistenz Lisa GianottiEröffnung Samstag 20. Juni 2026 13:45 vor dem Aux Losanges, bei Schlechtwetter in der Mehrzweckhalle.Ausstellungsdauer 20. Juni bis 25. OktoberDie Ausstellung ist leider nicht rollstuhlgängig, die Veranstaltungen des Begleitprogramms hingegen schon.luciano-fasciati.ch",
-    "date": "2026-07-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Tschiertschen, Aux Losanges",
-    "municipality": "Tschiertschen-Praden",
-    "lat": 46.8188,
-    "lng": 9.6053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/7/5a/69/75a69cd08000db5cb46fbe94906fc98e3348d815_930370381.jpeg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/beaux-losanges-bueel-tschiertschen_AXkAEcW",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/beaux-losanges-bueel-tschiertschen_AXkAEcW"
-      }
-    ],
-    "organizerUrl": "https://www.aux-losanges.ch/veranstaltungen/veranstaltungsdetail?eid=96"
-  },
-  "danielakeiseroregano_2026-07-05": {
-    "id": 1783240629253,
-    "title": "​Daniela Keiser. Oregano",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Für das Kunstmuseum gestaltet Keiser eine multisensorische begehbare Installation. In grossen Fotografien bezieht sie sich auf eine indische Kunstform, bei der Muster auf den Boden gezeichnet werden.",
-    "date": "2026-07-05",
-    "time": "10:00-17:00",
-    "locationName": "Chur, Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/d7/63/8d763589533145b3fdb4824814423cb899447865_912877307.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/daniela-keiser-oregano-chur_AKFYbHB",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/daniela-keiser-oregano-chur_AKFYbHB"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=05.07.2026%20%2010:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Daniela-Keiser.aspx"
-  },
-  "diewunderkammer150jahreraetischesmuseum_2026-07-05": {
-    "id": 1783240629416,
-    "title": "Die Wunderkammer: 150 Jahre Rätisches Museum",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Seit der Barockzeit präsentierten Fürsten oder vermögende Bürger vielerorts gerne aussergewöhnliche Objekte in sogenannten Wunderkammern: Naturalien, Kunstobjekte, Antiquitäten und Kuriositäten. Hier kam alles in bunter und faszinierender Mischung zusammen.Das moderne Museum, wie wir es heute kennen, ist eine bürgerliche Erfindung des 19. Jahrhunderts. In ganz Europa entstanden damals neue Ausstellungshäuser. Auch das Rätische Museum entstammt jener Zeit: Der Jurist, Historiker und Politiker Peter Conradin von Planta-Zuoz (1815–1902) initiierte eine «Bündnerische Stiftung für Wissenschaft und Kunst» mit dem Ziel, ein Museum zu gründen. Damit wollte er der anhaltenden Abwanderung wertvollen Kulturgutes aus Graubünden entgegenwirken. Am 8. Juni 1872 eröffnete das Rätische Museum im Erdgeschoss des Hauses Buol seine erste Ausstellung. Seither werden hier Objekte zur Geschichte Graubündens gesammelt. Mittlerweile umfassen die Bestände rund 100 000 Objekte.Zum Jubiläum laden wir Sie ein auf eine Entdeckungsreise durch die Museums-Schätze anhand von 150 ausgewählten Exponaten. Für jedes Jahr seit der Eröffnung wurde ein Objekt ausgewählt, das in jenem Jahr den Weg in die Sammlung fand. So zeigt die Ausstellung einen repräsentativen Querschnitt: Kostbares, Altes und Seltenes findet sich hier genauso wie Überraschendes, Banales oder Schräges, alles nebeneinander, ganz im Stil der einstigen Wunderkammer. Die vielen kleinen Geschichten, die so erzählt werden, vermitteln nicht nur spannende Einblicke in die Vergangenheit, sondern schlagen auch sammlungsgeschichtlich den Bogen von den Ursprüngen bis zum heutigen historischen Museum Graubündens und seinen Aufgaben.",
-    "date": "2026-07-05",
-    "time": "10:00 - 17:00",
-    "locationName": "Chur, Rätisches Museum",
-    "municipality": "Chur",
-    "lat": 46.8486,
-    "lng": 9.5328,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/1/4e/20/14e20cf0ad7e93ced6ea4ee959f439f93130f9f5_727785306.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/die-wunderkammer-150-jahre-raetisches-museum-chur_AZ4dw8U",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/die-wunderkammer-150-jahre-raetisches-museum-chur_AZ4dw8U"
-      }
-    ],
-    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/seiten/vorschau-zur-jubil%C3%A4umsausstellung.aspx"
-  },
-  "heilenistkunstistheilen_2026-07-05": {
-    "id": 1783240629305,
-    "title": "Heilen ist Kunst ist Heilen",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Kunst auf Verordnung @ Atelier Hubert Crevoisier\n14. Mai 2025 - 27. August 2026 (Finissage um 17:15 Uhr)\nDas Atelier befindet sich in den beiden Vitrinen im Erdgeschoss des Haus H1 am KSGR.",
-    "date": "2026-07-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Chur, Kantonsspital Graubünden",
-    "municipality": "Chur",
-    "lat": 46.8615,
-    "lng": 9.5412,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/c/39/44/c39442cfe3547977b128206b551df9410263404c_922948623.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/heilen-ist-kunst-ist-heilen-chur_Avjh2j8",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/heilen-ist-kunst-ist-heilen-chur_Avjh2j8"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4473089?eventDateTime=05.07.2026"
-      }
-    ],
-    "organizerUrl": "https://www.ksgr.ch/kunst#heilenistkunst"
-  },
-  "heinerkielholz_2026-07-05": {
-    "id": 1783240628931,
-    "title": "Heiner Kielholz",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein grosser Unbekannter in der Schweizer Kunst. Er arbeitet kontinuierlich an einem stillen Werk, meist in kleinen Formaten.",
-    "date": "2026-07-05",
-    "time": "10:00-17:00",
-    "locationName": "Chur, Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/d/f9/36/df9363e95700b5f439b63368aa915e1fcacf910f_922215914.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/heiner-kielholz-chur_AnabVMx",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/heiner-kielholz-chur_AnabVMx"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4724877?eventDateTime=05.07.2026%20%2010:00%20-%2017:00"
-      }
-    ]
-  },
-  "imatelierraumarbeitmythos_2026-07-05": {
-    "id": 1783240628696,
-    "title": "Im Atelier. Raum, Arbeit, Mythos",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Mit Werken von Matthew Barney, Mirko Baselgia, Flurin Bisig, Klodin Erb, Stefan Gritsch, Maude Léonard-Contant, Catrin Lüthi K, Paul McCarthy, Adrian Paci",
-    "date": "2026-07-05",
-    "time": "10:00-17:00",
-    "locationName": "Chur, Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/e/b9/13/eb9136fb38d1d59bf3c1d0a25f352fa78479f16a_911622642.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/im-atelier-raum-arbeit-mythos-chur_ABA5dyG",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/im-atelier-raum-arbeit-mythos-chur_ABA5dyG"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=05.07.2026%20%2010:00%20-%2017:00"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Atelier.aspx"
-  },
-  "robertralstonwennwortenichtmehrweiterwissen_2026-07-05": {
-    "id": 1783240628678,
-    "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Pop-Up-Ausstellung im Rahmen von «Heilen ist Kunst ist Heilen» \nDie Finissage beider Ausstellungen findet am 27. August 2026 um 17.15 Uhr statt.",
-    "date": "2026-07-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Chur, Kantonsspital Graubünden, Kreuzspital",
-    "municipality": "Chur",
-    "lat": 46.8615,
-    "lng": 9.5412,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/0/91/8f/0918f0f5cd4caa84c0afc35e587b0e78c406b71f_922948614.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/robert-ralston-wenn-worte-nicht-mehr-weiterwissen-chur_A31u4Zf",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/robert-ralston-wenn-worte-nicht-mehr-weiterwissen-chur_A31u4Zf"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=05.07.2026"
-      }
-    ],
-    "organizerUrl": "https://www.ksgr.ch/kunst#worte"
-  },
-  "susanhefuna_2026-07-05": {
-    "id": 1783240628650,
-    "title": "Susan Hefuna",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Susan Hefunas künstlerische Praxis umfasst Zeichnung, Fotografie, Installation, Video und Performance. Sie erforscht das Zusammenspiel von Ort, Zeit und Wahrnehmung.",
-    "date": "2026-07-05",
-    "time": "10:00 - 20:00",
-    "locationName": "Chur, Bündner Kunstmuseum",
-    "municipality": "Chur",
-    "lat": 46.8506,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/2/18/86/218860f84c805c528de831f425f272f95540b5ac_912877288.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/susan-hefuna-chur_AJci5gB",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/susan-hefuna-chur_AJci5gB"
-      },
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666047?eventDateTime=05.07.2026"
-      }
-    ],
-    "organizerUrl": "https://kunstmuseum.gr.ch/"
-  },
-  "kindersommerkurseimhausderillustration_2026-07-05": {
-    "id": 1783240630137,
-    "title": "KINDER-SOMMERKURSE IM HAUS DER ILLUSTRATION",
-    "category": "family",
-    "categoryLabel": "Familie",
-    "description": "Zeichnen, beobachten und eigene Bildideen entwickeln – in kleinen Gruppen und mit individueller Begleitung. Gemeinsam mit Rolf Giger lernen die Kinder und Jugendlichen Figuren, Tiere, Pflanzen und Comic-Charaktere zu zeichnen und eigene Bildideen zu entwickeln. Im Mittelpunkt stehen Beobachtung, Kreativität und individuelles Arbeiten. Die Kurse richten sich an Kinder und Jugendliche von 7 bis 15 Jahren mit Interesse am Zeichnen.Kurszeiten:Montag / Freitag / Samstag 14:00–16:00 UhrDienstag / Mittwoch / Donnerstag 09:00–11:00 UhrOrt: Haus der Illustration, Obere Gasse 12, ChurDauer: 2 StundenPreis: 150 CHF pro KindMaterial wird zur Verfügung gestellt. Die Plätze sind begrenzt.",
-    "date": "2026-07-05",
-    "time": "14:00 - 16:00",
-    "locationName": "Chur, Haus der Illustration",
-    "municipality": "Chur",
-    "lat": 46.8508,
-    "lng": 9.532,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/c/b9/2f/cb92fd8022c9ce38590a8c694be0899ab793317a_937520660.png",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/kinder-sommerkurse-im-haus-der-illustration-chur_A9iZZMW",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/kinder-sommerkurse-im-haus-der-illustration-chur_A9iZZMW"
-      }
-    ],
-    "organizerUrl": "https://gigercreative.com/kinder-sommerkursen/"
-  },
-  "kulinariktourgenusswanderungmitpfiff_2026-07-06": {
-    "id": 1783240631606,
-    "title": "Kulinarik Tour: Genusswanderung...mit Pfiff!",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Freuen Sie sich auf eine einfache Wanderung mit traumhaftem Panorama, feinem 3-Gang-Menü in drei Restaurants und einer rasanten Rodelbahnfahrt. Bergbahnfahrt, Menü, Rodelbahn und Rückreise mit dem Postauto sind inklusive - einzig für die Getränke benötigen Sie noch ein wenig Kleingeld.Das Angebot inkludiert folgende Leistungen: 3-Gang-Menü in den teilnehmenden RestaurantsRoutenbeschreib mit detaillierten InformationenBergbahnfahrt Chur-BrambrüeschAbfahrt mit der Rodelbahn von Pradaschier nach ChurwaldenRückfahrt mit dem Postauto von Churwalden nach ChurBuchung mit einem Geschenkgutschein von Geschenkidee/Geschenkparadies&nbsp;&nbsp;Falls Sie einen Gutschein von Geschenkidee oder Geschenkparadies einlösen möchten, bitten wir Sie, uns den Gutscheincode sowie Ihre Kontaktangaben für die Buchung zu übermitteln. Die Buchung kann in diesem Fall nicht selbstständig vorgenommen werden. Menü&nbsp;&nbsp;Einen Überblick über die Menüwahl finden Sie hier.&nbsp;&nbsp;Ab 5 Personen bitten wir die Gäste, uns ihre Menüwünschebereits im Voraus über das Anfrageformular mitzuteilen.",
-    "date": "2026-07-06",
-    "time": "Siehe Beschreibung",
-    "locationName": "Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/3/71/23/37123e4e659c85fda10bb8f21a3d8f220883de7c_810859420.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/kulinarik-tour-genusswanderungmit-pfiff-chur_A23rjVG",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/kulinarik-tour-genusswanderungmit-pfiff-chur_A23rjVG"
-      }
-    ],
-    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014124266820?globalReset=1"
-  },
   "begegnungscaf_2026-07-07": {
     "id": 1783240632509,
     "title": "Begegnungscafé",
@@ -5625,7 +4974,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Begegnungscafé jeden Dienstag von 9 - 11 Uhr: Kontakte pflegen und Leute kennen lernenGemütliches Beisammensein",
     "date": "2026-07-07",
-    "time": "09:00 - 11:00",
+    "time": "09:00-11:00",
     "locationName": "Chur, Comanderzentrum",
     "municipality": "Chur",
     "lat": 46.8508,
@@ -5637,6 +4986,10 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/begegnungscafe-chur_A9ahu7t"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4806143?eventDateTime=07.07.2026%20%2009:00%20-%2011:00"
       }
     ],
     "organizerUrl": "https://d37dhr5745n0y2.cloudfront.net/attached/e/28/69/e286941aa586ef3999f2190f585675288c622bb9.pdf"
@@ -5648,7 +5001,7 @@
     "categoryLabel": "Sport",
     "description": "Mal führt der Weg durch den Dschungel, mal auf eine Heldenreise, in eine Mitmach-Show, ein Aqua-Special oder eine geheimnisvolle Fantasiewelt. Jeder Nachmittag ist anders. Jede Geschichte einzigartig. Gemeinsam wird entdeckt, gespielt, gelacht, getanzt, gesungen, bewegt und über sich hinausgewachsen.Dabei sind Teamgeist, Kreativität und die Freude daran, die eigenen Stärken zu entdecken, gefragt. Denn in jeder Entdeckerin und in jedem Entdecker steckt bereits alles, was es für ein grosses Abenteuer braucht.Sei dabei und erlebe Sommerferien voller SuperkräfteBei schlechtem Wetter findet der Erlebnisnachmittag nicht statt und wird spontan bei schönem Wetter nachgeholt.Der Einstieg ist jederzeit möglich. Alle Aktivitäten können spontan mitgemacht werden.Weitere Infos: www.sportanlagenchur.ch/erlebniswelt",
     "date": "2026-07-07",
-    "time": "14:00 - 16:00",
+    "time": "14:00-16:00",
     "locationName": "Chur, Sportanlage Obere Au",
     "municipality": "Chur",
     "lat": 46.8475,
@@ -5660,6 +5013,10 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/erlebnisnachmittage-im-freibad-chur_APZXSDP"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4796153?eventDateTime=07.07.2026%20%2014:00%20-%2016:00"
       }
     ],
     "organizerUrl": "http://www.sportanlagenchur.ch/erlebniswelt"
@@ -5671,7 +5028,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Wurde im \"Süssen Winkel\" einst Schokolade hergestellt? Warum gibt es in der Poststrasse keine Post? Konnte man auf dem Casinoplatz Roulette spielen? Die Strassen-und Platznamen der Churer Altstadt geben auf unterhaltsame Weise einen Einblick in die reiche Geschichte der ältesten Stadt der Schweiz.Die Führungen finden am Dienstag von 18.15-19.45 Uhr statt.Deutsch1.5 StundenIhre Buchungsbestätigung gilt als Ticket. Tickets werden weder umgetauscht noch rückerstattet.&nbsp;&nbsp;Es wird am Vortag der Führung bis 16 Uhr über die Durchführung entschieden. Bei keinen oder zu wenigen Anmeldungen kann die Führung abgesagt werden. Die Absage erfolgt telefonisch oder per E-Mail.Tourist Info, Bahnhofstrasse 32, Chur",
     "date": "2026-07-07",
-    "time": "18:15 - 19:45",
+    "time": "18:15-19:45",
     "locationName": "Chur",
     "municipality": "Chur",
     "lat": 46.8512,
@@ -5683,6 +5040,10 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/oeffentliche-fuehrung-nomen-est-omen-chur_Aa13thM"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4782749?eventDateTime=07.07.2026%20%2018:15%20-%2019:45"
       }
     ],
     "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013007556310?globalReset=1"
@@ -5706,6 +5067,10 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/dinner-with-strangers-chur_ALNXPUb"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4761583?eventDateTime=07.07.2026%20%2019:00"
       }
     ],
     "organizerUrl": "http://www.flaminglow.ch"
@@ -5717,7 +5082,7 @@
     "categoryLabel": "Bühne & Kunst",
     "description": "Tauche ein in die fantastische Welt von Dungeons & Dragons! RPG Grischun lädt dich in die&nbsp;&nbsp;Stadtbibliothek Chur ein zu einem Abend voller Abenteuer und spannender Geschichten. Egal, ob du ein erfahrener Abenteurer bist oder zum ersten Mal ein Pen & Paper Rollenspiel ausprobieren möchtest – hier ist für alle etwas dabei. Spiele verschiedene One-Shots in kleiner Runde, schlüpfe in die Rolle deines Helden oder Heldin und lass deiner Kreativität freien Lauf.Für Veteranen bieten wir verschiedene One-Shots an, welche dich in immer neue Abenteuer eintauchen lassen.Du hast noch nie ein RPG mit echten Würfeln gespielt? Kein Problem! An unserem Intro-Tisch führen dich erfahrene Dungeon Masters in das Spiel ein und lassen dich dein erstes Abenteuer erleben. Mitbringen musst du nichts, ausser deiner Fantasie.HINWEIS:An diesem Event können Bilder aufgenommen werden, welche später über Social Media Kanäle verbreitet werden. Solltest du das nicht wünschen, teile uns das bitte am Event mit.Begib dich auf deine Reise – die Würfel warten auf dich! 🐉🎲",
     "date": "2026-07-07",
-    "time": "19:00 - 22:00",
+    "time": "19:00-22:00",
     "locationName": "Chur, Stadtbibliothek Chur",
     "municipality": "Chur",
     "lat": 46.8508,
@@ -5729,124 +5094,13 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/dungeons-und-dragons-zwischen-buechern-chur_AUABcDG"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4688657?eventDateTime=07.07.2026%20%2019:00%20-%2022:00"
       }
     ],
     "organizerUrl": "https://eventfrog.ch/en/p/groups/d-d-stadtbibliothek-chur-7322168594690796962.html"
-  },
-  "urbangolfsonntag_2026-07-05": {
-    "id": 1783240650984,
-    "title": "Urban Golf Sonntag",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Entdecken Sie die malerische Altstadt, tolle Sehenswürdigkeiten und verträumte Parkanlagen spielerisch bei einer Runde Stadtgolf: Dank speziellem Softball kann in den städtischen Gassen, über Plätze",
-    "date": "2026-07-05",
-    "time": "09:00-19:30",
-    "locationName": "7000 Chur",
-    "municipality": "Chur",
-    "lat": 46.856528,
-    "lng": 9.5285588,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_904451128.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4490067?eventDateTime=05.07.2026%20%2009:00%20-%2019:30",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4490067?eventDateTime=05.07.2026%20%2009:00%20-%2019:30"
-      }
-    ],
-    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020015592080269?globalReset=1"
-  },
-  "rhbspeisewagengourmino_2026-07-05": {
-    "id": 1783240653046,
-    "title": "RhB Speisewagen Gourmino",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein Restaurant, das fährt und verzaubert: Im Speisewagen Gourmino wird jede Fahrt auf der spektakulären Albulalinie von Chur nach St. Moritz zu einem besonderen Erlebnis.",
-    "date": "2026-07-05",
-    "time": "09:58-20:02",
-    "locationName": "Bahnhof Chur",
-    "municipality": "Chur",
-    "lat": 46.8535563,
-    "lng": 9.5296459,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/1a/15/91a15c7c553ed3ef2cb3d4936959e6b2244ce377_919153425.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=05.07.2026%20%2009:58%20-%2020:02",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=05.07.2026%20%2009:58%20-%2020:02"
-      }
-    ],
-    "organizerUrl": "https://www.rhb.ch/de/genussreisen/speisewagen-gourmino/?tabs-1xUPOzhzxfYekiH6X03rpV=57PPL5Zx5UXvGHCbPM0R1V"
-  },
-  "martynaslevickis_2026-07-05": {
-    "id": 1783240652860,
-    "title": "Martynas Levickis",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Charismatisch, mutig, humorvoll und neugierig bereitet Martynas Levickis seinem Akkordeon glanzvolle Auftritte mit grossem Repertoire...",
-    "date": "2026-07-05",
-    "time": "19:30-21:30",
-    "locationName": "Theater Chur",
-    "municipality": "Chur",
-    "lat": 46.8512,
-    "lng": 9.5323,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/5/f9/da/5f9daa6ebcb527c4fb683814e5b8f0869b01bd9d_879994527.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4517679?eventDateTime=05.07.2026%20%2019:30%20-%2021:30",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4517679?eventDateTime=05.07.2026%20%2019:30%20-%2021:30"
-      }
-    ],
-    "organizerUrl": "https://klassikforum.ch/konzert/martynas-levickis/"
-  },
-  "urbangolf_2026-07-06": {
-    "id": 1783240653772,
-    "title": "Urban Golf",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Mit Schläger und Softball entdecken Sie Churs Altstadt auf spielerische Weise.",
-    "date": "2026-07-06",
-    "time": "09:00-20:30",
-    "locationName": "7000 Chur",
-    "municipality": "Chur",
-    "lat": 46.856528,
-    "lng": 9.5285588,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_928173484.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=06.07.2026%20%2009:00%20-%2020:30",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=06.07.2026%20%2009:00%20-%2020:30"
-      }
-    ],
-    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013024938333?globalReset=1"
-  },
-  "rhbspeisewagengourmino_2026-07-06": {
-    "id": 1783240654241,
-    "title": "RhB Speisewagen Gourmino",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein Restaurant, das fährt und verzaubert: Im Speisewagen Gourmino wird jede Fahrt auf der spektakulären Albulalinie von Chur nach St. Moritz zu einem besonderen Erlebnis.",
-    "date": "2026-07-06",
-    "time": "09:58-20:02",
-    "locationName": "Bahnhof Chur",
-    "municipality": "Chur",
-    "lat": 46.8535563,
-    "lng": 9.5296459,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/1a/15/91a15c7c553ed3ef2cb3d4936959e6b2244ce377_919153425.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=06.07.2026%20%2009:58%20-%2020:02",
-    "sources": [
-      {
-        "name": "LocalCities-Chur",
-        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=06.07.2026%20%2009:58%20-%2020:02"
-      }
-    ],
-    "organizerUrl": "https://www.rhb.ch/de/genussreisen/speisewagen-gourmino/?tabs-1xUPOzhzxfYekiH6X03rpV=57PPL5Zx5UXvGHCbPM0R1V"
   },
   "ringelspitzpizbarghis3247mhochtour_2026-07-23": {
     "id": 1783240715107,
@@ -5917,5 +5171,819 @@
       }
     ],
     "organizerUrl": "https://www.instagram.com/dorfverein_tguma/?hl=de"
+  },
+  "kindersommerkurseimhausderillustration_2026-07-07": {
+    "id": 1783415971587,
+    "title": "KINDER-SOMMERKURSE IM HAUS DER ILLUSTRATION",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Zeichnen, beobachten und eigene Bildideen entwickeln – in kleinen Gruppen und mit individueller Begleitung. Gemeinsam mit Rolf Giger lernen die Kinder und Jugendlichen Figuren, Tiere, Pflanzen und Comic-Charaktere zu zeichnen und eigene Bildideen zu entwickeln. Im Mittelpunkt stehen Beobachtung, Kreativität und individuelles Arbeiten. Die Kurse richten sich an Kinder und Jugendliche von 7 bis 15 Jahren mit Interesse am Zeichnen.Kurszeiten:Montag / Freitag / Samstag 14:00–16:00 UhrDienstag / Mittwoch / Donnerstag 09:00–11:00 UhrOrt: Haus der Illustration, Obere Gasse 12, ChurDauer: 2 StundenPreis: 150 CHF pro KindMaterial wird zur Verfügung gestellt. Die Plätze sind begrenzt.",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur, Haus der Illustration",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/c/b9/2f/cb92fd8022c9ce38590a8c694be0899ab793317a_937520660.png",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/kinder-sommerkurse-im-haus-der-illustration-chur_A9iZZMW",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/kinder-sommerkurse-im-haus-der-illustration-chur_A9iZZMW"
+      }
+    ],
+    "organizerUrl": "https://gigercreative.com/kinder-sommerkursen/"
+  },
+  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-07-07": {
+    "id": 1783415971793,
+    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Diese Sonderausstellung zeigt anhand von sechs Biografien, welche Rolle Migrantinnen und Migranten beim Aufbau des Alpen-Tourismus eingenommen haben.",
+    "date": "2026-07-07",
+    "time": "10:00-17:00",
+    "locationName": "Chur, Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/08/4f/8084f6836c19021246c23cb7424a02d6c85af8f2_931453931.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4772643?eventDateTime=07.07.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/Seiten/%C2%ABAddio-%E2%80%93-Willkommen-%E2%80%93-A-revair%C2%BB.aspx"
+  },
+  "ausstellungnaturfigurinderstadtgaleriechur_2026-07-07": {
+    "id": 1783415971683,
+    "title": "Ausstellung Natur & Figur in der Stadtgalerie Chur",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Die Ausstellung präsentiert Holzskulpturen, Skulpturen und Bilder. Die Werke zeigen unterschiedliche Formen des künstlerischen Ausdrucks und den kreativen Umgang mit verschiedenen Materialien.",
+    "date": "2026-07-07",
+    "time": "16:00-19:00",
+    "locationName": "Chur, Stadtgalerie",
+    "municipality": "Chur",
+    "lat": 46.851,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/ausstellung-natur-und-figur-in-der-stadtgalerie-chur-chur_ANQnVNF",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/ausstellung-natur-und-figur-in-der-stadtgalerie-chur-chur_ANQnVNF"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4801529?eventDateTime=07.07.2026%20%2016:00%20-%2019:00"
+      }
+    ],
+    "organizerUrl": "https://www.janna-naturfigur.com/"
+  },
+  "beauxlosangesbueel_2026-07-07": {
+    "id": 1783415972417,
+    "title": "BEAUX LOSANGES BÜEL",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Remo Albert Alig / Selina Baumann / Alex Dorici / frölicher I bietenhader / Gabriela Gerber & Lukas Bardill / Peter Regli / Barbara Signer / Andrea VogelKuratiert von Luciano Fasciati, Assistenz Lisa GianottiEröffnung Samstag 20. Juni 2026 13:45 vor dem Aux Losanges, bei Schlechtwetter in der Mehrzweckhalle.Ausstellungsdauer 20. Juni bis 25. OktoberDie Ausstellung ist leider nicht rollstuhlgängig, die Veranstaltungen des Begleitprogramms hingegen schon.luciano-fasciati.ch",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Tschiertschen, Aux Losanges",
+    "municipality": "Tschiertschen-Praden",
+    "lat": 46.8188,
+    "lng": 9.6053,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/7/5a/69/75a69cd08000db5cb46fbe94906fc98e3348d815_930370381.jpeg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/beaux-losanges-bueel-tschiertschen_AXkAEcW",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/beaux-losanges-bueel-tschiertschen_AXkAEcW"
+      }
+    ],
+    "organizerUrl": "https://www.aux-losanges.ch/veranstaltungen/veranstaltungsdetail?eid=96"
+  },
+  "diewunderkammer150jahreraetischesmuseum_2026-07-07": {
+    "id": 1783415972505,
+    "title": "Die Wunderkammer: 150 Jahre Rätisches Museum",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Seit der Barockzeit präsentierten Fürsten oder vermögende Bürger vielerorts gerne aussergewöhnliche Objekte in sogenannten Wunderkammern: Naturalien, Kunstobjekte, Antiquitäten und Kuriositäten. Hier kam alles in bunter und faszinierender Mischung zusammen.Das moderne Museum, wie wir es heute kennen, ist eine bürgerliche Erfindung des 19. Jahrhunderts. In ganz Europa entstanden damals neue Ausstellungshäuser. Auch das Rätische Museum entstammt jener Zeit: Der Jurist, Historiker und Politiker Peter Conradin von Planta-Zuoz (1815–1902) initiierte eine «Bündnerische Stiftung für Wissenschaft und Kunst» mit dem Ziel, ein Museum zu gründen. Damit wollte er der anhaltenden Abwanderung wertvollen Kulturgutes aus Graubünden entgegenwirken. Am 8. Juni 1872 eröffnete das Rätische Museum im Erdgeschoss des Hauses Buol seine erste Ausstellung. Seither werden hier Objekte zur Geschichte Graubündens gesammelt. Mittlerweile umfassen die Bestände rund 100 000 Objekte.Zum Jubiläum laden wir Sie ein auf eine Entdeckungsreise durch die Museums-Schätze anhand von 150 ausgewählten Exponaten. Für jedes Jahr seit der Eröffnung wurde ein Objekt ausgewählt, das in jenem Jahr den Weg in die Sammlung fand. So zeigt die Ausstellung einen repräsentativen Querschnitt: Kostbares, Altes und Seltenes findet sich hier genauso wie Überraschendes, Banales oder Schräges, alles nebeneinander, ganz im Stil der einstigen Wunderkammer. Die vielen kleinen Geschichten, die so erzählt werden, vermitteln nicht nur spannende Einblicke in die Vergangenheit, sondern schlagen auch sammlungsgeschichtlich den Bogen von den Ursprüngen bis zum heutigen historischen Museum Graubündens und seinen Aufgaben.",
+    "date": "2026-07-07",
+    "time": "10:00 - 17:00 Uhr",
+    "locationName": "Chur, Rätisches Museum",
+    "municipality": "Chur",
+    "lat": 46.8486,
+    "lng": 9.5328,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/1/4e/20/14e20cf0ad7e93ced6ea4ee959f439f93130f9f5_727785306.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/die-wunderkammer-150-jahre-raetisches-museum-chur_AZ4dw8U",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/die-wunderkammer-150-jahre-raetisches-museum-chur_AZ4dw8U"
+      }
+    ],
+    "organizerUrl": "https://raetischesmuseum.gr.ch/de/ausstellungen/sonderausstellung/seiten/vorschau-zur-jubil%C3%A4umsausstellung.aspx"
+  },
+  "ferienzeitkarikaturenvonrolfgiger_2026-07-07": {
+    "id": 1783415973866,
+    "title": "FERIENZEIT – Karikaturen von Rolf Giger",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Die Ausstellung «FERIENZEIT» zeigt Karikaturen von Rolf Giger über Reisen, Ferien und kleine Alltagssituationen – mit Humor beobachtet und gezeichnet.",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur, Haus der Illustration",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/4a/0d/84a0dfefbb2d7afb494d140717d7376345b4ee53_937501315.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/ferienzeit--karikaturen-von-rolf-giger-chur_A77fk7k",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/ferienzeit--karikaturen-von-rolf-giger-chur_A77fk7k"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4623387?eventDateTime=07.07.2026"
+      }
+    ],
+    "organizerUrl": "https://gigercreative.com/ferienzeit-von-rolf-giger/"
+  },
+  "heilenistkunstistheilen_2026-07-07": {
+    "id": 1783415973877,
+    "title": "Heilen ist Kunst ist Heilen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Kunst auf Verordnung @ Atelier Hubert Crevoisier\n14. Mai 2025 - 27. August 2026 (Finissage um 17:15 Uhr)\nDas Atelier befindet sich in den beiden Vitrinen im Erdgeschoss des Haus H1 am KSGR.",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur, Kantonsspital Graubünden",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/c/39/44/c39442cfe3547977b128206b551df9410263404c_922948623.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/heilen-ist-kunst-ist-heilen-chur_Avjh2j8",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/heilen-ist-kunst-ist-heilen-chur_Avjh2j8"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4473089?eventDateTime=07.07.2026"
+      }
+    ],
+    "organizerUrl": "https://www.ksgr.ch/kunst#heilenistkunst"
+  },
+  "heinerkielholz_2026-07-07": {
+    "id": 1783415973268,
+    "title": "Heiner Kielholz",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein grosser Unbekannter in der Schweizer Kunst. Er arbeitet kontinuierlich an einem stillen Werk, meist in kleinen Formaten.",
+    "date": "2026-07-07",
+    "time": "10:00-17:00",
+    "locationName": "Chur, Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/d/f9/36/df9363e95700b5f439b63368aa915e1fcacf910f_922215914.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/heiner-kielholz-chur_AnabVMx",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/heiner-kielholz-chur_AnabVMx"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4724877?eventDateTime=07.07.2026%20%2010:00%20-%2017:00"
+      }
+    ]
+  },
+  "imatelierraumarbeitmythos_2026-07-07": {
+    "id": 1783415973074,
+    "title": "Im Atelier. Raum, Arbeit, Mythos",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit Werken von Matthew Barney, Mirko Baselgia, Flurin Bisig, Klodin Erb, Stefan Gritsch, Maude Léonard-Contant, Catrin Lüthi K, Paul McCarthy, Adrian Paci",
+    "date": "2026-07-07",
+    "time": "10:00-17:00",
+    "locationName": "Chur, Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/e/b9/13/eb9136fb38d1d59bf3c1d0a25f352fa78479f16a_911622642.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/im-atelier-raum-arbeit-mythos-chur_ABA5dyG",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/im-atelier-raum-arbeit-mythos-chur_ABA5dyG"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4729689?eventDateTime=07.07.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Atelier.aspx"
+  },
+  "robertralstonwennwortenichtmehrweiterwissen_2026-07-07": {
+    "id": 1783415973204,
+    "title": "Robert Ralston, wenn Worte nicht mehr weiterwissen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Pop-Up-Ausstellung im Rahmen von «Heilen ist Kunst ist Heilen» \nDie Finissage beider Ausstellungen findet am 27. August 2026 um 17.15 Uhr statt.",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur, Kantonsspital Graubünden, Kreuzspital",
+    "municipality": "Chur",
+    "lat": 46.8615,
+    "lng": 9.5412,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/0/91/8f/0918f0f5cd4caa84c0afc35e587b0e78c406b71f_922948614.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/robert-ralston-wenn-worte-nicht-mehr-weiterwissen-chur_A31u4Zf",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/robert-ralston-wenn-worte-nicht-mehr-weiterwissen-chur_A31u4Zf"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4590365?eventDateTime=07.07.2026"
+      }
+    ],
+    "organizerUrl": "https://www.ksgr.ch/kunst#worte"
+  },
+  "susanhefuna_2026-07-07": {
+    "id": 1783415973367,
+    "title": "Susan Hefuna",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Susan Hefunas künstlerische Praxis umfasst Zeichnung, Fotografie, Installation, Video und Performance. Sie erforscht das Zusammenspiel von Ort, Zeit und Wahrnehmung.",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur, Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/2/18/86/218860f84c805c528de831f425f272f95540b5ac_912877288.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/susan-hefuna-chur_AJci5gB",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/susan-hefuna-chur_AJci5gB"
+      },
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666047?eventDateTime=07.07.2026"
+      }
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/"
+  },
+  "jugendtreffheiligkreuzkirche_2026-07-08": {
+    "id": 1783415974602,
+    "title": "Jugendtreff Heiligkreuzkirche",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Am Mittwochnachmittag sind alle Räume offen (in den Schulferien ist der Jugendtreff geschlossen)Barraum - Discoraum - Billardraum-&gt; du kannst tanzen, chillen, Billard spielen, Musik auflegen, Töggela, Ping Pong spielen, plaudern, Freunde treffen....",
+    "date": "2026-07-08",
+    "time": "14:00 - 17:00 Uhr",
+    "locationName": "Chur, Heiligkreuzkirche Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/f/21/99/f21991bb0d8fdb42f90d34db23ac22b65ad75246_698944860.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/jugendtreff-heiligkreuzkirche-chur_A5Fvwcq",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/jugendtreff-heiligkreuzkirche-chur_A5Fvwcq"
+      }
+    ]
+  },
+  "spielnachmittageimfreibad_2026-07-08": {
+    "id": 1783415975360,
+    "title": "Spielnachmittage im Freibad",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Das Lernschwimmbecken im Freibad steht komplett den Kindern zur Verfügung. Das Becken wird bestückt mit diversen Spielgeräten, wie Ringen, Nudeln, Brettern, Klettergerät etc. Und auch die Rutschbahnen laden zum Badespass ein!Die regulären Spielnachmittage im Freibad mittwochs und samstags finden nur bei schönem Wetter statt.",
+    "date": "2026-07-08",
+    "time": "14:00 - 16:00 Uhr",
+    "locationName": "Chur, Sport- und Eventanlagen Chur",
+    "municipality": "Chur",
+    "lat": 46.8475,
+    "lng": 9.5085,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/d/c7/a5/dc7a509fc1562dc70ee89964cc73e5d2fa0b951c_929826643.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/spielnachmittage-im-freibad-chur_A2ZJWJ9",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/spielnachmittage-im-freibad-chur_A2ZJWJ9"
+      }
+    ],
+    "organizerUrl": "https://shop-sportanlagen.chur.ch/de/"
+  },
+  "oeffentlichealtstadtfuehrungchur_2026-07-08": {
+    "id": 1783415975465,
+    "title": "Öffentliche Altstadtführung Chur",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Lernen Sie Chur kennen bei der Altstadtführung durch die älteste Stadt der Schweiz, wo über 5000 Jahre Siedlungsgeschichte erlebbar sind. Zu Fuss geht es durch das belebte Zentrum in die verwinkelten Gassen der Altstadt und hoch zur 800-jährigen Kathedrale. Erfahren Sie dabei spannende Fakten und lustige Geschichten über die Stadt Chur und die Region. Die Hauptstadt Graubündens stellt sich gerne vor.Die Führungen am Samstag finden von 10.00-12.00 Uhr statt, am Mittwoch (April-Oktober) von 14.30-16.30 Uhr.Deutsch2 StundenDie Führung findet ab 1 Person/Anmeldung statt. Die Buchungsbestätigung gilt als Ticket. Tickets werden weder umgetauscht noch rückerstattet.Tourist Info, Bahnhofstrasse 32, Chur",
+    "date": "2026-07-08",
+    "time": "14:30 - 16:30 Uhr",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/8/fe/98/8fe983792c87da6c829157472d41700a3cf184c5_928648104.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/oeffentliche-altstadtfuehrung-chur-chur_AiLnPiD",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/oeffentliche-altstadtfuehrung-chur-chur_AiLnPiD"
+      }
+    ],
+    "organizerUrl": "https://www.chur.graubuenden.ch/de/angebot/altstadtfuehrung",
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020012997639972?globalReset=1"
+  },
+  "bookcraftsworkshops_2026-07-08": {
+    "id": 1783415977593,
+    "title": "Book & Crafts Workshops",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Mit der Books & Crafts Reihe verbinden wir kreative Workshops mit der besonderen Atmosphäre zwischen Buchseiten und Geschichten. Gemeinsam gestalten, werkeln und entdecken wir neue Ideen inspiriert von Büchern, Ästhetik und ganz viel Kreativität.Die Workshops finden exklusiv im Buchhaus Lüthy in Chur statt und laden dazu ein, für ein paar Stunden abzuschalten, kreativ zu werden und die Freude an schönen Dingen zu feiern.Books & Crafts ist dein kreativer Wohlfühlort mitten zwischen Büchern.8. Juli 2026: Book bedazzling WorkshopLieblingsbuch, aber make it sparkly!In diesem Workshop verleihst du deinem Buchcover mit Strasssteinen, Glitzer und kleinen Details einen ganz neuen Look. Gestalte dein Buch genau so, wie es zu dir passt.Bring dein eigenes Buch mit oder hole dir vor Ort eines (was für ein tolle Ausrede die eigene Buchsammlung zu erweitern ;)) und verwandle es Schritt für Schritt in ein echtes Lieblingsstück fürs Bücherregal oder den Coffee Table. Zwischen Kreativität, guten Gesprächen und ganz viel Glitzer entsteht ein Abend voller Booklover-Vibes und DIY-Magie.Perfekt für alle, die Bücher lieben und ihnen eine Extraportion Persönlichkeit verleihen möchten.19. August 2026: Buchvase und TrockenblumenAlte Bücher erzählen die schönsten Geschichten und in diesem Workshop bekommen sie ein ganz neues Kapitel. Gemeinsam verwandeln wir ausrangierte Bücher in einzigartige Buchvasen und gestalten daraus stilvolle Deko-Unikate mit ganz besonderem Charme.Nachdem deine Vase Form angenommen hat, geht es ans Arrangieren: Dich erwartet eine grosse Auswahl an Trockenblumen, Gräsern und kleinen Details, aus denen du dein persönliches Bouquet zusammenstellen kannst. Du kreierst ein Arrangement, das perfekt zu dir und deinem Zuhause passt.Ein kreativer Workshop voller Ruhe, Inspiration und schöner Materialien. Perfekt für alle, die Upcycling lieben und ihrem Zuhause mit kleinen Details Persönlichkeit verleihen möchten.",
+    "date": "2026-07-08",
+    "time": "17:30 Uhr",
+    "locationName": "Chur, Bücher Lüthy Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/7/cf/30/7cf304cee661653e748cdd87b0a2d3bffecf09a9_935146915.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/book-und-crafts-workshops-chur_AEiHVQR",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/book-und-crafts-workshops-chur_AEiHVQR"
+      }
+    ],
+    "organizerUrl": "https://www.flaminglow.ch/product/23085009/books-crafts-workshops-bei-buecher-luethy-chur"
+  },
+  "bookscraftsbookbedazzlingworkshop_2026-07-08": {
+    "id": 1783415977748,
+    "title": "Books & Crafts: Book Bedazzling Workshop",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Lieblingsbuch, aber make it sparkly!In diesem Workshop verleihst du deinem Buchcover mit Strasssteinen, Glitzer und kleinen Details einen ganz neuen Look. Gestalte dein Buch genau so, wie es zu dir passt.Bring dein eigenes Buch mit oder hole dir vor Ort eines (was für ein tolle Ausrede die eigene Buchsammlung zu erweitern ;)) und verwandle es Schritt für Schritt in ein echtes Lieblingsstück fürs Bücherregal oder den Coffee Table. Zwischen Kreativität, guten Gesprächen und ganz viel Glitzer entsteht ein Abend voller Booklover-Vibes und DIY-Magie.Perfekt für alle, die Bücher lieben und ihnen eine Extraportion Persönlichkeit verleihen möchten.&nbsp;",
+    "date": "2026-07-08",
+    "time": "17:30 - 19:30 Uhr",
+    "locationName": "Chur, Bücher Lüthy Chur",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/books-und-crafts-book-bedazzling-workshop-chur_AfKmuWg",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/books-und-crafts-book-bedazzling-workshop-chur_AfKmuWg"
+      }
+    ],
+    "organizerUrl": "http://www.flaminglow.ch"
+  },
+  "kulinariktourgenusswanderungmitpfiff_2026-07-08": {
+    "id": 1783415979273,
+    "title": "Kulinarik Tour: Genusswanderung...mit Pfiff!",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Freuen Sie sich auf eine einfache Wanderung mit traumhaftem Panorama, feinem 3-Gang-Menü in drei Restaurants und einer rasanten Rodelbahnfahrt. Bergbahnfahrt, Menü, Rodelbahn und Rückreise mit dem Postauto sind inklusive - einzig für die Getränke benötigen Sie noch ein wenig Kleingeld.Das Angebot inkludiert folgende Leistungen: 3-Gang-Menü in den teilnehmenden RestaurantsRoutenbeschreib mit detaillierten InformationenBergbahnfahrt Chur-BrambrüeschAbfahrt mit der Rodelbahn von Pradaschier nach ChurwaldenRückfahrt mit dem Postauto von Churwalden nach ChurBuchung mit einem Geschenkgutschein von Geschenkidee/Geschenkparadies&nbsp;&nbsp;Falls Sie einen Gutschein von Geschenkidee oder Geschenkparadies einlösen möchten, bitten wir Sie, uns den Gutscheincode sowie Ihre Kontaktangaben für die Buchung zu übermitteln. Die Buchung kann in diesem Fall nicht selbstständig vorgenommen werden. Menü&nbsp;&nbsp;Einen Überblick über die Menüwahl finden Sie hier.&nbsp;&nbsp;Ab 5 Personen bitten wir die Gäste, uns ihre Menüwünschebereits im Voraus über das Anfrageformular mitzuteilen.",
+    "date": "2026-07-08",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/3/71/23/37123e4e659c85fda10bb8f21a3d8f220883de7c_810859420.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/kulinarik-tour-genusswanderungmit-pfiff-chur_A23rjVG",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/kulinarik-tour-genusswanderungmit-pfiff-chur_A23rjVG"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014124266820?globalReset=1"
+  },
+  "malundzeichenkursa_2026-07-08": {
+    "id": 1783415980409,
+    "title": "Mal- und Zeichenkurs A",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Der Mal- und Zeichenkurs richtet sich an Einsteigerinnen und Einsteiger sowie Fortgeschrittene, die sich für diverse Maltechniken, Zeichnen und Drucktechniken interessieren. Der Kurs bietet die Möglichkeit, die Techniken (Ölmalerei, Acrylmalerei, Aquarell, Zeichnen, Drucken, Skizzieren, Akt) zu erlernen und zu vertiefen. Passend zum Thema werden Künstlerinnen und Künstler und ihre Werke vorgestellt. Eigene Projekte können verfolgt werden – dabei werden die KursteilnehmerInnen individuell von den Dozierenden beraten und begleitet.",
+    "date": "2026-07-08",
+    "time": "09:15 - 12:15 Uhr",
+    "locationName": "Chur, Kunstpol",
+    "municipality": "Chur",
+    "lat": 46.8508,
+    "lng": 9.532,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-{0},h-{1},dpr-{2}/2/11/79/21179652e7bbee3f5ce75745b1db18820383a6eb_843580745.jpg",
+    "sourceUrl": "https://www.chur-kultur.ch/de/suche/mal-und-zeichenkurs-a-chur_ALBM4gQ",
+    "sources": [
+      {
+        "name": "Chur-Kultur",
+        "url": "https://www.chur-kultur.ch/de/suche/mal-und-zeichenkurs-a-chur_ALBM4gQ"
+      }
+    ],
+    "organizerUrl": "https://kunstpol.ch/mal-und-zeichenkurs-a/"
+  },
+  "urbangolf_2026-07-07": {
+    "id": 1783415996622,
+    "title": "Urban Golf",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Mit Schläger und Softball entdecken Sie Churs Altstadt auf spielerische Weise.",
+    "date": "2026-07-07",
+    "time": "09:00-20:30",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_928173484.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=07.07.2026%20%2009:00%20-%2020:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=07.07.2026%20%2009:00%20-%2020:30"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013024938333?globalReset=1"
+  },
+  "churergenussmission_2026-07-07": {
+    "id": 1783415998168,
+    "title": "Churer Genussmission",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein innovatives Erlebnis, das die Spannung von Rätseln und Abenteuern mit dem Genuss lokaler Spezialitäten verbindet.",
+    "date": "2026-07-07",
+    "time": "09:00-18:00",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/e0/1b/6e01b6682b951252f6f00ccf833b64a0b8f3a70c_810858779.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=07.07.2026%20%2009:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=07.07.2026%20%2009:00%20-%2018:00"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014733279618?globalReset=1"
+  },
+  "rhbspeisewagengourmino_2026-07-07": {
+    "id": 1783415999189,
+    "title": "RhB Speisewagen Gourmino",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein Restaurant, das fährt und verzaubert: Im Speisewagen Gourmino wird jede Fahrt auf der spektakulären Albulalinie von Chur nach St. Moritz zu einem besonderen Erlebnis.",
+    "date": "2026-07-07",
+    "time": "09:58-20:02",
+    "locationName": "Bahnhof Chur",
+    "municipality": "Chur",
+    "lat": 46.8535563,
+    "lng": 9.5296459,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/9/1a/15/91a15c7c553ed3ef2cb3d4936959e6b2244ce377_919153425.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=07.07.2026%20%2009:58%20-%2020:02",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4704351?eventDateTime=07.07.2026%20%2009:58%20-%2020:02"
+      }
+    ],
+    "organizerUrl": "https://www.rhb.ch/de/genussreisen/speisewagen-gourmino/?tabs-1xUPOzhzxfYekiH6X03rpV=57PPL5Zx5UXvGHCbPM0R1V"
+  },
+  "danielakeiseroregano_2026-07-07": {
+    "id": 1783415999439,
+    "title": "Daniela Keiser. Oregano",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Für das Kunstmuseum gestaltet Keiser eine multisensorische begehbare Installation. In grossen Fotografien bezieht sie sich auf eine indische Kunstform, bei der Muster auf den Boden gezeichnet werden.",
+    "date": "2026-07-07",
+    "time": "10:00-17:00",
+    "locationName": "Bündner Kunstmuseum",
+    "municipality": "Chur",
+    "lat": 46.8506,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/d7/63/8d763589533145b3fdb4824814423cb899447865_912877307.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=07.07.2026%20%2010:00%20-%2017:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4666053?eventDateTime=07.07.2026%20%2010:00%20-%2017:00"
+      }
+    ],
+    "organizerUrl": "https://kunstmuseum.gr.ch/de/ausstellungen/vorschau/Seiten/Daniela-Keiser.aspx"
+  },
+  "kulinariktourgenusswanderungmitpfiff_2026-07-07": {
+    "id": 1783416000038,
+    "title": "Kulinarik Tour: Genusswanderung...mit Pfiff!",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Freuen Sie sich auf eine einfache Wanderung mit traumhaftem Panorama, feinem 3-Gang-Menü in drei Restaurants und einer rasanten Rodelbahnfahrt.",
+    "date": "2026-07-07",
+    "time": "Siehe Beschreibung",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/3/71/23/37123e4e659c85fda10bb8f21a3d8f220883de7c_810859420.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4713845?eventDateTime=07.07.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4713845?eventDateTime=07.07.2026"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014124266820?globalReset=1"
+  },
+  "urbangolf_2026-07-08": {
+    "id": 1783416001675,
+    "title": "Urban Golf",
+    "category": "sport",
+    "categoryLabel": "Sport",
+    "description": "Mit Schläger und Softball entdecken Sie Churs Altstadt auf spielerische Weise.",
+    "date": "2026-07-08",
+    "time": "09:00-20:30",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/f4/05/6f405556c8d213f7885676b7bd501ef5299b26dc_928173484.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=08.07.2026%20%2009:00%20-%2020:30",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4676425?eventDateTime=08.07.2026%20%2009:00%20-%2020:30"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013024938333?globalReset=1"
+  },
+  "churergenussmission_2026-07-08": {
+    "id": 1783416002524,
+    "title": "Churer Genussmission",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Ein innovatives Erlebnis, das die Spannung von Rätseln und Abenteuern mit dem Genuss lokaler Spezialitäten verbindet.",
+    "date": "2026-07-08",
+    "time": "09:00-18:00",
+    "locationName": "Chur",
+    "municipality": "Chur",
+    "lat": 46.8512,
+    "lng": 9.5323,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/e0/1b/6e01b6682b951252f6f00ccf833b64a0b8f3a70c_810858779.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=08.07.2026%20%2009:00%20-%2018:00",
+    "sources": [
+      {
+        "name": "LocalCities-Chur",
+        "url": "https://www.localcities.ch/de/veranstaltungen/chur/4865/4633451?eventDateTime=08.07.2026%20%2009:00%20-%2018:00"
+      }
+    ],
+    "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020014733279618?globalReset=1"
+  },
+  "kraftderstillesitzenimschweigen_2026-11-18": {
+    "id": 1783416031746,
+    "title": "Kraft der Stille - Sitzen im Schweigen",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Innerlich zur Ruhe zu kommen und in der Stille sich auf das Wesentliche besinnen. Mittwochs vom 12. August bis 16. Dezember vierzehntäglich.",
+    "date": "2026-11-18",
+    "time": "18:00-19:30",
+    "locationName": "Kapelle Bodmer in Chur",
+    "municipality": "Felsberg",
+    "lat": 46.8436,
+    "lng": 9.4772,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/d/9c/ad/d9cad133a3e201216e07d86b8b0062c06aa46b6b_876316266.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787523?eventDateTime=18.11.2026%20%2018:00%20-%2019:30",
+    "sources": [
+      {
+        "name": "LocalCities-Felsberg",
+        "url": "https://www.localcities.ch/de/veranstaltungen/felsberg/4733/4787523?eventDateTime=18.11.2026%20%2018:00%20-%2019:30"
+      }
+    ]
+  },
+  "ringelspitzpizbarghis3247mhochtour_2026-07-24": {
+    "id": 1783416065892,
+    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
+    "date": "2026-07-24",
+    "time": "Siehe Beschreibung",
+    "locationName": "Ringelspitzhütte",
+    "municipality": "Tamins",
+    "lat": 46.8658011,
+    "lng": 9.3807053,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=24.07.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Tamins",
+        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=24.07.2026"
+      }
+    ],
+    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
+    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
+  },
+  "ringelspitzpizbarghis3247mhochtour_2026-07-25": {
+    "id": 1783416066788,
+    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
+    "date": "2026-07-25",
+    "time": "Siehe Beschreibung",
+    "locationName": "Ringelspitzhütte",
+    "municipality": "Tamins",
+    "lat": 46.8658011,
+    "lng": 9.3807053,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=25.07.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Tamins",
+        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=25.07.2026"
+      }
+    ],
+    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
+    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
+  },
+  "ringelspitzpizbarghis3247mhochtour_2026-07-26": {
+    "id": 1783416067519,
+    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
+    "date": "2026-07-26",
+    "time": "Siehe Beschreibung",
+    "locationName": "Ringelspitzhütte",
+    "municipality": "Tamins",
+    "lat": 46.8658011,
+    "lng": 9.3807053,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=26.07.2026",
+    "sources": [
+      {
+        "name": "LocalCities-Tamins",
+        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=26.07.2026"
+      }
+    ],
+    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
+    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
+  },
+  "sommerfestinderoasechurwalden_2026-07-11": {
+    "id": 1783416085007,
+    "title": "Sommerfest in der Oase Churwalden",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Sommerfest im Restaurant Oase in Churwalden",
+    "date": "2026-07-11",
+    "time": "11:00",
+    "locationName": "Restaurant Oase, Chuwalden",
+    "municipality": "Churwalden",
+    "lat": 46.7797,
+    "lng": 9.5348,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/e4/6e/6e46ef2e34cf643967f1c4d16e18e760d258c286_939797844.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4824569?eventDateTime=11.07.2026%20%2011:00",
+    "sources": [
+      {
+        "name": "LocalCities-Churwalden",
+        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4824569?eventDateTime=11.07.2026%20%2011:00"
+      }
+    ]
+  },
+  "sunsetpartyaufdemerlebnisbergpradaschier_2026-07-18": {
+    "id": 1783416085750,
+    "title": "Sunset Party auf dem Erlebnisberg Pradaschier",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "SUNSET PARTY Nr. 1 am Erlebnisberg Pradaschier!",
+    "date": "2026-07-18",
+    "time": "15:00",
+    "locationName": "Erlebnisberg Pradaschier, Churwalden",
+    "municipality": "Churwalden",
+    "lat": 46.7797,
+    "lng": 9.5348,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/c0/b8/8c0b8566195868bfc2a843e178ddefaeed3e8391_938337356.png",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4817323?eventDateTime=18.07.2026%20%2015:00",
+    "sources": [
+      {
+        "name": "LocalCities-Churwalden",
+        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4817323?eventDateTime=18.07.2026%20%2015:00"
+      }
+    ]
+  },
+  "viamalaschluchtfuehrung_2026-07-23": {
+    "id": 1783416373734,
+    "title": "Viamala-Schlucht-Führung",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "2000 Jahre Transitgeschichte vor atemberaubender Kulisse. Dauer ca. 1 Stunde. Anmeldung und Treffpunkt direkt beim Shop in der Schlucht.",
+    "date": "2026-07-23",
+    "time": "14:00",
+    "locationName": "Besucherzentrum Viamala-Schlucht",
+    "municipality": "Thusis",
+    "lat": 46.6972,
+    "lng": 9.4402,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/96/72/a96724e531c7f6ef916a3cfa1eaaaf908fb0a54b_619453712.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4699015?eventDateTime=23.07.2026%20%2014:00",
+    "sources": [
+      {
+        "name": "LocalCities-Thusis",
+        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4699015?eventDateTime=23.07.2026%20%2014:00"
+      }
+    ],
+    "organizerUrl": "https://viamala.ch/erleben/ausflugsziele/viamala-schlucht.html"
+  },
+  "viamalanottemiterwindirnberger_2026-07-24": {
+    "id": 1783416374548,
+    "title": "Viamala Notte mit Erwin Dirnberger",
+    "category": "stage",
+    "categoryLabel": "Bühne & Kunst",
+    "description": "Nachtevent in der Viamala. Schluchtführung im Scheine der Laterne mit szenischen Darstellungen und Erzählungen. Begrenzte Anzahl Plätze. Anmeldung erforderlich bis 11.30 Uhr.",
+    "date": "2026-07-24",
+    "time": "20:00",
+    "locationName": "Besucherzentrum Viamala-Schlucht",
+    "municipality": "Thusis",
+    "lat": 46.6972,
+    "lng": 9.4402,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/09/6c/1096c4e2f144ca542b8d3c0077516c99b46d2671_791434128.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4792879?eventDateTime=24.07.2026%20%2020:00",
+    "sources": [
+      {
+        "name": "LocalCities-Thusis",
+        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4792879?eventDateTime=24.07.2026%20%2020:00"
+      }
+    ],
+    "organizerUrl": "https://viamala.ch/de/erleben/ausflugsziele/viamala-schlucht/viamala-notte.html",
+    "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020013123620218#/"
+  },
+  "spielundjassnachmittag_2026-07-27": {
+    "id": 1783416376109,
+    "title": "Spiel- und Jassnachmittag",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
+    "date": "2026-07-27",
+    "time": "14:00-16:00",
+    "locationName": "StoryThusis",
+    "municipality": "Thusis",
+    "lat": 46.6972,
+    "lng": 9.4402,
+    "price": "Eintritt frei",
+    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
+    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=27.07.2026%20%2014:00%20-%2016:00",
+    "sources": [
+      {
+        "name": "LocalCities-Thusis",
+        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=27.07.2026%20%2014:00%20-%2016:00"
+      }
+    ],
+    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
   }
 }

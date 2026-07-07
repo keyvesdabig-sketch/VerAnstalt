@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-05T08:40:29.118Z",
-  "eventsTotal": 256,
-  "eventsNew": 25,
-  "eventsUpdated": 156,
-  "eventsEnriched": 30,
+  "timestamp": "2026-07-07T09:27:25.148Z",
+  "eventsTotal": 259,
+  "eventsNew": 40,
+  "eventsUpdated": 143,
+  "eventsEnriched": 39,
   "enrichmentErrors": 0,
-  "eventsCleaned": 26,
+  "eventsCleaned": 37,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -82,8 +82,8 @@
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 12,
-      "error": null
+      "events": 0,
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 106794 (line 1 column 106795) — Roh: {\"events\": [{\"title\": \"Steine schleifen auf dem Älpli\", \"date\": \"2026-07-15\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/a/cc/78/acc7835b3ce1fefc08f341ae3f71a92fe07b8d10_927604135.jpg\", \"locat"
     },
     {
       "name": "LocalCities-Landquart",
@@ -106,7 +106,7 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 0,
+      "events": 6,
       "error": null
     },
     {
