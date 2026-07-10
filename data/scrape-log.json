@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-07-08T08:13:15.823Z",
-  "eventsTotal": 251,
-  "eventsNew": 16,
-  "eventsUpdated": 127,
-  "eventsEnriched": 8,
+  "timestamp": "2026-07-10T09:05:13.133Z",
+  "eventsTotal": 263,
+  "eventsNew": 39,
+  "eventsUpdated": 139,
+  "eventsEnriched": 44,
   "enrichmentErrors": 0,
-  "eventsCleaned": 24,
+  "eventsCleaned": 27,
   "sources": [
     {
       "name": "Chur-Kultur",
       "kind": "gemini",
-      "events": 0,
-      "error": "HTTP 503 beim Fetch von https://www.chur-kultur.ch/de/suche"
+      "events": 50,
+      "error": null
     },
     {
       "name": "LocalCities-Chur",
@@ -58,7 +58,7 @@
     {
       "name": "LocalCities-Churwalden",
       "kind": "gemini",
-      "events": 7,
+      "events": 20,
       "error": null
     },
     {
@@ -83,7 +83,7 @@
       "name": "LocalCities-Malans",
       "kind": "gemini",
       "events": 0,
-      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 212775 (line 1 column 212776) — Roh: {\"events\": [{\"title\": \"Steine schleifen auf dem Älpli\", \"date\": \"2026-07-15\", \"image\": \"https://ik.imagekit.io/guidle/tr:n-small/a/cc/78/acc7835b3ce1fefc08f341ae3f71a92fe07b8d10_927604135.jpg\", \"locat"
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 190951 (line 1 column 190952) — Roh: {\"events\":[{\"title\":\"Steine schleifen auf dem Älpli\",\"date\":\"2026-07-15\",\"image\":\"https://ik.imagekit.io/guidle/tr:n-small/a/cc/78/acc7835b3ce1fefc08f341ae3f71a92fe07b8d10_927604135.jpg\",\"locationName"
     },
     {
       "name": "LocalCities-Landquart",
@@ -106,7 +106,7 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 1,
+      "events": 0,
       "error": null
     },
     {
