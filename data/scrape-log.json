@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-11T07:32:59.914Z",
-  "eventsTotal": 262,
+  "timestamp": "2026-07-12T07:58:29.333Z",
+  "eventsTotal": 259,
   "eventsNew": 24,
-  "eventsUpdated": 165,
-  "eventsEnriched": 28,
+  "eventsUpdated": 156,
+  "eventsEnriched": 27,
   "enrichmentErrors": 0,
-  "eventsCleaned": 25,
+  "eventsCleaned": 27,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -106,7 +106,7 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 3,
+      "events": 7,
       "error": null
     },
     {
