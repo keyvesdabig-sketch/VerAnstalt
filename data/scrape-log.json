@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-16T07:55:24.840Z",
-  "eventsTotal": 266,
+  "timestamp": "2026-07-17T07:56:51.620Z",
+  "eventsTotal": 263,
   "eventsNew": 27,
-  "eventsUpdated": 164,
+  "eventsUpdated": 162,
   "eventsEnriched": 31,
   "enrichmentErrors": 0,
-  "eventsCleaned": 27,
+  "eventsCleaned": 30,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -106,8 +106,8 @@
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 1,
-      "error": null
+      "events": 0,
+      "error": "JSON-Parse-Fehler: Unterminated string in JSON at position 65680 (line 1 column 65681) — Roh: {\"events\": [{\"title\": \"Grillabend\", \"date\": \"XXXX-06-28\", \"image\": \"https://konsum-cazis.ch/wp-content/uploads/2024/05/DSC04984-scaled-e1715589170320-1024x1024.jpeg\", \"locationName\": \"Konsum Cazis\", \""
     },
     {
       "name": "Streaminghall-Handmade-Music",
