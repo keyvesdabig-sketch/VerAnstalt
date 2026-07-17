@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T09:20:25.594Z",
+  "lastUpdated": "2026-07-17T09:14:52.969Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -2742,27 +2742,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-7ee70ec46664",
-      "title": "Viamala-Schlucht-Führung",
-      "category": "family",
-      "description": "Geführte Tour durch die Viamala-Schlucht. Dies ist eine wiederkehrende Veranstaltung vom 16.07.2026 bis 13.08.2026.",
-      "date": "2026-07-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis (Viamala-Schlucht)",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-18"
     },
     {
       "id": "social-014cda680e7e",
@@ -8370,47 +8349,6 @@
       "scrapedAt": "2026-05-31T09:48:47.075Z"
     },
     {
-      "id": "social-91a707ad0b7d",
-      "title": "Music & Fairytales in the Forest 2026",
-      "category": "family",
-      "description": "An vier Donnerstagnachmittagen im Juli und August kann man in der Ferienregion Lenzerheide in eine fantasievolle Märchenwelt eintauchen. Die Künstler erzählen fantastische Geschichten und unterhalten mit stimmungsvollen Liedern zum Mitsingen.",
-      "date": "2026-07-16",
-      "time": "14:30",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Lenzerheide",
-      "lat": 46.7214,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/music-fairytales-in-the-forest-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKcs_AQM-t4yEgDQmTxbiTskHDOknYLVFupBwa9n35XdlIwzZbpjgAQGOo6Ea5pLUzFMkt-4tLkDSaua2sefJ_vD-XYv1MyMopfAAOxFP2tEkdITftDePUsKhpi6UMau2AdEH-cW0zb-RH0KisBwWki9m7HX5WI9NQN7rlrpDwVhe5tcxxETQ_xphmEPosJhI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF10AHU8YN1NBiG54nxmjVWf7tMnEBriewDkTjvFXBY9ffpuIrjpOb5MQVKM8Vrmf0KUemqldOaXyHCN9Pf94qTUnaSvAK1PSxOgYPSjATU4R_Db8iDqjKBZxBS8iEWkdiGHIz8FDcccvXaK5wSVGfLgEMG1iyxapwDNqlnopDhJjYoXT-FHuLKhHTIFXB7jFc3iQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJAHyxv30tNEWHUl5pV4Z2zxLiGAfdHqQo2d6XVU8MR1lzsa5W0QaIp61fogPmTSAzcTt8vWS-ngpzhJ3eoWyLRX2Nk1Cj5UbQDWdoAllemyMUk9vswFi-2ZuLNPL87gCRpnO6rNP0rmATkWCoEffKK6lRx-k-IPsFZ-TmUpFUxVVoCgHeKQ0POEeCGgu91EsUQQ=="
-        },
-        {
-          "title": "myfarm.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfkJYhOswx2LZ5o04i1FmhLUL5_Jr3VwmXN1zvwRI9u2x7PqBbmcabigTruJ33nrzUgUYYfmu9bXLRSA2sTXT5S-qb3V-gxsWLN-kePg0zyg_88O4oOPtg_MKHUTFrdeO9xoosOy3O5-B0_PdHcsne"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRq2XKHu4XxJb7x5WIN6OyBM6137Ylk7TT7AOKqfuuqTxVhTjM2CiyVhfNcZHhwgHSDWQaZvGgH2uAKA-VQuvo54VuwiTrvdjfGgm_nrFstqzurX8mWgeGNMJK29b7s693RBl6JAm4wFvtcWKdQe7TRh-4qIIhPcoPhn-1EqgpaXcZcM1szjkqAhFDcOuqFK0ERYjOgpVUBV4aSEwir83qaFNokA=="
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:50:16.247Z"
-    },
-    {
       "id": "social-c6319ca3a905",
       "title": "Music & Fairytales in the Forest 2026",
       "category": "family",
@@ -9041,47 +8979,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-a72452d0dbdd",
-      "title": "Music & Fairytales in the Forest",
-      "category": "family",
-      "description": "On four Thursday afternoons in July and August, you can immerse yourself in an imaginative world of fairytales in Lenzerheide. The artists tell fantastic stories and entertain you with atmospheric songs to sing along to.",
-      "date": "2026-07-16",
-      "time": "14:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Lenzerheide",
-      "lat": 46.73,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/music-fairytales-in-the-forest-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
     },
     {
       "id": "social-90e0595eaf93",
@@ -25367,26 +25264,6 @@
       "scrapedAt": "2026-06-18T11:08:28.703Z"
     },
     {
-      "id": "social-3fe398060246",
-      "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässiges Training der Feldschützengesellschaft Trimmis.",
-      "date": "2026-07-16",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:09:11.117Z"
-    },
-    {
       "id": "social-d7774f5a9c81",
       "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
       "category": "sport",
@@ -26880,26 +26757,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-a13217f9f379",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-16",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-1f4e01e940db",
@@ -29440,47 +29297,6 @@
       "scrapedAt": "2026-06-21T10:32:52.295Z"
     },
     {
-      "id": "social-f025dd0e1b8f",
-      "title": "FightCation Weekend 2026 - MMA in the Mountains!",
-      "category": "sport",
-      "description": "MMA (Mixed Martial Arts) Veranstaltung im Schlosshof.",
-      "date": "2026-07-16",
-      "time": "16:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Schlosshof",
-      "lat": 46.83,
-      "lng": 9.38,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "dtv-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHConOJXHjilUpMm3q3999JkrjtA-eUlJrDxK-rDA6e7cuN2b1pH5cp75y_e1oFCRJo4jyigZTSOKcOGOHQIAtBBzs8oaDgBgmKvvBI4lXESkFBYetBxJGBobBlwUGvna9mSxQ="
-        },
-        {
-          "title": "eventbrite.co.nz",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFltHKEyejGzYTTIqcnRAwgyIGDPP5ACZb3DIzWQZRJ8hiQStXkXvEEbPZRuGiXtvx-FsIOrgXUrxVlheTPBSYP4459__zH-0XA8VS1v2jiv74JR9jdsRAr3kgtyfSkEXb9fWc-3vUgRvYjKjEQxIryV5GGP2w-SW2i3Cd3iF25v9dgamWp2tYS-5JEFdICH6QfNrC2rZgo85PcGA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGiwYGPscFK-vdLzK11EW1By9uiiUVu3bCMeYrMECUEy-TJ2whQzpnp2mIlsyLJgfFsD4jIGAYDKuML_Nf4PvuInxgnaJ_i8ZMtSXgXLMONH5FMhLLUzLbxTha-BlBtKt4kKt_0VjPooK0yHAAhfuKimOOE5nkJ6xi5dPxxMTHbEUJ_0aOjw=="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2CXf-DyqHXzYqhWMYEGkoO2kuXJ1XJo1XiCP95IqaFDxQofekjFXmR0eiZbTQ7SpKAhr_8Jrpw-JjOK2EvZtuHEQXl5uhw-FBeGoLzigZ59soGO0-lziX0aTaAgs-BJDzAYYZHCfnNMBMxLDd9BfTSfCHObXoy4c6I-xY6HQ="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFliTxYiCpxkPvg27b2BxP6YoE4gne4DshRzZCpHwsDF8U_IC0JfbmoEfQdLsnXu8UlW3QEKrv2t2B-ypxKHWRkdHgeJ74VpV57eD7R2UQZCZ2KcB9x3-r2JTNCiExN-EbYCv_1WxKDodaBCk6NH05nX-9pW4eT2ytV2bLRf5mlfFZy8n5ehw-5bSMwpN5v"
-        }
-      ],
-      "scrapedAt": "2026-06-21T10:33:33.690Z"
-    },
-    {
       "id": "social-317f0dd2d045",
       "title": "Konzert Déjàvu",
       "category": "music",
@@ -30376,26 +30192,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:31:06.695Z"
-    },
-    {
-      "id": "social-7e995a73b23c",
-      "title": "Kinder-Kafi",
-      "category": "family",
-      "description": "Ein Treffpunkt für Eltern und Kinder zum Kaffee und Austausch.",
-      "date": "2026-07-16",
-      "time": "Ganztägig (Uhrzeit nicht spezifiziert)",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Gemeindehaus Felsberg",
-      "lat": 46.828,
-      "lng": 9.508,
-      "image": "",
-      "organizerUrl": "https://www.felsbergvereint.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:31:56.516Z"
     },
     {
       "id": "social-68f18ee71869",
@@ -32663,26 +32459,6 @@
         }
       ],
       "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
-      "id": "social-81ff5057c703",
-      "title": "FightCation Weekend 2026 - MMA in the Mountains!",
-      "category": "sport",
-      "description": "Mixed Martial Arts (MMA) event.",
-      "date": "2026-07-16",
-      "time": "16:00 - ",
-      "price": "Check ticket price on event",
-      "municipality": "Domat/Ems",
-      "locationName": "Schlosshof",
-      "lat": 46.833,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": "https://www.eventbrite.ch/d/switzerland--domat/ems/sports--fitness--events/",
-      "ticketUrl": "https://www.eventbrite.ch/d/switzerland--domat/ems/sports--fitness--events/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T09:55:47.190Z"
     },
     {
       "id": "social-5a7ec36014d3",
@@ -36190,26 +35966,6 @@
         }
       ],
       "scrapedAt": "2026-07-05T09:47:28.116Z"
-    },
-    {
-      "id": "social-5d58e1b84351",
-      "title": "Laurenz Nikolaus",
-      "category": "music",
-      "description": "Musikauftritt von Laurenz Nikolaus im Polenta 7000.",
-      "date": "2026-07-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta 7000, Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://polenta7000.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:23:46.578Z"
     },
     {
       "id": "social-bc227fbbc259",
@@ -41474,46 +41230,6 @@
       "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
-      "id": "social-0e6ac30404ca",
-      "title": "FightCation Weekend 2026 - MMA in the Mountains!",
-      "category": "sport",
-      "description": "MMA (Mixed Martial Arts) event.",
-      "date": "2026-07-16",
-      "time": "16:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schlosshof",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.eventbrite.ch/e/fightcation-weekend-2026-mma-in-the-mountains-tickets-XXXXXXXXXXXX",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.386Z"
-    },
-    {
-      "id": "social-3ffaf87bbc58",
-      "title": "Polenta7000 – Pingpong Madness",
-      "category": "sport",
-      "description": "Pingpong event at Polenta7000.",
-      "date": "2026-07-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta7000",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.386Z"
-    },
-    {
       "id": "social-65d16b01c69d",
       "title": "Der musikalische Sennhofsommer",
       "category": "music",
@@ -42825,26 +42541,6 @@
       "scrapedAt": "2026-07-14T09:11:42.831Z"
     },
     {
-      "id": "social-4ed00fcba531",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Erlebnisnachmittage im Freibad für Spiel und Spass.",
-      "date": "2026-07-16",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Sportanlage Obere Au",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-15T09:06:57.481Z"
-    },
-    {
       "id": "social-b15bf4770f9d",
       "title": "Spielnachmittage im Freibad",
       "category": "family",
@@ -44057,47 +43753,6 @@
       "scrapedAt": "2026-07-16T09:15:17.399Z"
     },
     {
-      "id": "social-fd5cc8b83b09",
-      "title": "D'Esperanto Trio",
-      "category": "music",
-      "description": "Konzert des D'Esperanto Trio.",
-      "date": "2026-07-16",
-      "time": "21:15 - 23:15",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Piazza Parrocchiale",
-      "lat": 46.834,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcGv7C6Xv-zGIHtvfjeYEgicuMQ56z1n89aiOPD4JtQX9vIeXdGNt3YHXqRUETyf9DdnWy3v69gOazxJy2r3o1kwV8FXL-uQtvRl8dsMhRNpJboFlX9ytZwnO44D7_-z5qtt_6dRxYXMiRyi3Ucae3GTtQ_mbAZgU4_L7qiLrC"
-        },
-        {
-          "title": "petzi.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBEfdNxFv8YL83pHgoWoKtobYsRL1o-5N2YdRGN5VFPGjYL9KbypoUYOSeXp2yImLaSDuUOduv-SP9HrJ_nDHOfffxI3MUS_G00Jj1MfECTSV7qphnxAKokyjxe6mL-NyhSyiqWC2xm34mmAP2zDDsnRBEg3-uE565YaSXoueQedo="
-        },
-        {
-          "title": "rapidopenair.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFchuGCPHOalUjfirksm4xwZIaprYoR8-GQBlywOwEUi-YXmLDevpltXfEB50GzvU63vxgt1KFt2TbHnDS8xjQ1I95c_SMePi8vqmI1xsc3CV0Ivg=="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAGL61GYrjK8Zm8RNpL-QQ83Q4MPhg2BmBkJUeF6j8uQ-3lQ0bluEzynO4h5NXzCF1zb66KFbgL9u6fgiOfapoUXCgf_uqMKw_djUxY1GT45e8LLyfVcnbb3cLqxj2FPE4x0BaEvu64mtg_Pb92G4ncuLFHGk8_UzVssJUdLkMeazQjIcHF4tb0nxjong="
-        },
-        {
-          "title": "eventbrite.sg",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbR59dWHPykKfkN_0OFN-iX3falzXuWalNyvY_QJCzvUVv4ahKTFz7YhElr_wl2J1EbGb04CpkXG9mrviyXE4gt7oyZmISpz3Ai_3J_kxxa-855ZC1WFdoNNLKmYa-MH8NaNM7UH4IbAFx-n6AzyIDr36lIJR-IA=="
-        }
-      ],
-      "scrapedAt": "2026-07-16T09:16:30.875Z"
-    },
-    {
       "id": "social-e09fd570bab9",
       "title": "Hofkonzert mit Gaudion (AUS)",
       "category": "music",
@@ -44137,26 +43792,6 @@
         }
       ],
       "scrapedAt": "2026-07-16T09:16:30.875Z"
-    },
-    {
-      "id": "social-1bf0a36e034b",
-      "title": "Grischuna-Örgeler",
-      "category": "music",
-      "description": "Ländlermusik-Auftritt der Grischuna-Örgeler.",
-      "date": "2026-07-16",
-      "time": "19:30 - 20:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9507,
-      "lng": 9.5385,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
       "id": "social-813caac3927f",
@@ -44297,6 +43932,1509 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:18:49.850Z"
+    },
+    {
+      "id": "social-09237571be96",
+      "title": "Urban Golf Sonntag",
+      "category": "sport",
+      "description": "Urban Golf event on Sunday.",
+      "date": "2026-07-19",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Chur",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-0b8fe2f54d05",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-07-22",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-e3235151e6a2",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-07-24",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-51176d8c2390",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-07-29",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-d50cb7dca9d5",
+      "title": "Festspiele im Schloss (Schloss Haldenstein)",
+      "category": "music",
+      "description": "Summer music festival at Haldenstein Castle with orchestra programs.",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "price": "Tickets",
+      "municipality": "Haldenstein",
+      "locationName": "Schloss Haldenstein",
+      "lat": 46.877,
+      "lng": 9.537,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-ff0e82f093f5",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-07-31",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-db1fabb3f231",
+      "title": "1. August 2026 Schweizer Nationalfeiertag",
+      "category": "family",
+      "description": "Swiss National Day celebration with brunch, bonfires, and city activities.",
+      "date": "2026-08-01",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Chur",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-51abdd84e344",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-08-04",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-7a4df7d5ed90",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-08-06",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.972Z"
+    },
+    {
+      "id": "social-9c73083c70b1",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-08-11",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-97431732eaf0",
+      "title": "Adventure afternoons",
+      "category": "family",
+      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
+      "date": "2026-08-13",
+      "time": "14:00 - 16:00",
+      "price": "Included in pass or regular pool entrance fee",
+      "municipality": "Chur",
+      "locationName": "Obere Au outdoor swimming pool complex",
+      "lat": 46.84,
+      "lng": 9.525,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-0cf9c5018179",
+      "title": "Tanz dich frei in Weichheit, Leichtigkeit und Lebensfreude!",
+      "category": "family",
+      "description": "Dance course for freedom, softness, lightness, and joy of life.",
+      "date": "2026-08-21",
+      "time": "19:30 - 21:30",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Familienzentrum Planaterra",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-3fef28df8707",
+      "title": "Spikl-Treff",
+      "category": "family",
+      "description": "Play and get to know each other for adults with babies or toddlers.",
+      "date": "2026-08-26",
+      "time": "09:00 - 11:00",
+      "price": "kostenlos",
+      "municipality": "Chur",
+      "locationName": "Familienzentrum Planaterra",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-38452d1d6ebb",
+      "title": "Kids Event im City West",
+      "category": "family",
+      "description": "Children can play, paint, craft in the mall of EKZ City West.",
+      "date": "2026-08-26",
+      "time": "14:00 - 18:00",
+      "price": "kostenlos",
+      "municipality": "Chur",
+      "locationName": "EKZ City West",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-e739083e1436",
+      "title": "Spikl-Treff",
+      "category": "family",
+      "description": "Play and get to know each other for adults with babies or toddlers.",
+      "date": "2026-09-02",
+      "time": "09:00 - 11:00",
+      "price": "kostenlos",
+      "municipality": "Chur",
+      "locationName": "Familienzentrum Planaterra",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-409198443f83",
+      "title": "Handwerkermarkt",
+      "category": "markets",
+      "description": "Handicraft market on Poststrasse.",
+      "date": "2026-09-12",
+      "time": "09:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Chur",
+      "locationName": "Poststrasse, Chur",
+      "lat": 46.85,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-8ac0d1bf1992",
+      "title": "Der Nussknacker. Weihnachtsgala.",
+      "category": "stage",
+      "description": "Christmas Gala featuring \"The Nutcracker\".",
+      "date": "2026-12-19",
+      "time": "19:00",
+      "price": "Tickets",
+      "municipality": "Chur",
+      "locationName": "Theater Chur",
+      "lat": 46.848,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-860aa65f8c49",
+      "title": "Der Nussknacker. Weihnachtsgala.",
+      "category": "stage",
+      "description": "Christmas Gala featuring \"The Nutcracker\".",
+      "date": "2026-12-20",
+      "time": "17:00",
+      "price": "Tickets",
+      "municipality": "Chur",
+      "locationName": "Theater Chur",
+      "lat": 46.848,
+      "lng": 9.53,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "localcities.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:05:33.973Z"
+    },
+    {
+      "id": "social-0d786787e5b0",
+      "title": "Seniorentanznachmittag",
+      "category": "family",
+      "description": "Tanzplausch (selber tanzen) für Senioren.",
+      "date": "2026-10-08",
+      "time": "14:00 - unbekannt",
+      "price": "Unbekannt",
+      "municipality": "Domat/Ems",
+      "locationName": "Mehrzweckhalle Tircal",
+      "lat": 46.82,
+      "lng": 9.47,
+      "image": "",
+      "organizerUrl": "https://www.domat-ems.ch/veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:06:06.388Z"
+    },
+    {
+      "id": "social-4601be8bbed2",
+      "title": "Weihnachtsmarkt Domat/Ems",
+      "category": "markets",
+      "description": "Weihnachtsmarkt in der Casa Falveng.",
+      "date": "2026-11-21",
+      "time": "10:00 - 17:00",
+      "price": "Unbekannt",
+      "municipality": "Domat/Ems",
+      "locationName": "Casa Falveng",
+      "lat": 46.82,
+      "lng": 9.47,
+      "image": "",
+      "organizerUrl": "https://myfarm.ch/veranstaltungen/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:06:06.388Z"
+    },
+    {
+      "id": "social-afcf6881f268",
+      "title": "Seniorentanznachmittag",
+      "category": "family",
+      "description": "Tanzplausch (selber tanzen) für Senioren.",
+      "date": "2026-12-10",
+      "time": "14:00 - unbekannt",
+      "price": "Unbekannt",
+      "municipality": "Domat/Ems",
+      "locationName": "Mehrzweckhalle Tircal",
+      "lat": 46.82,
+      "lng": 9.47,
+      "image": "",
+      "organizerUrl": "https://www.domat-ems.ch/veranstaltungen",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:06:06.388Z"
+    },
+    {
+      "id": "social-a51e8cc36b88",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-07-20",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-f9f7154bdef1",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-07-23",
+      "time": "08:30 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-236235ad0ae1",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-07-27",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-ee61ece325b8",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-07-30",
+      "time": "08:30 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-e8adb3116474",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-03",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-c0d8ec19e98a",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-06",
+      "time": "08:30 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-9acd7f172fa0",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-10",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-6c13f1f6b0d5",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-13",
+      "time": "08:30 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-c671812cb9d1",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-17",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-0268060a28ec",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-20",
+      "time": "08:30 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-3706743765eb",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-24",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-7c0f417903a7",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-27",
+      "time": "08:30 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-302fd96ba7a2",
+      "title": "Kaffeetreff für Alt und Jung",
+      "category": "family",
+      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
+      "date": "2026-08-31",
+      "time": "14:00 - 17:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Begegnungsraum",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-472a68177ef6",
+      "title": "Gottesdienst mit Kirchenkaffee",
+      "category": "family",
+      "description": "Regulärer Gottesdienst mit anschließendem Kirchenkaffee.",
+      "date": "2026-08-02",
+      "time": "10:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Ref. Kirche Trimmis, Chilchgass 2",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.kirche-untervaz.ch/kirche-trimmis",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-5c1e62aa4295",
+      "title": "Kino-Gottesdienst",
+      "category": "family",
+      "description": "Ein Gottesdienst im Kinostil.",
+      "date": "2026-08-30",
+      "time": "10:00 - 11:00",
+      "price": "Keine Angabe",
+      "municipality": "Trimmis",
+      "locationName": "Ref. Kirche Trimmis, Chilchgass 2",
+      "lat": 46.88,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": "https://www.kirche-untervaz.ch/kirche-trimmis",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:08:20.045Z"
+    },
+    {
+      "id": "social-c17686430176",
+      "title": "Grümpelschiessen Schützenverein Tamins",
+      "category": "sport",
+      "description": "Öffentliches Schiessen des Schützenvereins Tamins am Schiessstand Cartschitscha.",
+      "date": "2026-08-22",
+      "time": "13:00 - 16:00",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Schiessstand Cartschitscha",
+      "lat": 46.83,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:09:48.154Z"
+    },
+    {
+      "id": "social-930eed55eddf",
+      "title": "Dorfkaffi Tamins (September)",
+      "category": "family",
+      "description": "Gemütliches Beisammensein im Gemeindezentrum, organisiert vom Verein elterntamins.",
+      "date": "2026-09-30",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Gemeindezentrum",
+      "lat": 46.83,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:09:48.154Z"
+    },
+    {
+      "id": "social-666d810cee24",
+      "title": "Dorfkaffi Tamins (November)",
+      "category": "family",
+      "description": "Gemütliches Beisammensein im Gemeindezentrum, organisiert vom Verein elterntamins.",
+      "date": "2026-11-11",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Gemeindezentrum",
+      "lat": 46.83,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:09:48.154Z"
+    },
+    {
+      "id": "social-214d97d42562",
+      "title": "Dorfkaffi Tamins (Dezember)",
+      "category": "family",
+      "description": "Gemütliches Beisammensein im Gemeindezentrum, organisiert vom Verein elterntamins.",
+      "date": "2026-12-09",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Gemeindezentrum",
+      "lat": 46.83,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:09:48.154Z"
+    },
+    {
+      "id": "social-1176bae3a99b",
+      "title": "Kerzenziehen Tamins (10. Dez)",
+      "category": "family",
+      "description": "Kerzenziehen-Aktivität im Gemeindezentrum, organisiert vom Verein elterntamins.",
+      "date": "2026-12-10",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Gemeindezentrum",
+      "lat": 46.83,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:09:48.154Z"
+    },
+    {
+      "id": "social-cad2513b8ce9",
+      "title": "Kerzenziehen Tamins (13. Dez)",
+      "category": "family",
+      "description": "Kerzenziehen-Aktivität im Gemeindezentrum, organisiert vom Verein elterntamins.",
+      "date": "2026-12-13",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Tamins",
+      "locationName": "Gemeindezentrum",
+      "lat": 46.83,
+      "lng": 9.42,
+      "image": "",
+      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:09:48.154Z"
+    },
+    {
+      "id": "social-6a6a9a7919ec",
+      "title": "1. August Tavolata",
+      "category": "family",
+      "description": "Authentische Köstlichkeiten, die unsere schöne Region widerspiegeln, mit einem Tavolata-Menü inklusive Vorspeise, Hauptgericht und Dessert.",
+      "date": "2026-08-01",
+      "time": "11:30 - open end",
+      "price": "CHF 44.00 pro Person",
+      "municipality": "Churwalden",
+      "locationName": "Oase Churwalden Restaurant",
+      "lat": 46.7909,
+      "lng": 9.5724,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYytkX4T1n8feJdyyDwdKzqgqxvVN1LRzbzdlW4CXTp3mprchf_hqFBTJzzfRKa-R1wV3gDjcaRjadMtQqHB08m-wqc8Q8Np46_BjmRUSREcbrMfqKGLNwpa9LK9JQH8A6qpIOjBh-e-OKzHNSZ3_68oqBVMpSeJdBasfcXgqDWEaW-1W2CrL7cD5mRCqKUnGuIw30avF4JyqU"
+        },
+        {
+          "title": "churwalden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGorwUPBkI-LzVIutW_DXAcQkL30JysLBB30tAp3NvgMmziXa6ka7DQiaJlniDIoVxl_eIE6S6-pLjPjtU-XuYZHn7h3EepXmIDsB3fdM6QwJEfXHNM1e3QhCo="
+        },
+        {
+          "title": "graubuenden.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTpGEafciy5BebJgPtZklTM5OYs157sA-1paPdctamqALrs9F4FEnRVAad6lfq_zJBl7w5x1rm16CXQzg_qUwdzSK_z-8f5seATXbdqKD8GpBCpZf-NSfwcTN5_ZcLoj8hqiDw21WI5kkafY7QFVbqLaQrl_w="
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUussjlT1XFVrvUrEBw7cVc0XvJHloFVOP-J0dCTvcruRLP3aRGyyBCd68bLB0h-Fq66jSVcT9N4Kh0RmbACYk0g1151ERKbOU1eQ6kjujgVH2Acai6SmZyYc8EMU_OSbQdFeMXVcvSsPUbzvbO7NFv5bLQ_dR1OJOgMVGkSlQuPU31XxUPTzC9Ruv4X2jwVA-OLfFP5114P5Jx3B0"
+        },
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLoIUAQPS_cXsMQHrMzzCjkvRVjyIXFIIDo3oSjDkEYSGR637aZ7CsSV1mzr0wu4xvHfuKvObFf9J_D3T5S79hNFQ1o-0KDQwUeSorT59A0Y8DlMWfayRxDevLeH_vNCin2IXv98Rn4NkGcXFKyB7ZfkhiZ4f8acx0hvc="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:10:41.341Z"
+    },
+    {
+      "id": "social-bf2f7ce7e30c",
+      "title": "10. Freie Übung und Stiche",
+      "category": "sport",
+      "description": "Zehnte freie Schiessübung und Stiche.",
+      "date": "2026-08-12",
+      "time": "18:00 - 20:00",
+      "price": "Keine Angabe",
+      "municipality": "Malans",
+      "locationName": "Malans Schützenhaus",
+      "lat": 47.0017,
+      "lng": 9.5441,
+      "image": "",
+      "organizerUrl": "https://www.schuetzenverein-malans.ch/",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:12:56.522Z"
+    },
+    {
+      "id": "social-d8eb36c17153",
+      "title": "AC/DC Tribute Konzert mit der Band Barock",
+      "category": "music",
+      "description": "Ein AC/DC Tribute Konzert mit der bekannten Band Barock im Forum in Landquart.",
+      "date": "2026-10-17",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Landquart",
+      "locationName": "Forum Landquart",
+      "lat": 46.949,
+      "lng": 9.541,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-OemMSRpWb7YucX76HG9pAvJ-6v56JKCh4FmVzepSQ2O3EOjpAQivaIGe-QXccwc9-JF5MBsZmk7ZhCzIJeZOP3wiQE-loFg8mQK4JQCjiu0E85CV6Aic7QtRoqc3kpzPWNCkxmYCw5XzahP97FdXzbfN8Yq2zObGhpZ9wJViK6oZROjNOMUDRIOA5CklnFX_r2ZV7JZJQ=="
+        },
+        {
+          "title": "forum-landquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtOx7Wg9YWUT6n49y3jXLX9jKxc6VAF6zwdOBcrJ_upGzayWvHIAw9UXwdoW0-W9rn1DwnbCCFeK0wR9CYQupBcxgpfnb1nycMycPLhsbdgpUKS1u0-_QnRVCsC0TKV0knR2QZn2I="
+        },
+        {
+          "title": "ticketcorner.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhBxdkM8_rYDoZ5t4Pe3rB0Zf3u8K6DOOkf1VgNttQSWdhrYjrlfx2W-cC6mEHNHBIn1PKrFSNaHqZ602qwL0IbDujfkbdNMkESZ51YO2HDSNDn9XU-7FQ4i-U_uNa-JeGq1LGxYOB9DJB"
+        },
+        {
+          "title": "landquartkultur.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHC_NBRw9LjXvOboeolJnh9EG52m9HZdv1AYpube7aDB8d3HkpSSQd-AB71RhmwFSXiTWs4GYTe9q4FJfuD9R9VtY39j2nBN8XR9PdYdabJIodNjKqJvhpDxBTP-jgEnuKGA8XMp3Rro9pDg=="
+        },
+        {
+          "title": "forum-landquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeNE3idUewQq18jmIJrMzk0Qf3hmU1lww71gBa63wK7rZ2OFqHW2RKUEwr6DegwIrmswXFrQDDKAVMzHnBhQgniPhxpRlDMnvu2FkKCemh4WbC5_LfxvOHFFS3W-cPOj0n5ha5PiwzUDnFzy0xwIduUUEg8AcbiURPV3Noyt_fKZv1uJm1pBmCSQWV_JEmAw=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:13:27.547Z"
+    },
+    {
+      "id": "social-1c45cef832d7",
+      "title": "Marie Louise Werth & Band - Merry Christmas Tour 2026",
+      "category": "music",
+      "description": "Weihnachtstour-Konzert mit Marie Louise Werth & Band.",
+      "date": "2026-12-22",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Landquart",
+      "locationName": "Landquart",
+      "lat": 46.95,
+      "lng": 9.54,
+      "image": "",
+      "organizerUrl": null,
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "myswitzerland.com",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-OemMSRpWb7YucX76HG9pAvJ-6v56JKCh4FmVzepSQ2O3EOjpAQivaIGe-QXccwc9-JF5MBsZmk7ZhCzIJeZOP3wiQE-loFg8mQK4JQCjiu0E85CV6Aic7QtRoqc3kpzPWNCkxmYCw5XzahP97FdXzbfN8Yq2zObGhpZ9wJViK6oZROjNOMUDRIOA5CklnFX_r2ZV7JZJQ=="
+        },
+        {
+          "title": "forum-landquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtOx7Wg9YWUT6n49y3jXLX9jKxc6VAF6zwdOBcrJ_upGzayWvHIAw9UXwdoW0-W9rn1DwnbCCFeK0wR9CYQupBcxgpfnb1nycMycPLhsbdgpUKS1u0-_QnRVCsC0TKV0knR2QZn2I="
+        },
+        {
+          "title": "ticketcorner.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhBxdkM8_rYDoZ5t4Pe3rB0Zf3u8K6DOOkf1VgNttQSWdhrYjrlfx2W-cC6mEHNHBIn1PKrFSNaHqZ602qwL0IbDujfkbdNMkESZ51YO2HDSNDn9XU-7FQ4i-U_uNa-JeGq1LGxYOB9DJB"
+        },
+        {
+          "title": "landquartkultur.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHC_NBRw9LjXvOboeolJnh9EG52m9HZdv1AYpube7aDB8d3HkpSSQd-AB71RhmwFSXiTWs4GYTe9q4FJfuD9R9VtY39j2nBN8XR9PdYdabJIodNjKqJvhpDxBTP-jgEnuKGA8XMp3Rro9pDg=="
+        },
+        {
+          "title": "forum-landquart.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeNE3idUewQq18jmIJrMzk0Qf3hmU1lww71gBa63wK7rZ2OFqHW2RKUEwr6DegwIrmswXFrQDDKAVMzHnBhQgniPhxpRlDMnvu2FkKCemh4WbC5_LfxvOHFFS3W-cPOj0n5ha5PiwzUDnFzy0xwIduUUEg8AcbiURPV3Noyt_fKZv1uJm1pBmCSQWV_JEmAw=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:13:27.547Z"
+    },
+    {
+      "id": "social-a24a058d6a50",
+      "title": "Spiel- und Jassnachmittag",
+      "category": "family",
+      "description": "Ein geselliger Nachmittag mit Spielen und Jassen.",
+      "date": "2026-07-17",
+      "time": "14:00 - 16:00",
+      "price": "Unbekannt",
+      "municipality": "Thusis",
+      "locationName": "StoryThusis",
+      "lat": 46.6806,
+      "lng": 9.4005,
+      "image": "",
+      "organizerUrl": "https://www.localcities.ch/de/thusis/aktuelles",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:14:22.625Z"
+    },
+    {
+      "id": "social-e62abb890585",
+      "title": "Dorfführung Thusis",
+      "category": "family",
+      "description": "Ein spannender Rundgang durch die Geschichte(n) von Thusis. Treffpunkt beim Rathaus. Anmeldung erforderlich.",
+      "date": "2026-07-17",
+      "time": "17:30 - Unbekannt",
+      "price": "Kostenlos",
+      "municipality": "Thusis",
+      "locationName": "Rathaus Thusis",
+      "lat": 46.6806,
+      "lng": 9.4005,
+      "image": "",
+      "organizerUrl": "https://www.guidle.com/de/veranstaltung/dorffuehrung-thusis/3602120",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Guidle",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:14:22.625Z"
+    },
+    {
+      "id": "social-de9d9b43066b",
+      "title": "Okotoberfest Thusis 2026 - Freitag",
+      "category": "music",
+      "description": "Oktoberfest in Thusis mit bayerischer Stimmung und Musik, Partyband und DJ.",
+      "date": "2026-09-18",
+      "time": "18:00 - Unbekannt",
+      "price": "Unbekannt",
+      "municipality": "Thusis",
+      "locationName": "Mehrzweckhalle Thusis",
+      "lat": 46.6806,
+      "lng": 9.4005,
+      "image": "",
+      "organizerUrl": "https://www.eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-7292276535261546955.html",
+      "ticketUrl": "https://www.eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-7292276535261546955.html",
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [],
+      "scrapedAt": "2026-07-17T09:14:22.625Z"
+    },
+    {
+      "id": "social-1cd85aa3e134",
+      "title": "Mittelalterkonzert",
+      "category": "music",
+      "description": "Wir entführen Sie einen Abend in vergangene Zeiten mit den Mittelalter-Spiellüt.",
+      "date": "2026-07-24",
+      "time": "18:30 - 23:00",
+      "price": "Keine Angabe",
+      "municipality": "Cazis",
+      "locationName": "Piazetta Adolf Peretti (zwischen Kirche und Pfrundhaus)",
+      "lat": 46.75,
+      "lng": 9.41,
+      "image": "",
+      "organizerUrl": "https://www.cazis.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtK5p2IwYoeqXT6gHODCqWbRTsIC6JSLW5Ytj8BX4hK9nG4aCNTrgtg0ifh3m7yo7haAy7Ch1-m1tmsErzVmqagWqAiHEb0aHKUBU="
+        },
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfa2MdL5Ygo7K7W65Bwc4Uhwp574Eaaka27dOx95Gbq6KeOZQhYzq1yJw6lIenZ3Mi7k4BFWTgHZ4hZ4TUq401VSK_MFqjePr-V6ywTbNo49TB3hA4izOwT73rpN5-SXnKMt6LEA=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6c3vXJ4h-nJYmuvXozY8Ry4UJFURqJmuITvHoqH-tcMThXyUyGoxybUfjzVA84TK_KM5HIf9IFL-_BaSeUiNn8921m7Eq29pDGLU9xFPTUsgQh_zAOB0W1C_BpzogGO5EMtwcAn4jsqPtezu-ys2vXtnGpQt3Xk3U6smk9cWXj300xV3iLAM1obs1MFa8D8="
+        },
+        {
+          "title": "graubuendenvieh.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRJfAzBMY-xNyOtdnL6uB0RJXy-sa_O4Z6EhELJlvW6rbJV4teb7m3H_8Yh5YIj6kDYG-MqSwQhJa1Eno7kJ-0FTAhsXacTdTAugCPcNzhu_JGsyR3uPAcvobgSlpqIkH9Ha3dpMu8MIjtXDXEx0Q-JfZErDBsDM58usHA7Q=="
+        },
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJD8vvRCWchaOAj1r6Dke84AuJ9y5mRvJL40_tuM9d4okA_bMq36Ui9RPZEKZdu9BpEW-HxYB847fh7YUeDTtncVGcGjm0s7uwvpZ5mladxXeC9Lt-eAewt-BkHBKhK2xK_smKcb9MFhMA4WA2FOdvCA=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:14:48.967Z"
+    },
+    {
+      "id": "social-8a369b09697f",
+      "title": "Schafmarkt Cazis",
+      "category": "markets",
+      "description": "Öffentlicher Schafmarkt der graubündenVIEH AG.",
+      "date": "2026-08-25",
+      "time": "",
+      "price": "Keine Angabe",
+      "municipality": "Cazis",
+      "locationName": "Bündner Arena",
+      "lat": 46.75,
+      "lng": 9.41,
+      "image": "",
+      "organizerUrl": "https://www.graubuendenvieh.ch",
+      "ticketUrl": null,
+      "sourceUrl": "",
+      "sourcePlatform": "Other",
+      "citations": [
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtK5p2IwYoeqXT6gHODCqWbRTsIC6JSLW5Ytj8BX4hK9nG4aCNTrgtg0ifh3m7yo7haAy7Ch1-m1tmsErzVmqagWqAiHEb0aHKUBU="
+        },
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfa2MdL5Ygo7K7W65Bwc4Uhwp574Eaaka27dOx95Gbq6KeOZQhYzq1yJw6lIenZ3Mi7k4BFWTgHZ4hZ4TUq401VSK_MFqjePr-V6ywTbNo49TB3hA4izOwT73rpN5-SXnKMt6LEA=="
+        },
+        {
+          "title": "eventfrog.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6c3vXJ4h-nJYmuvXozY8Ry4UJFURqJmuITvHoqH-tcMThXyUyGoxybUfjzVA84TK_KM5HIf9IFL-_BaSeUiNn8921m7Eq29pDGLU9xFPTUsgQh_zAOB0W1C_BpzogGO5EMtwcAn4jsqPtezu-ys2vXtnGpQt3Xk3U6smk9cWXj300xV3iLAM1obs1MFa8D8="
+        },
+        {
+          "title": "graubuendenvieh.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRJfAzBMY-xNyOtdnL6uB0RJXy-sa_O4Z6EhELJlvW6rbJV4teb7m3H_8Yh5YIj6kDYG-MqSwQhJa1Eno7kJ-0FTAhsXacTdTAugCPcNzhu_JGsyR3uPAcvobgSlpqIkH9Ha3dpMu8MIjtXDXEx0Q-JfZErDBsDM58usHA7Q=="
+        },
+        {
+          "title": "cazis.ch",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJD8vvRCWchaOAj1r6Dke84AuJ9y5mRvJL40_tuM9d4okA_bMq36Ui9RPZEKZdu9BpEW-HxYB847fh7YUeDTtncVGcGjm0s7uwvpZ5mladxXeC9Lt-eAewt-BkHBKhK2xK_smKcb9MFhMA4WA2FOdvCA=="
+        }
+      ],
+      "scrapedAt": "2026-07-17T09:14:48.967Z"
     }
   ]
 }
