@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T08:54:39.659Z",
+  "lastUpdated": "2026-07-19T09:02:33.030Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -4569,47 +4569,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-3ae351c5a106",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-07-18",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-d96a3384cf7c",
@@ -22000,43 +21959,6 @@
       "scrapedAt": "2026-06-14T10:30:33.185Z"
     },
     {
-      "id": "social-26c3076c06e6",
-      "title": "Lescha Fescht",
-      "category": "family",
-      "description": "Sommerfest mit bedienter Festwirtschaft, Lotto, musikalischer Unterhaltung mit dem \"Trio Duranand\" und Barbetrieb. Programm: ab 12:00 Uhr Festwirtschaft, Kaffee und Kuchen, Kinderspielanlage; 17:30 Uhr 1. Lottomatch; ab 18:00 Uhr Live Musik und Tanzbühne; 19:30 Uhr 2. Lottomatch; ab 21:30 Uhr Lescha Fescht Bar.",
-      "date": "2026-07-18",
-      "time": "12:00 - 04:00",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Festgelände unterhalb Restaurant Lescha, Sarn",
-      "lat": 46.738,
-      "lng": 9.387,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/v/cazis/events-veranstaltungen-lescha-fescht-2026-25816990",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZWZi9joQzquDJcBvVsSBm48xQkssXlJjs2jHP5kAH6u5R5Is4Wy_GVfWaizlredVol-A5AmJZ3pkFaXeT0Y4QvBdyGVv6NdrGM3s9h4oylF2lIG9Iwxars3EmDhXKK0JA8GLTazzCN25EXpN4F7Ed_h_0OYU_m6LHdU8="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8ExBJGl62qwC0XVPQZQvzt8ojd2wOdxtwv4tnWUHLsnwcgQSoYG76ziHv-UWUQGuT0J-X1ItY6ENNuTDr9cJk1PR2spQruOQYMLctEJB0y9Hne_AbiYNvr4fwaXvwqnlNj_Rt5MH5MgkCADe0C-C8IVucdR3iwV3we9J6SfmEMaaAnRPacrC8GPGH7g=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmEB3vVS6PyKm8-1MRhMRmkGRF52mXJMZL22Cn0UYikQ5SDyt3LQnlvqz-3m3OeZyKDcnpBXcbtrXzsNF3OSL5-a6vErmMBcuI-SOYTBKiweTS5tVGpp0yuwE6DUh7Cyc0kv5xonRJ6munZbsmRAEJdQwqXLnAVaZG_NQhAnCXd9W1_c604EiGsV44KJN-B39w"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0GN6L1rocFkyyKsL7_MTA-_u3ho2r0C3gPrjehCVqOeFaOR83iFt7Q2t3tX6G9_jfnCocWaNLiRe16r7CswQ4KGe7V6TUKACGbk-DCOehSJKqSJ7CjBb3UKxJxdDzPLJnFNJzT7XrjdnDNLID5NFugCU="
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:31:13.242Z"
-    },
-    {
       "id": "social-2e58152f0ae7",
       "title": "Lescha Fescht",
       "category": "family",
@@ -24610,26 +24532,6 @@
       "scrapedAt": "2026-06-17T11:31:18.176Z"
     },
     {
-      "id": "social-627ddc0f437e",
-      "title": "Dorfführung in Churwalden",
-      "category": "family",
-      "description": "Eine Zeitreise durch die lebendige Vergangenheit von Churwalden, von Alpenrouten bis zum Bündnerfleisch. Entdecken Sie überraschende Anekdoten und spannende Persönlichkeiten. Anmeldung erforderlich.",
-      "date": "2026-07-18",
-      "time": "17:00 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden, Posthaltestelle Furnerschhus",
-      "lat": 46.7905,
-      "lng": 9.5594,
-      "image": "",
-      "organizerUrl": "https://kulturampass.ch",
-      "ticketUrl": "https://kulturampass.ch",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-17T11:35:16.365Z"
-    },
-    {
       "id": "social-a0c656473a9e",
       "title": "IKAN HYU concert (fids Festival)",
       "category": "music",
@@ -26634,26 +26536,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-e18f2dbf9385",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-18",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-12015deca706",
@@ -29545,47 +29427,6 @@
       "scrapedAt": "2026-06-22T12:50:20.213Z"
     },
     {
-      "id": "social-ecb3a2c10c1d",
-      "title": "Reisebericht Kambotscha",
-      "category": "stage",
-      "description": "Auf den Spuren von Dr. Richner.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Tschiertschen",
-      "lat": 46.83,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES42ceRz-OBWgyZioPguBCJd056QunDWf2LJhW5wrCPyKL-UXvECoVDo6lBe32PF_cag-oL5WLnE6xFh7LviHlkNciL5Ez3maXqtwk5zxugFLmf0yMlO9TBhs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbYUkPNb8LQE9lR6a3-tOhNO-4fW_cDlYNnLaOLhHN5_6QecuYPjzHKkojstqNtVGf66Qjzn0afa7bxsHN0vAQv4NMCyiFNb4kmmSarFbbjc1gq9mRDSVZjDNoB9htyzQEv9K2mvas3o3dNiA-aJH20zDNjlJDHEaaFqkAhUHb"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHrtZXv9V2qhJg7s2u6LVbdbee87frG8g3jNyTU4nTJUZrh3QhMiCWYb6A6x37v59rhasjpBsbv48wlJfoIevBrpqJTC1b1wRr9Gg0QMBnVuDsB5DDX0dbjRLVq0xV7KAoYjxe3ovx3qiC_EdWwkB65cthLD8RWViNRdKptIPpFobcBD-jEsb8oA=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg9JbyYI1mHUt8EAtsFTZUaOtDaDIFJogZygCwonYUZNS7hsc0Q-UhvUBRGWqVgyUUzh7bgt5OmyG1HVrfe7dnYuuGV2UEmvZmbR5NB8MR33VB49vom4D_s_G4UHcs7uZO_S5oTakXXtl-7Opj7t0-EkxNvKE08h4_1WtCBitsjMuy"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtHS6sOJgs32FIKr9-8VC9JZ4Fm3fsGFWbSGFh8tPWXe9jnUCUeeJVcKLcWboVo3cEv7itErA-eJQSmVeltNQ4bDuUMp_PaKc9yKdaufZaZ0Yl5AVZhza0mFxQo2p3KbdAUNDl4nx1lw19ILozrVW8SWnAaEpq7o7R5Urr"
-        }
-      ],
-      "scrapedAt": "2026-06-22T12:51:12.092Z"
-    },
-    {
       "id": "social-f840871db156",
       "title": "Schiessen mit dem Feuerwehrverein TV Landquart",
       "category": "sport",
@@ -30310,26 +30151,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-23T10:36:35.393Z"
-    },
-    {
-      "id": "social-762e5c3d2117",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Spielnachmittage im Freibad.",
-      "date": "2026-07-18",
-      "time": "14:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Sport- und Eventanlagen Chur (Freibad)",
-      "lat": 46.841,
-      "lng": 9.516,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.005Z"
     },
     {
       "id": "social-49198c06da14",
@@ -31396,47 +31217,6 @@
       "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
-      "id": "social-8ed5a51033c4",
-      "title": "CHUR JODELT - freies Jodeln für Alle!",
-      "category": "music",
-      "description": "Freies Jodeln für Alle! Mehrere Events zwischen Juli und September.",
-      "date": "2026-07-18",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Sennhof, Chur",
-      "lat": 46.8485,
-      "lng": 9.5278,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/o/graubuenden/chur/chur-jodelt-freies-jodeln-fuer-alle-1707056636737380.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
       "id": "social-ea748c0087e8",
       "title": "HUSKIES im Herzen - Dokumentarfilmvorführung",
       "category": "stage",
@@ -32255,26 +32035,6 @@
         }
       ],
       "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
-      "id": "social-5a7ec36014d3",
-      "title": "Chor Glisch Carezia",
-      "category": "music",
-      "description": "Performance by Chor Glisch Carezia.",
-      "date": "2026-07-18",
-      "time": "15:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Seniorenzentrum Casa Falveng",
-      "lat": 46.833,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": "https://www.casa-falveng.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T09:55:47.190Z"
     },
     {
       "id": "social-bed74d22bc00",
@@ -34842,26 +34602,6 @@
       "scrapedAt": "2026-07-04T09:24:19.766Z"
     },
     {
-      "id": "social-aea5d5145fe9",
-      "title": "Konzert mit \"A Birchola\"",
-      "category": "music",
-      "description": "Ein Jazz- und Gypsy-Gitarrist mit italienischer Eleganz und eine Sängerin mit einer grossen Leidenschaft für Brasilien. Ihr Repertoire reicht von Bossa Nova bis Samba und ihre Lieder haben viele Nuancen, Emotionen und lebhafteste Rytmen, die das Publikum nach Brasilien versetzen.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Konsum",
-      "lat": 46.75,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "www.konsum-cazis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:25:29.148Z"
-    },
-    {
       "id": "social-6e316e7b3e38",
       "title": "Konzert mit \"A Birchola\"",
       "category": "music",
@@ -35544,26 +35284,6 @@
       "scrapedAt": "2026-07-05T09:40:25.446Z"
     },
     {
-      "id": "social-e1b17b3df645",
-      "title": "Sunset Party auf dem Erlebnisberg Pradaschier",
-      "category": "music",
-      "description": "Sunset Party auf dem Erlebnisberg Pradaschier.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Erlebnisberg Pradaschier",
-      "lat": 46.761,
-      "lng": 9.554,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-05T09:42:46.097Z"
-    },
-    {
       "id": "social-41176204e270",
       "title": "Dorfführung in Churwalden",
       "category": "family",
@@ -35582,26 +35302,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-05T09:42:46.097Z"
-    },
-    {
-      "id": "social-1f365ea524c1",
-      "title": "Sagi-Fest",
-      "category": "family",
-      "description": "Bei Festwirtschaft und musikalischer Unterhaltung können Sie die alte Säge in Tschiertschen wieder einmal in Aktion sehen.",
-      "date": "2026-07-18",
-      "time": "11:00 - 16:00",
-      "price": "Eintritt frei, Konsumation kostenpflichtig",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Alte Säge, Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-05T09:43:12.815Z"
     },
     {
       "id": "social-ccc4beb5d516",
@@ -35725,26 +35425,6 @@
         }
       ],
       "scrapedAt": "2026-07-05T09:47:28.116Z"
-    },
-    {
-      "id": "social-bc227fbbc259",
-      "title": "Swissalpine",
-      "category": "sport",
-      "description": "Ultra-Rennen in Chur.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://ultraracecalendar.com/races/swissalpine-2026",
-      "ticketUrl": "https://ultraracecalendar.com/races/swissalpine-2026",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:23:46.578Z"
     },
     {
       "id": "social-2f5af7abcf30",
@@ -36342,26 +36022,6 @@
       "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
-      "id": "social-87b11b7f2f63",
-      "title": "Sunset Session Pradaschier",
-      "category": "music",
-      "description": "Sunset Party auf dem Erlebnisberg Pradaschier.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Erlebnisberg Pradaschier",
-      "lat": 46.78,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:29:50.041Z"
-    },
-    {
       "id": "social-3b767d7e47c0",
       "title": "Tour Brambrüesch",
       "category": "family",
@@ -36729,47 +36389,6 @@
         }
       ],
       "scrapedAt": "2026-07-07T10:24:03.569Z"
-    },
-    {
-      "id": "social-83bf466557c1",
-      "title": "Sunset Session #1",
-      "category": "music",
-      "description": "Musik und Drinks bis zum Sonnenuntergang im Bergrestaurant Pradaschier. Aussicht geniessen, tanzen und gemeinsam anstossen.",
-      "date": "2026-07-18",
-      "time": "15:00 - 21:00",
-      "price": "Sesselbahnticket ab CHF 19.00",
-      "municipality": "Churwalden",
-      "locationName": "Bergrestaurant Pradaschier, Erlebnisberg Pradaschier",
-      "lat": 46.786,
-      "lng": 9.578,
-      "image": "",
-      "organizerUrl": "https://pradaschier.ch/events/sunset-session/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc2AMirNlsMHohDvejL87VfO43QoRfAs1B6YX3dQ5nsKLSHcoaRB09nzfxCiughBFqaELVmhBBw4JV0GHnEB-8GUAJM4nmqV9WjO7VFlsbw2ulrG_JdN7R_B6klRq968kaHIJNxPLhHduzXAfrZMf1wwPvq834zCNElJFGre4cTAf7VddtnluCbxkKfj3QCWeAgqDk"
-        },
-        {
-          "title": "pradaschier.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1sqdI_-QuISJHGCBLfdyPtkwy4hsA9Sj3O4mA5n9BZFpdvhXHEv_7DwGBmrFBIqItC_2FEjA1j-S-rf1chwXdy4GTA7fOe7Yavj2l6nYM9qUdYGqe4cJBfwcVfuuXCHHcmb2g5Q0z4_xbaTw0mETuFkZwArt0kBl0faPH_Q=="
-        },
-        {
-          "title": "arosalenzerheide.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsA4VrKk-hySxoNybSoBUWex3IbK4EjyH7lChWhuYI135Z84IwCHa9SkGcaIUftRvwNgrC96npwgQG-FvQWCFmCn_J9xhm282TQLRITOLppN_7QzyiHVlyNjWZuk3WtrrigPs1RyM1peOrRtz5j6J_zSQtryJxD6Ninl3J6GlunODO74XYXjfq0B7l1RzkriXaqIZkWFG3fPHP77EdePny0H1z4PICsJgZiAtV1Iz7F4oLjaYv6Ph7jwtiDiegaBsbPgDysw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC17R_BTipD8H77FL_-fI-96AwFkHRPQ7hywIxhPA9Y5vXhjFlb6TXtrlevYW4VDL9-EfP3GA7te42MQp09k82DyeU8B3FuztRZYPtwzTuSeR7DJ7iRfTkpewQlz8NFk6jyUZpiIR7qosUNSQRBmEhe1q2_aRBFbEYpD1Y9Bf0B5OoQsU5tcnUL6C_wnILjSEe7KLVUTN74npcQ3qynn42F8_cVEXS"
-        },
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KS58JKmHjnIiYJ9sGBObdVppfVNIidYdNDjvB9TBKej9CROIyfSftwh2P24nMK77wEfAODk000zBB8PXYPh5ELKMiOfTsHrg5D4x23uWoDMrR8sryX0A6fA="
-        }
-      ],
-      "scrapedAt": "2026-07-07T10:25:27.752Z"
     },
     {
       "id": "social-3456c62595b6",
@@ -37574,35 +37193,6 @@
         }
       ],
       "scrapedAt": "2026-07-08T09:28:16.364Z"
-    },
-    {
-      "id": "social-59d5908023db",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-07-18",
-      "time": "19:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.817,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjusITCW-jQkyLL4vYTKb7Qun2xLcWuHgb_ueCBnvwRzvcGMMHAZmGVueRWpMTVJ1Iu3EwI_otxPJC2b3PNcZIEYL01vNF7msNxYtX7DKFUdC54LEHurUS8Mt7KoPv0IS4X1GYG_Va3volrMQhuHkz_UNCEflh8HvoRQ=="
-        },
-        {
-          "title": "edelweiss-tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPsKTrifiotvlA9V7qXViOQeamb-LhRYW7w--UlW-XqS4elZHrPJk1UWz6vgKaUU5D-whjTSxQhOoGnPqIClkIOuoRe_C-aNSvLIwLn_saNhQbjMvCCqMuckazifW6ZXVBBw=="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:29:18.021Z"
     },
     {
       "id": "social-612ca107f12e",
@@ -40929,46 +40519,6 @@
       "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
-      "id": "social-5ac978f048e7",
-      "title": "CHUR JODELT - Jodeln für alle!",
-      "category": "music",
-      "description": "Yodeling for everyone in Chur.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.386Z"
-    },
-    {
-      "id": "social-0ff11bbb9dfa",
-      "title": "Polenta7000 – Laurenz Nikolaus",
-      "category": "music",
-      "description": "Concert by Laurenz Nikolaus at Polenta7000.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta7000",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.386Z"
-    },
-    {
       "id": "social-cf22edb1b532",
       "title": "Polenta7000 – Werkstatt Karaoke",
       "category": "music",
@@ -43329,47 +42879,6 @@
         }
       ],
       "scrapedAt": "2026-07-16T09:14:38.511Z"
-    },
-    {
-      "id": "social-95e1e1efeac4",
-      "title": "Winter village tour Churwalden",
-      "category": "family",
-      "description": "Erfahren Sie mehr über die touristische Entwicklung und die Geschichte der Bündnerfleischproduktion.",
-      "date": "2026-07-18",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden",
-      "lat": 46.79,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/en/experiences/events/winter-village-tour-churwalden-2/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjgAB_UFPwg5mMfWUi7TFdUUcTN0Dup-S5I4wxev1Od7Ttiy0PHQfR_X1kOU7MKLoo5LnuDmGMkR5L0lkxsqOi-c14BXRG623YIcyxBkVQSdQzRzQgfQ1Cs71q99GgBfhs_YrA8yO0k2IMjqhc5YtSU3T7EJ5lEHs="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtGFNFIYZ1khU2tqPDl69wKAUxEDjXxe266JpuTN_aPIyXewxDHnY32V1o_jUf70tZxgy6tQA32gdjjdQ5IOj7YJs2wUflfrekD5WSCzEIOItxcLESVZUIrXdWhPNUFG8wWF7wYXoWNTJh07jOUDylZeG6WSrTwMvHM-UCGrW6qtZEo2dCia2plUk="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFATFLYvsyYoKXIIn95YoVhA4piZjAymtserFEiOxJBCvSkoy-_E-ya2AtbBQFBX-k0V8sFbqwnQCe3591kyLOOGRS0Q5EZ3eBlRS56bkSKElFeNAKw9XrrFUHML93HNzhsZh46qwLhmtoYC5pY44k7kcyVwLNRWSJ2wfUz3l5JQqtTae2ohWWajIuYKCIGX7DO05upM3RNq8QcI-A_"
-        },
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZshncebxlgy9UMwb7HZtvnLsJGZrKvQcHUujeNCRnlw0D50iu8W3K7DHamLw2SOZaHI78iWWMunnt9QjrGjs5Q1djWSIhhlDUbOEQP-FvjbWGuXX8wECb004="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-V9H4zKUwkLXFPvg--vxhp40rUu_zDQtZ1wmGjjs72x3Fd5j13Ap9CGJgF_suEvQv4Pyw97YLqdyC-NIKd7uyXSO3KX6OMaZ5fkLeFeL_MbDx4O6CXACbYcyxclf3ARLERS6oSehGnbxXh6xk1xmXkpyAwfGgk5SCJ4hyUTwbF8iFV6opV8mQtKRaKRA="
-        }
-      ],
-      "scrapedAt": "2026-07-16T09:15:17.399Z"
     },
     {
       "id": "social-e09fd570bab9",
@@ -46079,26 +45588,6 @@
       "scrapedAt": "2026-07-18T08:49:01.900Z"
     },
     {
-      "id": "social-cff21e9baeb5",
-      "title": "[tʃlˈfɪk] – Klingende Kulturgeschichte im Schanfigg",
-      "category": "music",
-      "description": "Klangstationen am Dörferweg Schanfigg in Tschiertschen und Praden. Dauer: 22.06.2026 - 19.10.2026.",
-      "date": "2026-07-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Dörferweg Schanfigg, Tschiertschen und Praden",
-      "lat": 46.8207,
-      "lng": 9.6133,
-      "image": "",
-      "organizerUrl": "https://arosa.swiss/klingend",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:50:38.401Z"
-    },
-    {
       "id": "social-72a2d13dc31d",
       "title": "Hegetag Vallatscha mit den Jägern",
       "category": "family",
@@ -46130,26 +45619,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:51:09.050Z"
-    },
-    {
-      "id": "social-8cd288c5c406",
-      "title": "Pétanque auf dem Dorfplatz",
-      "category": "sport",
-      "description": "Entspanntes Spielen und Verweilen à la française auf dem Dorfplatz.",
-      "date": "2026-07-18",
-      "time": "09:00 - 20:00",
-      "price": "Free",
-      "municipality": "Malans",
-      "locationName": "Dorfplatz, Wein Bar & Café Sternen Malans",
-      "lat": 46.965,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://sternen.cafe",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:52:35.733Z"
     },
     {
       "id": "social-8208786eff84",
@@ -46211,46 +45680,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:53:19.092Z"
-    },
-    {
-      "id": "social-94107a0b5186",
-      "title": "Spiel- und Jassnachmittag",
-      "category": "family",
-      "description": "Spiel- und Jassnachmittag.",
-      "date": "2026-07-18",
-      "time": "14:00 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "StoryThusis",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:53:52.029Z"
-    },
-    {
-      "id": "social-db7e7950ee8e",
-      "title": "Dorfführung Thusis",
-      "category": "family",
-      "description": "Spannender Rundgang durch die Geschichte(n) von Thusis.",
-      "date": "2026-07-18",
-      "time": "17:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Rathaus",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:53:52.029Z"
     },
     {
       "id": "social-4a77d4930dab",
@@ -46368,47 +45797,6 @@
       "lng": 9.421,
       "image": "",
       "organizerUrl": "https://www.cazis.ch/Veranstaltungen.cfm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrqeCnKE0yrvS80ldUcCcbaa3S0Mt-gLr3qKS59SqbRA6rJwqpQX4NOgsi7Yc4V9lYEk7u_IDkFuaBiRmO84Ef_u7fX2PTfZb6nFHfxpQ4yQEH7NKeaQeB6myMdiOkfBJXz367Om1HqiFJkKAbHNrzD-W5"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG87tF7BVuxkMsRrse7WtZBfyKcMHN7YKq7fVPQRUoJ2f6EORXMrhaIJH4DZgPWPBUrvxAJIjaxmC7wQDE2eHXnS6nSBI5oOxQLypZ"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOfYZWxqg2ASaoeCt4l8tmqanhOFdZ86dAM-fLW4pVw28-DRg8IQeoX9SxR1EsPIjCt4ih791aSJruHSlDZdQTbNRLnDlAEXfBMCGg6D4IcirDtAOacxmd21uODJcvKfpreevDEP6mKcHHB95aPyWVRg0="
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmpA0AANa2vIUopQ7yggppPbeLEsj45TyP0s2jHpauHcrkaD0--wgiFmjJJA_1NmzNJXoEtddCOVZytziqSZfGjanIqJJhHq4pCJmxExUaRdTRuysX5p2n4OMpi0AHrmxbbgx1Vg4="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEONoopmPmI8zNE1iFp1gq9NCr5GxLlRAYkfE7WJPa2Zl1cLqwx2IGlPhTzjp34BiRffYG8HwsPZknQZzj0TJLoC2lF0h4oHrvI4joCgJVlBYBmO8rJrV1_fO9Dy5mR6eQcRoNMoeH7Zf98WJ8yMR0ltspcpBUU8os2D6oKGChP5vsTyVzg4U45Z2sK2s4P0k5F"
-        }
-      ],
-      "scrapedAt": "2026-07-18T08:54:35.656Z"
-    },
-    {
-      "id": "social-8f8e1d75b7ef",
-      "title": "FOTO-AUSSTELLUNG: Portraits- & Gruppenbilder aus der Gemeinde Cazis von 1860 bis heute",
-      "category": "stage",
-      "description": "Ausstellung in der Schatzkammer mit Portraits- & Gruppenbildern aus der Gemeinde Cazis von 1860 bis heute. Tage werden noch publiziert.",
-      "date": "2026-07-18",
-      "time": "13:30 - 15:30",
-      "price": "Unbekannt",
-      "municipality": "Cazis",
-      "locationName": "Schatzkammer-Museum, Pfrundhaus Cazis",
-      "lat": 46.735,
-      "lng": 9.421,
-      "image": "",
-      "organizerUrl": "https://www.cazis.ch/Jahresprogramm.cfm",
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Other",
