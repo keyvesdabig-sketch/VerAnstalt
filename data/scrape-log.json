@@ -1,65 +1,65 @@
 {
-  "timestamp": "2026-07-18T07:26:46.478Z",
-  "eventsTotal": 257,
-  "eventsNew": 26,
-  "eventsUpdated": 166,
-  "eventsEnriched": 24,
+  "timestamp": "2026-07-19T07:54:36.526Z",
+  "eventsTotal": 228,
+  "eventsNew": 0,
+  "eventsUpdated": 5,
+  "eventsEnriched": 4,
   "enrichmentErrors": 0,
-  "eventsCleaned": 32,
+  "eventsCleaned": 29,
   "sources": [
     {
       "name": "Chur-Kultur",
       "kind": "gemini",
-      "events": 50,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Chur",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Domat/Ems",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Felsberg",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Trimmis",
       "kind": "gemini",
       "events": 0,
-      "error": null
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Untervaz",
       "kind": "gemini",
-      "events": 1,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Zizers",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Tamins",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Churwalden",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Tschiertschen-Praden",
@@ -70,44 +70,44 @@
     {
       "name": "LocalCities-Bonaduz",
       "kind": "gemini",
-      "events": 6,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Rhäzüns",
       "kind": "gemini",
-      "events": 1,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Malans",
       "kind": "gemini",
-      "events": 11,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Landquart",
       "kind": "gemini",
-      "events": 17,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Thusis",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Cazis",
       "kind": "gemini",
-      "events": 20,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "Konsum-Cazis",
       "kind": "gemini",
-      "events": 6,
-      "error": null
+      "events": 0,
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "Streaminghall-Handmade-Music",
