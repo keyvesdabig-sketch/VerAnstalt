@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T09:51:35.579Z",
+  "lastUpdated": "2026-07-21T09:24:17.377Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -12144,43 +12144,6 @@
       "scrapedAt": "2026-06-03T11:57:50.709Z"
     },
     {
-      "id": "social-56422e766f13",
-      "title": "Ferien(s)pass Rhäzüns",
-      "category": "family",
-      "description": "Verschiedene Aktivitäten und Kurse für Kinder und Jugendliche im Rahmen des Ferien(s)passes Rhäzüns, darunter Luftgewehr Schiessen, Besuch bei der Kantonspolizei, Erste Hilfe, Lampen basteln und Handlettering.",
-      "date": "2026-07-20",
-      "time": "Ganztägig",
-      "price": "Ab 0.00 CHF",
-      "municipality": "Rhäzüns",
-      "locationName": "Verschiedene Orte in Rhäzüns",
-      "lat": 46.8094,
-      "lng": 9.3953,
-      "image": "",
-      "organizerUrl": "https://ferienpass-rhaezuens.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH674wXmaehgqH42phup6YQmJ9EAHCDZEc05HA4EWFVfD18XkzK0-2meLUp7EGsM7EXa0XhHWWSr19F4Tu5Z6ilxMYoIUVzUzx7XxaBfeZx9SCBE1ENL3Es1KAQZwId69F3tsry_BW9gzYaaFNiJfZ69qhx-_0psLL08SoEcR-tcOCY50ZJJTOdd-yZczAbLE9g_-gTETcDEXSj6yHAYa4="
-        },
-        {
-          "title": "kirchgemeinde-rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdX5A3_3mJ_oJCFZEj3dyYk1vGg6AR02Xcs4-lQ24WY6B7xz4qmLldvEh8L80Kwo20re3L119Y8LnJJTYQ9rGs70gl53Z_LDuGk8wLq7hId8F1MyBRC0urUZwZYXJ3CaVLtg=="
-        },
-        {
-          "title": "projuventute.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBg5gYpJjxULPUUWst1gx35hAmr6_mkCo0mh2mo4E7ktFkH47T4XHqGZVarGHm7C9_CylkhBUo0bz52Ew_mr3ZqTIjqfeNiH9I_gcu8VjRI0UHaWKzb-lfVxp-hDXzzCTd4IVp_ujd"
-        },
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxKonKkXk6ayK_GKeGl-fiyT1EA9hiBYFGyG3c9kSgzfZAijBJgAwXn4F-NY8xLq-aMUI6GSWS9s5git0uysv3q4anMVABkagj-6A6DdqhSAG4fUSKnk3KrtoRqvYFWsxLx0oh9Gr7PmTvco="
-        }
-      ],
-      "scrapedAt": "2026-06-03T11:59:03.155Z"
-    },
-    {
       "id": "social-3844110c2201",
       "title": "Führung Kirche St. Georg, Rhäzüns",
       "category": "stage",
@@ -13957,47 +13920,6 @@
         }
       ],
       "scrapedAt": "2026-06-05T10:48:04.084Z"
-    },
-    {
-      "id": "social-4d42fc063f13",
-      "title": "Ferien(s)pass Bonaduz",
-      "category": "family",
-      "description": "Der Ferien(s)pass bietet ein vielfältiges Kursangebot für Kinder und Jugendliche während der Sommerferien.",
-      "date": "2026-07-20",
-      "time": "Ganztägig",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.82,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.ferienpassbonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGptEszfrs3N_Kl21aJ8meIhJGpyOhUvs4_apb1kjB3UigZH0Sth61XBw7Zq4XpQSyIyXlsbkhSD3dxnbwfdKvKcvDDS7w5WqJrA6xNDx3W6scRBZBm68zh1FkDcRSYmJu4vGQl1ylb2rFc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjBP6H7o98CKReOu_KeK3wbNfOvizb6bgGP0L1V9p4Ioiluf5Z67fIZ0JmtOx-j1hJPcP_hrbSRzR4Y5Jn_U6UeNqLruhUQ3-B8bKv7g=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvAD1cDc1mQaiRccNEtyS51d_zXvJkkBh7SJIZGQ1tsk5gG1LVzdMJywpDmn2B0BfiIcQdHgJzmB70kCukxoJo-cbtkmVkvLhFuDMIMPDmhXdAdi6mi6-XBIb4tQgj_-VPrQ=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN929xi5QRqBrpu00AbV9aKaMinR-9H24s0o3eq6SsDruyK4pzvhMc5Th9p1trcucN9vW8cWdqJLC_GksrF465GswncNltVDnMxVPnaY1-oIogHeDk"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESD74mMVfIXl9J45i47capZ8WgiLSUZ3DbQC30VSIeXYiWp1zaK-ZP3dOLPIt_SPKzfsS_aJjOYUKTGlAKDfb3hsxu6PeoI5Col8-4xKy4EZmHuHqIAMJHDw2hUzCEMA=="
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:49:42.490Z"
     },
     {
       "id": "social-290191168bd2",
@@ -16482,26 +16404,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
-      "id": "social-f3ddcf40066a",
-      "title": "Ferien(s)pass 2026",
-      "category": "family",
-      "description": "Der Ferien(s)pass Bonaduz bietet ein Kursangebot für Kinder während der Sommerferien an. Kinder ab 6 Jahren erhalten ein kostenloses BÜGA.",
-      "date": "2026-07-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.828,
-      "lng": 9.388,
-      "image": "",
-      "organizerUrl": "https://ferienpassbonaduz.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:58:32.845Z"
     },
     {
       "id": "social-57047fa220af",
@@ -24017,26 +23919,6 @@
       "scrapedAt": "2026-06-16T12:15:52.955Z"
     },
     {
-      "id": "social-8583b1a58280",
-      "title": "Orts-, Kirchen- und Museumsführung",
-      "category": "family",
-      "description": "Ein Handelsort mit Tradition. Erfahren Sie mehr auf einem spannenden Rundgang durch die Geschichte(n). Treffpunkt beim Rathaus. Im Anschluss Apéro, offeriert vom Verein Marktplatz- und Zentrumsort Thusis. Dauer inkl. Apéro ca. 1 1/2 Stunde. Anmeldung erforderlich.",
-      "date": "2026-07-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Rathaus Thusis",
-      "lat": 46.6901,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://www.viamala.ch/de/informieren/aktuelles/events/dorffuehrung-thusis-20.07.26",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
-    },
-    {
       "id": "social-fa2180f7e712",
       "title": "Viamala Notte mit Erwin Dirnberger",
       "category": "music",
@@ -26397,26 +26279,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-1643c1ad1a69",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-20",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-16e0897a50fe",
@@ -30555,47 +30417,6 @@
       "scrapedAt": "2026-07-01T10:46:42.846Z"
     },
     {
-      "id": "social-76135f676b52",
-      "title": "Meditieren im Alltag",
-      "category": "family",
-      "description": "Meditieren im Alltag, organisiert von der reformierten und katholischen Kirchgemeinde.",
-      "date": "2026-07-20",
-      "time": "HH:MM - HH:MM",
-      "price": "Unbekannt",
-      "municipality": "Malans",
-      "locationName": "ref. Kirche",
-      "lat": 47.0159,
-      "lng": 9.5746,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/de/freizeit-kultur/veranstaltungen-termine?eventid=233475",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "nordagenda.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZBrsrxB8_II26gBjDEvpaklle6a9NoO_0hX-xfPEbC83L7qHWYY1XquaGNDw4_F9nAXbeIbIOmHHEzcCRgDP4D6KhyTRUolzpK7bbN4UmW2kOQSZ1YJ4RpkxLb7m0z2ZXzZfJBxB3lVE7SsETkY6q8FlYd81QLMhkA_nxsUdOSWw="
-        },
-        {
-          "title": "repower.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGteZyYG4jSKkqSQXzlpbpiBcTR2uGFvAVAGCzKUjem8Ddznh6M2VItDktG2uBHWnLroEN3QW_HHNoQh5ytuQ5js4ohvegXerJGJdGAN_CrbF5-lR82TsgTqnKvTmIIDkUKhK0Cn01ho0XvCedN-Faezg-Wt1xnL-R68EwmNg=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXGAK0uPWbIljaQ6xHAhyvy-9QSP7HdXAZ2mfgF13pqFzyrAkI3XWtZOlb-MgPzS-JsmHcjF-1w3M2AYqJz1pdbj-NjooVxQlc4E1rkl4CdTVUU_eeTio2I3M-RR7uhg0jw3W08BMXCDWGJOpbmDkMmxoCCmG6IcaMNxvDm-EXZv8OKE5IJaPM"
-        },
-        {
-          "title": "svmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOTPNpM0AkeMuGHPiMtuKsvv3wEdPNgm20VBhxLlMZfzSQQXat9PcqEG_1eptx_2xZ0hefVJE_3wI-jobkYxt-UkvxnYe_0EltrYDO8lUFp2vDl7J1QWk0gQuuViDApr2Mu7TPbhPsKaMI3dGymIMc"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpFqiT-vXYdxvcu6vO6tv06W3YJsBf9kOd0cQvkaQerU3KFtJSMzh00W_ENAutp8WeEfpMlWumZk1FVQG-GMXJwTSugYPx6trWXkfrsWjOD_ieKrtA0os855jTvLnVU8u4D0zA7geFDQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-01T10:47:29.201Z"
-    },
-    {
       "id": "social-a750f17ad11e",
       "title": "Open Air Malans",
       "category": "music",
@@ -32283,43 +32104,6 @@
         }
       ],
       "scrapedAt": "2026-07-02T10:01:24.406Z"
-    },
-    {
-      "id": "social-d966c2db6e95",
-      "title": "Ferien(s)pass Bonaduz 2026",
-      "category": "family",
-      "description": "Der Ferien(s)pass Bonaduz bietet im 2026 während der 4. bis 6. Ferienwoche (20. Juli bis 7. August 2026) ein vielfältiges Angebot an Kursen und verkürzt den Kindern und Jugendlichen die Zeit mit tollen Erlebnissen.",
-      "date": "2026-07-20",
-      "time": "",
-      "price": "1 Kind: CHF 40.–, 2 Kinder: CHF 80.–, 3+ Kinder: CHF 120.–",
-      "municipality": "Bonaduz",
-      "locationName": "Verschiedene Orte in Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://ferienpassbonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8vQj3hINb454X8GF9M2V2Mz8HQmmEZ6CWIxS7m5mbXU4zzmeHiazrwi7_gP25u2WZwnHX2pTSdRytEXV9KkF-LlN4UIdy7E2QQOpOMHbu3piuklGj_d43lACPqP5y3mmAjJzwYq5dc-FKqj0ILBjiWd1on9l20rI5uHW4xL8J"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyDXAHKmpiK8LjD_lvP_vz_99D1EulX-hOaDufEJOctTs1RX_jjOqmDOplrW0K1WtFEMqj22skIxgHZ-mbAGksl8NCDNf2is7dOBPPE_jyvWBBo2n5Y8y3r2pgNk0GKgiPoqeR63lb-tpiO-RdwPPig_dudn0gY0iEAEs_R0vaF3-bXIpxY4Lf_RO0u_syBQ=="
-        },
-        {
-          "title": "ferienpassbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_4ViEzEdMLpSAjhnOslQxMXmpH4xtLYUDKyTV7YzUCYUd9esmuaUwSnDdqeHzv8kbqd_z9BF1lh5HDDbNovUGYUS2peKFaT5Wb3BPj3jRwVQd_4FPW9Am1DK4uQ9uYF7vHm8GmFNJ669tLlid4TKlnVCehc2Yvw=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOGeCaFD8jtBl_thJljb3Drk2s2j74qWlrDiG2vfKYnyytc0tmTuRHktxSZOYI2bxYsT4Z13MxKwxxHrXfUcx4JwujRyZ1xWCyNrqrqi4lSSO0iHUbbI6V3nSDejnwsZ96Fg=="
-        }
-      ],
-      "scrapedAt": "2026-07-02T10:02:00.204Z"
     },
     {
       "id": "social-31021431651b",
@@ -43557,26 +43341,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-17T09:06:06.388Z"
-    },
-    {
-      "id": "social-a51e8cc36b88",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-07-20",
-      "time": "14:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
     },
     {
       "id": "social-f9f7154bdef1",
