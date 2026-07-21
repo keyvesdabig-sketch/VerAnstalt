@@ -3530,53 +3530,6 @@
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/claudio-zuccolini/claudio-zuccolini-der-vorsorger-4114388/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
-  "spielundjassnachmittag_2026-07-20": {
-    "id": 1782898196183,
-    "title": "Spiel- und Jassnachmittag",
-    "category": "family",
-    "categoryLabel": "Familie",
-    "description": "Für Erwachsene, die das Kind in sich noch nicht verloren haben. Keine Anmeldung erforderlich.",
-    "date": "2026-07-20",
-    "time": "14:00-16:00",
-    "locationName": "StoryThusis",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/67/4e/a674ee59b4fd1355a8c3620762fea2aeb9065833_839783887.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=20.07.2026%20%2014:00%20-%2016:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4641743?eventDateTime=20.07.2026%20%2014:00%20-%2016:00"
-      }
-    ],
-    "organizerUrl": "https://story-thusis.ch/events/komm-wir-spielen/"
-  },
-  "dorffuehrungthusis_2026-07-20": {
-    "id": 1782898198417,
-    "title": "Dorfführung Thusis",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Ein Handelsort mit Tradition. Erfahren Sie mehr auf einem spannenden Rundgang durch die Geschichte(n). Treffpunkt beim Rathaus. Anmeldung erforderlich bis am Durchführungstag 14.00 Uhr.",
-    "date": "2026-07-20",
-    "time": "17:30",
-    "locationName": "Rathaus",
-    "municipality": "Thusis",
-    "lat": 46.6943798,
-    "lng": 9.4376753,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/6/40/33/64033129f0fd5723e759c898f0f3df8930ff6254_619639067.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4478799?eventDateTime=20.07.2026%20%2017:30",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4478799?eventDateTime=20.07.2026%20%2017:30"
-      }
-    ],
-    "organizerUrl": "http://www.viamala.ch",
-    "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020013139244967#/"
-  },
   "gefuehrtewanderungaufsmuttnerhorn_2026-07-21": {
     "id": 1782898198785,
     "title": "Geführte Wanderung aufs Muttnerhorn",
@@ -3692,30 +3645,6 @@
       }
     ],
     "organizerUrl": "http://www.gbde.ch"
-  },
-  "ringelspitzpizbarghis3247mhochtour_2026-07-20": {
-    "id": 1782981622431,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-07-20",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=20.07.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=20.07.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
   },
   "lauftrefftrailtreffthusis_2026-07-22": {
     "id": 1782981685513,
