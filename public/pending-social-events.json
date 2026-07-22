@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T09:24:17.377Z",
+  "lastUpdated": "2026-07-22T09:23:09.284Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -20556,26 +20556,6 @@
       "scrapedAt": "2026-06-13T09:53:02.024Z"
     },
     {
-      "id": "social-b28cf25233d1",
-      "title": "Familienolympiade",
-      "category": "family",
-      "description": "Familienolympiade organisiert vom Turnverein Felsberg.",
-      "date": "2026-07-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Doppelturnhalle + roter Platz",
-      "lat": 46.83,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://gemeinde.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T09:54:24.846Z"
-    },
-    {
       "id": "social-8d638c6cba98",
       "title": "Obligatorisches Schiessen 2026 (Nachschiesskurs)",
       "category": "sport",
@@ -26281,26 +26261,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-16e0897a50fe",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-21",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-dafe02dec4b6",
       "title": "Polenta 7000",
       "category": "music",
@@ -31697,26 +31657,6 @@
         }
       ],
       "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
-      "id": "social-bed74d22bc00",
-      "title": "Musiknachmittag mit Florian",
-      "category": "music",
-      "description": "Music afternoon with Florian.",
-      "date": "2026-07-21",
-      "time": "15:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Seniorenzentrum Casa Falveng",
-      "lat": 46.833,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": "https://www.casa-falveng.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T09:55:47.190Z"
     },
     {
       "id": "social-698cbba226f6",
@@ -41004,35 +40944,6 @@
       "scrapedAt": "2026-07-14T09:06:28.885Z"
     },
     {
-      "id": "social-d5c35085d0f2",
-      "title": "Flims Laax Highline World Championships",
-      "category": "sport",
-      "description": "The World Championships in highlining takes place again! The event was held in Laax, Switzerland at the legendary Rocks Resort.",
-      "date": "2026-07-21",
-      "time": "Unknown - Unknown",
-      "price": "Keine Angabe",
-      "municipality": "Laax",
-      "locationName": "Rocks Resort, Laax",
-      "lat": 46.8115,
-      "lng": 9.2435,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/en/experiences/events/flims-laax-highline-world-championships/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS1GaLlQuSfehd4ur2l4LXruQIBONgbK2CReaJUqzbTEd0xCuxo0Zij8VpaH5rhCvMtCJB7SrB0m-pW-L6c52dnikYJ1VRRWELJYLhWI_GUdDDwokR2as4tAiZOOyiTEqpaICILv9F7fO04zopPYjGnz3ihg3Kz6tVtnDj9xMloT5cWWodzAZ8asAt30fPXjTPGqI="
-        },
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF29UHl-GfNlNpBCx7uOw22k8xGf0NJOWMdOWslFvR7PbROtm7rCzi8jz3T1DgXTGeSWR95DzC_akgrstp5KhzE_PlwIXGpzKyFbGx4M9oB2RsQB48XvmV_FGDaOk0ZbrQ6MVUYr1Vp9m_eEaU="
-        }
-      ],
-      "scrapedAt": "2026-07-14T09:08:12.005Z"
-    },
-    {
       "id": "social-743b6d7b3b8c",
       "title": "Brom",
       "category": "music",
@@ -44108,26 +44019,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-85aca7428c5d",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-07-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-976fa1444e2f",
