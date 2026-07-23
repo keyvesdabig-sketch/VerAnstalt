@@ -3574,28 +3574,6 @@
     ],
     "organizerUrl": "http://www.gbde.ch"
   },
-  "lauftrefftrailtreffthusis_2026-07-22": {
-    "id": 1782981685513,
-    "title": "Lauftreff/Trailtreff Thusis",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Laufen….. und fit bleiben. Zusammen macht es mehr Spass und es können Erfahrungen ausgetauscht werden. Keine Anmeldung erforderlich.",
-    "date": "2026-07-22",
-    "time": "19:00-20:00",
-    "locationName": "Sportplatz Rheinau",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/54/90/a5490268a63c7fec7a1c3ac98d262f3884b43027_621041262.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4712749?eventDateTime=22.07.2026%20%2019:00%20-%2020:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4712749?eventDateTime=22.07.2026%20%2019:00%20-%2020:00"
-      }
-    ]
-  },
   "ortskirchenundmuseumsfuehrung_2026-07-23": {
     "id": 1782981686392,
     "title": "Orts-, Kirchen- und Museumsführung",
@@ -3664,30 +3642,6 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=01.09.2026%20%2019:00"
       }
     ]
-  },
-  "ringelspitzpizbarghis3247mhochtour_2026-07-22": {
-    "id": 1783153211712,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-07-22",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=22.07.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=22.07.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
   },
   "ringelspitzpizbarghis3247mhochtour_2026-07-23": {
     "id": 1783240715107,
