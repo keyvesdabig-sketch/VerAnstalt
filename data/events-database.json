@@ -21,29 +21,6 @@
       }
     ]
   },
-  "musikmaerliimwald2026_2026-07-23": {
-    "id": 1779538471171,
-    "title": "Musik & Märli im Wald 2026",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
-    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
-    "date": "2026-07-23",
-    "time": "14:30",
-    "locationName": "Anlass findet in Parpan statt (siehe Standort)",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "null",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=23.07.2026%20%2014:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=23.07.2026%20%2014:30"
-      }
-    ],
-    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
-  },
   "parpanersunntigsmarkt_2026-07-26": {
     "id": 1779538472456,
     "title": "Parpaner Sunntigsmarkt",
@@ -2357,29 +2334,6 @@
     ],
     "organizerUrl": "https://zizers-reformiert.ch/"
   },
-  "musikmrliimwald2026_2026-07-23": {
-    "id": 1780650238048,
-    "title": "Musik & M\r\n\t\t\t\t\t\t\t\t\t\frli im Wald 2026",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
-    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
-    "date": "2026-07-23",
-    "time": "14:30",
-    "locationName": "Anlass findet in Parpan statt (siehe Standort)",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=23.07.2026%20%2014:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=23.07.2026%20%2014:30"
-      }
-    ],
-    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
-  },
   "fuehrungkirchestgeorgrhaezuens_2026-09-18": {
     "id": 1780650251940,
     "title": "Führung Kirche St. Georg, Rhäzüns",
@@ -3574,29 +3528,6 @@
     ],
     "organizerUrl": "http://www.gbde.ch"
   },
-  "ortskirchenundmuseumsfuehrung_2026-07-23": {
-    "id": 1782981686392,
-    "title": "Orts-, Kirchen- und Museumsführung",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Dorfführung mit Besichtigung der Kirche sowie Besuch des ältesten Walserhauses, das seit 15 Jahren als Dorfmuseum mit der grössten Sammlung antiker Lampen eingerichtet ist. Anmeldung erwünscht.",
-    "date": "2026-07-23",
-    "time": "13:30-16:00",
-    "locationName": "Dorfbrunnen",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/7/f9/84/7f984db11c80c9b86c32abde6e17b9dd9261cb9a_917916248.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4695407?eventDateTime=23.07.2026%20%2013:30%20-%2016:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4695407?eventDateTime=23.07.2026%20%2013:30%20-%2016:00"
-      }
-    ],
-    "organizerUrl": "https://www.obermutten.ch"
-  },
   "geschichtebauenlegohoeren_2026-09-30": {
     "id": 1783068328650,
     "title": "Geschichte bauen - Lego hören",
@@ -3642,30 +3573,6 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/3339726?eventDateTime=01.09.2026%20%2019:00"
       }
     ]
-  },
-  "ringelspitzpizbarghis3247mhochtour_2026-07-23": {
-    "id": 1783240715107,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-07-23",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=23.07.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=23.07.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
   },
   "dorffestsarn_2026-08-08": {
     "id": 1783240787264,
@@ -3806,29 +3713,6 @@
     ],
     "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
     "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
-  },
-  "viamalaschluchtfuehrung_2026-07-23": {
-    "id": 1783416373734,
-    "title": "Viamala-Schlucht-Führung",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "2000 Jahre Transitgeschichte vor atemberaubender Kulisse. Dauer ca. 1 Stunde. Anmeldung und Treffpunkt direkt beim Shop in der Schlucht.",
-    "date": "2026-07-23",
-    "time": "14:00",
-    "locationName": "Besucherzentrum Viamala-Schlucht",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/a/96/72/a96724e531c7f6ef916a3cfa1eaaaf908fb0a54b_619453712.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4699015?eventDateTime=23.07.2026%20%2014:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4699015?eventDateTime=23.07.2026%20%2014:00"
-      }
-    ],
-    "organizerUrl": "https://viamala.ch/erleben/ausflugsziele/viamala-schlucht.html"
   },
   "viamalanottemiterwindirnberger_2026-07-24": {
     "id": 1783416374548,
