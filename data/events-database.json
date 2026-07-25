@@ -3642,30 +3642,6 @@
       }
     ]
   },
-  "ringelspitzpizbarghis3247mhochtour_2026-07-24": {
-    "id": 1783416065892,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-07-24",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=24.07.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=24.07.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
-  },
   "ringelspitzpizbarghis3247mhochtour_2026-07-25": {
     "id": 1783416066788,
     "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
@@ -3713,30 +3689,6 @@
     ],
     "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
     "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
-  },
-  "viamalanottemiterwindirnberger_2026-07-24": {
-    "id": 1783416374548,
-    "title": "Viamala Notte mit Erwin Dirnberger",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Nachtevent in der Viamala. Schluchtführung im Scheine der Laterne mit szenischen Darstellungen und Erzählungen. Begrenzte Anzahl Plätze. Anmeldung erforderlich bis 11.30 Uhr.",
-    "date": "2026-07-24",
-    "time": "20:00",
-    "locationName": "Besucherzentrum Viamala-Schlucht",
-    "municipality": "Thusis",
-    "lat": 46.6972,
-    "lng": 9.4402,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/09/6c/1096c4e2f144ca542b8d3c0077516c99b46d2671_791434128.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4792879?eventDateTime=24.07.2026%20%2020:00",
-    "sources": [
-      {
-        "name": "LocalCities-Thusis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/thusis/4641/4792879?eventDateTime=24.07.2026%20%2020:00"
-      }
-    ],
-    "organizerUrl": "https://viamala.ch/de/erleben/ausflugsziele/viamala-schlucht/viamala-notte.html",
-    "ticketUrl": "https://shop.graubuenden.ch/Viamala/experience/detail/TDS00020013123620218#/"
   },
   "spielundjassnachmittag_2026-07-27": {
     "id": 1783416376109,
@@ -4127,29 +4079,6 @@
       }
     ],
     "organizerUrl": "https://www.aelplibahn.ch/"
-  },
-  "kinoraetiagoeskonsum_2026-07-24": {
-    "id": 1783755141181,
-    "title": "Kino Raetia goes Konsum",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
-    "date": "2026-07-24",
-    "time": "unknown",
-    "locationName": "Konsum Cazis",
-    "municipality": "Cazis",
-    "lat": 46.7213,
-    "lng": 9.4304,
-    "price": "Eintritt frei",
-    "image": "https://konsum-cazis.ch/wp-content/uploads/2026/07/Bildschirmfoto-2026-07-09-um-14.12.34-e1783618268351.png",
-    "sourceUrl": "https://konsum-cazis.ch/programm/pane-e-tulipani/",
-    "sources": [
-      {
-        "name": "Konsum-Cazis",
-        "url": "https://konsum-cazis.ch/programm/pane-e-tulipani/"
-      }
-    ],
-    "organizerUrl": "https://konsum-cazis.ch/"
   },
   "kinoraetiagoeskonsum_2026-07-31": {
     "id": 1783755141235,
@@ -4703,5 +4632,74 @@
     ],
     "organizerUrl": "https://www.starshows.ch/marie-louise-werth-2026",
     "ticketUrl": "https://www.ticketcorner.ch/event/marie-louise-werth-merry-christmas-tour-forum-landquart-21926050/"
+  },
+  "vanjaskyhr_2026-09-30": {
+    "id": 1784965622975,
+    "title": "Vanja Sky (HR)",
+    "category": "family",
+    "categoryLabel": "Familie",
+    "description": "Vanja Sky – Die kroatische Blues-Rock-Sensation",
+    "date": "2026-09-30",
+    "time": "20:00 - 22:00",
+    "locationName": "Streaminghall.ch",
+    "municipality": "Chur",
+    "lat": 46.8574,
+    "lng": 9.5078,
+    "price": "Eintritt frei",
+    "image": "https://res.eventfrog.net/production_res_public/vanjasky-peter-schepers-FVHNDU1Z.webp?_=1784902937000",
+    "sourceUrl": "https://eventfrog.ch/de/p/konzerte/jazz-blues/vanja-sky-hr-7486409894540661997.html",
+    "sources": [
+      {
+        "name": "Streaminghall-Handmade-Music",
+        "url": "https://eventfrog.ch/de/p/konzerte/jazz-blues/vanja-sky-hr-7486409894540661997.html"
+      }
+    ],
+    "organizerUrl": "https://x.com/share?text=%22Vanja Sky (HR)%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/vanja-sky-hr-7486409894540661997.html&amp;via=eventfrog_net"
+  },
+  "alexandergilch_2026-10-02": {
+    "id": 1784965625022,
+    "title": "Alexander Gil (CH)",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Alexander Gil ist ein mehrfach ausgezeichneter Schweizer Gitarrist mit internationalen Wettbewerbserfolgen. Er gewann mehrere erste Preise beim Schweizer Jugendmusikwettbewerb sowie den 1. Preis beim Tirana International Guitar Festival (2015) und war 2024 Finalist beim renommierten Uppsala Guitar Competition. Nach Studien an der Zürcher Hochschule der Künste und der Robert Schumann Hochschule Düsseldorf konzertiert er international als Solist und Kammermusiker. Besonders geschätzt wird er für die Verbindung von klassischer Gitarre und Flamenco sowie seine ausdrucksstarken Interpretationen.",
+    "date": "2026-10-02",
+    "time": "20:00 - 22:00",
+    "locationName": "Stadtbibliothek Chur",
+    "municipality": "Chur",
+    "lat": 46.8505322,
+    "lng": 9.5310755,
+    "price": "Eintritt frei",
+    "image": "https://res.eventfrog.net/production_res_public/kuyler-alexander-gil-03-12-2023-0194-8VRF3FZP.webp?_=1784903808000",
+    "sourceUrl": "https://eventfrog.ch/de/p/konzerte/jazz-blues/alexander-gil-ch-7486418018030873020.html",
+    "sources": [
+      {
+        "name": "Streaminghall-Handmade-Music",
+        "url": "https://eventfrog.ch/de/p/konzerte/jazz-blues/alexander-gil-ch-7486418018030873020.html"
+      }
+    ],
+    "organizerUrl": "https://x.com/share?text=%22Alexander Gil (CH)%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/alexander-gil-ch-7486418018030873020.html&amp;via=eventfrog_net"
+  },
+  "sugarayrayfordusa_2026-10-07": {
+    "id": 1784965625053,
+    "title": "Sugaray Rayford (USA)",
+    "category": "music",
+    "categoryLabel": "Musik & Party",
+    "description": "Sugaray Rayford, der grammy nomminierte Blueser, ist ein Mann mit einer Botschaft und einer überlebensgroßen Persönlichkeit sowie einer Stimme, die diese Botschaft perfekt vermittelt. In Zusammenarbeit mit dem Produzenten und Songwriter Eric Corne, mit dem er bereits die letzten drei Alben produziert hat, hat dieses Soul-Blues-Kraftpaket einen mitreißenden Sound und eine fesselnde Erzählweise geschaffen, die klassische Soul-Melodien und funkige R&B-Grooves mit der rohen Kraft des Blues verbindet.",
+    "date": "2026-10-07",
+    "time": "20:00 - 22:00",
+    "locationName": "Streaminghall.ch",
+    "municipality": "Chur",
+    "lat": 46.8574,
+    "lng": 9.5078,
+    "price": "Eintritt frei",
+    "image": "https://res.eventfrog.net/production_res_public/allisonmorgan-sugaray-30may24-7518u-MXXOYE3Y.webp?_=1784901691000",
+    "sourceUrl": "https://eventfrog.ch/de/p/konzerte/jazz-blues/sugaray-rayford-usa-7486409899238283485.html",
+    "sources": [
+      {
+        "name": "Streaminghall-Handmade-Music",
+        "url": "https://eventfrog.ch/de/p/konzerte/jazz-blues/sugaray-rayford-usa-7486409899238283485.html"
+      }
+    ],
+    "organizerUrl": "https://x.com/share?text=%22Sugaray Rayford (USA)%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/sugaray-rayford-usa-7486409899238283485.html&amp;via=eventfrog_net"
   }
 }
