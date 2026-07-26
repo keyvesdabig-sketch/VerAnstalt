@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-07-25T07:47:10.256Z",
-  "eventsTotal": 206,
-  "eventsNew": 3,
-  "eventsUpdated": 4,
-  "eventsEnriched": 6,
+  "timestamp": "2026-07-26T08:04:18.518Z",
+  "eventsTotal": 203,
+  "eventsNew": 0,
+  "eventsUpdated": 0,
+  "eventsEnriched": 3,
   "enrichmentErrors": 0,
   "eventsCleaned": 3,
   "sources": [
@@ -112,8 +112,8 @@
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 7,
-      "error": null
+      "events": 0,
+      "error": "HTTP 403"
     }
   ]
 }
