@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T09:08:46.332Z",
+  "lastUpdated": "2026-07-27T10:34:49.112Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -1344,48 +1344,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:13:49.600Z",
       "legacyId": "social-1779632029600-Tamins-28"
-    },
-    {
-      "id": "social-4341a2a0c203",
-      "title": "Parpaner Sonntagsmarkt",
-      "category": "markets",
-      "description": "Traditioneller Markt für Neues und Antikes sowie Bündner Spezialitäten. Im Sommer 2026 finden wieder 5 Märkte statt, jeweils an einem Sonntag im Juni, Juli, August und September/Oktober.",
-      "date": "2026-07-26",
-      "time": "09:00 - ",
-      "price": "Gratis",
-      "municipality": "Churwalden",
-      "locationName": "Parpan",
-      "lat": 46.8016,
-      "lng": 9.5709,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/event/parpaner-sonntagsmarkt-8430635",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtJ0EpPK3CxSB2Le_ssheIk7fLbvNvRQjzZForsIX1zX6QzbaF759eN_bvhLwUnMweXW_xQvTJoW9W2wzxaKE1rdqtmLurojJgsZQW5u0HBtRUTt9k_SjYoVtTUPISl_P5unX5-nhnM5paSdegEQDJIiNg7I5PFusqSptMslF3PRZ-f-Bj_HkBUHsbURVDLpc="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif-qvfRNC3B0HRCmJ66jphF1OrDa_aWRK-ltwl6rRhcWBIGWN6xUt4MUyyc6bnujLH-yUWvGVDz4cAl69_H5n-Y18Y2piL2SjeXLZIBvlz0bfINDfWAB7DtHoUmKb5X03jVcSpp5paPb1a_gz2Tb2t-sdz8SciB0cWoZW6X8BqkEI6LRbxH_3DK1kD7thAbMR3g=="
-        },
-        {
-          "title": "arosalenzerheide.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhfEw8zB_KVOOqUvo1ksuxn6CFvl5DllSBm2gTNjUZnQXsAojbMNIJhbE7eNF7FlACu-gEHQsQFAn7-RoXQRBdgPU60D8WnNAxH2j8yTivv8lGXgBudYh28YLR288o52oG04tRYnhqctqSfdbyu2ctgGCL8edgUZatB1fHf93eGvT2ni6W4fjbaskY9TS2yT-PtiXrO3mi58gceEKGa0mXIpqhnKa_pX060JyHpD-5a4BofmExPd4fpZwPF2ZEywKTd9nagg=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6qwW1qgTCB7e8Q8yWCDNr3D31mW3bspLLBeSp3xr6DZWVF0niL2J__dVmQjjHVR-6AYrYTvdPFgvgsXP1Un0WuuAxdEXjFU5GF2e2nTetOuL-TMgzpaR2PBzXec-5GOKmqjmEIr7cny02t3-8WDKdLEQRpw1EXw=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwIT0NmQQThnxMtCXoLDrp1tonvV_TLK8hnSYfLQkJku1ZVATd0KJJtZ5D8WyZJBn0VJ3nPnc6FWXbfflesFWW0WLMiaL8fGTp73_FUkIlpibKaoTNxcDDqRoBKD4wjPh5A-Hie6iO3ylW-GaGwUOAQhKuwcl8ErraLwNFk0jWbOtg4aAH5kYxfrFQlgV1w2WUvDUtrdXXEnTt38XPAgwClY8-aJQ2Rw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:14:23.487Z",
-      "legacyId": "social-1779632063487-Churwalden-2"
     },
     {
       "id": "social-b57c37341370",
@@ -2918,26 +2876,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-fdbd0c2b3796",
-      "title": "Seggsy Brunch",
-      "category": "family",
-      "description": "Ein besonderer Brunch in der Werkstatt Kultur-Bar.",
-      "date": "2026-07-26",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Kultur-Bar",
-      "lat": 46.8491,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://werkstatt-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-c8476ff3a379",
@@ -8617,88 +8555,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-deb7df5acaef",
-      "title": "Parpaner Sunday market",
-      "category": "markets",
-      "description": "Traditional market for new and antiques and Bündner specialities.",
-      "date": "2026-07-26",
-      "time": "09:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Parpan",
-      "lat": 46.76,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/parpaner-sunntigsmarkt-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
-    },
-    {
-      "id": "social-c5c326cd62f9",
-      "title": "Sommer, Sonne, Krone-Grill – genussvolle Sonntage",
-      "category": "family",
-      "description": "Enjoyable Sundays at Hotel Krone Churwalden.",
-      "date": "2026-07-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Hotel Krone Churwalden, Hauptstrasse 155",
-      "lat": 46.78,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/en-ch/experiences/events/sommer-sonne-krone-grill-genussvolle-sonntage/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
     },
     {
       "id": "social-cee24d067820",
@@ -16152,47 +16008,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T12:02:21.455Z"
-    },
-    {
-      "id": "social-954a7cb7430f",
-      "title": "Summer, sun, crown grill – enjoyable Sundays",
-      "category": "family",
-      "description": "Genussvolle Sonntage mit Grill.",
-      "date": "2026-07-26",
-      "time": "12:00 - 18:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden",
-      "lat": 46.77,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/events-in-churwalden/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XF0fL6C42w9BN2bXRk6X-FvqOvoAvfVxK3tPHQUutmFrcOgN8oCW6oItcMTqIVxq1FjoLydAz9U2h66e1Owh2A4z0ukjs2vvWjzJIX15iKiRLYqg2Be8wxrlTenoAUnU0wlPIu-1E7InMZ9sCr8="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdC9bOTKQ842-t8Xw8p7z6gwGjiBzcIk1GbSJqC_wk99hyj1OCrttSyiA_25LFNSdxAMIyDO046h-nwvqGajG0SImxFixtC7XBEunYG5lqwYC2BK4_YRcqO8e36_QTnx7Crv0Kn30TbQGlNPZq4iKuzdok3dpjrR0="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dQHr49x6EvmXcEvbQ7f6V65Zkcf-q02W8R981nQKvUSNO7fjr95qvwg5rirRfN76alxbCv_zBP8JO71R45FQo0Z55NkI-Mof0Qw8AkFSAaGmYiFwCkFrV5pdEAbHj8TKJ_N5TZCQGQF-cNh0oK1a-qApqmBeWmYjyRnjkFxDTSibGnvMR-TPexXx-TI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGowCzkD4Pm_i3-8tAuU1dg4xKaYTYqQ-D-xJz-X0mWWH_F_-3KvNqmbvSCgBINLBoU2zQDjnvEIV7RCkgUoxj91vPTXGzxpKLM_a74K4qwO92obqxCyG2tiv_ckU3Ai7rkyK5Cqq4siBL2-33wFCwoZMTltvEH7AxfF8e875l2eosihpZjcoU8CNCchtGOWaECJCyoQjQZ3Bj0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQnaRtsMmKSnRojPKPhqDlNu93pxonU5kM_8wwDk31qkWeuu7_4qlbib8uUgOIXX_7sk1XUufMNLd2Q1whekKhogEOC9_v8ndJnxJG2gtaN4ni69Beq6_vC3l7ROIp_XiwDlU4dXAPORQGELLQ0rz63xdH5Bwk8gyfEo8S1CYEy9kCM-mgYi8_XV5Ov21"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:35:59.371Z"
     },
     {
       "id": "social-506661ad9b40",
@@ -25670,26 +25485,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-5c5ab43adafd",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-26",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-9902a86c37d6",
       "title": "Polenta 7000",
       "category": "music",
@@ -29528,26 +29323,6 @@
       "scrapedAt": "2026-07-01T10:42:11.569Z"
     },
     {
-      "id": "social-87acc6d7b35d",
-      "title": "Gottesdienst",
-      "category": "family",
-      "description": "Gottesdienst der Evangelisch-Reformierten Kirchgemeinde Untervaz.",
-      "date": "2026-07-26",
-      "time": "10:00 - 11:00",
-      "price": "Kostenlos",
-      "municipality": "Untervaz",
-      "locationName": "7204 Untervaz",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://refuntervaz.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:42:42.076Z"
-    },
-    {
       "id": "social-3b73a724a1a9",
       "title": "Gottesdienst",
       "category": "family",
@@ -30986,47 +30761,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-02T09:57:35.208Z"
-    },
-    {
-      "id": "social-d3f494930bc6",
-      "title": "Gottesdienst mit Kirchenkaffee",
-      "category": "family",
-      "description": "Gottesdienst mit anschliessendem Kirchenkaffee.",
-      "date": "2026-07-26",
-      "time": "10:00 - 11:30",
-      "price": "Eintritt frei",
-      "municipality": "Untervaz",
-      "locationName": "Evangelisch-Reformierte Kirchgemeinde Untervaz",
-      "lat": 46.9248,
-      "lng": 9.5313,
-      "image": "",
-      "organizerUrl": "https://www.ref-kirche-untervaz.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD5NVNyhXPQ8CkHL0pzSTr5wHeUNUrl0s2F1WUbSXPqAi8ljY119Dfazs_-WSg87DPt_lOVtNCRQ4Bw0BHl2sjAq6UBGAaokq8tqYOOutt5gaSn-9R190R-aOuqhwwT_VaEWH6xzvH3GIcdf4nbAKQAnP7LVmIWG1szd3PFja9ZAtjgymZi4egy-GPHQAWUav_E4z_6LMnpw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCK4NK1uEPsUh4Gs1RNLAbobVggPGXdvbQ5pPyr4eg_OiATvCWLbuyqtSvg-J8S9ibXSwiMSshjYldPMH6O4g6COBvrro3CXK0CIeAOmy7Wh_8OuITMFKlFJeMex0-q56HIXQmZUAcd6j2mQA_fRi76lBapYlX4WPhoXp76tf4Xm3n2gsiEYMT1GCKArD4iLrOOsE="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9LdsQgM1F-IwtcaaYnlwhVQUe1p9qRI7NPBB5V7VZZQWR8jozNVUsIGEltCcU8PW6KqTiG3pUcUoAfRWIZZsNEa3hTp6_UjcDEdkdJi6m2W6D6G3unBMkxcWv9kjLebZcoeqol6tbNnavIwYZ176Gj1ZhYVH1EEAaZDHjv1YbaXvQhNsQxm-hqxbeNquLMU8hI94udpNAwvdv"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF6polPAwcRprNHZYr4HniUvT8g2Y89uhOZis7xwDiI0bdSTapMhHCquyOe23o5H5CIUaZ4EhYMPTGVChFi0SZGLyB4ZZyk1x1AAaATMZyowZpEmpgIeMjob_EsHOUNerDAMQRDuqYvoO5uILDCkDbOPrKfOFuqoD9i_uiysd-OMrN9Ky7qJBYNzxwrsHWutTMnOdHq3B9d5h9b-NX"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOzL4b9vTcwA2vcs58f3IR8KwXG920dKy7JsuMWc06Tcj2ynRSGsF5Clg54Fp20q89iCfZasNgTN8w9zzkFUX5dm5acmThY2rpTvPUwaPCKmYeJ8qUr1f-4_tzPygiHzakRvQudH_EZz-CnHuFIqDF4VWv2Cpyy1mJAU8yXEauC-XvN_8vga467I69X09zlWZMfZ5e-OcQmEGmpKy8"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:58:12.757Z"
     },
     {
       "id": "social-2e51c93ff43a",
@@ -33281,26 +33015,6 @@
       "scrapedAt": "2026-07-04T09:24:19.766Z"
     },
     {
-      "id": "social-46ef5b227603",
-      "title": "Konzert mit \"A Birchola\"",
-      "category": "music",
-      "description": "Ein Jazz- und Gypsy-Gitarrist mit italienischer Eleganz und eine Sängerin mit einer grossen Leidenschaft für Brasilien. Ihr Repertoire reicht von Bossa Nova bis Samba und ihre Lieder haben viele Nuancen, Emotionen und lebhafteste Rytmen, die das Publikum nach Brasilien versetzen.",
-      "date": "2026-07-26",
-      "time": "10:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Konsum",
-      "lat": 46.75,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "www.konsum-cazis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:25:29.148Z"
-    },
-    {
       "id": "social-d6d34b0b8824",
       "title": "Konzert mit \"A Birchola\"",
       "category": "music",
@@ -35309,26 +35023,6 @@
       "scrapedAt": "2026-07-08T09:22:21.911Z"
     },
     {
-      "id": "social-693967616080",
-      "title": "Gottesdienst",
-      "category": "family",
-      "description": "Gottesdienst.",
-      "date": "2026-07-26",
-      "time": "",
-      "price": "free",
-      "municipality": "Domat/Ems",
-      "locationName": "Evang.-ref. Kirche Domat",
-      "lat": 46.83,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.domat-ems.ch/gesellschaft-soziales/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:23:24.502Z"
-    },
-    {
       "id": "social-2874f529eede",
       "title": "Gottesdienst",
       "category": "family",
@@ -36193,26 +35887,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-09T10:19:54.230Z"
-    },
-    {
-      "id": "social-d60c64d2fb96",
-      "title": "Sensitives Wald-Erlebnis",
-      "category": "family",
-      "description": "Camlata. Führung in Felsberg, Treffpunkt: Wanderparkplatz unterhalb der Burgruine Heiligenberg.",
-      "date": "2026-07-26",
-      "time": "14:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Wanderparkplatz unterhalb der Burgruine Heiligenberg",
-      "lat": 46.83,
-      "lng": 9.48,
-      "image": "",
-      "organizerUrl": "https://wildwechsel-terminator.de/events/felsberg",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-09T10:21:28.581Z"
     },
     {
       "id": "social-0faccca613f7",
@@ -42537,26 +42211,6 @@
       "scrapedAt": "2026-07-18T08:46:16.008Z"
     },
     {
-      "id": "social-c5bf9db8b1ed",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-07-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
-    },
-    {
       "id": "social-702fe6046ba5",
       "title": "Offener Mittagstisch in Haldenstein",
       "category": "family",
@@ -43356,26 +43010,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:48:20.999Z"
-    },
-    {
-      "id": "social-7b273591d1ac",
-      "title": "Regionaler Sommergottesdienst in Zizers",
-      "category": "family",
-      "description": "Gottesdienst in der reformierten Kirche in Zizers.",
-      "date": "2026-07-26",
-      "time": "10:00 Uhr",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Ev.-ref. Kirche Zizers",
-      "lat": 46.91,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://zizers-reformiert.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:49:01.900Z"
     },
     {
       "id": "social-72a2d13dc31d",
