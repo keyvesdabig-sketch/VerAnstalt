@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-28T08:10:37.314Z",
-  "eventsTotal": 204,
+  "timestamp": "2026-07-29T08:14:26.438Z",
+  "eventsTotal": 201,
   "eventsNew": 0,
-  "eventsUpdated": 17,
+  "eventsUpdated": 0,
   "eventsEnriched": 3,
   "enrichmentErrors": 0,
   "eventsCleaned": 3,
@@ -77,7 +77,7 @@
       "name": "LocalCities-Rhäzüns",
       "kind": "gemini",
       "events": 0,
-      "error": "Gemini 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"The service is currently unavailable.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+      "error": "Gemini 429: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. \",\n    \"status\": \"RESOURCE_EXHAUSTED\"\n  }\n}\n"
     },
     {
       "name": "LocalCities-Malans",
@@ -112,8 +112,8 @@
     {
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
-      "events": 17,
-      "error": null
+      "events": 0,
+      "error": "HTTP 404"
     }
   ]
 }
