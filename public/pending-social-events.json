@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T09:31:38.447Z",
+  "lastUpdated": "2026-07-29T09:33:55.319Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -14455,26 +14455,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-8cfe191a2c96",
-      "title": "Murmelbahn bauen in Malans",
-      "category": "family",
-      "description": "Murmelbahn bauen und Grillieren auf dem Älplispielplatz, in Zusammenarbeit mit dem Hort Maienfeld, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-07-28",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Älplispielplatz",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-5e9feb8ec877",
       "title": "Wasserspass (Ferienprogramm)",
       "category": "family",
@@ -25463,26 +25443,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-70b3a7b74dea",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-28",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-a92c16e283c6",
@@ -42149,26 +42109,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-c783a9db376a",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-07-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-c8e56eb19609",
