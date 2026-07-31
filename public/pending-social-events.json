@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T09:26:13.087Z",
+  "lastUpdated": "2026-07-31T09:38:33.750Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -1680,48 +1680,6 @@
       ],
       "scrapedAt": "2026-05-24T14:14:23.487Z",
       "legacyId": "social-1779632063487-Churwalden-10"
-    },
-    {
-      "id": "social-b9c83365d9a8",
-      "title": "Laurent & Max, Konzert für Kinder und ihre Familien",
-      "category": "music",
-      "description": "Laurent & Max, Konzert: Songs mit schweizerdeutschen Texten für Kinder und ihre Familien.",
-      "date": "2026-07-30",
-      "time": "17:00 - 18:30",
-      "price": "E: 25.-/K: 15.- (ab 2 Kindern je 10.-)",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Erlebnisstall Tschiertschen",
-      "lat": 46.83,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://laurentundmax.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk545UWiMimYo1WAVzsJSFEWvQkbZN5oo6TOSBIP8I-hBVPXgTxvldtWxFl-fOznx3pIjzNlU8ViniiC2cnaBiohQSXqv5m3cQNyXEWlqCJA6Tu_V5tlDG132rIMGiwe3WlQQkuRdKHAEqtxkv-QBzB_mMuI6G9LdWJJpzoAI4roI0fdpgsl_hARzzarXQuFWQ2LTlaPWwMQ-lTr6QQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1shb0v9oFuGAHnY8y60Ddr8zz8c4trkWG8jcfNQj1K7KUkhmIqy9MLwsJGA4MPEjPwnpu_o20CQ6AZ0xo-XgqMSwdAVVntMaXtxDZq_2WjeG7Masd_mbwFL9DH1MdeGyA0YocBHdgENTF4cyieElxftMGceEtIK5KjrOK5UlWy6q-dDiL9dVe-OeIox3ZMfwEQQJn0jV2M6qEZNaw3Q=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJOp2z4GaHZX6FZyFWhhgBzDt4Lvsn2Y4TkxTucWVdjrbllDXMyCvIvPMDJNR-LXxoWF5RxkKt7NJfz-J8N8dTLia4OKosD798D9vznYrBdyUCnlArlgWC7nnzT2NMfPFngukWDs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzy86lqnz9ONH-a4KbfdVHkMxSnq7FouP5lHXAD0BDRIiS5lu3SUbk54YrslfsVTEck8grFIxbJxrzs-C1QOXIt0ZkzVwdonZ-yDxhJ5G_ex75OeJ1Rgx8ayialzmmuHGJhicGqkBkAhx4E6gopELifObC0wF1kI8GUiy9IhbHs8o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8HXmRmbCCALk_RbuES9IMKsxtTAMcR_g3HwLfP8YEEPZ6wVFRrt3WbEV17FuKNLp8cLRYgyTRyhqnw3VQLNduMWurFhLEXoyiTedozaO_Ed877zahKvBCfY2hozUPU_QA2yHeIR0k8LIUKp8xzksVegvipQOdICMg6lUPraku6dA="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:15:00.434Z",
-      "legacyId": "social-1779632100434-TschiertschenPraden-8"
     },
     {
       "id": "social-50ea05a0ad25",
@@ -3840,47 +3798,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:57:54.049Z"
-    },
-    {
-      "id": "social-05c48b712a5c",
-      "title": "Laurent & Max. Konzert",
-      "category": "music",
-      "description": "Konzert für Kinder und ihre Familien. Laurent & Max verwandeln bekannte Lieder in fröhliche, neue Interpretationen. Ein Event im Rahmen der Erlebnisferien mit Kindern in Tschiertschen.",
-      "date": "2026-07-30",
-      "time": "17:00 - 18:30",
-      "price": "Erwachsene: 25 CHF, Kinder: 15 CHF (ab 2 Kindern je 10 CHF).",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Erlebnisstall Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/event/laurent-max-konzert-fuer-kinder-und-ihre-familien-chur-tourismus-gdl-911633094",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEp0WXqTbO56a5kSdRIVqP_j5xx964Q9eksXv-k86moeDMIqk93K4iS8zedM3__I46VTcJGiGF1jgWpt6_xf6EZcPStNjk0DzOeGFgLN5UNOqV2IGbkq88jWVo45L-c_0qjZhtbhjJXrfKcJ_YIjQErfTmQqKEW3B7oPNSmj4MqXF1IGQk5kOyYzjck3kyNsa3LK9EPUMntqSJzLYZKg=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM-GcuZneGCD61v33fYf_zZ_7jNM4y4pF6VT0doJnhgg7H0GHqCUTOt85cpAMOz7OmZ6yj3Dpj2ToZoBPswtnKJig0-HVhzhUfIcnvd74T8n9d8DkDao2fCNIoQ1WsckMj7Adfh0C5N1NXEJW_yuBblU3yHIlZpkHWJMmry3fMwP_Y-ap63DlzBMP65oJ_YuRbeOobtq1CYqeRnnOsdA=="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp2y0Vw8zAsJCeNGFuvZz7fwCXqvjcEpv9MEH6kVWKBu0bMJlHbQRHputGPXg3wp5bHJZ-Vp5ic8tgZTUVD_JVg8TXune66lWrFyWGrLzdwZNocx1bFDDzSphzLYFZapl2WYlH0eJ2MU1muCefeaD9"
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO3gRY1SSQVjhDlKa__0VfC0q2rkGEPNO2c9JsQBy2neH4TZybCyb9POB0QIOa7pdr6ChtEkT3iOvb3BbvPpOT2IOzWTENt3ftDKStUbdsdJYyW7BuSiMh8919JKu30rwO9olpmoK0maxoEqqdVMYq32WF27Lza8xt_fM="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRaMEuj0Rey3C-EXcXOGko4oq79M8_1dg9dBs4qWaYjpLjaE7JcmnSHyG2QkJo0E6MNOpy9U2wjjaI7U1WpPCbrjRI7xmzEkGVj8k3XsYMlfmnawZbD8jDj1hgy2yGJ-8kuKG8z4w0me5PFskY3VMbgQtlCz4DoatDbb-0_7RTw0Q="
-        }
-      ],
-      "scrapedAt": "2026-05-27T10:58:35.508Z"
     },
     {
       "id": "social-d902b2d9277f",
@@ -8006,47 +7923,6 @@
       "scrapedAt": "2026-05-31T09:48:47.075Z"
     },
     {
-      "id": "social-6b575464bcbb",
-      "title": "Music & Fairytales in the Forest 2026",
-      "category": "family",
-      "description": "An vier Donnerstagnachmittagen im Juli und August kann man in der Ferienregion Lenzerheide in eine fantasievolle Märchenwelt eintauchen. Die Künstler erzählen fantastische Geschichten und unterhalten mit stimmungsvollen Liedern zum Mitsingen.",
-      "date": "2026-07-30",
-      "time": "14:30",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Lenzerheide",
-      "lat": 46.7214,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/music-fairytales-in-the-forest-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKcs_AQM-t4yEgDQmTxbiTskHDOknYLVFupBwa9n35XdlIwzZbpjgAQGOo6Ea5pLUzFMkt-4tLkDSaua2sefJ_vD-XYv1MyMopfAAOxFP2tEkdITftDePUsKhpi6UMau2AdEH-cW0zb-RH0KisBwWki9m7HX5WI9NQN7rlrpDwVhe5tcxxETQ_xphmEPosJhI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF10AHU8YN1NBiG54nxmjVWf7tMnEBriewDkTjvFXBY9ffpuIrjpOb5MQVKM8Vrmf0KUemqldOaXyHCN9Pf94qTUnaSvAK1PSxOgYPSjATU4R_Db8iDqjKBZxBS8iEWkdiGHIz8FDcccvXaK5wSVGfLgEMG1iyxapwDNqlnopDhJjYoXT-FHuLKhHTIFXB7jFc3iQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJAHyxv30tNEWHUl5pV4Z2zxLiGAfdHqQo2d6XVU8MR1lzsa5W0QaIp61fogPmTSAzcTt8vWS-ngpzhJ3eoWyLRX2Nk1Cj5UbQDWdoAllemyMUk9vswFi-2ZuLNPL87gCRpnO6rNP0rmATkWCoEffKK6lRx-k-IPsFZ-TmUpFUxVVoCgHeKQ0POEeCGgu91EsUQQ=="
-        },
-        {
-          "title": "myfarm.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfkJYhOswx2LZ5o04i1FmhLUL5_Jr3VwmXN1zvwRI9u2x7PqBbmcabigTruJ33nrzUgUYYfmu9bXLRSA2sTXT5S-qb3V-gxsWLN-kePg0zyg_88O4oOPtg_MKHUTFrdeO9xoosOy3O5-B0_PdHcsne"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRq2XKHu4XxJb7x5WIN6OyBM6137Ylk7TT7AOKqfuuqTxVhTjM2CiyVhfNcZHhwgHSDWQaZvGgH2uAKA-VQuvo54VuwiTrvdjfGgm_nrFstqzurX8mWgeGNMJK29b7s693RBl6JAm4wFvtcWKdQe7TRh-4qIIhPcoPhn-1EqgpaXcZcM1szjkqAhFDcOuqFK0ERYjOgpVUBV4aSEwir83qaFNokA=="
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:50:16.247Z"
-    },
-    {
       "id": "social-27cadb41a922",
       "title": "Music & Fairytales in the Forest 2026",
       "category": "family",
@@ -8555,47 +8431,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-cee24d067820",
-      "title": "Music & Fairytales in the Forest",
-      "category": "family",
-      "description": "On four Thursday afternoons in July and August, you can immerse yourself in an imaginative world of fairytales in Lenzerheide. The artists tell fantastic stories and entertain you with atmospheric songs to sing along to.",
-      "date": "2026-07-30",
-      "time": "14:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Lenzerheide",
-      "lat": 46.73,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/music-fairytales-in-the-forest-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
     },
     {
       "id": "social-697b215bc53a",
@@ -11515,47 +11350,6 @@
       "scrapedAt": "2026-06-03T11:56:05.201Z"
     },
     {
-      "id": "social-79d09e667f0a",
-      "title": "Laurent & Max. Konzert für Kinder und ihre Familien",
-      "category": "music",
-      "description": "Konzert mit schweizerdeutschen Texten für Kinder und ihre Familien.",
-      "date": "2026-07-30",
-      "time": "17:00 - 18:30",
-      "price": "CHF 25.– (Erwachsene), CHF 15.– (Kinder), CHF 50.– (Familie)",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Erlebnisstall, Tschiertschen",
-      "lat": 46.8409,
-      "lng": 9.5898,
-      "image": "",
-      "organizerUrl": "https://www.pro-tschiertschen-praden.ch",
-      "ticketUrl": "https://erlebnisferien.org/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkjmdArec6OoBhmor5Mt-3gkyKUJ6wKEEC0IHOZ9vsDNGhkHWz-7Ql4V-1j00YhyFODwVlpoas8UAyUyRURJRW-qgK5QvYMU2W5myTnn-tRbjAWzbFR90mlR4="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrWhp1M_-lZptWFZFVOvp4RJc2sXIS6zLUzTzOu7YJUiEyJMy3fXQBt7yQfchWke1U8933dnkjWuUsrOxvYmkbfZY7ZgFQkULNeZIvfbFEMc09ZNRaZ2T6yVC89B8KcJD-5wMJrx2EhjICd88XBo9ha1k02EydiP2pyEZP79Q8Z_enNsg9mGRPkiMvkyF6X-oIU9UarVZaKu-CYfLRZw8="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaMJ4eD8YmJoaLBrQ4HexVXxL0jWgMFLCI_G7lliV6ozZ1BskOuDkWVIj0B86FkLfD7fcXgZwN7Vjk7J_-cj3Ol9nLduaZX3_nUojRSPWF-kRhAarLA03UeaqDMxO4zkpsTMy7ZWxkcRMbF11Ue8C9tg=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJh24OWoU3Pxt20x1mnN6y_R2Qbaoysc__DAPSakF8qWAEAkwu8j8FRhA3d8j32a55vXreBqPiMfhgjPSvS6axehs8LzOlc2qt3Fsb3TE-829CO6muvdNQPqyYyV6wrybOhaOpoJugY3kIHSM6YyTPkeY2smX9bvkXfmod7dj2wRqX7GzEEbXuWCHfVM_eQuKmUHPRzH2OBHxKlgeNfpM="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc0D7AgBjcb_5RNAxs-u3xreUgdqFVG60QIC1bCik7Gm-xYcSQvqD_IZxl3S8_i4iXreDYPWPVf0kKfpDH_I9ieBh-NsgqYyW38lGGee1SXyj2z-IskKSCrrqoWemEoNILYgv2MVvR2WBWJpmViVxfNkrk0dyDBQW1vaO8u99c4tBc"
-        }
-      ],
-      "scrapedAt": "2026-06-03T11:57:50.709Z"
-    },
-    {
       "id": "social-658bb39e89fa",
       "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
       "category": "sport",
@@ -14373,26 +14167,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-a6d154e1477a",
-      "title": "Basteltag (Ferienprogramm)",
-      "category": "family",
-      "description": "Kreativer Basteltag, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-07-30",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-5668ce9eded8",
       "title": "Wasserspass (Ferienprogramm)",
       "category": "family",
@@ -15131,26 +14905,6 @@
       "locationName": "Schloss Haldenstein",
       "lat": 46.873,
       "lng": 9.531,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:51:07.392Z"
-    },
-    {
-      "id": "social-639fbaac8739",
-      "title": "JazzChur @ Polenta Jazz Club",
-      "category": "music",
-      "description": "",
-      "date": "2026-07-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta Jazz Club, Chur",
-      "lat": 46.85,
-      "lng": 9.53,
       "image": "",
       "organizerUrl": null,
       "ticketUrl": null,
@@ -16112,47 +15866,6 @@
         }
       ],
       "scrapedAt": "2026-06-09T10:35:59.371Z"
-    },
-    {
-      "id": "social-6c57346e4025",
-      "title": "Laurent & Max, Konzert",
-      "category": "music",
-      "description": "Songs mit schweizerdeutschen Texten für Kinder und ihre Familien.",
-      "date": "2026-07-30",
-      "time": "17:00 - 18:30",
-      "price": "Eintritt: CHF 25.–, Kinder CHF 15.–, Familie CHF 50.–",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Erlebnisstall, Tschiertschen",
-      "lat": 46.83,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://erlebnisferien.org/",
-      "ticketUrl": "https://erlebnisferien.org/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTxReJjE_4xHVXTGxdj718ddx8mp2Em9BBfcZzkzhNiKa88R-s03sMG9RgF07O9Fqh04N5ba5a2VXxdH5zTs00QfsmQnjyJJtrqXY8Bb5A3F61fTX_qpblt30="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXsyImd6o79iGE2no9jJr7QwAeaw5tAW0OvRo8O4ohFOFvNHfoFYLrB64Tz4gzAtTJa7NssoGIdU9pNRxmkgOK9BNKiHoo4sYLWqM6TCW4DMPPD3264wC4SWMk6UAOMSMLhE8N9RQKhQ8Og5ixXJ5CMIyhMVrVV9JhbtICRR_S8FzcFzBeh4WbU3j6tf1Dyw_nYz7XFpVdcjF5OG8uf8g="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhmectCoUpTb4sdtc4tEGNyB1S5prRz9G6b39rt-KBCnOeOTDAEmyuFRdAyx10NN-mzryh4u2ByVPW5E7DkPjKne6MLJ69JighrdsfHTR7jpDC_HdWWHrwCcboQuTFWlMoAKDjkuZjIBSZmqqIAetmdUUYdAL3_Z2vqWqqsNJUIqofIF3tQnwEZLEFgxUvWlRQrXC6VH1CghrbkrSCLU="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECHYW16STaq1qrGOTeWnb0Vji3OTo2kaY5coEgNdSxPgOWW713OrwFe2IrYWQiCNIMSPaRtK5L9pVtxAk4YZoHQ6lB8gMRQoSCRe6nbKFnepIT-RD9pv-yLH4pfTuCiUVs5voirowbuNVLYhlvxTFaFlwrN9rrZYR-aYM="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmfYuopRfJoMHNf14dZlcvJL8R9qDskrdrZ8HX8Fi9HPrYW9D36haHmynw8wmD0U6hnRmh1yPIiZBK3gX3rpBREKLR1KJ-mtxymo8jPkzF475MrL5wCJKnVb7PIQXyORkVi6NIBCKmFQIgehyRYcLXabp77NuBjORgJkSsZ5FTQUwa"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:36:39.014Z"
     },
     {
       "id": "social-58b1ab7befce",
@@ -19067,47 +18780,6 @@
       "scrapedAt": "2026-06-11T11:26:33.609Z"
     },
     {
-      "id": "social-f607785b96cb",
-      "title": "JazzChur @ Polenta Jazz Club JazzChur Hausquartett",
-      "category": "music",
-      "description": "Jazzkonzert im Polenta 7000 als Teil des JazzChurSommers 2026.",
-      "date": "2026-07-30",
-      "time": "17:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta 7000, Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://jazzchur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
-    },
-    {
       "id": "social-a5e3be7841f3",
       "title": "Sommermarkt in Tschiertschen - Ein Genuss für alle Sinne",
       "category": "markets",
@@ -19371,47 +19043,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:03:26.119Z"
-    },
-    {
-      "id": "social-7b519c664891",
-      "title": "Laurent & Max – Konzert für Kinder und ihre Familien",
-      "category": "music",
-      "description": "Ein Konzert speziell für Kinder und ihre Familien.",
-      "date": "2026-07-30",
-      "time": "17:00",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Erlebnisstall Tschiertschen",
-      "lat": 46.817,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://pro-tschiertschen-praden.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVjzUyAbBTSrAX0zopzhVQUOPc6-AllTnA5yVRWYIyyxAJAD1r5PAgNyGZiFTCHJUE-Ebm04DeF0XOqLM6p1qnHvZPuUb8alxLVBDRzZE666k_0bGEf4AS0fIy56Uya07Y25Yf2l9nbQ7nlW0ABJ_YxQ=="
-        },
-        {
-          "title": "utc.city",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBcFL14Sh_tCSrIJSuKZ1KSWfb9wrPpbQiUCbfarL-D71b0_p99c--rBu-QhC_Ioph5EjO4B2bMD_IjzswWAe-d1r0E4_vmxrsTujVXfKXIG1eD9t4KQ=="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaMBoD8JFlTRPKJ1d6Xjd9BFzpbWPILKo-BwJCks-DzlATPCpyOwSJ7M5ZWTYJ6chi1qZsZGftyIxhAPLFcO1plnIrrx5fLDWd2T-O_-Ye5JBZ7Bm-DxEPwg88buAT10cH-qHXBqA="
-        },
-        {
-          "title": "komoot.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkF-jTaDebEWCp6glDLOeejXWF1x-12lNIBbW_isPzdVbd50A0T0uCp_IakvOVQa25pt9ppmuhBVQHi8PMquhf_yAwTI3k3M4fvuCkd2LjjLjjBPqExKloNKnCkAEe717_GXzXYM8THTo="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpYpCSqlZpTw4dLshAgmeElmhpxBJZUmOxhEVXkprUWoC2QD39UEdpwsMlSzQq2-uRICDlx2LnWkJzqS8jRtwSoARIrSN-CpJLV4BpVRz_mAGkNOJqRn90OKD0d1eFgy_nBQxeOquF5yuJ7PY1ctXeo9kH_TTjHxhR7Q=="
-        }
-      ],
-      "scrapedAt": "2026-06-12T11:03:51.518Z"
     },
     {
       "id": "social-98d4d1e9b31e",
@@ -23261,31 +22892,6 @@
       "scrapedAt": "2026-06-17T11:30:41.538Z"
     },
     {
-      "id": "social-03e49eda7fac",
-      "title": "Jasstreff im Weiss Kreuz - Einzelschieber",
-      "category": "family",
-      "description": "Ein Jasstreff im Restaurant Weiss Kreuz, organisiert von Felsberg Vereint.",
-      "date": "2026-07-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Restaurant Weiss Kreuz, Felsberg",
-      "lat": 46.83,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.gemeinde.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzSr2sQ3sJJg_eUDgQfdiuoU40Ix69mJa3lrjHGIeKz4qGMdyPgcX29H3SQ6TZRzc2RDB4QtBRtmoowHSLWSXu3_HbkWsW6bgdmKSooTbFo2RfCz1ZGA6XybZk3Zwhmng0oN4E"
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:31:18.176Z"
-    },
-    {
       "id": "social-ed5924f844c5",
       "title": "Einstimmung zum Nationalfeiertag mit dem Trio Harmonix, Apéro",
       "category": "music",
@@ -23845,26 +23451,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:08:28.703Z"
-    },
-    {
-      "id": "social-0ce20bb1eab2",
-      "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässiges Training der Feldschützengesellschaft Trimmis.",
-      "date": "2026-07-30",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:09:11.117Z"
     },
     {
       "id": "social-207a8897a4df",
@@ -25302,26 +24888,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-c99eb484372c",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-30",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-f8a1f7340567",
       "title": "Polenta 7000",
       "category": "music",
@@ -26706,26 +26272,6 @@
       "scrapedAt": "2026-06-19T11:27:43.348Z"
     },
     {
-      "id": "social-26f9cc502ad7",
-      "title": "Romeret de Viena",
-      "category": "music",
-      "description": "Konzert 'Romeret de Viena'.",
-      "date": "2026-07-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
       "id": "social-d1abc1d91de9",
       "title": "JazzChur @ Polenta Jazz Club",
       "category": "music",
@@ -27705,47 +27251,6 @@
       "scrapedAt": "2026-06-21T10:36:39.231Z"
     },
     {
-      "id": "social-98b57938470b",
-      "title": "JazzChur @ Polenta Jazz Club (JazzChur Hausquartett)",
-      "category": "music",
-      "description": "JazzChur verlässt die Stammlokale und kommt zu euch ins Dorf, ins Restaurant, ins Kino oder in den Garten.",
-      "date": "2026-07-30",
-      "time": "17:00 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta 7000, Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdJteLbAf4ERDejQGfzJw_Ta8L9wR0NwyVQWsjo0_WJn_6gx8s8Sy5WVSsaTerPZS74giGtX8dAU7a-qRW_TeqBsMbiFgUKjvlxc4DGcs2quje7JbUqhLuF2zI_M9IYOKwgE2KHbLqg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdlueN8CmGWAioN8maspsVJdwsONHrkgemmuHwY5BSCSw54I_XJYOvEOOdXMCCGrCejZ--64WzPaFldFOLfy5YwhkvZROTM-ANjWxj1w=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvmU3gE5t8eaRvBD-XZGOlRakpZ6AkW4LUa5gZq3Gd3XTd-JZhQCxbcwWg0tFe8wlLjtBGkfpPIeLrSrw1vxz_pv01dxiLfLOgO_JmTmtycL7m8zuiO3_C"
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANblN4Wse5cZCp6BL8rfJ69O_gyTA54SztDvO0MDlB_-f64yt-fHKTTbaXRxOn3jXopJgMuSYmQg_7u-jvlbj0KcYkG3CQY2Npyg7UhR-INOFJA=="
-        },
-        {
-          "title": "chur-kultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU_FLsDm3hIdHS-0nLjYjVhhUFTQ54f-89jbnxcsTmJ9_A5oRoZUnzTIqMQQsmVYEKXp0gQXUHjlV9Gr5hJyADJe95ZnYNIp9Q9-0e5vB9BQuLvBYUbJkufJCjF4O59bYo1fRiJfpi0lOu_RWpr7HtjkRhhanohQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-22T12:44:52.794Z"
-    },
-    {
       "id": "social-2dd997f03a02",
       "title": "Kulturpreisfeier der Stadt Chur 2026",
       "category": "stage",
@@ -28396,26 +27901,6 @@
       "scrapedAt": "2026-06-23T10:31:06.695Z"
     },
     {
-      "id": "social-6cecc9506890",
-      "title": "Kinder-Kafi",
-      "category": "family",
-      "description": "Ein Treffpunkt für Eltern und Kinder zum Kaffee und Austausch.",
-      "date": "2026-07-30",
-      "time": "Ganztägig (Uhrzeit nicht spezifiziert)",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Gemeindehaus Felsberg",
-      "lat": 46.828,
-      "lng": 9.508,
-      "image": "",
-      "organizerUrl": "https://www.felsbergvereint.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:31:56.516Z"
-    },
-    {
       "id": "social-ecae487f0147",
       "title": "Plausch-Fussball 2026/27",
       "category": "sport",
@@ -28615,26 +28100,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:36:00.038Z"
-    },
-    {
-      "id": "social-086e4ac3894c",
-      "title": "Laurent & Max - Konzert für Kinder und Familien",
-      "category": "music",
-      "description": "Konzert mit schweizerdeutschen Texten für Kinder und ihre Familien im Erlebnisstall Tschiertschen.",
-      "date": "2026-07-30",
-      "time": "17:00 - 18:30",
-      "price": "CHF 25.00 (Erwachsene), CHF 15.00 (Kinder), CHF 50.00 (Familie)",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Erlebnisstall Tschiertschen",
-      "lat": 46.858,
-      "lng": 9.605,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": "erlebnisferien.org/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:36:35.393Z"
     },
     {
       "id": "social-9125dcad03da",
@@ -38116,26 +37581,6 @@
       "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
-      "id": "social-cdea4c95b028",
-      "title": "Polenta7000 – Polenta Jazz Club",
-      "category": "music",
-      "description": "Jazz event at Polenta7000's Jazz Club.",
-      "date": "2026-07-30",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta7000, Jazz Club",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.386Z"
-    },
-    {
       "id": "social-18849b44f0f1",
       "title": "Polenta7000 sagt Goodbye",
       "category": "music",
@@ -39176,26 +38621,6 @@
         }
       ],
       "scrapedAt": "2026-07-14T09:11:42.831Z"
-    },
-    {
-      "id": "social-3f2279558ff1",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Erlebnisnachmittage im Freibad für Spiel und Spass.",
-      "date": "2026-07-30",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Sportanlage Obere Au",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-15T09:06:57.481Z"
     },
     {
       "id": "social-15e6527ba0ff",
@@ -41018,26 +40443,6 @@
       "scrapedAt": "2026-07-17T09:06:06.388Z"
     },
     {
-      "id": "social-ee61ece325b8",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-07-30",
-      "time": "08:30 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
-    },
-    {
       "id": "social-e8adb3116474",
       "title": "Kaffeetreff für Alt und Jung",
       "category": "family",
@@ -41702,26 +41107,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-01d91ec2311b",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-07-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-cc9ed2fd72aa",
