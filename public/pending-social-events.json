@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T09:38:33.750Z",
+  "lastUpdated": "2026-08-01T09:01:24.721Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -672,27 +672,6 @@
       ],
       "scrapedAt": "2026-05-24T14:10:44.547Z",
       "legacyId": "social-1779631844547-DomatEms-13"
-    },
-    {
-      "id": "social-2cba67a2633e",
-      "title": "«Star Wars & Planeten» – Festspiele im Schloss",
-      "category": "music",
-      "description": "Eine Show wie von einem anderen Stern: Mitreissende Melodien und beeindruckende Bilder von fernen Planeten und Galaxien. Konzertdauer inkl. Pause: ca. 1 h 50 min.",
-      "date": "2026-07-31",
-      "time": "20:30 - HH:MM",
-      "price": "Premium-Kategorie: 150.- | 1. Kategorie: 85.- (Normalpreis) / 40.- (bis 26 Jahre) | 2. Kategorie: 65.- (Normalpreis) / 30.- (bis 26 Jahre)",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.884,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch",
-      "ticketUrl": "https://www.churtourismus.ch/erleben/veranstaltungen-in-chur/detail/star-wars-planeten-festspiele-im-schloss/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:11:38.448Z",
-      "legacyId": "social-1779631898448-Haldenstein-5"
     },
     {
       "id": "social-6a9d379071f2",
@@ -2519,27 +2498,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-014cda680e7e",
-      "title": "The sea sun party",
-      "category": "music",
-      "description": "Party-Veranstaltung.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-19"
     },
     {
       "id": "social-09b0f3950d56",
@@ -5334,47 +5292,6 @@
       "scrapedAt": "2026-05-28T10:48:01.148Z"
     },
     {
-      "id": "social-f1efcb93f229",
-      "title": "Star Wars & Planeten – Festspiele im Schloss",
-      "category": "music",
-      "description": "Die Kammerphilharmonie Graubünden verwandelt das Schloss Haldenstein in einen musikalischen Hotspot mit grosser Sinfonik und packender Filmmusik aus Star Wars sowie Gustav Holsts Die Planeten.",
-      "date": "2026-07-31",
-      "time": "20:30 - ",
-      "price": "Ab CHF 35.-",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/de/festspiele-im-schloss/festspiele-im-schloss-2026",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/de/festspiele-im-schloss/festspiele-im-schloss-2026",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkI-cIc-v8RvepvatE0jirKFBxiWbd-_7ayQfMKZjD9sV9YM8bpXAOtEEETLwSSIiLdQGIhq-8niSK3FW_Nly2yGJa1Senm5TNOluSIlIF4iou6GzWzyWMkRVJrzjN4D6pbRLJXROqNomhGitizS_dqSWVArsMS5XQQQqCRTcFH0xhPwBv_50PTPieiDQ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUzyqAOyidOHLkpDjVrJkBHOegpcwXPA-StjarwL2oiYd-jWYhxOwauy7pAEaUl4D74LqeNeakE-p99Qz2Ud7g4T2TPBS8OYOLCiaDP8JEdVEZVzmCtimK196uBMz1K8Rusjw7BtQ1UuxOIiSOrZHYYgHybblvfOlDKO79F5gOteyi96EgAUivA8-2dnMwqJxg3XSd0oD0IWDELOZrLUvrxc0Uag7szwSm1fY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1YeKfCE0jJXJZorQ8pC8XCdtmmn8GQXwXIqLhgc5WzmzyndRqIjQZTFANRTDtK131gSN0s6G06cfGhuJFnO4bRDOk8Oe93GsOZp-6E0DkCcxv4ZqVaaFBQY5cbHEgzdFGKgA2hVOfHZjrWiraJd1kVk-AE1m1V1ljOjksewek54Ts4d1d_xBZrVtdJyzZlQUe27FwNyJcP2SG5jLCbzD4JWg62cs="
-        },
-        {
-          "title": "wandernacht.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd3kwMUHX0TSWEvYkXSCqpYCRk8Y9Nwie9qUcD2MuAUff147qoHYGDvOR2mPWZs43YU7lw0PCDyhGN6HkQXBiXVZ311ZHa1lOxwxy8yH3HqgFUgQ0Uqnb00YSkx_TZ4KyxbwBcXQ=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVqUEu3NltxWfoA3Mzr5FZdbn_Jycwj-Wgjp6wwWHUbeWFUmVih2W8zL6qzqscOsC1g4YJJyW649PPyWj6M5ZBr_5n7BcYxWeauuUPoQ0WTcnYvINpEIqpUNiAwZrhEtwDLzQ1VIAWowZ00tZs01lBqyJpT6xo"
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:49:38.731Z"
-    },
-    {
       "id": "social-d017b618a324",
       "title": "Symphonic Pops – Festspiele im Schloss",
       "category": "music",
@@ -5783,26 +5700,6 @@
         }
       ],
       "scrapedAt": "2026-05-28T10:51:30.982Z"
-    },
-    {
-      "id": "social-f0ab3b4d8816",
-      "title": "\"DART-FRIDAY\" im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-07-31",
-      "time": "19:00 - open end",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.801,
-      "lng": 9.604,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/fileadmin/chur/images/pdf/events_tschiertschen.pdf",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-28T10:52:58.960Z"
     },
     {
       "id": "social-f25be916ce2b",
@@ -8310,47 +8207,6 @@
       "scrapedAt": "2026-06-01T12:32:49.137Z"
     },
     {
-      "id": "social-5c323beead69",
-      "title": "Rapid Open Air",
-      "category": "music",
-      "description": "Ein Open Air Musikfestival in der nahegelegenen Gemeinde Bonaduz.",
-      "date": "2026-07-31",
-      "time": "18:00 - 02:00",
-      "price": "siehe Website",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.8378,
-      "lng": 9.3853,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdNCobpxqHG1rgVJIa36g79nd41RpYgLJ0lSkkBy_s08cCq_hRiy_1dvPHP7_ORNfp-rbsCV8x8ttdZ1pWL-oI3kbW2UprEDsX-LFI5diZKaFJcWXLxwUcuehxeql67PTMIPds"
-        },
-        {
-          "title": "felsberg-vereint.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMfpDw73F-MvjhlTB2Ri7eY7oeyNFLcYlBCBPEr2MWnjVKdB7MzyxfvKJTRjvieLLrcbFUscX-AZXycRHHoz4ZyJA-CwnDECRh7dpfzPXApK4sy6Kg0QHkV5dfiI6Dgw=="
-        },
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTSiMq3aWhadHQuUJh6EW0WXA4CZVnUUBUsSeKo8C_h1z3iSiEo5gFC7X4wA_6ycvE3Gcub9lC80F4BzuzxFLBbseE8aKTcaYyYbE5WVJ9wa6gDWu-"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqIBNw8fipeRZLPAg2-OvyDihmxhtZc0nVWriudFVP-0vmWBg6eaEf7C2uBOu9wN3t77yKMUfd7DX2k9cPvxLS1XN1-_WcszxLQlrogsgGKoFlE_at4F22vhQkES4tB3c8e7i_a0R2E2lYoq_54f8="
-        },
-        {
-          "title": "rtr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm4mrVPs-WmqglsFwsGltBaNQSLlbvhgBHa3ha8GSgkjLioHYPWeI39DDYTHHeBl-od4Dyjy3Gh-dJmYVnsCBWHOgk-YoWKEE_7kjFlqMQ_chKM2aLx3eHSIyViRPDtDVn0keG1rwGryQTP4CRZ5N6vq3MBWrU-Marog9lELL7BAQXahGmqBdej_APRjA7aFIOsbOjTThDNH4-5oOuR34p6kzGJMTiNFIzeBdnfe_eGrbqxxM5dFnn2Dffxh5HQktZkSchjhKms3yqU1Qn7GTNDOasfsMueVtm"
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
       "id": "social-e1d149f8bcc3",
       "title": "3. Felsberger Herbstlauf",
       "category": "sport",
@@ -9188,26 +9044,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:42:50.349Z"
-    },
-    {
-      "id": "social-185f40d6e43d",
-      "title": "Festspiele im Schloss: Star Wars & Planeten",
-      "category": "music",
-      "description": "Orchesterkonzert mit Filmmusik aus Star Wars und Planeten, im Rahmen der Festspiele im Schloss Haldenstein.",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.883,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:13:28.038Z"
     },
     {
       "id": "social-fdb5175649cd",
@@ -11028,46 +10864,6 @@
       "scrapedAt": "2026-06-02T11:25:01.963Z"
     },
     {
-      "id": "social-ec0d981ac519",
-      "title": "Festspiele im Schloss Haldenstein",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente. Die Festspiele finden vom 31. Juli bis 22. August 2026 statt.",
-      "date": "2026-07-31",
-      "time": "20:30 - 22:30",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8829,
-      "lng": 9.5376,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:52:06.457Z"
-    },
-    {
-      "id": "social-a924bad36e34",
-      "title": "Gottesdienst zum Nationalfeiertag mit dem Trio Harmonix",
-      "category": "music",
-      "description": "Gottesdienst zum Nationalfeiertag mit anschliessendem Apéro und musikalischer Begleitung durch das Trio Harmonix.",
-      "date": "2026-07-31",
-      "time": "18:00",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Evangelisch-reformierte Kirche Felsberg",
-      "lat": 46.837,
-      "lng": 9.507,
-      "image": "",
-      "organizerUrl": "https://www.kirchefelsberg.ch/agenda/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:53:21.095Z"
-    },
-    {
       "id": "social-001694993120",
       "title": "Bundesfeier",
       "category": "family",
@@ -11350,47 +11146,6 @@
       "scrapedAt": "2026-06-03T11:56:05.201Z"
     },
     {
-      "id": "social-658bb39e89fa",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-07-31",
-      "time": "19:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.8409,
-      "lng": 9.5898,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkjmdArec6OoBhmor5Mt-3gkyKUJ6wKEEC0IHOZ9vsDNGhkHWz-7Ql4V-1j00YhyFODwVlpoas8UAyUyRURJRW-qgK5QvYMU2W5myTnn-tRbjAWzbFR90mlR4="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrWhp1M_-lZptWFZFVOvp4RJc2sXIS6zLUzTzOu7YJUiEyJMy3fXQBt7yQfchWke1U8933dnkjWuUsrOxvYmkbfZY7ZgFQkULNeZIvfbFEMc09ZNRaZ2T6yVC89B8KcJD-5wMJrx2EhjICd88XBo9ha1k02EydiP2pyEZP79Q8Z_enNsg9mGRPkiMvkyF6X-oIU9UarVZaKu-CYfLRZw8="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaMJ4eD8YmJoaLBrQ4HexVXxL0jWgMFLCI_G7lliV6ozZ1BskOuDkWVIj0B86FkLfD7fcXgZwN7Vjk7J_-cj3Ol9nLduaZX3_nUojRSPWF-kRhAarLA03UeaqDMxO4zkpsTMy7ZWxkcRMbF11Ue8C9tg=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJh24OWoU3Pxt20x1mnN6y_R2Qbaoysc__DAPSakF8qWAEAkwu8j8FRhA3d8j32a55vXreBqPiMfhgjPSvS6axehs8LzOlc2qt3Fsb3TE-829CO6muvdNQPqyYyV6wrybOhaOpoJugY3kIHSM6YyTPkeY2smX9bvkXfmod7dj2wRqX7GzEEbXuWCHfVM_eQuKmUHPRzH2OBHxKlgeNfpM="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc0D7AgBjcb_5RNAxs-u3xreUgdqFVG60QIC1bCik7Gm-xYcSQvqD_IZxl3S8_i4iXreDYPWPVf0kKfpDH_I9ieBh-NsgqYyW38lGGee1SXyj2z-IskKSCrrqoWemEoNILYgv2MVvR2WBWJpmViVxfNkrk0dyDBQW1vaO8u99c4tBc"
-        }
-      ],
-      "scrapedAt": "2026-06-03T11:57:50.709Z"
-    },
-    {
       "id": "social-3844110c2201",
       "title": "Führung Kirche St. Georg, Rhäzüns",
       "category": "stage",
@@ -11547,47 +11302,6 @@
         }
       ],
       "scrapedAt": "2026-06-03T12:02:41.285Z"
-    },
-    {
-      "id": "social-a98bbca3e343",
-      "title": "Star Wars & Planeten",
-      "category": "music",
-      "description": "Ein Konzert mit Filmmusik aus Star Wars und Planeten im Rahmen der Festspiele im Schloss Haldenstein.",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.89,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKq2uL4qA3zskUCExD8X0MBbiP_T2xWORRgy5rVjehMcDz4B2a0dIBh82UsCQ7Wnu1GSY_E2mPGcD5YtanSO3E9iuDfTULe68akKWroG0fZR5JFM0OKs4kiK_a_SLO4TmW7-ElQ8bMuCPPBCubIQ6XYdQmtYv96CNdLGXKtxbl"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbAqhvkfbGwhnFnw6rb8QjU7rUCJ7t7JlO9OlxpiVzuUukbF9FfZJbimrTPQJED5RaibIExNNfon3q1Ar9dRPa5zO2wwsubPH_UACjYzT_skC153mJ-RoeOjkOdyc6mPT6Up1s3l3cVphVQp5zLQx0aL82CsC2uUL2Ukbv"
-        },
-        {
-          "title": "chur-kultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtMTGNnc66V_3SeX1SghWCjaFAmggYBXLbq-Is4tSWXjr1-yJvBp6Z7WMWByk-GnpqQ8790hAlqjubDD-Ei76rLT_obNJDF83pJmK8sP3AM0zHFSljcVg8zMy9DDfWFw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRrt8gOL6672w6wEjAPtmGoeK5ioalT8TZb7cORXUnC6Czv1UMjlew0w5djwUTq4GpnRXOWxcmHTN-t-7DN679bZPaL24og27kAvGA130layxZbpohhvtyrevdiVcu4Wt4oOl83Ly-KA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNniC9ER6f-vwvksZ1aSlHY8lVbxt4TorAWoHJzABAt_xfBHwxzVgmVAXOKTfuCs4mKU0WkvSGXIGLgnLhgRDGc71EdDrdZNEgMDteg=="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:35:30.043Z"
     },
     {
       "id": "social-9665f9c8d631",
@@ -12264,47 +11978,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:46:28.558Z"
-    },
-    {
-      "id": "social-1b31aec09bc5",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente. Verschiedene Konzerte, z.B. 'Star Wars & Planeten' am 31. Juli um 20:30 Uhr.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxdT84E0HU_LIHP5Aqk9Te-1d0kxSk4kU0BnUHZX7y4h-wa8mAHY5IU2YV0CgG9d97EyjGA-JSD_OxWqQ2HN_I8pXBu28GjtsiIsib6Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIauVxwW3y1Bnsv6PaLNl3AmsDvoHavOEJzqQDkuUauNBmK1wHI79WbCPBDGuxsko6B06zQYU16THeIg_1JQNlJBBXfNqHKzzKwXxg7VTdsaXZ0B7M-V9G-CVZmTKHK2HPm5Qk4L_Y0A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHclMuvq7tyE49pHj645Gu00B3B4cjBF9euUs5TqXaTytygZVjH7OAXSUlOXXMtybgUE8Zq7Jl9X0ObUREzxOtUNfZTkK3Nie4ATMXeVbJF7xbPx8DMkivAbyxdc5o6MMVqAfSQew2992ZfWlG5imjpwXy8DnaIwaXvxShTmyv9Qoi5Nmk_C-AP4nlM6sZpC0gykahRv5HJBmxy3tG9w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEndEmsM6UfXuNdb_DmDl7ISjuIhQQ2NJsxArpJxC9YT59Hltm7dJnK_pbwstde0zN_s7Jh-wqEkA13LdbgmeMjLoSRDzkpJB4rsdViaAHfJWAEOlDSKmI4urhbP9bZrf1F3kvVVYXvam4GG6nS8Oc7K9FpZ94pRPTcP8t0"
-        },
-        {
-          "title": "flohmarkt-chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnE7VxXxR8J603Tdm--XJDz3WnuP2I0y6Cm-D5Rgt8JVGWn679SDm7Ux1x6ZfPawc2TnSeznplQUEgG4AzUTK9jC7Qrg5fTU9iUJRGJRKV5AHv0fTR"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:42:18.631Z"
     },
     {
       "id": "social-9fd872c35a3e",
@@ -13303,39 +12976,6 @@
       "scrapedAt": "2026-06-06T09:22:24.766Z"
     },
     {
-      "id": "social-968156dd0028",
-      "title": "Gottesdienst & Evergreens mit dem Trio Harmonix",
-      "category": "music",
-      "description": "Gottesdienst und Evergreens zur Einstimmung in den Nationalfeiertag mit dem Trio Harmonix und Pfr. Fadri Ratti. Anschliessend präsidiales Apéro.",
-      "date": "2026-07-31",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Evang.-ref. Kirche Felsberg",
-      "lat": 46.837,
-      "lng": 9.471,
-      "image": "",
-      "organizerUrl": "https://www.kirchefelsberg.ch/agenda/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaJSxzbNZW1AC4fkoc4oYcz857RUCx2zj44AGimvtHuqoSJuodFZeLHnfNkB8uBdtxqkJQ-RwcZykfBAkUNRuVL0iOvAQ9hyXGqVKT-HzbqgRRNuSB9nR7RmLKx_DTCmDyaw4="
-        },
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDjf_-DC4DOtGrq189X8BfXZ0z40T9WS_8OhFTYX_lFitHuUke1J8Xq0rAXkcaQloDhID6aSTx0T0z0dYyYjByerOVblsue4VKqSPFJX8ISpZQypu2aYUMnr9F"
-        },
-        {
-          "title": "sf-felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9PhgWUJ0eJb0rquaCcVpVPuYWnf2hZW-DbNLGMpKKZNFYqcI6u1T8Wsdr4kitpVxHzH1b5YNRlfm7G6IEiV0kDS0ioSJ79Daj2LOU753087MDfB_9SuiaOQjLTk9-j2_Rt9Q3drpIPgphSDs-"
-        }
-      ],
-      "scrapedAt": "2026-06-06T09:23:00.281Z"
-    },
-    {
       "id": "social-f31494fbcc40",
       "title": "Auftritt Seniorenheim Cadonau",
       "category": "music",
@@ -13551,47 +13191,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-06T09:31:13.390Z"
-    },
-    {
-      "id": "social-2e4aff1f9415",
-      "title": "Star Wars & Planeten (Festspiele im Schloss)",
-      "category": "music",
-      "description": "Sommer-Musikfestival im Schloss Haldenstein mit Filmmusik und Sinfonik, u.a. Star Wars und Planeten-Themen.",
-      "date": "2026-07-31",
-      "time": "20:30 - 22:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8719,
-      "lng": 9.5326,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte/",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/konzerte/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
     },
     {
       "id": "social-d37d50c1536b",
@@ -14892,26 +14491,6 @@
         }
       ],
       "scrapedAt": "2026-06-07T10:07:15.743Z"
-    },
-    {
-      "id": "social-eff784b50176",
-      "title": "Festspiele im Schloss Haldenstein",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.873,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:51:07.392Z"
     },
     {
       "id": "social-9e60deea2536",
@@ -16373,47 +15952,6 @@
       "scrapedAt": "2026-06-10T10:52:25.650Z"
     },
     {
-      "id": "social-0d9acf2ac8e0",
-      "title": "Festspiele im Schloss – «Star Wars & Planeten»",
-      "category": "music",
-      "description": "Vom 31. Juli bis zum 22. August 2026 verwandelt die Kammerphilharmonie Graubünden das Schloss Haldenstein in einen musikalischen Hotspot! Eine faszinierende Reise durch die Pop-/Rock-Geschichte der letzten 60 Jahre. Eine Show wie von einem anderen Stern: Mitreissende Melodien und beeindruckende Bilder von fernen Planeten und Galaxien.",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "price": "Premium: 150.-, 1. Kategorie: 85.- / 40.- (bis 26 Jahre), 2. Kategorie: 65.- / 30.- (bis 26 Jahre)",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "ticketUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/star-wars-planeten-festspiele-im-schloss",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
-    },
-    {
       "id": "social-027609c05f64",
       "title": "Festspiele im Schloss – «Symphonic Pops»",
       "category": "music",
@@ -17227,26 +16765,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:57:51.671Z"
-    },
-    {
-      "id": "social-19ae301ce997",
-      "title": "Rapid Openair Bonaduz 2026",
-      "category": "music",
-      "description": "Hip-Hop-Festival mit 8 bestätigten Bands, darunter svmthoX und Cyril Cyril.",
-      "date": "2026-07-31",
-      "time": "17:00 - 02:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.openairguide.net/festivals/rapid-openair-bonaduz-2026-21815",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:59:15.254Z"
     },
     {
       "id": "social-82c0892fcd29",
@@ -18699,26 +18217,6 @@
       "scrapedAt": "2026-06-11T11:25:09.523Z"
     },
     {
-      "id": "social-d0e3763e9139",
-      "title": "DART-FRIDAY",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-07-31",
-      "time": "19:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.82,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-11T11:25:52.278Z"
-    },
-    {
       "id": "social-63ec618c2ef9",
       "title": "DART-FRIDAY",
       "category": "sport",
@@ -19223,26 +18721,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:07:45.887Z"
-    },
-    {
-      "id": "social-5e7ebd4fde1d",
-      "title": "Festspiele im Schloss Haldenstein - Star Wars & Planeten",
-      "category": "music",
-      "description": "Sommer-Musikfestival im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente.",
-      "date": "2026-07-31",
-      "time": "20:30 - 22:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.877,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie-graubuenden.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T09:53:02.024Z"
     },
     {
       "id": "social-2945c06da3e2",
@@ -20164,26 +19642,6 @@
         }
       ],
       "scrapedAt": "2026-06-13T10:05:32.307Z"
-    },
-    {
-      "id": "social-ff5be6a0ae4d",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr – ein besonderes Konzerterlebnis im historischen Ambiente.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-14T10:21:06.358Z"
     },
     {
       "id": "social-4893f4855751",
@@ -21394,43 +20852,6 @@
       "scrapedAt": "2026-06-15T13:02:57.068Z"
     },
     {
-      "id": "social-ba9121aa136d",
-      "title": "Rapid Openair 2026 - Tag 1",
-      "category": "music",
-      "description": "Festival mit Bands wie Cyril Cyril, Verbrennung 3. Grades, ni-hao!!!!, Leander Albin.",
-      "date": "2026-07-31",
-      "time": "15:00 - 00:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Tennisplatz",
-      "lat": 46.821,
-      "lng": 9.421,
-      "image": "",
-      "organizerUrl": "https://www.openairguide.net/festival/rapid-openair-bonaduz-2026-16327",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2TnfVHbce1UFf7QBGt3e4dwzKg8TwVZNkCoQ5wcqFUjihhK7gRJ24pgGVrjwSNHsrL_nRljvXQSqpoCiysgrEGkXuvbVgKG9LXLxsyGUpnFu-xPUp2n1bTBbq9tpNeLLZ61BJQfOx06XnSrxoiS25reEq46tZd3Pr6dswCxuSNZMznzFqAIMom50UxhWVh4w6GNPTYYsV"
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyzaxRXzqrFJiSQL6TdLw6QAf2_xBBNOtRCdEGmrJClxv-qjWLu8XmV7XcisPT16qJ_4xNB2CerpiPVW41eLuargMUZydjI2jnjpJGdFjDPUDgy8YWFdLI0CvC1AMzP5hbfCOifSFCnB50SEQRUrYh80p01PdPdrPrkZj1ZM-ZEV-VK9cPU8Dw6PEo_AE="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-HWToN8T94hUoXBjQfOGze16MNG0NL0HhVRLuSm-nnVURcESTgiYJD6Y_ewfGFtkUftH3QdYPQaLr5jw3B-Fhaff3M5YPglHC8mVhgAobFtp_2OCwr2oQxB9CnWVM5QGUg=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt49bc5_VxkUWtEtg78czqUHex8OZ0FvKZP9z_hxjmSxjexN5YeAY30jOKgabG7M1zo7jI8P6NYirEWfy7OXsFjzQmVy_w25qbNrMd0qLhofKKYVCrRR3AdhWiSPrPxA=="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:06:45.050Z"
-    },
-    {
       "id": "social-e1a1f757f9f4",
       "title": "Rapid Openair 2026 - Tag 2",
       "category": "music",
@@ -21506,26 +20927,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-15T13:08:07.094Z"
-    },
-    {
-      "id": "social-dfd13d2a5a76",
-      "title": "Fotowettbewerb LandquartKultur",
-      "category": "family",
-      "description": "Ein Fotowettbewerb, organisiert von LandquartKultur.",
-      "date": "2026-07-31",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.94,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.landquartkultur.ch/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-15T13:08:52.139Z"
     },
     {
       "id": "social-870eb0044fe0",
@@ -22162,26 +21563,6 @@
       "scrapedAt": "2026-06-15T13:11:16.675Z"
     },
     {
-      "id": "social-594483a26636",
-      "title": "Einstimmung zum Nationalfeiertag mit dem Trio Harmonix",
-      "category": "music",
-      "description": "Musikalische Einstimmung zum Nationalfeiertag mit dem Trio Harmonix.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Kirche",
-      "lat": 46.848889,
-      "lng": 9.508333,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse/",
-      "ticketUrl": null,
-      "sourceUrl": "https://www.felsberg.ch/anlaesse/",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:07:42.871Z"
-    },
-    {
       "id": "social-e15dc30a2db9",
       "title": "1. August Waldfest",
       "category": "family",
@@ -22200,47 +21581,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-16T12:07:42.871Z"
-    },
-    {
-      "id": "social-fe03c3f8ed34",
-      "title": "Festspiele im Schloss - Star Wars & Planeten",
-      "category": "music",
-      "description": "Grosse Sinfonik, packende Filmmusik und die grössten Hits aus Pop, Rock und Funk. Visuell wie akustisch einzigartiges Erlebnis mit grosser Licht- und Videoshow im Schloss Haldenstein.",
-      "date": "2026-07-31",
-      "time": "20:30 - 22:20",
-      "price": "See website for details",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8847,
-      "lng": 9.5408,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaj-aRZybmUN_4yFMUiZIqg4yt42MdU2CrhBKQMRkx4BnS4L7u9ksKOeUgu9VwfvJKay4ZBkmkQ7dBgrdLT5a1Y-7nfvCLZwVXdoQqxdI2cHQlD2gpFhtS_qbdieaV3XT7-bcHqr35Tuh6vCEAQZyp4bmVGTovjpAvxARqUQ1nkY-CEyImuuBvueNe6tBG"
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG18aGIVaOu14MPszpzuaxBAZsw3YjHAmcm__TgzY8aQ8ucY1u7IbG7a5Exlg_udyCrO9bs6YRoefZqhrE7R9qzpIBbiL8KvaaKL-F1sDYP7acIsbXhiSeBLI_XLxW4lAg-wJMAQj8eFTPaHvjywdZxYE6xQ4M4"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzbU6ywL4y8v-KafENBhk8FU61-qr8ZLiLB9GbY4Z8mGm9oo6fdyU4E2nEIYVqvUShDQ85yoc3118C4IAo9e5FVXLeitNv1VwDwkFktf4mx08b3cBv_pIsMD3X0Dp79m2wCxW_yPOO-w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4hua-6NC90yXSZD4VhbxXgW5QEDl5bsjOprYljJqn5-7N_ZTiFMp0Blx3dKM8o6CM61mekImTsUddtyhSWJHIWsbvljY4p1DftVsGxX5JVCdErIy7eNuozSpcArJK2F9q2jn3ne-Oew=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFjl5uDHnF2pTLYb-5SiHe15USKBRxUbSaFQ7E6TWOBGzw5zpb6wNi-eaLQTYV5D1CL2xP1aIpv5z10ev3XsXS4CRjJEStUdCPd53ADWMsj8Fay0P9PLB2BkjCIrTQu4LuQAKaUecw2VZNBMpAYWETQpMx3fVta7lRAOsVFeCIowPkQ1vjzppNKYTeVvpSIDQ7CK2UQpzpV-c="
-        }
-      ],
-      "scrapedAt": "2026-06-16T12:08:41.032Z"
     },
     {
       "id": "social-ad02769a3ed9",
@@ -22892,31 +22232,6 @@
       "scrapedAt": "2026-06-17T11:30:41.538Z"
     },
     {
-      "id": "social-ed5924f844c5",
-      "title": "Einstimmung zum Nationalfeiertag mit dem Trio Harmonix, Apéro",
-      "category": "music",
-      "description": "Musikalische Einstimmung zum Nationalfeiertag mit dem Trio Harmonix, inklusive Apéro, organisiert von der Evangelisch-reformierten Kirchgemeinde.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Kirche, Felsberg",
-      "lat": 46.83,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.gemeinde.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzSr2sQ3sJJg_eUDgQfdiuoU40Ix69mJa3lrjHGIeKz4qGMdyPgcX29H3SQ6TZRzc2RDB4QtBRtmoowHSLWSXu3_HbkWsW6bgdmKSooTbFo2RfCz1ZGA6XybZk3Zwhmng0oN4E"
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:31:18.176Z"
-    },
-    {
       "id": "social-0bb5e7b52be4",
       "title": "Regionalsonntag",
       "category": "family",
@@ -22960,26 +22275,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-17T11:35:16.365Z"
-    },
-    {
-      "id": "social-250580ae3ded",
-      "title": "\"DART-FRIDAY\"",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-07-31",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.837,
-      "lng": 9.588,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-17T11:35:48.425Z"
     },
     {
       "id": "social-383d96b49eea",
@@ -24888,26 +24183,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-f8a1f7340567",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-07-31",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-d173517578ef",
       "title": "Polenta 7000",
       "category": "music",
@@ -26048,26 +25323,6 @@
       "scrapedAt": "2026-06-19T11:21:31.234Z"
     },
     {
-      "id": "social-ecea9714483f",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-07-31",
-      "time": "19:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.82,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "info@edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:22:59.753Z"
-    },
-    {
       "id": "social-c2467855ac4d",
       "title": "Herbstanlass",
       "category": "family",
@@ -26752,26 +26007,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-20T10:09:50.451Z"
-    },
-    {
-      "id": "social-26e54f4d0d68",
-      "title": "Rapid Openair 2026",
-      "category": "music",
-      "description": "Small, charming music and culture festival.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8521,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/top-events/rapid-openair-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.337Z"
     },
     {
       "id": "social-bc9c1274a497",
@@ -29045,47 +28280,6 @@
       "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
-      "id": "social-b56241d0054e",
-      "title": "Festspiele im Schloss Haldenstein - Star Wars & Planeten",
-      "category": "music",
-      "description": "Orchesterkonzert mit Filmmusik im historischen Ambiente des Schlosses Haldenstein. Findet an mehreren Daten statt.",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "price": "siehe Website",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8778,
-      "lng": 9.5264,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte/uebersicht",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
       "id": "social-6309ee919ec9",
       "title": "1. AUGUST PARTY 16+",
       "category": "music",
@@ -29985,43 +29179,6 @@
       "scrapedAt": "2026-07-02T10:00:25.764Z"
     },
     {
-      "id": "social-969be2fe8184",
-      "title": "DART-FRIDAY\" im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-07-31",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.8196,
-      "lng": 9.6036,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNzBjRgYQTnhlR2aqTiOLFSXh3OwS1y6IgBLE_7ubuiqDTE1hG9UfrZffY2sESPihkzn2ElmWl_QiIKP7fkfTwCuWuwBeJTrPsIAviJ4PYpoQM0Q8DhZovPyBpOFSISQBO9o2jOhH361VxbXVPTkd1RgGtZNcB9VoOuYuOiQ6E6exZ"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl6yJR3_PMG8Bz3WJ2nwCNPLmlkKr2LdKrvQ25bzOpKNOSfloyfB158Wu62Nt6EbcsF_p4o9vDxqs9yvA791kXsUc-Sg1ukG8sh5fHdwv_T-vDBuEzaK41IQynfHJzfkK20gTrcckKTB2IgTCOlV_pMUrxobc-28j9f_5bwOUivbD9Y5Sa-6Bg0SdayWz1t8n8zO-9Mg69Au3RVIHe-uQmTtUpWX1Ygok="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ufLwOtLzYngvy7ZvFmztIqAYeNNYLoDu6jiCb20PNeer4CZac7Thj4G_s8z7t1WnyXOZ8Kjgd_4wKrgOWaEaEAQIaxs-bAgQ60WfQ6FvEeO5tGszAsjFjbde3sKq_jcUyvavsdwFQP7jyyyeG90GOlPWsDGskiIrjagXI56vILvvMghNcFbGSkiCeY6vWxVH8ilBd4RNUte-yiElEn5zY2TFyuh9s6xLAGDvaRYZ"
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvNPe1wAY70DfGEZfijlxSj9DGgHUEbvf5sCqos0Cwvgt2oHNdjEC-xi0juECQWxzUz9hlAeJyE7eb4mWq-eXQlHYUIpLsbpi5ZRCidgVPV5MbGdW0ZrpkpSYwNtGNZ0PpwFoqSrU-h5Uy9A_Q9yB_WZuFfTtXr8-YDoDzOfzfGEZ1skjvfHJT38atCC6og2DI4ZdwMhYdX6fyaA-PQINA1y8akHniHJObKJTKfsLjlc0-iRnbQfu654DjSGpHny25zKrGmyjjPNB3kFoGAXK_q15waUbwO4gHF5HBM49nDCgWIuDMyMqwk2Bg6hkK"
-        }
-      ],
-      "scrapedAt": "2026-07-02T10:01:24.406Z"
-    },
-    {
       "id": "social-6b112d8ba976",
       "title": "1. August-Brunch: Alp Farur",
       "category": "family",
@@ -30154,26 +29311,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-02T10:03:02.315Z"
-    },
-    {
-      "id": "social-5cb402b1eba4",
-      "title": "OAKLEY x STORY Ride Out · Teste die Neuheiten!",
-      "category": "sport",
-      "description": "",
-      "date": "2026-07-31",
-      "time": "16:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Story Thusis",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.story-thusis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:04:45.689Z"
     },
     {
       "id": "social-dcdaf545b5a8",
@@ -32460,26 +31597,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-05T09:38:07.473Z"
-    },
-    {
-      "id": "social-aadce2e53b71",
-      "title": "Rapid Open Air",
-      "category": "music",
-      "description": "Musikfestival in Bonaduz, nahe Felsberg, Graubünden.",
-      "date": "2026-07-31",
-      "time": "unknown",
-      "price": "unbekannt",
-      "municipality": "Felsberg",
-      "locationName": "Bonaduz",
-      "lat": 46.83,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.rtr.ch/de/kultur/festivals-graubuenden-2026-alle-openairs-termine-im-ueberblick-2026-07-02",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-05T09:39:04.116Z"
     },
     {
       "id": "social-e6ffce438b94",
@@ -35841,47 +34958,6 @@
       "scrapedAt": "2026-07-10T10:27:20.583Z"
     },
     {
-      "id": "social-1c69131f436d",
-      "title": "Festspiele im Schloss (Star Wars & Planeten)",
-      "category": "music",
-      "description": "Sommer-Musikfestival mit Orchesterprogrammen, darunter Star Wars & Planeten.",
-      "date": "2026-07-31",
-      "time": "20:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8845,
-      "lng": 9.536,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAxeq9miLx5GP9YHDbtiuR6QBjC0ZDdLkKJSALRK8DVlFYI4_-vQOoCAE3Sfrd8UJadEOlVIKNtGdwgvCPbXGv8PD3RDqKDOkMREe-CK5B-yQaXrjaZ8mRrkkPXaa-pPPiJ0IsNMIcaPBG3ncor7Wy16E="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIBMZUPiD4rL5QtKROeabA9bTDX7fl7qlaqSLu2JmaSOqerz4mqeoraxFGijdrrlldZC-TgMoiNT0oOXARE5kw9vkCz4xD-8n_NA0jykjY1AUzh_O9KvK7gR261kWM9ZA6hIf9ZODfCnw="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT-MoPs5g01y94Kmqec_e9teb-jYpZvIoq2Lqni2sYDAqFC4thRsK1QOyUl88wxoGBM5etZf_o4JhxCMgGSgnw6ek58nO7LnjruVUsbNDyoLhEa2G9ZN9dl0ha3zp4yKn0RZbXleydlcCUvj7bEno6rFSxjm5nA4rEldXQk-kDjpwcaQyAQcxmTyFaJ0O4_Ik0h8py9-e_4VF-XYwGKjg="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFpUwyoxOCs_k-Sv0-VKkDukZKMj__xTOAeZH6N4le8j7fxqLAXpohMS667vSkRAHXxuDBSpXL2INmEgGGNbv0WQq3CxgUVcImtyhmK_FiOldnj67kj4Y-reLUFOh7PYznBBvqYAeZn1j0yCZRWZODPRRkWIQ36Mowcq9H"
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg9i1vJ69fNFIu0QyU8NrwTnrOfz6dlRbnLvJ7pwCYPQ-uXOK7KoXXyX0aPmi-Vjj47CzOAczVwLuRHMiUQqbFyL3nYCy_efwJbwBUGv2WKrBTGw=="
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:43:19.923Z"
-    },
-    {
       "id": "social-65eea191da9d",
       "title": "Gänggali-Markt",
       "category": "markets",
@@ -36083,26 +35159,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-11T08:44:05.684Z"
-    },
-    {
-      "id": "social-5fa5c156d094",
-      "title": "Gottesdienst zum Nationalfeiertag mit Apéro",
-      "category": "family",
-      "description": "",
-      "date": "2026-07-31",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Obere Gasse",
-      "lat": 46.837,
-      "lng": 9.506,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/de/felsberg/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-11T08:44:50.983Z"
     },
     {
       "id": "social-042dc1a4c383",
@@ -37253,47 +36309,6 @@
       "scrapedAt": "2026-07-12T09:07:19.501Z"
     },
     {
-      "id": "social-1a3d2e235ac9",
-      "title": "OAKLEY x STORY Ride Out",
-      "category": "sport",
-      "description": "Teste die Neuheiten!",
-      "date": "2026-07-31",
-      "time": "17:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.69916,
-      "lng": 9.43635,
-      "image": "",
-      "organizerUrl": "https://story-thusis.ch/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PDWQovwedE4m3_PLyDKxy-ENJrEGBOH3MNzuA_0VCLqw4dX3SHKCKyqFfYbYnuBsyQnT4rWPIOArey9erlcYHPX4xvGkI-W1vSfdbIVzOVqukfoVgEQHggHXQV4nzBp_-2sHQNr0DiQ8yxfBVw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWSYC-VzQ-zI5uUWzgpvRiucH183eC_kXjvWnFN2r7Yu8hiII61RiMaWvgZTyDWbaHBKhqa2JVEtJyqt5gU2zzZl1XC82FLfSQGS5Adp0kZOic9b4OwvZjxy17QMgPnIIdUhhloT4Z9AZfNSoGosAdy8S"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY2au0Kffqj2J6FpdmUS4Mdk1ff45sN9kf6NuLnSCDhgbauH3a8blLlSJbk4gsgut5pqTRKZKsszKQkcClUiqoKppDFtKXPNW_NdqOQ7zRJUbqOCqSoKtTjf0WYSDW-YWgwA8LlOzz8bN"
-        },
-        {
-          "title": "story-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsYIFB4je8rSxHnTuh84jdI6CR2WAem4XeuEmZf0Q6tQD9JG730YuAy8g6cTmrlPUu2MfzvpFlmLyga9CZhLJUkGv90yCsUun3Fnqeae1Uh1Q"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3gl1HxRgyeOGHcJWGNzysh5QdaWkHPSwUuuhfumy16bNRhUMJDx-8STm1WhT6575pzkVQcGioIhksGtdw_UIKD4kJri4k4piU54Jsi4QezYF7V-OPTxuWWC_1BrNV5ZH8FDtgeVCSICwH_nf7j7JIqV1nzxkIG7avkRuuwlFsyo1ICkyloK6nQHav5RD4dcgfZPYUw=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T09:09:30.723Z"
-    },
-    {
       "id": "social-cd2bd2412bb4",
       "title": "1. August Brunch mit Volksmusik",
       "category": "music",
@@ -37579,26 +36594,6 @@
         }
       ],
       "scrapedAt": "2026-07-12T09:09:30.723Z"
-    },
-    {
-      "id": "social-18849b44f0f1",
-      "title": "Polenta7000 sagt Goodbye",
-      "category": "music",
-      "description": "Farewell event for Polenta7000 festival.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Polenta7000",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.386Z"
     },
     {
       "id": "social-8f026421eb5c",
@@ -37919,26 +36914,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-13T10:19:58.308Z"
-    },
-    {
-      "id": "social-5c65263e3336",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Wochenmarkt jeweils am Freitag von 09.00 - 11.00 Uhr auf dem Rathausplatz. Angebot: Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch. Sommerpause 14.08.2026 bis 02.10.2026.",
-      "date": "2026-07-31",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.8923,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/de/dienstleistungen/led-dorftafel",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:22:43.832Z"
     },
     {
       "id": "social-762b8703aac1",
@@ -38623,26 +37598,6 @@
       "scrapedAt": "2026-07-14T09:11:42.831Z"
     },
     {
-      "id": "social-15e6527ba0ff",
-      "title": "Rapid Openair",
-      "category": "music",
-      "description": "Kleines feines Musik- und Kulturfestival mit einmaligem Charakter und speziellem Charme mitten in Graubünden.",
-      "date": "2026-07-31",
-      "time": "15:00 - Unbekannt",
-      "price": "CHF 49.00",
-      "municipality": "Bonaduz",
-      "locationName": "Tennisplatz, Bonaduz",
-      "lat": 46.8203,
-      "lng": 9.4079,
-      "image": "",
-      "organizerUrl": "http://rapidopenair.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-15T09:06:57.481Z"
-    },
-    {
       "id": "social-26b178700073",
       "title": "Spielnachmittage im Freibad",
       "category": "family",
@@ -39023,26 +37978,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-15T09:15:10.565Z"
-    },
-    {
-      "id": "social-56df11b4b97d",
-      "title": "Festival at the castle (Festspiele im Schloss Haldenstein)",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik.",
-      "date": "2026-07-31",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.187Z"
     },
     {
       "id": "social-0228fda15407",
@@ -39807,88 +38742,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:18:49.850Z"
-    },
-    {
-      "id": "social-d50cb7dca9d5",
-      "title": "Festspiele im Schloss (Schloss Haldenstein)",
-      "category": "music",
-      "description": "Summer music festival at Haldenstein Castle with orchestra programs.",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "price": "Tickets",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.877,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.972Z"
-    },
-    {
-      "id": "social-ff0e82f093f5",
-      "title": "Adventure afternoons",
-      "category": "family",
-      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
-      "date": "2026-07-31",
-      "time": "14:00 - 16:00",
-      "price": "Included in pass or regular pool entrance fee",
-      "municipality": "Chur",
-      "locationName": "Obere Au outdoor swimming pool complex",
-      "lat": 46.84,
-      "lng": 9.525,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.972Z"
     },
     {
       "id": "social-db1fabb3f231",
@@ -41107,26 +39960,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-cc9ed2fd72aa",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-07-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-cb57432833de",
