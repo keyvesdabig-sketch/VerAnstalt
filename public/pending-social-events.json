@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T09:34:46.564Z",
+  "lastUpdated": "2026-08-05T09:31:16.422Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -7633,47 +7633,6 @@
       "scrapedAt": "2026-05-31T09:50:58.323Z"
     },
     {
-      "id": "social-db42e8c209f5",
-      "title": "Ferienspass für Kinder: Vogelfutterkasten basteln",
-      "category": "family",
-      "description": "Ein Programm im Rahmen des Ferienspass Bonaduz, bei dem Kinder Vogelfutterkästen basteln können.",
-      "date": "2026-08-04",
-      "time": "13:30 - 16:30",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.82,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://naturvereinbonaduz.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "https://naturvereinbonaduz.ch/jahresprogramm/",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFro1rcLKhk44h7efTs7xbKAwNbYkv1ZqMNORwjnyJO_4tQ_n3PsSVUCZxrQjp7jBlQwdNfUVlSdQb_3nCTgYiLqnZn5uO4Vw5UksBMwxjCTxgVJE_a4ALllOZ_OCE="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsekdMmAsh2doFQi89Y5iqHq2D_wZ3kjlcdwtyMSEpUHHrrlUjve3YfJPn8t6QsVgk1aYW3vtyo_aZM0ER_-TWrHqq-Kwe51BdNqejcE6TbTfOjqosQb43cwdSpkMzm5g="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_dxca0BRiMpzxCuB6Fk16V0SzkOgYzVwwNUk92KKlHUBjAQaQJrk54RGOiURqs-Y0vyV1EpC5e3vocU-T6NQL_f-vkjsbpMe04bcZVnDziYjyo2DLJYA8syfZAQ7GZCDhZwT7ihkbJM0IeN004OJAToh-fQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv08XYNDJbj3y7rnspmHugpjaHrHCi-dYK-NpFSZVlKVkzkRqW9V43g8ODxHxnmHSZL8xPTJe_iPGr-ayLYT3AUmREYIEV5tuBlb_ViCQUwwbBwklqVckyHBv6-iToJyakMAzQdJTggB1yjqqRWmHPjD8AXVdbwwS-JDpGC3vP4oatKjupJqEdaRhs61r2qIracgqRSyc="
-        },
-        {
-          "title": "rapidopenair.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGozo3Bdt1_oU0pHDLSTKZ9DaVQEJn3PUklpL3oesVV-7wYOkwk3-4R8Hpzw_mv1t-rg1VOnMWKdz-Z7kuJ4dgepyIXXVwI0Q7WwkqVCVVWsLId"
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:51:30.300Z"
-    },
-    {
       "id": "social-a992ddb71239",
       "title": "Jubiläumsanlass im Blockhaus Bonaduz",
       "category": "family",
@@ -13169,26 +13128,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:00:28.044Z"
-    },
-    {
-      "id": "social-52b06c8a3f8d",
-      "title": "Basteltag (Ferienprogramm)",
-      "category": "family",
-      "description": "Kreativer Basteltag, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-08-04",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
     },
     {
       "id": "social-9af6bff3d0ef",
@@ -21035,26 +20974,6 @@
       "scrapedAt": "2026-06-16T12:15:52.955Z"
     },
     {
-      "id": "social-fa2180f7e712",
-      "title": "Viamala Notte mit Erwin Dirnberger",
-      "category": "music",
-      "description": "Sommerliche Musikabende in Thusis mit Erwin Dirnberger.",
-      "date": "2026-08-04",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.6901,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/viamala-notte-mit-erwin-dirnberger/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
-    },
-    {
       "id": "social-ffa6525616be",
       "title": "Viamala-Schlucht-Führung",
       "category": "family",
@@ -23265,26 +23184,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-424f0e1e6845",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-04",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-a9972069c8c6",
@@ -28096,26 +27995,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-02T10:03:02.315Z"
-    },
-    {
-      "id": "social-dcdaf545b5a8",
-      "title": "Learning Lunch",
-      "category": "family",
-      "description": "Diese Plattform wird von unterschiedlichen ReferentInnen genutzt, die gerne etwas zu teilen haben und mal mehr, mal weniger interaktiv mit den Teilnehmenden im Austausch stehen. Online-Anmeldung nötig.",
-      "date": "2026-08-04",
-      "time": "12:15 - 13:15",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "#Coworking der Story",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/kultur-brauchtum/learning-lunch-thusis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:04:45.689Z"
     },
     {
       "id": "social-255e58875c91",
@@ -34374,47 +34253,6 @@
       "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
-      "id": "social-db074a8e9031",
-      "title": "Dungeons & Dragons zwischen Büchern",
-      "category": "family",
-      "description": "RPG Grischun lädt zu D&D in der Stadtbibliothek Chur ein. Für Neueinsteiger und Veteranen, erlebe spannende One-Shots.",
-      "date": "2026-08-04",
-      "time": "19:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Chur",
-      "locationName": "Stadtbibliothek Chur",
-      "lat": 46.85,
-      "lng": 9.532,
-      "image": "",
-      "organizerUrl": "guidle.com",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_jFW_k-o0rLAF49QZn-Khn_yg-sB8-5jko_-zUk2oLlSK3mp3tzVGev9gxAEHQB25kXZmWsk8v0543L0g-Vds0Fq0POROp_Q0V53IoWz-C4r2wvrqBCeMzT2caEAv_HW-RAZIiDnbmhNa5T4="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMFrHOGzTeKdu4vYDAE3z6ZQ0YiuswwADpNMzcsdwpfk-dzysSbARaVN57esDlk0SPLEIfCBEFFMQwN2CEyp2yesiSiEQjMVRzEzWpQJ4Wxy3fbdNs_Twr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaPXH3AhCLyMUt0YX29J5ENrD4muYOONu868RZ-a11XwoLik6m07V_h8oO8ozbbgWWgUmp58PrQ611E7nzMKUr2akSG7gXC8q_0aJiEC-PrK0ktZnvUOsjwnI-30Ys9Xr108YjBk93hKuw1X4qpvWV0V9GETqzCpRcQIo2vgntWLs30NQ="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeaIKNdbej54QCzV81vu4b6TEb7EiDwbU6gaxFbP82twScz8vPQ1gPNDsnjCDNIqxq8dEv6j-Uhhc09dfNgmvzbb3X1Wkp2iwpsrD6A2I2K4yFMIw3mBZdNQ7P5gVLqNNAKGHD6zN--VcLS9PphpV15A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFgMgybSZ-KzoTxaVF2Y8L-Ey4G5lcKYYR3vKkf7eD8o9rMo194ePffznYIQz7Sw3BpG5hWwruEhqQEAhJX4zV8-xqLTczGw8tATiXVYNb-_UMJu7973z6ykVL41Wp-5ldYW9Z_LzCfclgL73rJ7qveNEK60DcNQ0mu6ZUFW9i6lw16ph-PW8FXO4c8T4OAKMkQFoCnQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T08:59:21.584Z"
-    },
-    {
       "id": "social-873edbf75395",
       "title": "Bike Kingdom Kids Cup 2026",
       "category": "sport",
@@ -36971,47 +36809,6 @@
       "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
-      "id": "social-51abdd84e344",
-      "title": "Adventure afternoons",
-      "category": "family",
-      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
-      "date": "2026-08-04",
-      "time": "14:00 - 16:00",
-      "price": "Included in pass or regular pool entrance fee",
-      "municipality": "Chur",
-      "locationName": "Obere Au outdoor swimming pool complex",
-      "lat": 46.84,
-      "lng": 9.525,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.972Z"
-    },
-    {
       "id": "social-7a4df7d5ed90",
       "title": "Adventure afternoons",
       "category": "family",
@@ -38065,26 +37862,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-114469ec23da",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-04",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-be6f05dc41df",
