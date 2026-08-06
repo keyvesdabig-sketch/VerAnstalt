@@ -1243,28 +1243,6 @@
     ],
     "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles"
   },
-  "jassenpartnerschieberzizers_2026-08-05": {
-    "id": 1779715294874,
-    "title": "Jassen Partnerschieber Zizers",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Partnerschieber - wir jassen in Zizers (Untervaz)",
-    "date": "2026-08-05",
-    "time": "18:30",
-    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
-    "municipality": "Zizers",
-    "lat": 46.9348,
-    "lng": 9.5667,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902849642.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=05.08.2026%20%2018:30",
-    "sources": [
-      {
-        "name": "LocalCities-Zizers",
-        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=05.08.2026%20%2018:30"
-      }
-    ]
-  },
   "coiffeurschieberzizers_2026-08-12": {
     "id": 1779715296253,
     "title": "Coiffeurschieber Zizers",
@@ -1628,28 +1606,6 @@
       }
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/schneewittli/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
-  },
-  "jassenpartnerschieberzizersuntervaz_2026-08-05": {
-    "id": 1779789439082,
-    "title": "Jassen Partnerschieber Zizers (Untervaz)",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "description": "Partnerschieber - wir jassen in Zizers (Untervaz)",
-    "date": "2026-08-05",
-    "time": "18:30",
-    "locationName": "Hotel Restaurant Sportzentrum Fünf Dörfer",
-    "municipality": "Untervaz",
-    "lat": 46.9287,
-    "lng": 9.5369,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/1/3d/d3/13dd3591bed760aa80a6eac2c5d4ac79c7825fd4_902849642.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=05.08.2026%20%2018:30",
-    "sources": [
-      {
-        "name": "LocalCities-Zizers",
-        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4617285?eventDateTime=05.08.2026%20%2018:30"
-      }
-    ]
   },
   "coiffeurschieberzizersuntervaz_2026-08-12": {
     "id": 1779789439790,
@@ -3537,30 +3493,6 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/cazis/4633/4618853?eventDateTime=20.09.2026%20%2010:00"
       }
     ]
-  },
-  "ringelspitzpizbarghis3247mhochtour_2026-08-05": {
-    "id": 1784274635938,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-08-05",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=05.08.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=05.08.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
   },
   "ringelspitzpizbarghis3247mhochtour_2026-08-06": {
     "id": 1784359502567,
