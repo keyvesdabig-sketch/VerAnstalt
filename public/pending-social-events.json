@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T09:31:16.422Z",
+  "lastUpdated": "2026-08-06T09:35:45.136Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -672,27 +672,6 @@
       ],
       "scrapedAt": "2026-05-24T14:10:44.547Z",
       "legacyId": "social-1779631844547-DomatEms-13"
-    },
-    {
-      "id": "social-5893b0f757ad",
-      "title": "«Star Wars & Planeten» – Festspiele im Schloss",
-      "category": "music",
-      "description": "Eine Show wie von einem anderen Stern: Mitreissende Melodien und beeindruckende Bilder von fernen Planeten und Galaxien. Konzertdauer inkl. Pause: ca. 1 h 50 min.",
-      "date": "2026-08-05",
-      "time": "20:30 - HH:MM",
-      "price": "Premium-Kategorie: 150.- | 1. Kategorie: 85.- (Normalpreis) / 40.- (bis 26 Jahre) | 2. Kategorie: 65.- (Normalpreis) / 30.- (bis 26 Jahre)",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.884,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch",
-      "ticketUrl": "https://www.churtourismus.ch/erleben/veranstaltungen-in-chur/detail/star-wars-planeten-festspiele-im-schloss/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:11:38.448Z",
-      "legacyId": "social-1779631898448-Haldenstein-7"
     },
     {
       "id": "social-a04e1611d516",
@@ -5084,47 +5063,6 @@
       "scrapedAt": "2026-05-28T10:48:01.148Z"
     },
     {
-      "id": "social-6b9e826a1c57",
-      "title": "Star Wars & Planeten – Festspiele im Schloss",
-      "category": "music",
-      "description": "Die Kammerphilharmonie Graubünden verwandelt das Schloss Haldenstein in einen musikalischen Hotspot mit grosser Sinfonik und packender Filmmusik aus Star Wars sowie Gustav Holsts Die Planeten.",
-      "date": "2026-08-05",
-      "time": "20:30 - ",
-      "price": "Ab CHF 35.-",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/de/festspiele-im-schloss/festspiele-im-schloss-2026",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/de/festspiele-im-schloss/festspiele-im-schloss-2026",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkI-cIc-v8RvepvatE0jirKFBxiWbd-_7ayQfMKZjD9sV9YM8bpXAOtEEETLwSSIiLdQGIhq-8niSK3FW_Nly2yGJa1Senm5TNOluSIlIF4iou6GzWzyWMkRVJrzjN4D6pbRLJXROqNomhGitizS_dqSWVArsMS5XQQQqCRTcFH0xhPwBv_50PTPieiDQ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUzyqAOyidOHLkpDjVrJkBHOegpcwXPA-StjarwL2oiYd-jWYhxOwauy7pAEaUl4D74LqeNeakE-p99Qz2Ud7g4T2TPBS8OYOLCiaDP8JEdVEZVzmCtimK196uBMz1K8Rusjw7BtQ1UuxOIiSOrZHYYgHybblvfOlDKO79F5gOteyi96EgAUivA8-2dnMwqJxg3XSd0oD0IWDELOZrLUvrxc0Uag7szwSm1fY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1YeKfCE0jJXJZorQ8pC8XCdtmmn8GQXwXIqLhgc5WzmzyndRqIjQZTFANRTDtK131gSN0s6G06cfGhuJFnO4bRDOk8Oe93GsOZp-6E0DkCcxv4ZqVaaFBQY5cbHEgzdFGKgA2hVOfHZjrWiraJd1kVk-AE1m1V1ljOjksewek54Ts4d1d_xBZrVtdJyzZlQUe27FwNyJcP2SG5jLCbzD4JWg62cs="
-        },
-        {
-          "title": "wandernacht.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd3kwMUHX0TSWEvYkXSCqpYCRk8Y9Nwie9qUcD2MuAUff147qoHYGDvOR2mPWZs43YU7lw0PCDyhGN6HkQXBiXVZ311ZHa1lOxwxy8yH3HqgFUgQ0Uqnb00YSkx_TZ4KyxbwBcXQ=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVqUEu3NltxWfoA3Mzr5FZdbn_Jycwj-Wgjp6wwWHUbeWFUmVih2W8zL6qzqscOsC1g4YJJyW649PPyWj6M5ZBr_5n7BcYxWeauuUPoQ0WTcnYvINpEIqpUNiAwZrhEtwDLzQ1VIAWowZ00tZs01lBqyJpT6xo"
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:49:38.731Z"
-    },
-    {
       "id": "social-7bde0c2dd357",
       "title": "Symphonic Pops – Festspiele im Schloss",
       "category": "music",
@@ -8573,26 +8511,6 @@
       "scrapedAt": "2026-06-01T12:42:50.349Z"
     },
     {
-      "id": "social-bf8c267548e6",
-      "title": "Festspiele im Schloss: Star Wars & Planeten",
-      "category": "music",
-      "description": "Orchesterkonzert mit Filmmusik aus Star Wars und Planeten, im Rahmen der Festspiele im Schloss Haldenstein.",
-      "date": "2026-08-05",
-      "time": "20:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.883,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:13:28.038Z"
-    },
-    {
       "id": "social-213ec40edf5c",
       "title": "Festspiele im Schloss: Symphonic Pops",
       "category": "music",
@@ -8934,47 +8852,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:16:35.483Z"
-    },
-    {
-      "id": "social-263d8321b869",
-      "title": "Regelmässiges Training Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-05",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-1c6329c0b0ff",
@@ -13997,47 +13874,6 @@
       "scrapedAt": "2026-06-08T11:51:07.392Z"
     },
     {
-      "id": "social-873988927425",
-      "title": "Feldschützengesellschaft Training",
-      "category": "sport",
-      "description": "Regelmässiges Schiesstraining der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-05",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.91,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhrU5X0DtzF8mow0Ap5HvZkCIQmE9vfr3rBw6PR29vyURM1p0RcvLDybMlYp5hPYg_CZ7YlqSgXQf3plhllvAkCcO9DyCrRwtAHi3Gh5p8Nfteo2Vr9uChuqGzywfsAAgAhtRaGecny0w_-5RlZ0w="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5E8MAf0wLD80k9_HPBjqH3DUoC7fUemmR1K9uDifsL7ERFrGRF09AVVbF4dfMdA3LgHKgK2qAPiSybT0lmkhD4sAEsdu9zlJ45dh2DsSkZhaNALgnaMHWfiP8Nvd5QVvNwPG69Z9vfI7j9UYnQ_AltwvqXIWInXROAVTbWistbaPFMiE0s_eDCphRHgxGHw=="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIcWulnUWSn2FUxgzU_nhFjbafxbeknxxgx9iggJuiQIq6TUGFAZAlQcIfxmXUUCJ93M481gnR1HetXqQhhsPDHvrGf-X40SXbQS8_5tShtuMPknDKsmJCI9dYqlk="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs8fGcflyDtiignfssDCP-Latd_b01a0whgyq6bQanY875-e6XSxUOjRL9mqvJdw_s3Z1YYlKjtwsWwzmqTX19W6BZs5znl21FU0cMRws_XQsbErX-Qk0vgeR66YlNuIZA8HVO9cgcw_f2WOFZn-K7aRZZuNZvBx9j2xktsXeTcPG3hqXIPP1YYRc_yaLR1WiVfUiFpb8cHxGZLZJmU84FYhVlrsD_d-Ism2EABYyGabFt2I0m9Cw9WbjyWXwoHKuJ0dqPa5WZ7obFdHD-ClTtYDA="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFStop_uNyNgaMMMEluGwxSV5MNQEp1sbq9IkV_BlQmYAsSc1ryKzEfmrtll9_TUKYp-jEOmG7b-SuDD0HdpceUYLy64GnAaT5W4lq38jF91_d5kmAJmgKeOUsZaw=="
-        }
-      ],
-      "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
       "id": "social-111eb17ffd2a",
       "title": "Feldschützengesellschaft Training",
       "category": "sport",
@@ -15213,47 +15049,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:52:25.650Z"
-    },
-    {
-      "id": "social-099a0dab1721",
-      "title": "Festspiele im Schloss – «Star Wars & Planeten»",
-      "category": "music",
-      "description": "Vom 31. Juli bis zum 22. August 2026 verwandelt die Kammerphilharmonie Graubünden das Schloss Haldenstein in einen musikalischen Hotspot! Eine faszinierende Reise durch die Pop-/Rock-Geschichte der letzten 60 Jahre. Eine Show wie von einem anderen Stern: Mitreissende Melodien und beeindruckende Bilder von fernen Planeten und Galaxien.",
-      "date": "2026-08-05",
-      "time": "20:30",
-      "price": "Premium: 150.-, 1. Kategorie: 85.- / 40.- (bis 26 Jahre), 2. Kategorie: 65.- / 30.- (bis 26 Jahre)",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "ticketUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/star-wars-planeten-festspiele-im-schloss",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
     },
     {
       "id": "social-859f02f91526",
@@ -19030,47 +18825,6 @@
       "scrapedAt": "2026-06-14T10:30:33.185Z"
     },
     {
-      "id": "social-669bdd6b19e5",
-      "title": "Star Wars & Planeten (Festspiele im Schloss)",
-      "category": "music",
-      "description": "Sommer-Musikfestival im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik.",
-      "date": "2026-08-05",
-      "time": "20:30 - Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/tickets",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
-    },
-    {
       "id": "social-2cd06e4c2368",
       "title": "Symphonic Pops (Festspiele im Schloss)",
       "category": "music",
@@ -20645,47 +20399,6 @@
         }
       ],
       "scrapedAt": "2026-06-15T13:11:16.675Z"
-    },
-    {
-      "id": "social-c8ce7ae5d2ba",
-      "title": "Festspiele im Schloss - Star Wars & Planeten",
-      "category": "music",
-      "description": "Grosse Sinfonik, packende Filmmusik und die grössten Hits aus Pop, Rock und Funk. Visuell wie akustisch einzigartiges Erlebnis mit grosser Licht- und Videoshow im Schloss Haldenstein.",
-      "date": "2026-08-05",
-      "time": "20:30 - 22:20",
-      "price": "See website for details",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8847,
-      "lng": 9.5408,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaj-aRZybmUN_4yFMUiZIqg4yt42MdU2CrhBKQMRkx4BnS4L7u9ksKOeUgu9VwfvJKay4ZBkmkQ7dBgrdLT5a1Y-7nfvCLZwVXdoQqxdI2cHQlD2gpFhtS_qbdieaV3XT7-bcHqr35Tuh6vCEAQZyp4bmVGTovjpAvxARqUQ1nkY-CEyImuuBvueNe6tBG"
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG18aGIVaOu14MPszpzuaxBAZsw3YjHAmcm__TgzY8aQ8ucY1u7IbG7a5Exlg_udyCrO9bs6YRoefZqhrE7R9qzpIBbiL8KvaaKL-F1sDYP7acIsbXhiSeBLI_XLxW4lAg-wJMAQj8eFTPaHvjywdZxYE6xQ4M4"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzbU6ywL4y8v-KafENBhk8FU61-qr8ZLiLB9GbY4Z8mGm9oo6fdyU4E2nEIYVqvUShDQ85yoc3118C4IAo9e5FVXLeitNv1VwDwkFktf4mx08b3cBv_pIsMD3X0Dp79m2wCxW_yPOO-w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4hua-6NC90yXSZD4VhbxXgW5QEDl5bsjOprYljJqn5-7N_ZTiFMp0Blx3dKM8o6CM61mekImTsUddtyhSWJHIWsbvljY4p1DftVsGxX5JVCdErIy7eNuozSpcArJK2F9q2jn3ne-Oew=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFjl5uDHnF2pTLYb-5SiHe15USKBRxUbSaFQ7E6TWOBGzw5zpb6wNi-eaLQTYV5D1CL2xP1aIpv5z10ev3XsXS4CRjJEStUdCPd53ADWMsj8Fay0P9PLB2BkjCIrTQu4LuQAKaUecw2VZNBMpAYWETQpMx3fVta7lRAOsVFeCIowPkQ1vjzppNKYTeVvpSIDQ7CK2UQpzpV-c="
-        }
-      ],
-      "scrapedAt": "2026-06-16T12:08:41.032Z"
     },
     {
       "id": "social-1908f82815f6",
@@ -23186,26 +22899,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-a9972069c8c6",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-05",
-      "time": "20:30",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/kommende-veranstaltungen",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/kommende-veranstaltungen",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-927a244c66ab",
       "title": "Festspiele im Schloss",
       "category": "music",
@@ -24428,26 +24121,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-19T11:27:43.348Z"
-    },
-    {
-      "id": "social-1e58adf64597",
-      "title": "Public Viewing - \"Star Wars & Planeten\"",
-      "category": "stage",
-      "description": "Public Viewing zum Thema 'Star Wars & Planeten'.",
-      "date": "2026-08-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
     },
     {
       "id": "social-537d02452241",
@@ -26220,26 +25893,6 @@
       "scrapedAt": "2026-06-23T10:36:35.393Z"
     },
     {
-      "id": "social-deb61f54e0c1",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Spielnachmittage im Freibad.",
-      "date": "2026-08-05",
-      "time": "14:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Sport- und Eventanlagen Chur (Freibad)",
-      "lat": 46.841,
-      "lng": 9.516,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.005Z"
-    },
-    {
       "id": "social-237b8f3ee131",
       "title": "Spielnachmittage im Freibad",
       "category": "family",
@@ -27121,47 +26774,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-daa7a92e992b",
-      "title": "Festspiele im Schloss Haldenstein - Star Wars & Planeten",
-      "category": "music",
-      "description": "Orchesterkonzert mit Filmmusik im historischen Ambiente des Schlosses Haldenstein. Findet an mehreren Daten statt.",
-      "date": "2026-08-05",
-      "time": "20:30",
-      "price": "siehe Website",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8778,
-      "lng": 9.5264,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte/uebersicht",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-9fa0d25860f5",
@@ -28215,47 +27827,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-02T10:05:28.061Z"
-    },
-    {
-      "id": "social-e0ed261597d1",
-      "title": "Carrom",
-      "category": "family",
-      "description": "Carrom-Spielnachmittag.",
-      "date": "2026-08-05",
-      "time": "17:00",
-      "price": "N/A",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Chur, Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfUgFu1qaz3LoBjEG0iVBXrkbuj6VtmG1HN6JnI2aGXxRJQoOH0olD0aiAXeojbkyPWShhjC0z2Pc--6eTYZPkUgEFDJ1zY2ctR83Yg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTsfovXF9vDkNLzHV6WIP0PbuiVofvJXvFaePCc1yLJW-8oYVDvx3PskqYyoBBs7wYaicVMhzikCjSlOKY-yTEP_dueEbekrfsYCZlmhNZMT43XH9dGFrYzd6eJr2K_1k_xjKP7Qp8OA=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2gix7_WOrVGBjBNM6T9ghnUvVhkVlrbav62kiVwoQ0VcqElPR5rPR6WzvytzfyX_-g3DNxzk6k0MLHqWmXWwG2yApnj-I4OgU7Urv5pNiqhSvWsN4oTEj0AZVw0R-WVkaeUvx4TM556boihUunhfBf945rbe2FeIFIgNJ"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-HsIGsQinOKLentIfEEJ7VONIqe1L8fBaGG5_aNtgKVvVombUvjjyJye6n16TWmlnp2752Z9qSxNhRLUhdAxXIq5ir2pJ_hsuky89jfS9-8Ybc1Wz2lgr47rSl1XG0a9QqO3FhL2H26uX2gEHcNIctM="
-        },
-        {
-          "title": "planaterra.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqfK7yk9LVzm7wN2ONfxVTzyTKniCFjt0SfK05HYBxMccGo7Z8zwpqidxYBC4SbJbSxKOxyBNNWpMN7yv24dBZ2BD_pzYSf72W2lSwU2_sYQQU9uoNjpNUDHXr7yVHIdd37nDSBz0NDEVBizCSJeNBTBPJXGrL3aRs90v5V0C_P2XzN7L0fI="
-        }
-      ],
-      "scrapedAt": "2026-07-03T09:51:41.709Z"
     },
     {
       "id": "social-65aa9b26b421",
@@ -30684,26 +30255,6 @@
         }
       ],
       "scrapedAt": "2026-07-06T11:25:12.974Z"
-    },
-    {
-      "id": "social-46cc4345000e",
-      "title": "Regelmässiges Probetraining Feldschützengesellschaft Trimmis",
-      "category": "sport",
-      "description": "Regelmässiges Probetraining für Sportschiessen der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-05",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.fs-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:27:05.371Z"
     },
     {
       "id": "social-4b14601ab3a5",
@@ -35926,39 +35477,6 @@
       "scrapedAt": "2026-07-15T09:12:14.059Z"
     },
     {
-      "id": "social-5f59cb3435b4",
-      "title": "9. Freie Übung und Stiche / letzter Vancouver",
-      "category": "sport",
-      "description": "Freie Übung und Stiche, letzter Vancouver.",
-      "date": "2026-08-05",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Schützenhaus Malans",
-      "lat": 46.969,
-      "lng": 9.549,
-      "image": "",
-      "organizerUrl": "https://www.schuetzenverein-malans.ch/events/category/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBZ_sr9r2kQeS8iX58kZ59tCXHGgD5QFxJlcVzIiZ7bCZZDn0anhUHCSwy2pKbuAmoXbudeSjIAgubMOxDLONySnMdKTFO5OmG29f8Jvm0WevpwQGvhzTdrMk60xuhTGSybm__2_9gzZ2sDq6No59g-2-oQw=="
-        },
-        {
-          "title": "rideandvino.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVhsPZZoq0nqFV9wbCDQgscxRia0cZv61O-x5qwQdHEfw9JE9Thp34nMSQRIRjpYLghbl0o_JkIlTAaXBbRICCU4vzlJIZYX2xLQr3GLMejdHPa-4v-h7hWLq-YxYJtSg2f5bZXJm_SEhigJB8hCUqYyuKQgw3_CbrKA=="
-        },
-        {
-          "title": "aelplibahn.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4c5_D68QCgp-bRGuqLKrnCDTf2qiPK9Xbq-O1HeolUhZNySjAnQJdtAygZlhpPdX1ggKGe5B4XHffm_Ke8DrW5ffmHOX3w3cmQQmSvIeubr_o0gmeV6SjF3iTXtcaa6TpF5vjbQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-15T09:14:27.450Z"
-    },
-    {
       "id": "social-9cc94e1041af",
       "title": "2. Obligatorisch und Nachholen Feldschiessen",
       "category": "sport",
@@ -36043,26 +35561,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-15T09:15:10.565Z"
-    },
-    {
-      "id": "social-0228fda15407",
-      "title": "Public Viewing - 'Star Wars & Planeten'",
-      "category": "stage",
-      "description": "Public Viewing Event 'Star Wars & Planeten'.",
-      "date": "2026-08-05",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.187Z"
     },
     {
       "id": "social-9e048a0c0eb8",
@@ -37862,26 +37360,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-be6f05dc41df",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-ee81932c24c5",
