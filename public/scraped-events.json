@@ -1,52 +1,5 @@
 [
   {
-    "id": 1779538479622,
-    "title": "Musik & Märli im Wald 2026",
-    "category": "music",
-    "categoryLabel": "Musik & Party",
-    "description": "An vier Donnerstagnachmittagen im Juli und August taucht ihr in Lenzerheide in eine fantasievolle Welt der Märchen ein.",
-    "date": "2026-08-06",
-    "time": "14:30",
-    "locationName": "Anlass findet in Parpan statt (siehe Standort)",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/f/dd/a0/fdda0d02e96f2cf3f20a92e4a2663bb4cef8f5ae_855569897.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=06.08.2026%20%2014:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4709017?eventDateTime=06.08.2026%20%2014:30"
-      }
-    ],
-    "organizerUrl": "https://arosalenzerheide.swiss/de/Lenzerheide/Sommer/Familienerlebnisse/Maerli-im-Wald"
-  },
-  {
-    "id": 1784359502567,
-    "title": "Ringelspitz / Piz Barghis, 3247 m, Hochtour",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Abwechslungsreiche Hochtour auf den Ringelspitz/Piz Barghis, den höchsten Berg St. Gallens im UNESCO-Weltnaturerbe Sardona: leichte Kletterei, einsame Natur und grandiose Ausblicke.",
-    "date": "2026-08-06",
-    "time": "Siehe Beschreibung",
-    "locationName": "Ringelspitzhütte",
-    "municipality": "Tamins",
-    "lat": 46.8658011,
-    "lng": 9.3807053,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/36/5d/4365dfe481470e63d499ad7976cfa5f6cb2070de_933699907.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=06.08.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Tamins",
-        "url": "https://www.localcities.ch/de/veranstaltungen/tamins/4737/4792181?eventDateTime=06.08.2026"
-      }
-    ],
-    "organizerUrl": "https://alpineaction.ch/hochtour-ringelspitz/",
-    "ticketUrl": "https://alpineaction.ch/hochtour-ringelspitz/"
-  },
-  {
     "id": 1779538480748,
     "title": "Open Air Wochenende auf Brambrüesch",
     "category": "stage",
