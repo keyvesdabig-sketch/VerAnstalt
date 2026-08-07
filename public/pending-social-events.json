@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T09:35:45.136Z",
+  "lastUpdated": "2026-08-07T08:08:29.356Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -2353,27 +2353,6 @@
       "legacyId": "social-1779632286939-Landquart-16"
     },
     {
-      "id": "social-330c7f22440e",
-      "title": "Theater in der Viamala-Schlucht \"R(h)ein ins Vergnügen\"",
-      "category": "stage",
-      "description": "Theateraufführung in der Viamala-Schlucht. Diese Veranstaltung findet vom 06.08.2026 bis 16.08.2026 statt.",
-      "date": "2026-08-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis (Viamala-Schlucht)",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-21"
-    },
-    {
       "id": "social-9db1e4d4da60",
       "title": "Thusner Dorffest",
       "category": "family",
@@ -3328,26 +3307,6 @@
         }
       ],
       "scrapedAt": "2026-05-27T10:53:05.727Z"
-    },
-    {
-      "id": "social-f94b7780c415",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Peter verwöhnt uns mit einem feinen, preiswerten Mittagessen. (Peter spoils us with a delicious, inexpensive lunch.)",
-      "date": "2026-08-06",
-      "time": "11:45 - 13:00",
-      "price": "Preiswert (Inexpensive)",
-      "municipality": "Haldenstein",
-      "locationName": "Calandagass 5",
-      "lat": 46.885,
-      "lng": 9.541,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:54:05.877Z"
     },
     {
       "id": "social-f6625e017f6e",
@@ -7449,47 +7408,6 @@
       "scrapedAt": "2026-05-31T09:48:47.075Z"
     },
     {
-      "id": "social-27cadb41a922",
-      "title": "Music & Fairytales in the Forest 2026",
-      "category": "family",
-      "description": "An vier Donnerstagnachmittagen im Juli und August kann man in der Ferienregion Lenzerheide in eine fantasievolle Märchenwelt eintauchen. Die Künstler erzählen fantastische Geschichten und unterhalten mit stimmungsvollen Liedern zum Mitsingen.",
-      "date": "2026-08-06",
-      "time": "14:30",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Lenzerheide",
-      "lat": 46.7214,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/music-fairytales-in-the-forest-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKcs_AQM-t4yEgDQmTxbiTskHDOknYLVFupBwa9n35XdlIwzZbpjgAQGOo6Ea5pLUzFMkt-4tLkDSaua2sefJ_vD-XYv1MyMopfAAOxFP2tEkdITftDePUsKhpi6UMau2AdEH-cW0zb-RH0KisBwWki9m7HX5WI9NQN7rlrpDwVhe5tcxxETQ_xphmEPosJhI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF10AHU8YN1NBiG54nxmjVWf7tMnEBriewDkTjvFXBY9ffpuIrjpOb5MQVKM8Vrmf0KUemqldOaXyHCN9Pf94qTUnaSvAK1PSxOgYPSjATU4R_Db8iDqjKBZxBS8iEWkdiGHIz8FDcccvXaK5wSVGfLgEMG1iyxapwDNqlnopDhJjYoXT-FHuLKhHTIFXB7jFc3iQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJAHyxv30tNEWHUl5pV4Z2zxLiGAfdHqQo2d6XVU8MR1lzsa5W0QaIp61fogPmTSAzcTt8vWS-ngpzhJ3eoWyLRX2Nk1Cj5UbQDWdoAllemyMUk9vswFi-2ZuLNPL87gCRpnO6rNP0rmATkWCoEffKK6lRx-k-IPsFZ-TmUpFUxVVoCgHeKQ0POEeCGgu91EsUQQ=="
-        },
-        {
-          "title": "myfarm.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfkJYhOswx2LZ5o04i1FmhLUL5_Jr3VwmXN1zvwRI9u2x7PqBbmcabigTruJ33nrzUgUYYfmu9bXLRSA2sTXT5S-qb3V-gxsWLN-kePg0zyg_88O4oOPtg_MKHUTFrdeO9xoosOy3O5-B0_PdHcsne"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRq2XKHu4XxJb7x5WIN6OyBM6137Ylk7TT7AOKqfuuqTxVhTjM2CiyVhfNcZHhwgHSDWQaZvGgH2uAKA-VQuvo54VuwiTrvdjfGgm_nrFstqzurX8mWgeGNMJK29b7s693RBl6JAm4wFvtcWKdQe7TRh-4qIIhPcoPhn-1EqgpaXcZcM1szjkqAhFDcOuqFK0ERYjOgpVUBV4aSEwir83qaFNokA=="
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:50:16.247Z"
-    },
-    {
       "id": "social-5c5595d7b9f0",
       "title": "Bald im Wald 2026",
       "category": "music",
@@ -7875,47 +7793,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-5433338cc2cd",
-      "title": "Music & Fairytales in the Forest",
-      "category": "family",
-      "description": "On four Thursday afternoons in July and August, you can immerse yourself in an imaginative world of fairytales in Lenzerheide. The artists tell fantastic stories and entertain you with atmospheric songs to sing along to.",
-      "date": "2026-08-06",
-      "time": "14:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Lenzerheide",
-      "lat": 46.73,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/music-fairytales-in-the-forest-2026",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
     },
     {
       "id": "social-83f4c3fb72ee",
@@ -13007,26 +12884,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-9af6bff3d0ef",
-      "title": "Fürstenwald - Geocaching",
-      "category": "family",
-      "description": "Geocaching im Fürstenwald, in Zusammenarbeit mit dem Hort Maienfeld, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-08-06",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Fürstenwald",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-b0439867082f",
       "title": "Fürstenwald - Wald-Challenge",
       "category": "family",
@@ -13405,47 +13262,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:06:04.781Z"
-    },
-    {
-      "id": "social-ac7d39572e42",
-      "title": "Theater in der Viamala-Schlucht 'R(h)ein ins Vergnügen'",
-      "category": "stage",
-      "description": "Theateraufführungen in der beeindruckenden Viamala-Schlucht. Findet vom 06.08.2026 bis 16.08.2026 statt.",
-      "date": "2026-08-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Viamala-Schlucht",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen-thusis/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kinoraetia.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyyVCeZ396YF6UINId3fqm8syHzH41t5v5sMJMfOwvCkvQV_kGNCFmOsKrZNQOy-fQXYlLhHkhzvaJ1I4b01aDUjwebn3EidmH_HgdJ2ctwQ=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7m5U133tQnC8jkIKXMGzoXnvufJc9j504Ts8RL6iQ4UutbOUtKPJWXSpA3RYxL9iCdfWwhBykIlTB2vz6hZOAdPuw-xyJdwPLIGpwk2T_FAAqCEffLsZ6S4p_n7Rc1sOng2mqMP5JmLxVRza5wMfuB06ZKs33zijKOIfsBUlc17Gt6ARwik6OWe5ryLLINziWk5TSOyUyO7IihNWleA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFslklmgm9y9aDuNFWFFHLJw9YetowuEe_FU3-V3OqFaLDppQEz1BMHOynqGlu1-yxxK6Sv0twSdqfIt1DKh6dHnIwXYo8CZP9OAdFrQq-E52BJAVeVEKFdmSCvWTfetJrB4lHi5sC9IKg4tTCt8mVpuTAZcoD7Ge0ZLC7AbZARGr9g00xnTlWXK0ythgGq5HWXugutA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELisOCXj7FUhMwjpUxKs_iDsO--lSYea3WIgdK2_MyjHc-iFgHOo-ZfN2NRAs5Gy2vxUTReh68tE7BUKyL9FeKWZ1A1T8cDTiEDXiDnahrWzwmYXtTVNjaL1DtPNnIMl9XxgXWlBONAOHfo05ZBtcjHqDr"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3uqCLBwkT9Rz3ed4j0hcvY9yqv53HBFnICxMkMQxt23upLoz4bAbBbjpsmwHL3kt9HcFfJ2NCqIIkACz6Kmwxd7eDYUfEZ0tt8l9d-E5juSMJ3Mh5xxtpXRUSjD5lIhh6DIrdFmzCdqRk"
-        }
-      ],
-      "scrapedAt": "2026-06-07T10:07:15.743Z"
     },
     {
       "id": "social-93acf78a1598",
@@ -21464,26 +21280,6 @@
       "scrapedAt": "2026-06-18T11:08:28.703Z"
     },
     {
-      "id": "social-207a8897a4df",
-      "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässiges Training der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-06",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:09:11.117Z"
-    },
-    {
       "id": "social-206048054dcb",
       "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
       "category": "sport",
@@ -22897,26 +22693,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-927a244c66ab",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-06",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-d2db144a7549",
@@ -35296,26 +35072,6 @@
       "scrapedAt": "2026-07-14T09:11:42.831Z"
     },
     {
-      "id": "social-26b178700073",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Erlebnisnachmittage im Freibad für Spiel und Spass.",
-      "date": "2026-08-06",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Sportanlage Obere Au",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-15T09:06:57.481Z"
-    },
-    {
       "id": "social-eac4ed616d7e",
       "title": "Spielnachmittage im Freibad",
       "category": "family",
@@ -36307,47 +36063,6 @@
       "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
-      "id": "social-7a4df7d5ed90",
-      "title": "Adventure afternoons",
-      "category": "family",
-      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
-      "date": "2026-08-06",
-      "time": "14:00 - 16:00",
-      "price": "Included in pass or regular pool entrance fee",
-      "municipality": "Chur",
-      "locationName": "Obere Au outdoor swimming pool complex",
-      "lat": 46.84,
-      "lng": 9.525,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.972Z"
-    },
-    {
       "id": "social-9c73083c70b1",
       "title": "Adventure afternoons",
       "category": "family",
@@ -36775,26 +36490,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-17T09:06:06.388Z"
-    },
-    {
-      "id": "social-c0d8ec19e98a",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-08-06",
-      "time": "08:30 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
     },
     {
       "id": "social-9acd7f172fa0",
