@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T07:41:46.773Z",
+  "lastUpdated": "2026-08-09T07:46:29.113Z",
   "events": [
     {
       "id": "social-25f054d71715",
@@ -1535,48 +1535,6 @@
       "legacyId": "social-1779632063487-Churwalden-10"
     },
     {
-      "id": "social-e92d0e678911",
-      "title": "Sommermarkt in Tschiertschen - Ein Genuss für alle Sinne",
-      "category": "markets",
-      "description": "Sommermarkt mit Kulinarik und Handwerk sowie gemütlichem Beisammensein mit Festwirtschaft und Musik.",
-      "date": "2026-08-08",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Postauto-Kehrplatz",
-      "lat": 46.83,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://www.graubuenden.ch/de/erlebnisse/events/sommermarkt-in-tschiertschen-ein-genuss-fuer-alle-sinne",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk545UWiMimYo1WAVzsJSFEWvQkbZN5oo6TOSBIP8I-hBVPXgTxvldtWxFl-fOznx3pIjzNlU8ViniiC2cnaBiohQSXqv5m3cQNyXEWlqCJA6Tu_V5tlDG132rIMGiwe3WlQQkuRdKHAEqtxkv-QBzB_mMuI6G9LdWJJpzoAI4roI0fdpgsl_hARzzarXQuFWQ2LTlaPWwMQ-lTr6QQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1shb0v9oFuGAHnY8y60Ddr8zz8c4trkWG8jcfNQj1K7KUkhmIqy9MLwsJGA4MPEjPwnpu_o20CQ6AZ0xo-XgqMSwdAVVntMaXtxDZq_2WjeG7Masd_mbwFL9DH1MdeGyA0YocBHdgENTF4cyieElxftMGceEtIK5KjrOK5UlWy6q-dDiL9dVe-OeIox3ZMfwEQQJn0jV2M6qEZNaw3Q=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJOp2z4GaHZX6FZyFWhhgBzDt4Lvsn2Y4TkxTucWVdjrbllDXMyCvIvPMDJNR-LXxoWF5RxkKt7NJfz-J8N8dTLia4OKosD798D9vznYrBdyUCnlArlgWC7nnzT2NMfPFngukWDs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzy86lqnz9ONH-a4KbfdVHkMxSnq7FouP5lHXAD0BDRIiS5lu3SUbk54YrslfsVTEck8grFIxbJxrzs-C1QOXIt0ZkzVwdonZ-yDxhJ5G_ex75OeJ1Rgx8ayialzmmuHGJhicGqkBkAhx4E6gopELifObC0wF1kI8GUiy9IhbHs8o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8HXmRmbCCALk_RbuES9IMKsxtTAMcR_g3HwLfP8YEEPZ6wVFRrt3WbEV17FuKNLp8cLRYgyTRyhqnw3VQLNduMWurFhLEXoyiTedozaO_Ed877zahKvBCfY2hozUPU_QA2yHeIR0k8LIUKp8xzksVegvipQOdICMg6lUPraku6dA="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:15:00.434Z",
-      "legacyId": "social-1779632100434-TschiertschenPraden-10"
-    },
-    {
       "id": "social-611555718ae7",
       "title": "DART-FRIDAY",
       "category": "sport",
@@ -2519,26 +2477,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-c8476ff3a379",
-      "title": "Floh- und Gänggalimarkt Chur",
-      "category": "markets",
-      "description": "Grösster Flohmarkt in der Süd-Ost-Schweiz mit vielfältigem Angebot.",
-      "date": "2026-08-08",
-      "time": "07:00 - 14:00",
-      "price": "CHF 5.00 - CHF 15.00 pro m²",
-      "municipality": "Chur",
-      "locationName": "Arcas",
-      "lat": 46.8488,
-      "lng": 9.5322,
-      "image": "",
-      "organizerUrl": "https://flohmarkt-chur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-f33889413fcf",
@@ -3912,47 +3850,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-454c27975a14",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-08-08",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-d5a00e785fd5",
@@ -8342,47 +8239,6 @@
       "scrapedAt": "2026-06-02T11:14:08.037Z"
     },
     {
-      "id": "social-6bbed704d43e",
-      "title": "BSV Bündner Kantonal-Meisterschaft (SG Haldenstein)",
-      "category": "sport",
-      "description": "Bündner Kantonal-Meisterschaft für Aktiv Mitglieder mit Lizenz.",
-      "date": "2026-08-08",
-      "time": "09:00 - 12:00",
-      "price": "Not specified",
-      "municipality": "Haldenstein",
-      "locationName": "SG Haldenstein",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.sg-haldenstein.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "local.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsOTgiApSLx1dCafRtJFUEauIqGbH6w07W-tluvr-Sc0imifHvegMDmnj7qz4z30ISnYh0623EXsw-QExUAjs2Qy3lUkKue1_0HX0fnoR1oAvQfGqBBHGS4kcQOGSxNi4LPte211t0FezVHGHuXto0LWtWjP2xv-H-qunl5sBtTP43a9xogPMp6b8BWHb5EA=="
-        },
-        {
-          "title": "search.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgfZmYjjEiWUWTLUa9Q8RlVCE0J5saZdrM6I4hHzGk091g6UKMneUJrXuvWscIMbtjouO6KSImLp5_0YdxgEH8YFdjd9MLpuAikplRzI9OEm9TNJgtiDIjLs7fZIPZHQ3FS6gYZ0ytGlg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgH80WjaTBcrIjvRSrrVoa3RowF3f-u0J8IjxEC1ZtrstY0iE2LSJe723sY64iZ4e3T3vl2bw-5LFr97aj63Mk-CVSVKW9IrlxSzOrCYY5RG6ziLf4mb8Ws7m-SVGeACaS5PJNZzsHzYuWGqX-9lGVKxNmtWWsr433AYc="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTkbrvwTTRtAaUmIZYEAiO3w_eHtjdXI_GBeKBXUpPF_gzLJEyQD2HGJ_Dix0DhxA1xbiYw3lwEPJIvdUbVbewDgDJaeRiEMA3_W0hnLhc75VCEeAJxwAyAqohu6y1XRE5PuS1VRSz8P6FNode1NEqsZqKtg=="
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUMHEs3wkdHgtzGpHDmOH9WZHhH_kPgWtind4fRakbFdyP7mASr8p-eUf8gFSIZgSWm9ddGpzLLqLdbp4qUKMofI8u_0U0aRwdAqEtINGX_B03Q7uWcbLE"
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:16:35.483Z"
-    },
-    {
       "id": "social-1c6329c0b0ff",
       "title": "Regelmässiges Training Feldschützengesellschaft",
       "category": "sport",
@@ -9408,88 +9264,6 @@
       "scrapedAt": "2026-06-02T11:19:05.082Z"
     },
     {
-      "id": "social-fbde470c8fdc",
-      "title": "IKAN HYU concert",
-      "category": "music",
-      "description": "Konzert der Band IKAN HYU.",
-      "date": "2026-08-08",
-      "time": "23:00 - 00:00",
-      "price": "Siehe Webseite für Ticketinformationen",
-      "municipality": "Churwalden",
-      "locationName": "Gemeinschaftsstall Churwalden",
-      "lat": 46.78207,
-      "lng": 9.56943,
-      "image": "",
-      "organizerUrl": "https://www.shazam.com/de/artist/ikan-hyu/1009968498",
-      "ticketUrl": "https://www.shazam.com/de/artist/ikan-hyu/1009968498",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:20:23.276Z"
-    },
-    {
-      "id": "social-ffa7c94faca0",
-      "title": "Fescht in da Steina 2026",
-      "category": "music",
-      "description": "Ds kliina aber sidafiina Openair in Churwalda. Vielseitige musikalische Darbietungen, die zum Tanzen einladen, diverse Aktivitäten abseits vom Lineup, ein stimmungsvolles Festgelände mit viel Liebe zum Detail, nachhaltige kulinarische Höhepunkte und eine ausgelassene, fröhliche Stimmung.",
-      "date": "2026-08-08",
-      "time": "",
-      "price": "Siehe Webseite für Details",
-      "municipality": "Churwalden",
-      "locationName": "In da Steina, Steina 9, Churwalden",
-      "lat": 46.780104,
-      "lng": 9.566373,
-      "image": "",
-      "organizerUrl": "https://fids-festival.ch/",
-      "ticketUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-7288647038164808390.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOiO2o9-KV0HRPyoNBNPGbSiZJ-qjBK6fMo07Uoxnh8gicAPMja4GgXqBl4lAbMdTnXKdgDmglzaM0WdOFLxevb4u4G5y-6ZKI7h-5psgq2Ott_9Z0b-mSq7ntUqhlTl_HWn5J0pdeRVqA1UznXX7qFxaBFNVtaSopyznW49GAWsrEiNnCZ0Fv9nFQ6gkWKws="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq4-52CKmf2ltBVaMEBjfusdEhnZvxoO81t7aMyVyoaS5BSBRNRFtJY4tZgtpiFEUlQkhiBS56XH0VClprFPw2o4ryNuFPiWisVnPN_F-mZHqG-liSqHGKuQ3LJFm_ZG1P4Eevh7n-9A-7PWIwbsWeJLQ9_8a9RdmlSj_aWn4FijJnaRCIpLeiuSTpaA1Sp6aopFHfi4ddRA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Ms2hnTtqwkMr2t72M6SLw9u-SYJlPwHijiGxTR3fS1kzUO6xrmQItbW8Kw4SvECNdIcmXE_2Mpw_wgGI7f3oVdP5r10WYEcQeL-aUW0EF5zGuu65LexfrUdneS5CtFB_AKqnFa9p8VXmCGcdPnZU_o5-LCAuJN8="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzLiOEXfA0qXX5t3i9MwwJHNiswJDg03pnc2BAfORlMyynYewvUnfx3Ewx40rb7GJ73c-z16yvYDKZxtv2fLnZvsRCUsnyKholcWN9oThuvQs9QPtWVXrcJprCd5UDglBUqrVOVg5HWB2ZIu8wkDj-nIGimKrzabrTURA0VIsRErQN-J1jbMVYj_17ofpt9s2LetIl_KzRzT49"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcekeleNOQIsgzJzBMW5s_1c9qcoYfGHiiqXB03coaam_7SAvPBNdjDUkY855yyMV-UORRFGkeSviw_C0nZt29GM3GKUTAsP_ktuDCnveAu4S2xNXlfCGm3MM2ookLlkYmQo9HMfxW0-B-OzJXyX9cmdiHZIkll0qSMEe9Nsok2sC9xx9T8I4CsshCgvverOOuipMRIljRk5y_w9P"
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:20:23.276Z"
-    },
-    {
       "id": "social-63c6122cb5a1",
       "title": "Fescht in da Steina 2026",
       "category": "music",
@@ -9570,47 +9344,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:20:23.276Z"
-    },
-    {
-      "id": "social-56b551ee2faf",
-      "title": "Sommermarkt in Tschiertschen",
-      "category": "markets",
-      "description": "Ein charmanter Sommermarkt mit liebevoll gefertigtem Handwerk, vielfältigem kulinarischem Angebot, musikalischer Unterhaltung und einer gemütlichen Festwirtschaft.",
-      "date": "2026-08-08",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Postauto-Kehrplatz",
-      "lat": 46.84,
-      "lng": 9.59,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/erleben/events/event-detailansicht/?tx_solr[q]=Sommermarkt%20in%20Tschiertschen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC3FVK4FmmjAerAjI1R7TtnIg_1IDdXSr_Vyn96ateMGeZwd1CCjtRkxpn8jtFt2UATjlZAQBuPQYtiNgWUQrHa-KrIG5bkSKqh2_YnCmrDQmhu9xK9-_vMvK5I2VYMP36R_Vh00pvNqBJHa9TtNmVazkQMEKMaq4VXsxGyCT6cxg="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVDyoXZ44gsuXs95eTp6F3aPtJcUJ0TYjiM_1Ffw2UVM-3kU7EBdA_2AfSQC1XKTXu1GIokd9WRyzXe_t4nxz4lD7EiQMLX81FWqQbESyt-Nb_qFaxtbXww=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJR9v1_fwP1gfmHmkAZP2WNn-4yl_ptZwy0fLPmURvbWKflAT2ppFulJKAEtVfODuBRgsTAH9oaK8qxqaewT4BNzsFxpHdAUD5nu5zuZtpYwPhMqveE87FHo2CwkpLz-USB27yOx_EagaeN1xL3QmuQh6JuzKTaAzisvsBHf1Ikynsc0hAGdiwgMuuhVy4F95wtemzguGw0I2-LUUyQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw8MaRWfWqfkzfN3Lk1HLdrhwV40JQSbDbnFw8IeQmsW9ZaqUU1sE-k3QvgnhuxXQEOq6sauhnO_pwCsmV_uBniJ-S4vc54yYGwpNdHBBU1LzMznvNVbVYekYJQkyNPlrSUQHJayFjyFfd8kEBzzRefppIml5r4iUSRvJcx2MEJhtRFAAqN4FFsAlWa1d2g3qprBzvkQp0JaSqCTf8TQ=="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGncEXM7MpUNtgIuE-2lLholxwXY-_sS9rsty_a6sJLXxAgnoBStVp6Tp4u0tSttDlktF4AgT_q7dJJ6j1soCS2GKZ1XxVrp1yANQhHQw0ym-qUIUHonukPDMdRhJbm4z5p93PuH3b5ZOtf_uTya0uY"
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:21:02.005Z"
     },
     {
       "id": "social-4c8b9471389e",
@@ -11499,47 +11232,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-05T10:46:09.189Z"
-    },
-    {
-      "id": "social-bfe26ac630cb",
-      "title": "IKAN HYU-Konzert",
-      "category": "music",
-      "description": "IKAN HYU spielt in Churwalden am 08. Aug. 2026.",
-      "date": "2026-08-08",
-      "time": "23:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Gemeinschaftsstall Churwalden",
-      "lat": 46.78,
-      "lng": 9.58,
-      "image": "",
-      "organizerUrl": "https://www.shazam.com/de/concerts/IKAN-HYU-churwalden-20260808/84234399",
-      "ticketUrl": "https://www.shazam.com/de/concerts/IKAN-HYU-churwalden-20260808/84234399",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfCf3yIsUQdnEm5VR2DJV9XlIPeUKZis5JHwUYLbZ2458ItU7dhuC6KHBj7TJrp0KWGtFktuIVl1n8f_W0XG26QD9g_H72IAlXF7v_02dWSD8X2f6M7clCVkxfGI5DpXPoNak5kFMDlZrQPR-v5NoYsl99AeUisrbuupPsGGP71QWYP88y9Qbrtsu7iaSCLCz4G28v2C8Ba5YD"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDCGzYlx49qK689gye_GKq89rYxj3Wp0C-sufoQFKZCPezXIfeWvwWdfe0yP7jItpH0VeJtqMl3afKnRP9GhNF8ttvZrSXZu8Ifq1kYT2igUiwQKwH848RQA8Hcet701-kARS2ZNS1COQcXZvK5sRHR2uNAmQLMv7D-au_C97sETTq2UsgERCt2jvdW1_3MuM="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1CEYQLdTgFYW5bTgELK-JU9KPEx6I2iQOPq6sKUcwo4lXKLWl4eNr7VutAgM8G2P0b6vvRt2iJkR0eUcJzDKHRaj5cvTjBc8sVDhH3zlunJLhNcUywAZXk3Uzog8agDh1Y7JNKmL0PLWbVEnfh-6k9OXp2bmaM_kT6a8FwuTL9AwXRNmHVmDa2XnqeDPW8LDuh6jM3bOB9A=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs0jmd01BkgGcQaK0PGb_SGdtB3a9h0iTHarD_WRh1lquG2FzkYRiJweNRQ_h0zRiWHl3KYrOuCm4IDAtCUXwgXwmdNVCU057g7P7zaBwPpc3ftDrf7KmFDogAGmUPzzYCeXM3qfIwBDM8ehgJ9HLAkvAC8ydxsQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnVzOHqaEn4hFnogjsHKf6mLDQycBXuv2IyUL9-1zyWwmJ4bj01h9BdC0TxGxfVFXREJzb3zzRL_g6uvPfbybNwvcnQl6tBJc76cKyw2tGv8JfuwNhipqWZU9jKxGaUcRxOqZZibUq_qb9IieHYVyajLLWZwUbQxjsk-n5eKyvqelqsFwN_YcrhqSxDA=="
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:48:04.084Z"
     },
     {
       "id": "social-527be974322a",
@@ -13625,47 +13317,6 @@
       "scrapedAt": "2026-06-08T12:02:21.455Z"
     },
     {
-      "id": "social-c7fd3fa9b856",
-      "title": "fids - Fescht in da Steina 2026",
-      "category": "music",
-      "description": "Ds kliina aber sidafiina Openair in Churwalda.",
-      "date": "2026-08-08",
-      "time": "",
-      "price": "3-Tages-Pass, 1-Tages-Pass, Kultur-Legi 50% Rabatt.",
-      "municipality": "Churwalden",
-      "locationName": "In da Steina, Steina 9, Churwalden",
-      "lat": 46.77,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7067868452033099071.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7067868452033099071.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XF0fL6C42w9BN2bXRk6X-FvqOvoAvfVxK3tPHQUutmFrcOgN8oCW6oItcMTqIVxq1FjoLydAz9U2h66e1Owh2A4z0ukjs2vvWjzJIX15iKiRLYqg2Be8wxrlTenoAUnU0wlPIu-1E7InMZ9sCr8="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdC9bOTKQ842-t8Xw8p7z6gwGjiBzcIk1GbSJqC_wk99hyj1OCrttSyiA_25LFNSdxAMIyDO046h-nwvqGajG0SImxFixtC7XBEunYG5lqwYC2BK4_YRcqO8e36_QTnx7Crv0Kn30TbQGlNPZq4iKuzdok3dpjrR0="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dQHr49x6EvmXcEvbQ7f6V65Zkcf-q02W8R981nQKvUSNO7fjr95qvwg5rirRfN76alxbCv_zBP8JO71R45FQo0Z55NkI-Mof0Qw8AkFSAaGmYiFwCkFrV5pdEAbHj8TKJ_N5TZCQGQF-cNh0oK1a-qApqmBeWmYjyRnjkFxDTSibGnvMR-TPexXx-TI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGowCzkD4Pm_i3-8tAuU1dg4xKaYTYqQ-D-xJz-X0mWWH_F_-3KvNqmbvSCgBINLBoU2zQDjnvEIV7RCkgUoxj91vPTXGzxpKLM_a74K4qwO92obqxCyG2tiv_ckU3Ai7rkyK5Cqq4siBL2-33wFCwoZMTltvEH7AxfF8e875l2eosihpZjcoU8CNCchtGOWaECJCyoQjQZ3Bj0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQnaRtsMmKSnRojPKPhqDlNu93pxonU5kM_8wwDk31qkWeuu7_4qlbib8uUgOIXX_7sk1XUufMNLd2Q1whekKhogEOC9_v8ndJnxJG2gtaN4ni69Beq6_vC3l7ROIp_XiwDlU4dXAPORQGELLQ0rz63xdH5Bwk8gyfEo8S1CYEy9kCM-mgYi8_XV5Ov21"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:35:59.371Z"
-    },
-    {
       "id": "social-c705103f80a4",
       "title": "fids - Fescht in da Steina 2026",
       "category": "music",
@@ -14374,47 +14025,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:52:25.650Z"
-    },
-    {
-      "id": "social-f304f87f1212",
-      "title": "BSV Bündner Kantonal-Meisterschaft",
-      "category": "sport",
-      "description": "Bündner Kantonalmeisterschaft im Schiessen für Aktivmitglieder mit Lizenz.",
-      "date": "2026-08-08",
-      "time": "09:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiesstand Haldenstein (angenommen)",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch/termine-anl%C3%A4sse/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
     },
     {
       "id": "social-b70c237540e3",
@@ -16496,47 +16106,6 @@
         }
       ],
       "scrapedAt": "2026-06-11T11:26:33.609Z"
-    },
-    {
-      "id": "social-a5e3be7841f3",
-      "title": "Sommermarkt in Tschiertschen - Ein Genuss für alle Sinne",
-      "category": "markets",
-      "description": "Ein Sommermarkt in Tschiertschen, in der Nähe von Chur.",
-      "date": "2026-08-08",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Postauto-Kehrplatz, Tschiertschen",
-      "lat": 46.7909,
-      "lng": 9.6052,
-      "image": "",
-      "organizerUrl": "https://churkultur.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.373Z"
     },
     {
       "id": "social-ef9d4d48b66b",
@@ -20074,26 +19643,6 @@
       "scrapedAt": "2026-06-17T11:31:18.176Z"
     },
     {
-      "id": "social-a0c656473a9e",
-      "title": "IKAN HYU concert (fids Festival)",
-      "category": "music",
-      "description": "Konzert von IKAN HYU im Rahmen des fids Festivals 2026.",
-      "date": "2026-08-08",
-      "time": "23:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Gemeinschaftsstall Churwalden, Hauptstrasse 200",
-      "lat": 46.7917,
-      "lng": 9.5592,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-17T11:35:16.365Z"
-    },
-    {
       "id": "social-383d96b49eea",
       "title": "\"DART-FRIDAY\"",
       "category": "sport",
@@ -21898,46 +21447,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-0341c5f1be31",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-08",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
-      "id": "social-a522223d702d",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-08",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-ad2ba5bfcc20",
       "title": "Polenta 7000",
       "category": "music",
@@ -23464,26 +22973,6 @@
       "scrapedAt": "2026-06-20T10:09:50.451Z"
     },
     {
-      "id": "social-bc9c1274a497",
-      "title": "Sommermarkt in Tschiertschen",
-      "category": "markets",
-      "description": "Summer market in Tschiertschen.",
-      "date": "2026-08-08",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Postauto-Kehrplatz, Tschiertschen",
-      "lat": 46.8118,
-      "lng": 9.6026,
-      "image": "",
-      "organizerUrl": "https://chur-kultur.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.337Z"
-    },
-    {
       "id": "social-6156f651265c",
       "title": "Jules Spinatsch. 1964 – 2155.",
       "category": "stage",
@@ -24792,26 +24281,6 @@
       "scrapedAt": "2026-06-23T10:36:00.038Z"
     },
     {
-      "id": "social-237b8f3ee131",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Spielnachmittage im Freibad.",
-      "date": "2026-08-08",
-      "time": "14:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Sport- und Eventanlagen Chur (Freibad)",
-      "lat": 46.841,
-      "lng": 9.516,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.005Z"
-    },
-    {
       "id": "social-88cf5144df06",
       "title": "Real Madrid Fussballcamp in Chur",
       "category": "sport",
@@ -25202,35 +24671,6 @@
         }
       ],
       "scrapedAt": "2026-07-01T10:43:42.762Z"
-    },
-    {
-      "id": "social-a8652d4d7b79",
-      "title": "LAUDES | Monastisches Morgengebet",
-      "category": "music",
-      "description": "Origens Choralschola singt die traditionellen gregorianischen Horen der Laudes und der Complet. Die einfachen Horen erklingen zu Tagesbeginn in den wunderbaren sakralen Räumen von Mistail, Rhäzüns, Pontresina, Lantsch, Mon, Chur, Bondo und der Alp Flix.",
-      "date": "2026-08-08",
-      "time": "06:00 - 07:00",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Kirche Sogn Gieri",
-      "lat": 46.799554,
-      "lng": 9.3973409,
-      "image": "",
-      "organizerUrl": "https://origen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYIFebuBZEEP9xt7kxKsPAharFs7Dxx2Di-ZXUHdfgIaI29NKqnWS2Iu-FyeBgl7tuWa6nXhJP9fLaylLlS6j6gk0JnjEylSnC_uqfq6xrgQcPgUxQfRNEDf5T"
-        },
-        {
-          "title": "nordagenda.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz7bQfXX2VWnG6eGFZWXImdhuzWCjycht3HHX5wQcRPIwlCKYwagtcT7Wh11H60f5FDFX_z7sfPLbAtqflfP9C2ziw1dJAdEljDFG0XSDcZBPEXnS9a2UyQzQynS4b1oQqkkI3BVuvu8Xg3uZg7QRTbn2qegT_-rC4URkdWpnk1tGfm7liLXHSAvQO3HE="
-        }
-      ],
-      "scrapedAt": "2026-07-01T10:46:42.846Z"
     },
     {
       "id": "social-a750f17ad11e",
@@ -26587,26 +26027,6 @@
       "scrapedAt": "2026-07-02T10:04:45.689Z"
     },
     {
-      "id": "social-8f13cd323a4c",
-      "title": "Dominikus Fest 2026 (Tag 2)",
-      "category": "family",
-      "description": "Zweiter Tag des Dominikus Festes mit Laudes, Festgottesdienst in der Pfarrkirche, Mittagessen am Grill, Feierlicher Vesper und Komplet.",
-      "date": "2026-08-08",
-      "time": "06:30 - 20:00",
-      "price": "Gratis (Mittagessen mit Anmeldung)",
-      "municipality": "Cazis",
-      "locationName": "Kloster Cazis / Pfarrkirche",
-      "lat": 46.733,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.kloster-cazis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:05:28.061Z"
-    },
-    {
       "id": "social-4046525a1f64",
       "title": "Maria Himmelfahrt",
       "category": "family",
@@ -27062,47 +26482,6 @@
         }
       ],
       "scrapedAt": "2026-07-03T09:54:13.526Z"
-    },
-    {
-      "id": "social-f7c9b2db7f64",
-      "title": "fids openair 2026 - Fescht in da Steina",
-      "category": "music",
-      "description": "Das kleine, aber feine Openair in Churwalden mit viel Musik, feinem Essen, liebevollen Details und bester Stimmung. Ein Konzert von IKAN HYU findet am Samstagabend statt.",
-      "date": "2026-08-08",
-      "time": "23:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Gemeinschaftsstall Churwalden",
-      "lat": 46.791,
-      "lng": 9.571,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7301016541624443603.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7301016541624443603.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ_69YeAIMizpesDZd0yHu8lR98xD7rmYyDuaq8dqu4n9EeI-yo4z6xLmfLVNLIYbCntTGag2LZHJVypb4NVFApIgpz9WdC9Y1kWhI_7lu2IN1z6vZVMvkf8w="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5bVjSUaTp97TtW5B2bbEdJfxuOFXuiF336_dNqs8Scc7udLsJn0rJ2bVgvYhxImgCk1SWgza00g3Y-99LXsvmzLv9zTBuznYphBEbqtK-_7Wg9JhMB83SMs91gLGkA8iLzuNm7o9su5Z2WFxHG8MLq5pNbnSPus-YK3OCXDY_fN_5KG7gNjN7ZtwBsys="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGCQF-KpePqW_jVb4j2v3rKTzBqbuUaXQQZ-umCqIeA4UrR54CtCYtXRDHTyRQlS-F39-4Tw3NIssG6ANpC2K2U8iLrYFSWTEgn48Cc00ZYlzz4aETDgBQ-HnEFIPFlHg8CHF-kF2kCJFeDDOTdhHvSFireA8Kfmf36yh0xF3Sng=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmEPkegnvvpRD6uSAWbDUmoNGVJriiQKLCMT5D5bKcwQRiCf4MqGiauS9x7x6m2EAZI1mRFuazKPDfom0HFyQxB50cjCUEuY0lH32QDsrWLb-WpJqhf4r-gNfns94mWakSW-njODjVSnU0BDU1TVWB283FeAiqOWUcAy9vVlpNMlCpjRlADUjq6m-MYs0d-y20og=="
-        },
-        {
-          "title": "portal724.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0St4wKjLQvvITXMKqMAzhyYoFRFk8eWyHxawQ2KXV7Uej_e0Yrklqfm4KRl_ItIWj2_9Lh4ZHOw8n7VnHPb0cesGh--dW1Qyj2M8kpX1dtcloIhaga2kXUU-IyhlKxH5dCIg_ex4EBTPpFzMHQr4GPz8Ydj2P2EYBfwTXB_YOAA7irgMJg8kG673Mxo3Jn-B82qeuhQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-03T09:56:44.153Z"
     },
     {
       "id": "social-4b042cdd25b7",
@@ -28100,26 +27479,6 @@
       "scrapedAt": "2026-07-04T09:24:19.766Z"
     },
     {
-      "id": "social-9668a3bdfc07",
-      "title": "Konzert mit \"A Birchola\"",
-      "category": "music",
-      "description": "Ein Jazz- und Gypsy-Gitarrist mit italienischer Eleganz und eine Sängerin mit einer grossen Leidenschaft für Brasilien. Ihr Repertoire reicht von Bossa Nova bis Samba und ihre Lieder haben viele Nuancen, Emotionen und lebhafteste Rytmen, die das Publikum nach Brasilien versetzen.",
-      "date": "2026-08-08",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Konsum",
-      "lat": 46.75,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "www.konsum-cazis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:25:29.148Z"
-    },
-    {
       "id": "social-15035ab1bae9",
       "title": "WIND OF CHANGE - Konzerte von choR inteR kultuR",
       "category": "music",
@@ -28703,47 +28062,6 @@
       "scrapedAt": "2026-07-05T09:46:46.957Z"
     },
     {
-      "id": "social-c2ba54a46b54",
-      "title": "Dominikus Fest",
-      "category": "family",
-      "description": "Festgottesdienst in der Pfarrkirche mit Pater Bernhard Blankenhorn OP anschl. Mittagessen am Grill (Anmeldung für Mittagessen erforderlich).",
-      "date": "2026-08-08",
-      "time": "10:30 -",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Kloster Cazis, Pfarrkirche",
-      "lat": 46.74,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "kloster-cazis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEglVBbW9MmAY6zu-OYra6LfIGF5laeEPfIH_7BbDxCPfT8Den4mmqgCEEARIr7w4iRMHv10ZWq0uls_qfgtzfmLyih0KFF_G-CevS7_YcRsCp-yHNJ_J9rTlv6byP2z1qWxrd45pv6TMgpRnqNBaa8a7ajmVceTAPUfVUJP-9gCQ=="
-        },
-        {
-          "title": "kloster-cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUtBCW7wWuax7uh5tixJHEUpjrvk5sCUlWV1o7SV98LdluUOXEPPu80O3vznEGtnN2OXwySXTNjGWjORgk2tJgPQsRUx4o2wx8lZ4LEVTsjmyefI4="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqSs6LloJz33Pb-omwPQdbYBgi4rkrDBPVq-11EMfvQRK_rVEF6FSL3o_PPHU-7lgqBUv4E-TgLVqNjxtviM9sgoufxX-6ctV2XIBZt4Dy8O2_QtfGiOeawiAMhInYphXOBSWgyNlTz7jDNd81RclMXLkz9td-t7B6P7CI43nyn48fTbTIMvqFmmOUiA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmji6GR7se9_Uc8wAh8yhnjXZjMD3goy94QOocxEgeoiazDv-C9P9ITFdcQVIvBJQYPaugYxN6AH2G6Oy5O3Ucwaa0W9ywkdHXNLezc2deCxemWS0PZJLh8QtE1Rrks0ivINXayAUeB4CuIyvsq1FYdWb2cq_DE_A3JxcVvfmsVWtenKVxFhK-mSqB013GEMBJGgK1A=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLmFEmt-AxR3B_xvLqHOLgyOP08Kqc4tsophNw581lBK5snzwXBaRYfPO-EQBU-p4uC5CqfY2LlZ656A-hu7aUSycU_vQjDVlpwVayqccz3fwUVCnhOtyDENWQG0ci3j2jx2hw5r0MMmHkKNki-dRAdbIfHdQ4MXW7s6ACIZk0qGXVaj8DxOgSZAQ5"
-        }
-      ],
-      "scrapedAt": "2026-07-05T09:47:28.116Z"
-    },
-    {
       "id": "social-f71c8c7c506d",
       "title": "Maria Himmelfahrt - Heilige Messe",
       "category": "family",
@@ -28783,26 +28101,6 @@
         }
       ],
       "scrapedAt": "2026-07-05T09:47:28.116Z"
-    },
-    {
-      "id": "social-70bf9648c0c5",
-      "title": "Gaenggali-Markt",
-      "category": "markets",
-      "description": "Grösster Flohmarkt in der Süd-Ost-Schweiz.",
-      "date": "2026-08-08",
-      "time": "07:00 - 14:00",
-      "price": "CHF 10.00 pro m²",
-      "municipality": "Chur",
-      "locationName": "Arcas",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "http://flohmarkt-chur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:23:46.578Z"
     },
     {
       "id": "social-b74890f2c874",
@@ -29032,43 +28330,6 @@
       "scrapedAt": "2026-07-06T11:27:05.371Z"
     },
     {
-      "id": "social-c5e75791e6d0",
-      "title": "Zizerser Beach-Cup Mixed",
-      "category": "sport",
-      "description": "Beachvolleyball-Turnier für Mixed-Teams.",
-      "date": "2026-08-08",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Volley-Zizers",
-      "lat": 46.91,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://volley-zizers.ch/turniere/anmeldung-turniere-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "volley-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrqox1d2U0_xRw0_P0CKoNAoiFou2zyqDDx9GdcFPPAky0nYpzl57sJos-6P8ENCYxaljeopjmYRmbsmPLXfWxXZbRsTj6ir6P6ManOMgg1OUIprmYswCJSSeBtNTU7ZEung=="
-        },
-        {
-          "title": "sportschuetzen-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFphmEEJN3Zv3bOGRRiD-PPSBDBux6XJGe1rWyQRnhqqRePHLjsuIquNM6UlY2QY9Gvo5Zbhp3nVf7m5AUA5Ng6RBIgo7EAFSdR1ZutwnxspayiG4jb-OHkLkOkdHr5bWQ="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq9JRk9HfYoJAAeDbULQ9uyrY0ia3o2LfSs2Q7L0o1uT8zcrTvsmnSP-kJ7VKcgvDAiaYUSiuioMurKYsdy3f3lzs8bIha0AT2iywUvXDQqinTCQHcwQfN5_P9SZeupD24sY6ZDS7Amm6uj_BEpOYSDNqRafbX7he12ErwDXG1eW6L7VB17FSR806ERmG5yRfTbFrCzmk="
-        },
-        {
-          "title": "tvzizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEN2uixxsh621GALRoLUMtXreOqKpcCdPAYl3oFujsD9DZPxlfP_d40sJtlNg4a9IYDqjIBP5W7J0b8YFIQUEhrxnT_PkhUF_6QBe22ZFce7sMOvLmJ5EbddPx9VooGkmN3fxpuMiXfNBX6hxj"
-        }
-      ],
-      "scrapedAt": "2026-07-06T11:28:18.924Z"
-    },
-    {
       "id": "social-c68dba6e8b21",
       "title": "Zizerser Beach-Cup Damen",
       "category": "sport",
@@ -29260,26 +28521,6 @@
       "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
-      "id": "social-08d5d95f1b7b",
-      "title": "IKAN HYU concert (at fids Festival)",
-      "category": "music",
-      "description": "Konzert von IKAN HYU als Teil des fids Festivals.",
-      "date": "2026-08-08",
-      "time": "23:00 - 00:00",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Gemeinschaftsstall Churwalden, Hauptstrasse 200",
-      "lat": 46.79,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:29:50.041Z"
-    },
-    {
       "id": "social-027eb173aa68",
       "title": "DART-FRIDAY im Edelweiss",
       "category": "sport",
@@ -29420,26 +28661,6 @@
       "scrapedAt": "2026-07-06T11:32:30.394Z"
     },
     {
-      "id": "social-0af8c587b094",
-      "title": "Gänggeli- und Flohmarkt",
-      "category": "markets",
-      "description": "Flohmarkt am Arcasplatz mit einer Vielfalt an Ständen.",
-      "date": "2026-08-08",
-      "time": "08:00 - 14:00",
-      "price": "Kinder mit Kindersachen CHF 5.00 pro m², Kinder mit Erwachsenensachen CHF 10.00 pro m², Erwachsene CHF 10.00 pro m², Profis CHF 15.00 pro m²",
-      "municipality": "Chur",
-      "locationName": "Arcasplatz",
-      "lat": 46.8519,
-      "lng": 9.5306,
-      "image": "",
-      "organizerUrl": "http://flohmarkt-chur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:20:18.774Z"
-    },
-    {
       "id": "social-be4cecb77151",
       "title": "Bike Kingdom Kids Cup 2026 im Alpenbikepark Chur",
       "category": "sport",
@@ -29529,47 +28750,6 @@
       "scrapedAt": "2026-07-07T10:24:03.569Z"
     },
     {
-      "id": "social-61b4b3dc6d38",
-      "title": "Open Air Fids 2026 - Fescht in da Steina",
-      "category": "music",
-      "description": "Vielseitige musikalische Darbietungen die zum Tanzen einladen, mit stimmungsvollem Festgelände, kulinarischen Höhepunkten und fröhlicher Stimmung. Ticketpreis inkl. Znacht und Zmorga!",
-      "date": "2026-08-08",
-      "time": "Ganztägig",
-      "price": "Siehe Website (ab CHF 59)",
-      "municipality": "Churwalden",
-      "locationName": "In den Steinen",
-      "lat": 46.786,
-      "lng": 9.542,
-      "image": "",
-      "organizerUrl": "https://fids-openair.ch/tickets",
-      "ticketUrl": "https://eventfrog.ch/de/p/festivals/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7301037597394541706.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc2AMirNlsMHohDvejL87VfO43QoRfAs1B6YX3dQ5nsKLSHcoaRB09nzfxCiughBFqaELVmhBBw4JV0GHnEB-8GUAJM4nmqV9WjO7VFlsbw2ulrG_JdN7R_B6klRq968kaHIJNxPLhHduzXAfrZMf1wwPvq834zCNElJFGre4cTAf7VddtnluCbxkKfj3QCWeAgqDk"
-        },
-        {
-          "title": "pradaschier.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1sqdI_-QuISJHGCBLfdyPtkwy4hsA9Sj3O4mA5n9BZFpdvhXHEv_7DwGBmrFBIqItC_2FEjA1j-S-rf1chwXdy4GTA7fOe7Yavj2l6nYM9qUdYGqe4cJBfwcVfuuXCHHcmb2g5Q0z4_xbaTw0mETuFkZwArt0kBl0faPH_Q=="
-        },
-        {
-          "title": "arosalenzerheide.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsA4VrKk-hySxoNybSoBUWex3IbK4EjyH7lChWhuYI135Z84IwCHa9SkGcaIUftRvwNgrC96npwgQG-FvQWCFmCn_J9xhm282TQLRITOLppN_7QzyiHVlyNjWZuk3WtrrigPs1RyM1peOrRtz5j6J_zSQtryJxD6Ninl3J6GlunODO74XYXjfq0B7l1RzkriXaqIZkWFG3fPHP77EdePny0H1z4PICsJgZiAtV1Iz7F4oLjaYv6Ph7jwtiDiegaBsbPgDysw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC17R_BTipD8H77FL_-fI-96AwFkHRPQ7hywIxhPA9Y5vXhjFlb6TXtrlevYW4VDL9-EfP3GA7te42MQp09k82DyeU8B3FuztRZYPtwzTuSeR7DJ7iRfTkpewQlz8NFk6jyUZpiIR7qosUNSQRBmEhe1q2_aRBFbEYpD1Y9Bf0B5OoQsU5tcnUL6C_wnILjSEe7KLVUTN74npcQ3qynn42F8_cVEXS"
-        },
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KS58JKmHjnIiYJ9sGBObdVppfVNIidYdNDjvB9TBKej9CROIyfSftwh2P24nMK77wEfAODk000zBB8PXYPh5ELKMiOfTsHrg5D4x23uWoDMrR8sryX0A6fA="
-        }
-      ],
-      "scrapedAt": "2026-07-07T10:25:27.752Z"
-    },
-    {
       "id": "social-9524b7222abe",
       "title": "Open Air Fids 2026 - Fescht in da Steina",
       "category": "music",
@@ -29650,26 +28830,6 @@
         }
       ],
       "scrapedAt": "2026-07-07T10:25:27.752Z"
-    },
-    {
-      "id": "social-53bc653d0001",
-      "title": "Vereinsreise",
-      "category": "family",
-      "description": "Vereinsreise des TV Malans nach Basel.",
-      "date": "2026-08-08",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Basel (Start ab Malans)",
-      "lat": 46.993,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.tvmalans.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:28:14.620Z"
     },
     {
       "id": "social-f622862af678",
@@ -30087,35 +29247,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-08T09:26:00.106Z"
-    },
-    {
-      "id": "social-555f06eb8235",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-08-08",
-      "time": "19:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.817,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjusITCW-jQkyLL4vYTKb7Qun2xLcWuHgb_ueCBnvwRzvcGMMHAZmGVueRWpMTVJ1Iu3EwI_otxPJC2b3PNcZIEYL01vNF7msNxYtX7DKFUdC54LEHurUS8Mt7KoPv0IS4X1GYG_Va3volrMQhuHkz_UNCEflh8HvoRQ=="
-        },
-        {
-          "title": "edelweiss-tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPsKTrifiotvlA9V7qXViOQeamb-LhRYW7w--UlW-XqS4elZHrPJk1UWz6vgKaUU5D-whjTSxQhOoGnPqIClkIOuoRe_C-aNSvLIwLn_saNhQbjMvCCqMuckazifW6ZXVBBw=="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:29:18.021Z"
     },
     {
       "id": "social-8ea40aa5c92a",
@@ -31494,47 +30625,6 @@
       "scrapedAt": "2026-07-10T10:27:20.583Z"
     },
     {
-      "id": "social-65eea191da9d",
-      "title": "Gänggali-Markt",
-      "category": "markets",
-      "description": "Floh- und Gänggalimarkt auf dem Arcas.",
-      "date": "2026-08-08",
-      "time": "07:00 - 14:00",
-      "price": "Kostenloser Eintritt",
-      "municipality": "Chur",
-      "locationName": "Arcas, Chur (Martinsplatz/Arcas)",
-      "lat": 46.8504,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://flohmarkt-chur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAxeq9miLx5GP9YHDbtiuR6QBjC0ZDdLkKJSALRK8DVlFYI4_-vQOoCAE3Sfrd8UJadEOlVIKNtGdwgvCPbXGv8PD3RDqKDOkMREe-CK5B-yQaXrjaZ8mRrkkPXaa-pPPiJ0IsNMIcaPBG3ncor7Wy16E="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIBMZUPiD4rL5QtKROeabA9bTDX7fl7qlaqSLu2JmaSOqerz4mqeoraxFGijdrrlldZC-TgMoiNT0oOXARE5kw9vkCz4xD-8n_NA0jykjY1AUzh_O9KvK7gR261kWM9ZA6hIf9ZODfCnw="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT-MoPs5g01y94Kmqec_e9teb-jYpZvIoq2Lqni2sYDAqFC4thRsK1QOyUl88wxoGBM5etZf_o4JhxCMgGSgnw6ek58nO7LnjruVUsbNDyoLhEa2G9ZN9dl0ha3zp4yKn0RZbXleydlcCUvj7bEno6rFSxjm5nA4rEldXQk-kDjpwcaQyAQcxmTyFaJ0O4_Ik0h8py9-e_4VF-XYwGKjg="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFpUwyoxOCs_k-Sv0-VKkDukZKMj__xTOAeZH6N4le8j7fxqLAXpohMS667vSkRAHXxuDBSpXL2INmEgGGNbv0WQq3CxgUVcImtyhmK_FiOldnj67kj4Y-reLUFOh7PYznBBvqYAeZn1j0yCZRWZODPRRkWIQ36Mowcq9H"
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg9i1vJ69fNFIu0QyU8NrwTnrOfz6dlRbnLvJ7pwCYPQ-uXOK7KoXXyX0aPmi-Vjj47CzOAczVwLuRHMiUQqbFyL3nYCy_efwJbwBUGv2WKrBTGw=="
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:43:19.923Z"
-    },
-    {
       "id": "social-4639631e45b0",
       "title": "Der Nussknacker (Weihnachtsgala)",
       "category": "stage",
@@ -31904,47 +30994,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-11T08:48:05.392Z"
-    },
-    {
-      "id": "social-efcadc0f2e12",
-      "title": "Open Air Fids 2026",
-      "category": "music",
-      "description": "Das kleine, aber feine Open Air in Churwalden – «Fescht in da Steina».",
-      "date": "2026-08-08",
-      "time": "00:00 - 23:59",
-      "price": "Paid",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden",
-      "lat": 46.7863,
-      "lng": 9.5714,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7096695287664654522.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/weitere-festivals/fids-fescht-in-da-steina-2026-in-churwalden-7096695287664654522.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHPVPiWwJ9rtFhVSnFEdYm9oHeu9jgnUsqm4gXye1LyHhqiVz8EpG13meu596FUPUVDRJmGoWpZgI3Ucta69J_e2xqiGZHg-t3si0vA7kphnv0znsGUEh7ETrY1Ei2DqfPNyFc26-Cwjuffggg1tQ7djN4ZqDO1JFonvMnnvj6M5LGdG5QsIpfUHRjE3GTVPfSlwJe"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo9LBGbB5v6l3SrLNbtNw5Jrz8_UhXrmDocCDnBzs1W3UFcgcrveK0vFfK9GUrgxuWIYec0d-zj4AOed5kHbfW0hgNcNjK2Zj6f3zz_mPkY-UB1-KBkdTfR1Rz1uxQxtKWWpJDYr0i5wLwjBiFpDngHwMAp36ljE5tB7MWoi58mebQ12ZLdsx67V7uBoBeCnVhnOjR7-oUkdhubw=="
-        },
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMEi1qjg8NB-OSTrwWkaOE9ofhgmYoJsRZUKqspbk7NWc56-nIO3qrjnDYP_Z4gUz2GaI7HJHVH6tCuCcXBxWCsiaPtj4uznwyJp_FGuOdAqq-gLunyJkFhP4="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeU1roBNm2LQevUIPYMdnZEshqLs-8u_JXoaJY4GvGLCBciGlDFA5u-hWjUXfp8JZ-f3yl76ZjGgy5rD3XjOjJ84siZssgd542Pc5oOj4ziK8ZILLQuW1JcOFc72WYPorC9V0qu5ZNyKMdN6zDSUxCNFntx9IN_5JoRW0zPlKDb8QYBbuecW6ZmJKjzSk="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtTk1UL_3McP-njO1LnxcRLrBh13D28ulUTw-ZiVVg2OUAdC0VQ1_fUPpxJqmD_2r4A34ANyvreUK2cWIsxp8jU0xud6iggGGcv3ZZz93hU0UssXbUGXnOrBUhJFDCrWCt4aiLNEKd7CTpts40mVXc_A8qFklKH-juH4kRgxKLQestsviIS6lZ7vj1VglBsOBb69ach_DxyI7bp-AI"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:48:46.167Z"
     },
     {
       "id": "social-ce3a5a5cfb05",
@@ -35780,66 +34829,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-cd39558ca8b4",
-      "title": "BSV Bündner Kantonal-Meisterschaft (SG Haldenstein) Vormittag",
-      "category": "sport",
-      "description": "Bündner Kantonal-Meisterschaft der Schützengesellschaft Haldenstein. Für aktive Mitglieder mit Lizenz.",
-      "date": "2026-08-08",
-      "time": "09:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.877,
-      "lng": 9.539,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
-    },
-    {
-      "id": "social-f76b50d27b80",
-      "title": "BSV Bündner Kantonal-Meisterschaft (SG Haldenstein) Nachmittag",
-      "category": "sport",
-      "description": "Bündner Kantonal-Meisterschaft der Schützengesellschaft Haldenstein. Für aktive Mitglieder mit Lizenz.",
-      "date": "2026-08-08",
-      "time": "13:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.877,
-      "lng": 9.539,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
-    },
-    {
-      "id": "social-e6038beb1a2a",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-08",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-78eb514fe7c9",
