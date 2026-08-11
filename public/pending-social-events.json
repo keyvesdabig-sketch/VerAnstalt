@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-08-10T08:22:35.425Z",
+  "lastUpdated": "2026-08-11T08:04:59.785Z",
   "events": [
-    {
-      "id": "social-25f054d71715",
-      "title": "Real Madrid Fussballcamp in Chur",
-      "category": "sport",
-      "description": "Ein Fussballcamp für Kinder und Jugendliche mit dem Real Madrid Foundation Campus Experience.",
-      "date": "2026-08-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/events/real-madrid-fussballcamp-in-chur",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-11"
-    },
     {
       "id": "social-fcdce9105f98",
       "title": "Churer Fest",
@@ -11860,26 +11818,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-5a6a5cb90c61",
-      "title": "Detektiv (Ferienprogramm)",
-      "category": "family",
-      "description": "Hinweise sammeln und Rätsel lösen, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-08-10",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-742a08511a14",
       "title": "Wassertag an der ÜL (Ferienprogramm)",
       "category": "family",
@@ -19311,43 +19249,6 @@
       "scrapedAt": "2026-06-17T11:39:10.374Z"
     },
     {
-      "id": "social-bc49a3cc80d6",
-      "title": "Real Madrid Fussballcamp",
-      "category": "sport",
-      "description": "",
-      "date": "2026-08-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw_3swQkhsOeSQdi1h_ogNnSed_AFXbwJjFDXOkqhddOiQ3qM4yrKEPpXq0Rgi2kO-WT4vlfwXTJ8-ghSItW3gqXM6Vqb50budl4ftKCP64-xhPnvGfAWbyRua9j6-V7A9qvjirw0JlA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Z9pYIYSJ_42X4N27BT8Kz9iliCY-AiQhAWoY9vtzAYWpLVowPz_2Xqn-EdlIsZzexdtOv8Ey9Y_I98bhj-R1UIu-3j5Pa0Klj8i8AqXOFn5gX1j81-5zNUnN_Ls-ogDxnje3atKuj9uVIMYuA-2tIoJb7VTE-sazXHLCAfzpJtDnZ-mbAw_x8hZQPJLWQs-5E0AalA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwpX4ZNeUmfxuw1siJ_mGsDrZtzjDKX9nwjmKVW9mzFW7xWNCaTmR8IxzvqdzufFJCzYWrzkL7OeurKdHKBJoBQKUX_gJYuGLEOcQIQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrJUcWZ9BUl4fXZmQEZD72AZo0rKHq5DCZ8ZmqxHo2m0mdGimOeiXyQPfwbZwbg90jj3laPTqVlc_OCguPIaG2nvqp2R1E6PZa6GZRld0TScPy95DcwTvFJb92K7zF93Zp8M-L"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:06:42.479Z"
-    },
-    {
       "id": "social-11e92bc5c346",
       "title": "Bike Kingdom Kids Cup",
       "category": "sport",
@@ -20888,26 +20789,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-d960d1c701ba",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-10",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-37f68d395f12",
@@ -24498,47 +24379,6 @@
       "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
-      "id": "social-fc0f8748952a",
-      "title": "Jassen Einzelschieber in Chur",
-      "category": "family",
-      "description": "Jass-Turnier für Einzelschieber. Findet vom 10. August bis 30. November statt.",
-      "date": "2026-08-10",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/jassen-einzelschieber-in-chur/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
       "id": "social-e692fe169652",
       "title": "Festspiele im Schloss Haldenstein - Symphonic Pops",
       "category": "music",
@@ -27938,47 +27778,6 @@
       "scrapedAt": "2026-07-07T10:28:14.620Z"
     },
     {
-      "id": "social-ebd181c3e873",
-      "title": "Junioren Sommercamp Tennisclub Landquart",
-      "category": "sport",
-      "description": "Tennistraining für Juniorinnen und Junioren im Alter von 2011 bis 2021. Mindestanmeldung für 4 Tage.",
-      "date": "2026-08-10",
-      "time": "09:00 - 11:30",
-      "price": "CHF 100.00",
-      "municipality": "Landquart",
-      "locationName": "Tennisclub Landquart, Ganda 13",
-      "lat": 46.957,
-      "lng": 9.539,
-      "image": "",
-      "organizerUrl": "https://www.tclandquart.ch/junioren-sommercamp-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tclandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtLT83hR7_GqYDsnTi3nwektbW55_Cp_NVlP4xSt6rSk3LNqIoDCbtzsQYUdhe2dKvSJY4UNZ3OtIRDaxvRkZF0xnZmYqA7_U0v1lEKjLYEMJVZUmS0SBcSpaXHgTQ59uakkakpQ=="
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiPqO4EoazkKl089YzGJ2ccsY2ccNciuYAz_03vRuMSmbD7tGz1ZE_q5LczmbQRPWLCkhzy45mXlIzBjnlymT3CqVB32ktryB5EyKqUaFXyBcaxCizJ6fMR7vki0yXwPNwk8IR5QAHFODH38c="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUNMWJJy3EiChGyctwkrgJc4kg9LuWk-Rn-7AclmboLcuQn2FdFdS_rpCxaa37ZzqrEcDNsnZfXlki3SNK072EZreELG39HA9GrllxMYvwxmESDZ20d0ZCoMfmLJnhKSqpeYNAP81y"
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFReS7AzuvGqUxMJRo05dfXCgs10LOEnSCvj6RRQOhcyWckNZgo5pktUjAwjF8-AkuMLUJPu3cx-cDzPeg6_8MHrdo4nYIcl1Fy5My-bWwzfl60bHVGP9qfnXRF_mAdpI7Fc2aaTkO-nARhnh-Hks8hX8aHfJxWeaAV_8jYmfM70OKzCjatW56ZHstZFyh9xl0="
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsk3j7Hq0mjpySw2ho0SZ_s3BqkR8XaKlA_cmlItF0jK2RjQ0fQ_SJj2b00v5Z67_uE5OpIu6Muf2jwsl1M4RZz7y43fVwtHub_atZLaGJQ9Yc2G6hLlGIAV6UhLw0-u0c2rQAC72c-d8u4EczB2wnUG8="
-        }
-      ],
-      "scrapedAt": "2026-07-07T10:29:04.899Z"
-    },
-    {
       "id": "social-b1d34ca9d28d",
       "title": "\"Buchstart\" für kleine Bibliothekbesucher*innen",
       "category": "family",
@@ -30054,47 +29853,6 @@
       "scrapedAt": "2026-07-11T08:49:13.334Z"
     },
     {
-      "id": "social-422f7c0d2552",
-      "title": "Dorfführung Thusis",
-      "category": "family",
-      "description": "Ein Handelsort mit Tradition. Erfahren Sie mehr auf einem spannenden Rundgang durch die Geschichte(n). Treffpunkt beim Rathaus. Anmeldung erforderlich bis am Durchführungstag 14.00 Uhr. Im Anschluss Apéro, offeriert vom Verein Marktplatz- und Zentrumsort Thusis. Dauer inkl. Apéro ca. 1 1/2 Stunden.",
-      "date": "2026-08-10",
-      "time": "17:30",
-      "price": "Kostenlos",
-      "municipality": "Thusis",
-      "locationName": "Rathaus, Thusis",
-      "lat": 46.7093,
-      "lng": 9.4069,
-      "image": "",
-      "organizerUrl": "https://www.viamala.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs5oq2UB-HHytSroYfXJSM5xgbdfSz08BabKzGnRyQw7_ZiIhq7aMFUNWoNGpA_TCndBSeCx3aObzqMnTI7RSmAs3-fP7IvkiUmjL8kVNAjSWzikgEbLV7tq3tY4Uv76w="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6N9tCNEjOi6LfBE6jNIR2gzLJhWVgKiZJyZpR8wnlFsG_w85T0P6ZfhRfvw9vr0YxbxHAeWLlRSwPtX7FWzRZ7-dC4bltWqqxbxPxSpC6njH8sZWNoLpFlzhrqqWbl2sF-vZmYDDUSL7jpezvU11NlSaiJPWK5jIxhiJFJGZfRBsrvG8KKPOl0ungtwm"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrh-f2Plp0et0hSb5JCSfwB7aJT_c0vvMtTyZ2e1nQa7I1yIzc6AeAGFA71OzD2qy93xdO3bwEq1VoZ7s3BB8sO_lZE8O9u6_vGkKm-nZIP-kzgf0E1iGoI2_2oNhlztB3c9zJ0cnlCmZadHa5Cp-qcY="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa60g3qcYHg2ZHNVrWInqy5dk52g5Rq8jXd-GAxv2R8B2buQf2PRjqFYa8_JCwZzkhCv5Cg4vSMUnjdeGaUlDxfkTG4f9LgelNUJa5BEBUZh33MteJiYNGtUGBx6c3n4xp3sW2aek3DKMGskRtw2nxhkwz3RjZ56XS3M37pGezuub5WhMa7pUz2jBASmwSO_sg7EN9ug=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjPE3Yd_Fmpf9N5grl-hdRlUKz4TyOywSqfPGpDo0oy4B7IVRFcV9KE8cc7d2TedH87nsICP1w2UtVZ8lwscilAGgeFcPe6T3AhngyMosPNfg-zFeZx2TSmt8808S8YCFu1K68yN6ew-BOFGngFlbyFObO"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
       "id": "social-e56359a95fac",
       "title": "Dorfführung Thusis",
       "category": "family",
@@ -31649,26 +31407,6 @@
       "scrapedAt": "2026-07-14T09:09:21.734Z"
     },
     {
-      "id": "social-1617c79dcc61",
-      "title": "Junioren Sommercamp 2026",
-      "category": "sport",
-      "description": "Jedes Jahr bieten wir unseren Juniorinnen und Junioren im Sommer ein Trainingscamp auf unseren Plätzen an. Kursdauer: 10. - 14. August 2026 (5 Tage).",
-      "date": "2026-08-10",
-      "time": "09:00 - 11:30",
-      "price": "CHF 100.00",
-      "municipality": "Landquart",
-      "locationName": "Tennisclub Landquart, Ganda 13",
-      "lat": 46.967,
-      "lng": 9.549,
-      "image": "",
-      "organizerUrl": "https://www.tclandquart.ch/junioren/sommercamp-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-14T09:10:09.874Z"
-    },
-    {
       "id": "social-b1efc9f039a7",
       "title": "Marie Louise Werth Merry Christmas Tour 2026",
       "category": "music",
@@ -33197,26 +32935,6 @@
       "scrapedAt": "2026-07-17T09:06:06.388Z"
     },
     {
-      "id": "social-9acd7f172fa0",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-08-10",
-      "time": "14:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
-    },
-    {
       "id": "social-6c13f1f6b0d5",
       "title": "Kaffeetreff für Alt und Jung",
       "category": "family",
@@ -33760,26 +33478,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-82ab29a22454",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-a899b22fb74e",
