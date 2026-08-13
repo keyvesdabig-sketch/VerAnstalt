@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T08:10:22.307Z",
+  "lastUpdated": "2026-08-13T08:13:04.579Z",
   "events": [
     {
       "id": "social-fcdce9105f98",
@@ -7871,47 +7871,6 @@
       "scrapedAt": "2026-06-02T11:14:08.037Z"
     },
     {
-      "id": "social-1c6329c0b0ff",
-      "title": "Regelmässiges Training Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässige Schiesstrainings der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-12",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
-    },
-    {
       "id": "social-5a11e79a44c2",
       "title": "Regelmässiges Training Feldschützengesellschaft",
       "category": "sport",
@@ -11659,26 +11618,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-d1043fd01764",
-      "title": "Eis und Smoothies selber machen (Ferienprogramm)",
-      "category": "family",
-      "description": "Eis und Smoothies selber herstellen, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-08-12",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-73dc7fbc8ae3",
       "title": "Basteltag (Ferienprogramm)",
       "category": "family",
@@ -12403,47 +12342,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-08T11:51:07.392Z"
-    },
-    {
-      "id": "social-111eb17ffd2a",
-      "title": "Feldschützengesellschaft Training",
-      "category": "sport",
-      "description": "Regelmässiges Schiesstraining der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-12",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.91,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhrU5X0DtzF8mow0Ap5HvZkCIQmE9vfr3rBw6PR29vyURM1p0RcvLDybMlYp5hPYg_CZ7YlqSgXQf3plhllvAkCcO9DyCrRwtAHi3Gh5p8Nfteo2Vr9uChuqGzywfsAAgAhtRaGecny0w_-5RlZ0w="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5E8MAf0wLD80k9_HPBjqH3DUoC7fUemmR1K9uDifsL7ERFrGRF09AVVbF4dfMdA3LgHKgK2qAPiSybT0lmkhD4sAEsdu9zlJ45dh2DsSkZhaNALgnaMHWfiP8Nvd5QVvNwPG69Z9vfI7j9UYnQ_AltwvqXIWInXROAVTbWistbaPFMiE0s_eDCphRHgxGHw=="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIcWulnUWSn2FUxgzU_nhFjbafxbeknxxgx9iggJuiQIq6TUGFAZAlQcIfxmXUUCJ93M481gnR1HetXqQhhsPDHvrGf-X40SXbQS8_5tShtuMPknDKsmJCI9dYqlk="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs8fGcflyDtiignfssDCP-Latd_b01a0whgyq6bQanY875-e6XSxUOjRL9mqvJdw_s3Z1YYlKjtwsWwzmqTX19W6BZs5znl21FU0cMRws_XQsbErX-Qk0vgeR66YlNuIZA8HVO9cgcw_f2WOFZn-K7aRZZuNZvBx9j2xktsXeTcPG3hqXIPP1YYRc_yaLR1WiVfUiFpb8cHxGZLZJmU84FYhVlrsD_d-Ism2EABYyGabFt2I0m9Cw9WbjyWXwoHKuJ0dqPa5WZ7obFdHD-ClTtYDA="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFStop_uNyNgaMMMEluGwxSV5MNQEp1sbq9IkV_BlQmYAsSc1ryKzEfmrtll9_TUKYp-jEOmG7b-SuDD0HdpceUYLy64GnAaT5W4lq38jF91_d5kmAJmgKeOUsZaw=="
-        }
-      ],
-      "scrapedAt": "2026-06-08T11:53:51.962Z"
     },
     {
       "id": "social-a4d9bddbbe63",
@@ -20530,26 +20428,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-811295a7882a",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-12",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-220e4410bedf",
       "title": "Polenta 7000",
       "category": "music",
@@ -23262,46 +23140,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:36:00.038Z"
-    },
-    {
-      "id": "social-469642f07f2e",
-      "title": "Real Madrid Fussballcamp in Chur",
-      "category": "sport",
-      "description": "Ein Fussballcamp von Real Madrid in Chur.",
-      "date": "2026-08-12",
-      "time": "Ganztägig",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.852,
-      "lng": 9.529,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.005Z"
-    },
-    {
-      "id": "social-6a3cf21a1e27",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Spielnachmittage im Freibad.",
-      "date": "2026-08-12",
-      "time": "14:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Sport- und Eventanlagen Chur (Freibad)",
-      "lat": 46.841,
-      "lng": 9.516,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.006Z"
     },
     {
       "id": "social-985e0490a543",
@@ -26950,26 +26788,6 @@
       "scrapedAt": "2026-07-06T11:25:12.974Z"
     },
     {
-      "id": "social-4b14601ab3a5",
-      "title": "Regelmässiges Probetraining Feldschützengesellschaft Trimmis",
-      "category": "sport",
-      "description": "Regelmässiges Probetraining für Sportschiessen der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-12",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.fs-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:27:05.371Z"
-    },
-    {
       "id": "social-c3633b83a2ba",
       "title": "Regelmässiges Probetraining Feldschützengesellschaft Trimmis",
       "category": "sport",
@@ -28275,26 +28093,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-09T10:19:54.230Z"
-    },
-    {
-      "id": "social-0faccca613f7",
-      "title": "Kraft der Stille – Sitzen im Schweigen",
-      "category": "family",
-      "description": "Innerlich zur Ruhe zu kommen und in der Stille sich auf das Wesentliche besinnen. Mittwochs vierzehntäglich.",
-      "date": "2026-08-12",
-      "time": "18:00 - 19:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Kapelle Bodmer",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.kirchefelsberg.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-09T10:21:28.581Z"
     },
     {
       "id": "social-0f80cc445f34",
@@ -32813,26 +32611,6 @@
       "scrapedAt": "2026-07-17T09:09:48.154Z"
     },
     {
-      "id": "social-bf2f7ce7e30c",
-      "title": "10. Freie Übung und Stiche",
-      "category": "sport",
-      "description": "Zehnte freie Schiessübung und Stiche.",
-      "date": "2026-08-12",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans Schützenhaus",
-      "lat": 47.0017,
-      "lng": 9.5441,
-      "image": "",
-      "organizerUrl": "https://www.schuetzenverein-malans.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:12:56.522Z"
-    },
-    {
       "id": "social-d8eb36c17153",
       "title": "AC/DC Tribute Konzert mit der Band Barock",
       "category": "music",
@@ -33096,26 +32874,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-d0ce84d43570",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-37e398811026",
