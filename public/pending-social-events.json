@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T08:13:04.579Z",
+  "lastUpdated": "2026-08-14T08:08:23.401Z",
   "events": [
     {
       "id": "social-fcdce9105f98",
@@ -11618,26 +11618,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-73dc7fbc8ae3",
-      "title": "Basteltag (Ferienprogramm)",
-      "category": "family",
-      "description": "Kreativer Basteltag, Teil des Ferienangebots der Schule Malans.",
-      "date": "2026-08-13",
-      "time": "08:00 - 18:00",
-      "price": "40.00 - 70.00 CHF",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://schulen.malans.ch/ferienbetreuung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-f2bd789a5e38",
       "title": "Film-Fest Malans",
       "category": "stage",
@@ -16743,47 +16723,6 @@
       "scrapedAt": "2026-06-14T10:30:33.185Z"
     },
     {
-      "id": "social-21a8a33e3d66",
-      "title": "Erlebnisnachmittage im Freibad",
-      "category": "sport",
-      "description": "Spiel und Spass im Freibad der Sportanlage Obere Au.",
-      "date": "2026-08-13",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Sportanlage Obere Au",
-      "lat": 46.843,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.chur-kultur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
-    },
-    {
       "id": "social-fb318506a492",
       "title": "Spielnachmittage im Freibad",
       "category": "sport",
@@ -18441,26 +18380,6 @@
       "scrapedAt": "2026-06-16T12:15:52.955Z"
     },
     {
-      "id": "social-ffa6525616be",
-      "title": "Viamala-Schlucht-Führung",
-      "category": "family",
-      "description": "Erkunden Sie die beeindruckende Viamala-Schlucht bei einer geführten Tour.",
-      "date": "2026-08-13",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Viamala-Schlucht",
-      "lat": 46.6811,
-      "lng": 9.4206,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/viamala-schlucht-fuehrung/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
-    },
-    {
       "id": "social-0f2b72ceef6e",
       "title": "Orts-, Kirchen- und Museumsführung",
       "category": "family",
@@ -19093,26 +19012,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-18T11:07:18.495Z"
-    },
-    {
-      "id": "social-206048054dcb",
-      "title": "Regelmässiges Schiesstraining Feldschützengesellschaft",
-      "category": "sport",
-      "description": "Regelmässiges Training der Feldschützengesellschaft Trimmis.",
-      "date": "2026-08-13",
-      "time": "18:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis",
-      "lat": 46.88,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "http://www.fs-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:09:11.117Z"
     },
     {
       "id": "social-ca91fcb92ce1",
@@ -20428,26 +20327,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-220e4410bedf",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-13",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-54db1a6f292e",
       "title": "Festspiele im Schloss",
       "category": "music",
@@ -21450,26 +21329,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-19T11:27:43.348Z"
-    },
-    {
-      "id": "social-63559a14b9b1",
-      "title": "ORIGEN | Complet | Monastisches Abendgebet",
-      "category": "music",
-      "description": "Monastisches Abendgebet im Rahmen von ORIGEN.",
-      "date": "2026-08-13",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
     },
     {
       "id": "social-d32f7f62b9d5",
@@ -23140,26 +22999,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:36:00.038Z"
-    },
-    {
-      "id": "social-985e0490a543",
-      "title": "Real Madrid Fussballcamp in Chur",
-      "category": "sport",
-      "description": "Ein Fussballcamp von Real Madrid in Chur.",
-      "date": "2026-08-13",
-      "time": "Ganztägig",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.852,
-      "lng": 9.529,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.006Z"
     },
     {
       "id": "social-d177fcfaa729",
@@ -31065,26 +30904,6 @@
       "scrapedAt": "2026-07-14T09:11:42.831Z"
     },
     {
-      "id": "social-eac4ed616d7e",
-      "title": "Spielnachmittage im Freibad",
-      "category": "family",
-      "description": "Erlebnisnachmittage im Freibad für Spiel und Spass.",
-      "date": "2026-08-13",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Sportanlage Obere Au",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-15T09:06:57.481Z"
-    },
-    {
       "id": "social-035d7fb42993",
       "title": "WIND OF CHANGE - choR inteR kultuR Konzerte",
       "category": "music",
@@ -31963,47 +31782,6 @@
       "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
-      "id": "social-97431732eaf0",
-      "title": "Adventure afternoons",
-      "category": "family",
-      "description": "Action-packed adventure afternoons at the Obere Au outdoor swimming pool complex.",
-      "date": "2026-08-13",
-      "time": "14:00 - 16:00",
-      "price": "Included in pass or regular pool entrance fee",
-      "municipality": "Chur",
-      "locationName": "Obere Au outdoor swimming pool complex",
-      "lat": 46.84,
-      "lng": 9.525,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.973Z"
-    },
-    {
       "id": "social-0cf9c5018179",
       "title": "Tanz dich frei in Weichheit, Leichtigkeit und Lebensfreude!",
       "category": "family",
@@ -32349,26 +32127,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-17T09:06:06.388Z"
-    },
-    {
-      "id": "social-6c13f1f6b0d5",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-08-13",
-      "time": "08:30 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
     },
     {
       "id": "social-c671812cb9d1",
@@ -32874,26 +32632,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-37e398811026",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-13",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-51e44a8807cf",
