@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-08-14T08:08:23.401Z",
+  "lastUpdated": "2026-08-15T07:23:25.518Z",
   "events": [
-    {
-      "id": "social-fcdce9105f98",
-      "title": "Churer Fest",
-      "category": "family",
-      "description": "Das grösste Sommerfest in der Südostschweiz, bei dem Chur für drei Tage zur Festhütte wird, mit Musik und kulinarischen Genüssen aus aller Welt.",
-      "date": "2026-08-14",
-      "time": "17:30 - 02:00",
-      "price": "Kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt",
-      "lat": 46.8504,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://www.chur-kultur.ch/events/churer-fest",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-12"
-    },
     {
       "id": "social-265939d8b9b4",
       "title": "Bike Kingdom Kids Cup 2026 im Alpenbikepark Chur",
@@ -1449,48 +1407,6 @@
       ],
       "scrapedAt": "2026-05-24T14:14:23.487Z",
       "legacyId": "social-1779632063487-Churwalden-10"
-    },
-    {
-      "id": "social-611555718ae7",
-      "title": "DART-FRIDAY",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-08-14",
-      "time": "19:00 - 23:00",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.83,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk545UWiMimYo1WAVzsJSFEWvQkbZN5oo6TOSBIP8I-hBVPXgTxvldtWxFl-fOznx3pIjzNlU8ViniiC2cnaBiohQSXqv5m3cQNyXEWlqCJA6Tu_V5tlDG132rIMGiwe3WlQQkuRdKHAEqtxkv-QBzB_mMuI6G9LdWJJpzoAI4roI0fdpgsl_hARzzarXQuFWQ2LTlaPWwMQ-lTr6QQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1shb0v9oFuGAHnY8y60Ddr8zz8c4trkWG8jcfNQj1K7KUkhmIqy9MLwsJGA4MPEjPwnpu_o20CQ6AZ0xo-XgqMSwdAVVntMaXtxDZq_2WjeG7Masd_mbwFL9DH1MdeGyA0YocBHdgENTF4cyieElxftMGceEtIK5KjrOK5UlWy6q-dDiL9dVe-OeIox3ZMfwEQQJn0jV2M6qEZNaw3Q=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJOp2z4GaHZX6FZyFWhhgBzDt4Lvsn2Y4TkxTucWVdjrbllDXMyCvIvPMDJNR-LXxoWF5RxkKt7NJfz-J8N8dTLia4OKosD798D9vznYrBdyUCnlArlgWC7nnzT2NMfPFngukWDs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzy86lqnz9ONH-a4KbfdVHkMxSnq7FouP5lHXAD0BDRIiS5lu3SUbk54YrslfsVTEck8grFIxbJxrzs-C1QOXIt0ZkzVwdonZ-yDxhJ5G_ex75OeJ1Rgx8ayialzmmuHGJhicGqkBkAhx4E6gopELifObC0wF1kI8GUiy9IhbHs8o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8HXmRmbCCALk_RbuES9IMKsxtTAMcR_g3HwLfP8YEEPZ6wVFRrt3WbEV17FuKNLp8cLRYgyTRyhqnw3VQLNduMWurFhLEXoyiTedozaO_Ed877zahKvBCfY2hozUPU_QA2yHeIR0k8LIUKp8xzksVegvipQOdICMg6lUPraku6dA="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:15:00.434Z",
-      "legacyId": "social-1779632100434-TschiertschenPraden-11"
     },
     {
       "id": "social-cc2bac3a28dc",
@@ -3277,47 +3193,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:57:54.049Z"
-    },
-    {
-      "id": "social-d902b2d9277f",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten. Lasst die Pfeile fliegen!",
-      "date": "2026-08-14",
-      "time": "19:00 - open end",
-      "price": "Nicht spezifiziert",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEp0WXqTbO56a5kSdRIVqP_j5xx964Q9eksXv-k86moeDMIqk93K4iS8zedM3__I46VTcJGiGF1jgWpt6_xf6EZcPStNjk0DzOeGFgLN5UNOqV2IGbkq88jWVo45L-c_0qjZhtbhjJXrfKcJ_YIjQErfTmQqKEW3B7oPNSmj4MqXF1IGQk5kOyYzjck3kyNsa3LK9EPUMntqSJzLYZKg=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM-GcuZneGCD61v33fYf_zZ_7jNM4y4pF6VT0doJnhgg7H0GHqCUTOt85cpAMOz7OmZ6yj3Dpj2ToZoBPswtnKJig0-HVhzhUfIcnvd74T8n9d8DkDao2fCNIoQ1WsckMj7Adfh0C5N1NXEJW_yuBblU3yHIlZpkHWJMmry3fMwP_Y-ap63DlzBMP65oJ_YuRbeOobtq1CYqeRnnOsdA=="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp2y0Vw8zAsJCeNGFuvZz7fwCXqvjcEpv9MEH6kVWKBu0bMJlHbQRHputGPXg3wp5bHJZ-Vp5ic8tgZTUVD_JVg8TXune66lWrFyWGrLzdwZNocx1bFDDzSphzLYFZapl2WYlH0eJ2MU1muCefeaD9"
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO3gRY1SSQVjhDlKa__0VfC0q2rkGEPNO2c9JsQBy2neH4TZybCyb9POB0QIOa7pdr6ChtEkT3iOvb3BbvPpOT2IOzWTENt3ftDKStUbdsdJYyW7BuSiMh8919JKu30rwO9olpmoK0maxoEqqdVMYq32WF27Lza8xt_fM="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRaMEuj0Rey3C-EXcXOGko4oq79M8_1dg9dBs4qWaYjpLjaE7JcmnSHyG2QkJo0E6MNOpy9U2wjjaI7U1WpPCbrjRI7xmzEkGVj8k3XsYMlfmnawZbD8jDj1hgy2yGJ-8kuKG8z4w0me5PFskY3VMbgQtlCz4DoatDbb-0_7RTw0Q="
-        }
-      ],
-      "scrapedAt": "2026-05-27T10:58:35.508Z"
     },
     {
       "id": "social-ea1e960be69b",
@@ -5406,47 +5281,6 @@
       "scrapedAt": "2026-05-29T10:41:19.744Z"
     },
     {
-      "id": "social-5b0c5a88b889",
-      "title": "Obligatorisches Schiessen 2026",
-      "category": "sport",
-      "description": "Teil des Bundesprogramms für Schützen. Mitzunehmen sind: Aufforderungsschreiben, Dienstbüchlein, Schiessbüchlein oder Militärischer Leistungsausweis, amtlicher Ausweis, persönliche Dienstwaffe mit Putzzeug, persönlicher Gehörschutz.",
-      "date": "2026-08-14",
-      "time": "17:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage SG Haldenstein",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.sg-haldenstein.ch/bundesprogramm-feldschiessen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8k-UY-ctUHvVFWFxiEqcty68ATBnY_ptW8VxJeY0gMpGa2EXDABfsyNuoCWle9UlKvnWmM-bKV4DW8zLnqiNgSFpq3HSrT45S12LZBPy2wgRugVwRcliZYnPBm7YjosHQeTZd_un3IDXPhA_g_6If6Oyft-J30vguuAP14aEiMU6YQOiKL81hW0MTjMtPXcm2edUGSk2um-pcRF26fg3ZOSfqLnI="
-        },
-        {
-          "title": "wandernacht.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhmcyHCJn9HUdulYjMsrevSt5mag6r3vSLfQe2nyrRgPH2pGb49yTRtdUwhW6AQZ94NAX8qly7P0Rg-KQFewvFN8w3oMI6Cb4RcDjgxsSnaolVSq8ckuw6Qv9pEheD0HUTsV2mOA=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnUWcp11VJggMrYhf6esDJcAGLrG1pjei_I7QNbjt7-FR0-mm5i4FQS0SXr97OjyaPNYcPJZ_QgnFw9YvTmLfDhC4pcITD-ztBAViEAsHJfN1z4NJeAJswdR1SRhEC54HQfJmGCB8oBkM98ypcsnfXPh_vlCaQ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvhKKjHbFzlViC1QhpaXfL5sWQ5fTynSihXCT4i--uf8eqd9KscrauaX3WXk-fL_WpJqhsvd_wUVkZFBh3SyV1hIKlNbFeNbk8nVnCrsW1vLJuFncBeg58sZi3VHdd-nqAUs52whtlAjL2kjmO3Bzcop6DGowCbqbAmSWub58Zc3JxnplU7ikRgW-J7yrZ"
-        },
-        {
-          "title": "chur-kultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuj4FzAykbmlWn-Bs4O2ct9fgNF3xksQvbBrrMk3OuE1jGrBez78m-Udp3QV1u2dIHdd5X6nT4m-ndgI74Shpl8sOvYGtc6nA535AFaXmC6zOVDzrEPXyXXdyimXROu6AT2eIPql6U7k7ovG7EOzavalVww3Ehm7jq3eq730fmhX3t9APmlC-vUHI1AB7r3UPjdpqj5I-tlAE="
-        }
-      ],
-      "scrapedAt": "2026-05-29T10:42:37.125Z"
-    },
-    {
       "id": "social-c136bc39c7d0",
       "title": "Obligatorisches Schiessen 2026",
       "category": "sport",
@@ -6752,26 +6586,6 @@
       "scrapedAt": "2026-05-31T09:48:47.075Z"
     },
     {
-      "id": "social-66150bbfad24",
-      "title": "\"DART-FRIDAY\" im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-08-14",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.848,
-      "lng": 9.58,
-      "image": "",
-      "organizerUrl": "info@edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:50:58.323Z"
-    },
-    {
       "id": "social-22027d0c68e5",
       "title": "\"DART-FRIDAY\" im Edelweiss in Tschiertschen",
       "category": "sport",
@@ -7607,67 +7421,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:42:14.728Z"
-    },
-    {
-      "id": "social-11e66adb8efb",
-      "title": "Präsentation Schule in Cazis",
-      "category": "family",
-      "description": "Präsentation zum Thema Schule in Cazis.",
-      "date": "2026-08-14",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Cazis",
-      "lat": 46.75,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.cazis.ch/Jahresprogramm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhlCARK3bc7lNQTicXYRP3-aosZhNR_ix2JfKuwSH8yZsmLjMRaETy53YoGGLnWpJW1obHFykoI6m535YC6ATYs2BfHpw4alJ-l480vOuQYp75XZFLMUF7DuR7C54jStFpqBrZVY9C-2VnjpU6vPPu_XUNKuk7hee7x6xiqg2u0bUJ-k2wqlx3Maf6ZobnikM="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6X5SpTxE2dL1svsqOGj8MttnGQ_ky482nmM0b_cKfyMzBi7nz63nAaoDOD73gBGg1p5DrwqfG-7kZfXDOcNjN9F-wFzKBxauegUxBfViDynjQdVDvDwYdaZBAogcUfNhjyDBK_hI5WO_jOay5nqan7P_z8Vquh-TJLmZJJFcNopev3CoiW242m_vZ"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWA9rNJmlO_uRSMy1skjhGk3I-r3ZFjQ7lZziLv-Isw0M1ZIBfkYEK3Vh8eCKm76mSjWijhfdYHhd8tOpsS0_sM7rqFBaUzilRoBU3dophE8bkiyOUHl8jQTWh0C1-pFCZBAq0GSATwe-x7BsN"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCfIhIGpj7A9nUVj2VWZRD7AiXPuVJKYz8ifBKhYVAQvWt1aoEeApBTFQz_2W8ss0EeCgKoIjnLckEFpiqpRj5XAjxErvg7yRNFVldPgBeIsIWb0-F7Mw25OQPULXKyUBZ487sHbox80rDobv6saYSiWb2cQ1n0k0NnbgCkmGkr3nN_3CuWkX8rkc2CSpX3YBogHGMKyTu"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDK-Pmr9IvvPkvL1K9-ZVUKRV03nFA0jaXEZuA3uxNIpmZeTGnccnnbZ9QVD6vjQfC4qXBJFHdsVDM-rVsP0GsTvEfVbt6uKBvYgvZxtYe8KabY5iGkWo6D1DPMxioVXGj4QVD061mHGD0VonA1oL1mNn3GO2SN6EckoSv_7MY"
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:42:50.349Z"
-    },
-    {
-      "id": "social-3e16c6d1d7a8",
-      "title": "Festspiele im Schloss: Bilder einer Ausstellung",
-      "category": "music",
-      "description": "Sommerkonzert 'Bilder einer Ausstellung' im Rahmen der Festspiele im Schloss Haldenstein.",
-      "date": "2026-08-14",
-      "time": "20:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.883,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:13:28.038Z"
     },
     {
       "id": "social-e3cbf3268290",
@@ -9037,26 +8790,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-03T11:53:21.095Z"
-    },
-    {
-      "id": "social-7a021bb87179",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-08-14",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
     },
     {
       "id": "social-51b2f316da72",
@@ -10602,47 +10335,6 @@
         }
       ],
       "scrapedAt": "2026-06-05T10:43:57.523Z"
-    },
-    {
-      "id": "social-02b617064c1c",
-      "title": "Bundesprogramm/Feldschiessen",
-      "category": "sport",
-      "description": "Die vereinigte Schützengesellschaft Chur und Umgebung führt im Jahr 2026 das Bundesprogramm durch. Das Feldschiessen ist der grösste Schiessanlass der Welt.",
-      "date": "2026-08-14",
-      "time": "17:00 - 20:00",
-      "price": "Unbekannt",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.877,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch/bundesprogramm-feldschiessen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3dcQ2HDEhHqK6YNHyH-P78sWJbcxGBcfz03BYH9XnnAJwwZGB3rgg0ISyQJ7DZQXO-beeA67DZZSMHFNgmPDrpTWcih-XD0YPxYamT0fYQIhrsPNA4VwQd0Q8PHLWKNCeEzYMw6SShONCNnQ1urkZTjsr-Ams_Yip4jkvmRJUtmeL-qBzhrKs754wgWNnmVKZm1Y-Kdg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV0q8tqliG9K1isIisAf_JbTDvCPVEqFAHHDzCwEC1fs4OVwPwedQiOuIuZxzYevgbBViF_ScwUDGaIG8yYSxMOeJUIGIsHKfV_GgeY6I87YEODzZ1xbuoan82YLI7r7l7zHJVxaBnriBobeS7yChTU5nFtyvx18fRD7j18VRWBym7_e1dcsbve8oXuzkLrewGiClZQX9J0fjUPaYmdTXxkgCHE5zUgfVbkQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEqyNgZliX6Akii-e_5YyRcipz01zd21dCftKPNkvvcXbMvr6ZIecs9cRiLMNmaC-SFk6HTfy4j3aerdN2mruQoYzBgvKESBkrwfEYYp7w8t7DCrEcA6Yq9Zx8X5wzbPc4a4IN0K1DA5KIOIgtN83TmGdKN2YVO5o_oZ9vSq_JegWd6_FjxFCkvoVpjx97QCA6J0YReUMvu1nKWNG477xmbZNmA=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRDpID_NJ1d9tMdqE8cHH49JjgjlOlmx3NhswdwuwwVY8NYzYLNgjbTiIOrdAI9Bq5hjFWY9Lydw3iPiil9l3EgOlfY3ihgZX8Bxa2joHTSYm7maUzlFAby1f7hdu3zTzi3wCzWJRfo0DvhrYA7rVOlz7bE7w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNEYJb8f1K7dqVytUL0qH40fjgyPsmcYj-duNucfKMfVgRuQtbXENyPTWGTAYbFdbcbjGqcTmLhCpPkYkrmdTGyaboxqjSdFV_cyO1DypIkTK9Bde26n8v_hTBUsXGvBWnI-ShiBcOkR-jguSoXbCOhCPkkXRc0Jcc67OOepsjvh4PFHqZdsXKkvPeQvvV670wZTRRo0zmBdH9VAn-71xf4g=="
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:44:39.735Z"
     },
     {
       "id": "social-b566f755a55e",
@@ -12893,47 +12585,6 @@
       "scrapedAt": "2026-06-09T10:38:18.586Z"
     },
     {
-      "id": "social-f4f9f6e41cc7",
-      "title": "Fritigstreff",
-      "category": "family",
-      "description": "Ab 18.00 Uhr wirtet die Älplibahn Malans auf dem oberen Schulplatz beim Rathaus.",
-      "date": "2026-08-14",
-      "time": "18:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Oberer Schulplatz beim Rathaus",
-      "lat": 46.958,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.aelplibahn.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "rideandvino.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiORnJ950bOeqHoaRwIe0jgnJCaKwdxrkIoo4ZS7EwSU5cH_OTbhUPWSfcAxgyGoBeohFax6FBYJuTu--baDdGwKUO9dFefWP6yzeN5cEx0ALFB_Kt3PkpVpEF0F4VBe2HmG6IFwGaXD1ADUshUc4tlVFfhspRb44unA=="
-        },
-        {
-          "title": "sternen.cafe",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZ6096igQifai5__UkfuekfFFB2wfIrXvDfVKV2iLoSI5C1iinSG8BpBxwwHLm3Eoep0q_Nl45Dd1kc7XzetWU8zXni29REyZwX2FVODLrlffSPggZ_nkwoY="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwWYZcym1SE8wFHljIY27n9cYBlGdKc72HhDdygdCGJmlB5joP_5q9iiOeFVWYE6Ck9FdomUDT-MTBS0uEjeHJLD4dRTi_frj6YeuHrBs-F7bkKsxNP3SAXEGn3-wMIn4="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCsgpONy_jzUWGMLlpCWWfZaXHpOoHd3yYgGwS7Hd6sUffnCbvfA54CPN8BeZDJ5jefDTfxq1XcPpRKOr3ziJdGcVk0lfy4AH53RolcLs3UdN4Vpl3QsGMPNflMjphuU7kdPnc1u187lumPZ9fD0b9Y_n_MMl0l126VP1HEfUKY2OqeN8kcCzI"
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvY1XmSD2wey06skrk03fd-jFf7FySxZ1SXZoJZw4qKp4fTn75MuCb9NxkeIMNtwi4h0GMqQK39OJX5NTWGzMFOfXpkc-anIzk4ChBn2KPyb55wG30RICIPOA_bF47lgl"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:39:24.051Z"
-    },
-    {
       "id": "social-8542e3466b22",
       "title": "JazzChur @ Sternen Café (Schnoz-Sisera-Caflisch)",
       "category": "music",
@@ -13335,47 +12986,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:52:25.650Z"
-    },
-    {
-      "id": "social-0bff57abbd2f",
-      "title": "Churer Fest",
-      "category": "family",
-      "description": "Jeweils im August lädt Chur zum grossen Sommerfest und die Stadt verwandelt sich für drei Tage in eine einzige Festhütte.",
-      "date": "2026-08-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Chur",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/churer-fest",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
     },
     {
       "id": "social-d5b4e4b292d0",
@@ -20327,46 +19937,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-54db1a6f292e",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-14",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
-      "id": "social-f5878998e8d3",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-14",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-b83928b315a0",
       "title": "Churer Wochenmarkt",
       "category": "markets",
@@ -23001,26 +22571,6 @@
       "scrapedAt": "2026-06-23T10:36:00.038Z"
     },
     {
-      "id": "social-d177fcfaa729",
-      "title": "Real Madrid Fussballcamp in Chur",
-      "category": "sport",
-      "description": "Ein Fussballcamp von Real Madrid in Chur.",
-      "date": "2026-08-14",
-      "time": "Ganztägig",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.852,
-      "lng": 9.529,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.006Z"
-    },
-    {
       "id": "social-100c4658684c",
       "title": "2. Street Food Park Festival Chur",
       "category": "markets",
@@ -24402,26 +23952,6 @@
         }
       ],
       "scrapedAt": "2026-07-02T10:01:24.406Z"
-    },
-    {
-      "id": "social-255e58875c91",
-      "title": "Stiller (Film screening)",
-      "category": "stage",
-      "description": "Drama, Regie: Stefan Haupt, CH, 2024, 99', ab 12 Jahren.",
-      "date": "2026-08-14",
-      "time": "14:00 - 15:39",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.kinoraetia.ch/",
-      "ticketUrl": "https://www.kinoraetia.ch/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:04:45.689Z"
     },
     {
       "id": "social-c0a7af5920a2",
@@ -26804,26 +26334,6 @@
       "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
-      "id": "social-027eb173aa68",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-08-14",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:30:39.141Z"
-    },
-    {
       "id": "social-4aeb2b95fbb3",
       "title": "DART-FRIDAY im Edelweiss",
       "category": "sport",
@@ -27674,26 +27184,6 @@
       "scrapedAt": "2026-07-08T09:31:16.989Z"
     },
     {
-      "id": "social-6d6019c4b51e",
-      "title": "SpiCool Landquart - Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-08-14",
-      "time": "09:00 - 11:00",
-      "price": "Kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.961,
-      "lng": 9.575,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:32:16.685Z"
-    },
-    {
       "id": "social-7d8b644d75d8",
       "title": "SpiCool Landquart - Eltern-Kind-Treff",
       "category": "family",
@@ -28338,47 +27828,6 @@
         }
       ],
       "scrapedAt": "2026-07-10T10:24:48.700Z"
-    },
-    {
-      "id": "social-28fa80629bfb",
-      "title": "Stiller",
-      "category": "stage",
-      "description": "Drama, Regie: Stefan Haupt, CH, 2024, 99', ab 12 Jahren.",
-      "date": "2026-08-14",
-      "time": "14:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Raetia Thusis",
-      "lat": 46.6906,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJoc1lvrjaXIkEXwNF8vjKsYYVzSt4YlCxnC6EjFcXp7t2xhfieAukDoUMjpnZaOVzo4brEtRJBBik1NQ3Epm6h4QSLGpt41TBm-ftbBpKhGPfKExpLji31Kqw8gPzSyvcTy04acieJvEZpKNNpQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoHPCJyN_TU6pe1r_3TajdP8xJ2pd_9xcekHsYSXMoJ_WuoiSt0IGQqSHMQZO9lSnL39z5pg1Cu33MgzMdfdpQL7FEVb9seV1HwlGUoaC6x8nA571YwmZMJxNTZTfKWGpCoGxMTuZlkgCBocxIYfaJrNkwEMVEYOPXbGuU7KbdE0TefARXAB7xyb5BMhFxVWbyEPsxLQ=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmJ4vI8p00EAQ3BbBDaxYEeiviF23etJtsER5sV_UPPrwW1WCtZMmxM_tOaMEF9AYEjFGNv7lh_uaXSgbO7X-1y5jJlohd7gUyEcqKIha7r7qoLuzLwcmPalR6Mx1LGC1yghrpcdfqDH8XBWCITvXeAIlg"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG2xdiQw1obYkgGaY9c3hIGWdO2qJ-UHXF2zVDGAo0Oyuh--FoG-vhFfwnVcXl6Sk1Kn3Fo8ykjXHp28Qr_Z9rS_wgJ-v7dOt7LsPylJOnIFtKYtEyq7bOyC_REJHo7kbQ8mhHKFDk7mL_eYj5S32m-cv5lLB7I7ozgY6s_MY8gUgX9m3eMzQtiFr7Fh2rhG4o5g=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrVfxye_ti36f66wRvoOOqntTOPUqOaB6DpWuivmIMh2xCkFp8R4JjW_27gB4uVhPrnMMQnN4N2AixNQ12dZqp7K7SR4Hl_qICuxoqtftBax0Ipa-XcsVjIq_jWC986zkoOx67rOE2Pj96A2b8BqE25qXLPsnFT5DHh1L6bMqYADvni1_nqYDHrOIcow7z"
-        }
-      ],
-      "scrapedAt": "2026-07-10T10:26:44.151Z"
     },
     {
       "id": "social-32549609d7f6",
@@ -29041,26 +28490,6 @@
       "lng": 9.5333,
       "image": "",
       "organizerUrl": "https://www.graubuenden.ch/de/haldenstein",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-11T08:45:39.848Z"
-    },
-    {
-      "id": "social-9ce5ba16c602",
-      "title": "Obligatorisches Schiessen",
-      "category": "sport",
-      "description": "Schiesspflichtige trainieren am Bundesprogramm.",
-      "date": "2026-08-14",
-      "time": "17:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "SG Haldenstein Schiessanlage",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch/bundesprogramm-feldschiessen",
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Other",
@@ -30045,26 +29474,6 @@
         }
       ],
       "scrapedAt": "2026-07-12T09:09:30.723Z"
-    },
-    {
-      "id": "social-3bb72821a021",
-      "title": "Punkerpicknick Warumup-Party mit Rümex und Stüpper",
-      "category": "music",
-      "description": "Punkerpicknick warmup party with Rümex and Stüpper.",
-      "date": "2026-08-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
     },
     {
       "id": "social-b66d11dac696",
@@ -31296,47 +30705,6 @@
       "sourcePlatform": "Guidle",
       "citations": [],
       "scrapedAt": "2026-07-16T09:10:04.188Z"
-    },
-    {
-      "id": "social-68d43516085b",
-      "title": "Obligatorisches Schiessen (Bundesprogramm)",
-      "category": "sport",
-      "description": "Schiesspflichtübung, organisiert von der Schützengesellschaft Haldenstein.",
-      "date": "2026-08-14",
-      "time": "17:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.sg-haldenstein.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtMeNrRsbpHKTDKy8MkOdI4Q5D7n8kNbQM42BFiMifI6xTkLhuVkTByHn1NcSvV4OqAkuYGOFvXvDdwC5-KAn0rBRnHevOt6nNXZNp_drOHFmRXTnrjRZk1ASBnigmUKFbVywysPBDg_-ATmo3PeibkCKFiXXH"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG81rqTJj33GjcXWycSirB-uuCUgPLP3T-PUwroM8lpKQzgaZehp4Ag9yBY2kpt1BEOTIdgB5edo7Mmu_P3hPuHCNeJ5Al5KzzncxSp1ev34397rtD-oDI7Go-GMxq606eGi33arodNXtjRzb6vpjdSEn1YoWO8I4mUHeH0IZjbhoLKmeBr1voBvNk9aN4QZGhJvAhImQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrFzTDrfujW5-QDN5xDIPgPMMB0CHyyK9ucrKvbfa6MHGZhfNyCOBTZ5IZw9VisBSKseztAwo8H42XcJmuP7dPlItqXZ23V05BiT_TkrComM0hyTggp5F6Fpgx6hCGP7Zj5qpzx0s44keggkQaOfwH6YtAgFGUsM8eyWHNTYw8xyTAjbwi3ifihVO7w-S8YE20tQmXyVidWvqSoWroFlhYhA="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHonjHCuyf-xFoyAuluaND8TRodqtgeUK4i4EDfIhlC6kz-vazHzmiG9HtYHW1Tw8fmbpubHwko6WlHIoE705cVXpNPvnokqdkLwoJ2_2y_3WrqwBk42LWvM3Mg3v5nZdcHnBbJvTy5DdXH_Wa8R0nsc9lH6Yp1lsOEeP60YZMc24WUxwJjuGfVOlwx2Z_at4PCFGjducjssYA="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFesuZU0xhYJ9Q1qYyxH-jsYGP1KciV6zx9PmtdJ04K3JXzQDK3IfWrhcBUcE4j07FpT_yocIslIq66MmO4e7-CJVc_-mYNmJUzPZb4-g7za9c6ymQOsF3GXaMwm52F_UmeItLZpNvwJS0UWqadxCHAn9iGLF3XZ3MsHwdih7rC5Mnfm5XAA0witrwFjkl6"
-        }
-      ],
-      "scrapedAt": "2026-07-16T09:12:14.425Z"
     },
     {
       "id": "social-b326e115ddd9",
@@ -32634,26 +32002,6 @@
       "scrapedAt": "2026-07-18T08:46:16.008Z"
     },
     {
-      "id": "social-51e44a8807cf",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
-    },
-    {
       "id": "social-784c8ddf3dc0",
       "title": "Offener Mittagstisch in Haldenstein",
       "category": "family",
@@ -33086,47 +32434,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:53:19.092Z"
-    },
-    {
-      "id": "social-6f18f85f75f0",
-      "title": "Präsentation über die Schulen von Cazis & Ratitsch",
-      "category": "family",
-      "description": "Präsentation mit vielen Fotos, Informationen und Erzählungen über die Schulen von Cazis & Ratitsch in den letzten 200 Jahren.",
-      "date": "2026-08-14",
-      "time": "18:30 - 21:00",
-      "price": "Unbekannt",
-      "municipality": "Cazis",
-      "locationName": "Cazis",
-      "lat": 46.734,
-      "lng": 9.421,
-      "image": "",
-      "organizerUrl": "https://www.cazis.ch/Veranstaltungen.cfm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrqeCnKE0yrvS80ldUcCcbaa3S0Mt-gLr3qKS59SqbRA6rJwqpQX4NOgsi7Yc4V9lYEk7u_IDkFuaBiRmO84Ef_u7fX2PTfZb6nFHfxpQ4yQEH7NKeaQeB6myMdiOkfBJXz367Om1HqiFJkKAbHNrzD-W5"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG87tF7BVuxkMsRrse7WtZBfyKcMHN7YKq7fVPQRUoJ2f6EORXMrhaIJH4DZgPWPBUrvxAJIjaxmC7wQDE2eHXnS6nSBI5oOxQLypZ"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOfYZWxqg2ASaoeCt4l8tmqanhOFdZ86dAM-fLW4pVw28-DRg8IQeoX9SxR1EsPIjCt4ih791aSJruHSlDZdQTbNRLnDlAEXfBMCGg6D4IcirDtAOacxmd21uODJcvKfpreevDEP6mKcHHB95aPyWVRg0="
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmpA0AANa2vIUopQ7yggppPbeLEsj45TyP0s2jHpauHcrkaD0--wgiFmjJJA_1NmzNJXoEtddCOVZytziqSZfGjanIqJJhHq4pCJmxExUaRdTRuysX5p2n4OMpi0AHrmxbbgx1Vg4="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEONoopmPmI8zNE1iFp1gq9NCr5GxLlRAYkfE7WJPa2Zl1cLqwx2IGlPhTzjp34BiRffYG8HwsPZknQZzj0TJLoC2lF0h4oHrvI4joCgJVlBYBmO8rJrV1_fO9Dy5mR6eQcRoNMoeH7Zf98WJ8yMR0ltspcpBUU8os2D6oKGChP5vsTyVzg4U45Z2sK2s4P0k5F"
-        }
-      ],
-      "scrapedAt": "2026-07-18T08:54:35.656Z"
     },
     {
       "id": "social-fdbc115ef41a",
