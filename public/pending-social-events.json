@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T07:24:31.003Z",
+  "lastUpdated": "2026-08-17T07:45:07.044Z",
   "events": [
     {
       "id": "social-664822b913b4",
@@ -1745,40 +1745,6 @@
       "legacyId": "social-1779632220486-Malans-32"
     },
     {
-      "id": "social-672871345440",
-      "title": "Eröffnung Dorfplatz Igis",
-      "category": "family",
-      "description": "Eröffnungsfeier des neu gestalteten Dorfplatzes in Igis.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Nicht spezifiziert",
-      "municipality": "Landquart",
-      "locationName": "Dorfplatz Igis",
-      "lat": 46.94594,
-      "lng": 9.57382,
-      "image": "",
-      "organizerUrl": "https://landquartkultur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5yhCDTN6cNwoaKFfhC15rTSb3FrITzukvtuS6HHgNjNLXxK8S8Dyi_7MpOhxF5nREUaVG-dSjxtd8ffBC6SP_y8__SaVyuLzgHi6QFFUpdew7zT-PO21nWfyUBmxwNj9kIbl3w_VeiZmFQlT0ag=="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYlzsvko8CWiFpTvVcnMMjt08FC3D8WkjuqS8xbN_x2Jb65jzz65UL42C-7V25nvJU_L7Sdw5sByFQUtVgRXdlymeq7k0BD6_A8evuNM-VxF9YfGV23w-HF20aSsPSEWE5xMPXPSqvZ4l3_GIHhXgQsQ=="
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHeBthQLbsOtLQVVXqc-hYyYxIGUMHDgZEvRByJ24rggbxfyoE46eRKmX-nrED5yepbiquH9_UTDSOYzwPp6JTuu0KbEbVNjU4U2FRoBSPm-yz0pZhU3Fb1yWxPE="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:18:06.939Z",
-      "legacyId": "social-1779632286939-Landquart-7"
-    },
-    {
       "id": "social-f2a4c0c8ecf1",
       "title": "Mineralientage",
       "category": "markets",
@@ -2233,26 +2199,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-3dba5222d3fe",
-      "title": "Churer Fest",
-      "category": "family",
-      "description": "Das grösste Sommerfest in der Südostschweiz mit Musik, Kulinarik und Attraktionen.",
-      "date": "2026-08-16",
-      "time": "10:00 - 16:00",
-      "price": "kostenlos (Eintritt)",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt",
-      "lat": 46.8488,
-      "lng": 9.5322,
-      "image": "",
-      "organizerUrl": "https://www.churerfest.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-d46c4748325c",
@@ -6756,47 +6702,6 @@
       "scrapedAt": "2026-06-01T12:33:34.997Z"
     },
     {
-      "id": "social-37c383c0df9d",
-      "title": "Sommer, Sonne, Krone-Grill – genussvolle Sonntage",
-      "category": "family",
-      "description": "Enjoyable Sundays at Hotel Krone Churwalden.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Hotel Krone Churwalden, Hauptstrasse 155",
-      "lat": 46.78,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/en-ch/experiences/events/sommer-sonne-krone-grill-genussvolle-sonntage/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "latitude.to",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJdM7gzazC3k0JsNA4vjlZIGprZtMDulWXm-0StzAxoNmy9AzBZKDNV1eTTMlFlqtofAvmM-vNCXuIcLnir9KRUQ3hohjiMkYbwdrrhOAF87kzQVSRVQ4-aBsmDrl2CqnaGHWf6nmEYJX0y3QtoyxjzkjrB5m66CN3rb9xp-LWj0QQ"
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52mCQX1exBw0FIRwr9cgZLDEtqtxN1vAFsDeo4px5nBG4B_uCA-1d56UQXCcwo_D8O6sqq0POzBHm-6xgC9PGFb5K5twdeSWYz_SJziWHnCZsQdvH-eq9qzvRXkf-EpQAeaS98zVoSsih"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMrYEZDPTmRfGKua3NsG6zCwJI3_KARa39oXYb8xtLANVRvdztBb6qH9gNrZyIU3_sN_qrk9cNuEe3nc8Kngs_5aav5tfRPvhbS-ee11Wx3Ba_ou2qTJOaHbpCgjHKcYEGLEBHPuZWqRT1ma-cRrBMVxGxMJpyZxRJhg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp03sPiuNpqcXB4ggiolS_qoySdo_wAcPikua30-CK-F32uFEzR54UQyUWgK0VxJXns-j7L9gWVdsWDnMX7L2f-Y5kMcde3UTDEVqjl12ClgXmiNcnSVtligbouE7ns-ILY3Xw0rBQu666df1QFBDUV6uwuu8uZYdOId7iPH8="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbkHC_V3h-EZerdhD_JX7SFB4Cxs4-I3r_q90G4ercTcbJjqTqGx9P2oeKBD3_6dAVo0Nc6KvCB3opSmMnUkUGPI65rOg5RLv0YK-XXVo8R8KXueDSqivZ6_PkR75IBNicQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:37:24.125Z"
-    },
-    {
       "id": "social-ef8a722cec4a",
       "title": "Parpaner Sunday market",
       "category": "markets",
@@ -7265,26 +7170,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:42:14.728Z"
-    },
-    {
-      "id": "social-657fd644bcc5",
-      "title": "Festspiele im Schloss: Bilder einer Ausstellung",
-      "category": "music",
-      "description": "Sommerkonzert 'Bilder einer Ausstellung' im Rahmen der Festspiele im Schloss Haldenstein.",
-      "date": "2026-08-16",
-      "time": "16:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.883,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:13:28.038Z"
     },
     {
       "id": "social-12cedacef6df",
@@ -12225,47 +12110,6 @@
       "scrapedAt": "2026-06-08T12:02:21.455Z"
     },
     {
-      "id": "social-6884152e078b",
-      "title": "Summer, sun, crown grill – enjoyable Sundays",
-      "category": "family",
-      "description": "Genussvolle Sonntage mit Grill.",
-      "date": "2026-08-16",
-      "time": "12:00 - 18:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden",
-      "lat": 46.77,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/events-in-churwalden/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XF0fL6C42w9BN2bXRk6X-FvqOvoAvfVxK3tPHQUutmFrcOgN8oCW6oItcMTqIVxq1FjoLydAz9U2h66e1Owh2A4z0ukjs2vvWjzJIX15iKiRLYqg2Be8wxrlTenoAUnU0wlPIu-1E7InMZ9sCr8="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdC9bOTKQ842-t8Xw8p7z6gwGjiBzcIk1GbSJqC_wk99hyj1OCrttSyiA_25LFNSdxAMIyDO046h-nwvqGajG0SImxFixtC7XBEunYG5lqwYC2BK4_YRcqO8e36_QTnx7Crv0Kn30TbQGlNPZq4iKuzdok3dpjrR0="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dQHr49x6EvmXcEvbQ7f6V65Zkcf-q02W8R981nQKvUSNO7fjr95qvwg5rirRfN76alxbCv_zBP8JO71R45FQo0Z55NkI-Mof0Qw8AkFSAaGmYiFwCkFrV5pdEAbHj8TKJ_N5TZCQGQF-cNh0oK1a-qApqmBeWmYjyRnjkFxDTSibGnvMR-TPexXx-TI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGowCzkD4Pm_i3-8tAuU1dg4xKaYTYqQ-D-xJz-X0mWWH_F_-3KvNqmbvSCgBINLBoU2zQDjnvEIV7RCkgUoxj91vPTXGzxpKLM_a74K4qwO92obqxCyG2tiv_ckU3Ai7rkyK5Cqq4siBL2-33wFCwoZMTltvEH7AxfF8e875l2eosihpZjcoU8CNCchtGOWaECJCyoQjQZ3Bj0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQnaRtsMmKSnRojPKPhqDlNu93pxonU5kM_8wwDk31qkWeuu7_4qlbib8uUgOIXX_7sk1XUufMNLd2Q1whekKhogEOC9_v8ndJnxJG2gtaN4ni69Beq6_vC3l7ROIp_XiwDlU4dXAPORQGELLQ0rz63xdH5Bwk8gyfEo8S1CYEy9kCM-mgYi8_XV5Ov21"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:35:59.371Z"
-    },
-    {
       "id": "social-073cff27e0b3",
       "title": "Tour Brambrüesch",
       "category": "family",
@@ -12810,47 +12654,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:52:25.650Z"
-    },
-    {
-      "id": "social-f2e72a2474d2",
-      "title": "Churer Fest",
-      "category": "family",
-      "description": "Jeweils im August lädt Chur zum grossen Sommerfest und die Stadt verwandelt sich für drei Tage in eine einzige Festhütte.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Chur",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/churer-fest",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
     },
     {
       "id": "social-7cf2206d81dc",
@@ -13868,47 +13671,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T11:02:25.271Z"
-    },
-    {
-      "id": "social-532f6bce37da",
-      "title": "Theater in der Viamala-Schlucht \"R(h)ein ins Vergnügen\"",
-      "category": "stage",
-      "description": "Theateraufführung in der Viamala-Schlucht.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Viamala-Schlucht",
-      "lat": 46.6905,
-      "lng": 9.4316,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kinoraetia.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkOUT4T1zhUXzmHS33whL6pz0b_iayeaTRvvMaEork4nPp-cO2C35GJphCoNLVvWyBVtb6Lst5YyH9_6tF0ZhrRh1NGONylRsMCAjcQGZJi7o="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_gIXorpSBMU1dH3cm_mUpgCCjzKeQ1CsYa5vzgYiPJPzc8rK0hGiKLepDQicC7X_ewnZNBqPbfWtPksV2u7FCPjg4Ijpn1c6gTzAw2G75z_gSsX9Am3_zTywHxONHKfHmJd8r4hJaQAY_Q2cKkqflvSf3sYcR0qEllU_zTbezmM2KV9TwI1ZxgrlTV5tsHU2hYRMROTY="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHckABnUi_VDqNYGR2oJ_D-u-TMnZhGHQLacvWJAfT7XtMhmMPBaK7mOd52nTctpw8a5I8kTioyXuX7Fol-s0UqWQr7HZYmDGc1bnxyaz5pWiRTCBUPW0jc9t1imFU7ZZCqIWguQ3zgukgikC0nkqpBdBiPvP8Ugy0mWrmjcPWiDjQO96lL5bgN9AOQ"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkjZf2CAUNLPKOdEIe2HXspjnRq-zyD3_gvSeT4TAyK39q2UNcLLuT7uVGynssiUZIjq5EAGX8-j7ihyYbSL-GMkj82SELY4j0osZTfbP1UKHaPt9VbjxrJEyZ85ydynXG78e8OX097TOjZKMtIGvG_nHTwHmihPxfh0VF8nPpV-Kc0BD0loELPfgSi3Yq_1xbFmeSbnJw"
-        },
-        {
-          "title": "tv-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdinh7jFV4wtZTr3TwX3rfgRt9jN6_SFsMvhXsRw2iRMTsN-Vpv7VR5jN65VRGgU3iiBcN02wTobb8ac-rUJq6NNj4HnitpVIp8BM5cnF5g=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:03:18.795Z"
     },
     {
       "id": "social-4564bc8650c6",
@@ -18451,47 +18213,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-ac285fd91730",
-      "title": "Ökumenischer Wingertgottesdienst im Weingut Manfred Meier",
-      "category": "family",
-      "description": "Ökumenischer Gottesdienst gemeinsam organisiert von Thomas Richli und Pfr. Jacek Jeruzalski. Anschliessend besteht die Möglichkeit zu einem gemeinsamen Mittagessen. Ein Taxidienst zum Wingert ist auf Wunsch verfügbar.",
-      "date": "2026-08-16",
-      "time": "11:00 - 13:00",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Weingut Manfred Meier, Rappaguggweg 27",
-      "lat": 46.93653,
-      "lng": 9.56552,
-      "image": "",
-      "organizerUrl": "https://zizers-reformiert.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudU663tZxXpheoy0P6XXW36w4hO7pFcIgU-PsvXR68V_2BE39nrSDBh7fuTcTAhzrS7Dx9Kxzsdk51hgGWk8SCdMZjb_yYAeyz07FdmVGpnLEFjz2MqAvJurNdpY4FDrGBC3cVX0VQ1OL074k7EJlWh2eUJJDdVeLeYkFr7Y8HFmGacCKTvJ8EJ1b-12CKMivl8e0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaJ-k2UxLRt1xQN30dr6ECBVO7rDKB6WXhZ6-T59qr5b0s4ZY0ETpKmHLrh9sPqXY44pK9mSG4ppJeAEHT-rrhwP8HPNUxk2sPT9GM6CuRpjVIvoA-Km0-wveOBXmv-_RxULKno_j5RrIQoKLaRUR7wAKalrgB79EHsHWA2jbD6YvNoKYvvxIg6JxyFFAyuBfw"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF21WeR2-bUj13A_rNeIa-r2QIi2Vt1Kw8Qa3K0MiPicF_k98vAvg6KqmO4RNOlXv2iMldwhfiMqWJxIxktz0QjB5YaDOr14Gqf4T5qreSBWv_qYiyNbysXP5q80LaV5s3bvRdH0mTfQ61yYycN16mbevx09E3OpN5HI9c4_1VyMGhHaREg0UAz0EKK70lApKoCBW_iKdlS4vltcLBa4GaONzV5"
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBkhe54UD7Bw6ilybKERXxZ732P31UZVHg8J3dejXSktK5RPwAhbKQjQCOlzqut8kRrC-1TrLiHUmowU09VmDYhVIsSczgk9gxjR_5YdUeEcQTBPwp-tzL2eMPqbxFWgGjbG52gdV-i2H0dCpU061BX2-kOEkUpdrc1Sbecak6Jp5Bciw2kdyjlo2oYt52O7irgAtE_f8p_EAutNbTCZko7s4rETV6FLxfsSGZkvl14Zs="
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA1Z9U-jzxZcvZyIOD0ovU-_rvRvj3GhjZRcN8elINM4cQANoxQA5KJGrmjAuZCPnM0_FJ9uZNyFdVQaf5kl24lF4JLHqDAdwKSlW5cq6jgiP48mcRmpgokxFiS5yyS9miFcan9RX9Tku8-KLvMrsTAh7BpZUFlfbNnH5VhuPKGJqQQVoxPUKCuk8H1r3_EiDW72yLTEfG-G3wqc6ZffkJHhtcn2i5EZs2pq6fg8c="
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:10:23.171Z"
-    },
-    {
       "id": "social-a0127378afee",
       "title": "DART-FRIDAY",
       "category": "sport",
@@ -19335,47 +19056,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-932cddd543f0",
-      "title": "Ziteil Wallfahrt mit den Franziskanern",
-      "category": "family",
-      "description": "Wallfahrt nach Ziteil, organisiert vom Kloster Cazis, mit den Franziskanern.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Kloster Cazis",
-      "lat": 46.737,
-      "lng": 9.424,
-      "image": "",
-      "organizerUrl": "https://dominikanerinnen-cazis.ch/angebote/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9tGa16To2pQnF8u24xlpzOGTdCjOHJbe2w9tF-ZF5P0izRvTPwp24LmBdBzrFi9ZV4uSfNibo_MKEzf33vzmiXnFi_2iehpcbqsKR4zBripP3mqlBh3ZbA0J_FJsYj-mqrToiVY61NxTbSeEtq93yVWQTmk94MRmysLaglP13J4BY1IPLmtYAcCTJ4A=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGEevdI8cZ7s2Ci09BxLc86CacPXt6WgcpMgYD-ILeRea9agcuy_6G5zfWR_b8MSFaUR5EkXKi_sUXmaIzzzxKOg-aLGRjdQ-yXdGnryL48yw8oPFc3sr2j_Fz_tZfcA59nOeIPAXjPS3DD6RlFh9TaJEZBZN_OehMdad8btoja5xrGIoJhufGZBgZtsJpcqK0"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2kBricpYL6ktDfIbWMIF79e171yuUx9yz-i2l7BPX4MDqeR8OJt0m3JtiGXhpvgt0aWYxGJynffiP7-XtnTohkBkoZfHPfvMp2VBGv5x5Tl-LsJdO_P_rLFVagW8V0OP4Fdu-UuvKYSBwLgvo95-OtHw="
-        },
-        {
-          "title": "graubuendenvieh.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE479Gveh5UHNl1QL94dSERhP_9tPOEdZquYsjjLw2_Z02A3h0AAY7cqiw4WOcPmsoqegDfNUCCY1rb-NtWj-pda51sHjtKz_1NQGIamNWWcPnYApyMom1-lmM55bYBzhDD57U="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRb-pJVrda3GU8L-_nYfB-70QY-yA2J89PFfHaCXCDVqkXJRir0W7TPI81xHhM98e-46Ja1VFkiX3tx8YjZRab0lC6ByREDgIRUtv8Eoj0ADbNewsMR_9kKcruOFgk8HXmt_r2IhyJexUtAaegFuS7TEgRsHTdYqJ04g=="
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
       "id": "social-48fa603e3f03",
       "title": "Ziteil Wallfahrt mit den Franziskanern",
       "category": "family",
@@ -19538,46 +19218,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-085f91128836",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-16",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
-      "id": "social-f6f2efb53447",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-16",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-02ce7b660078",
@@ -20138,26 +19778,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-19T11:16:46.878Z"
-    },
-    {
-      "id": "social-a4e355da5f5d",
-      "title": "Berggottesdienst mit der Kirchgemeinde Trimmis auf Stams",
-      "category": "family",
-      "description": "Berggottesdienst mit der Kirchgemeinde Trimmis.",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Im Freien auf Stams",
-      "lat": 46.9009,
-      "lng": 9.56155,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:19:33.502Z"
     },
     {
       "id": "social-2a577e824095",
@@ -22280,26 +21900,6 @@
       "scrapedAt": "2026-07-01T10:42:11.569Z"
     },
     {
-      "id": "social-3b73a724a1a9",
-      "title": "Gottesdienst",
-      "category": "family",
-      "description": "Gottesdienst der Evangelisch-Reformierten Kirchgemeinde.",
-      "date": "2026-08-16",
-      "time": "09:30 - 10:30",
-      "price": "Kostenlos",
-      "municipality": "Untervaz",
-      "locationName": "7204 Untervaz",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://refuntervaz.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:42:42.076Z"
-    },
-    {
       "id": "social-3f0f67ff8ad9",
       "title": "Mittagstisch für Erwachsene",
       "category": "family",
@@ -22327,47 +21927,6 @@
         }
       ],
       "scrapedAt": "2026-07-01T10:43:42.762Z"
-    },
-    {
-      "id": "social-cc425fee7a19",
-      "title": "Open Air Malans",
-      "category": "music",
-      "description": "Musikfestival in der Bündner Herrschaft.",
-      "date": "2026-08-16",
-      "time": "12:00 - 23:00",
-      "price": "ab 29.– im VVK",
-      "municipality": "Malans",
-      "locationName": "Open Air Malans Gelände",
-      "lat": 47.0161,
-      "lng": 9.5765,
-      "image": "",
-      "organizerUrl": "https://openairmalans.ch/",
-      "ticketUrl": "https://openairmalans.ch/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "nordagenda.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZBrsrxB8_II26gBjDEvpaklle6a9NoO_0hX-xfPEbC83L7qHWYY1XquaGNDw4_F9nAXbeIbIOmHHEzcCRgDP4D6KhyTRUolzpK7bbN4UmW2kOQSZ1YJ4RpkxLb7m0z2ZXzZfJBxB3lVE7SsETkY6q8FlYd81QLMhkA_nxsUdOSWw="
-        },
-        {
-          "title": "repower.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGteZyYG4jSKkqSQXzlpbpiBcTR2uGFvAVAGCzKUjem8Ddznh6M2VItDktG2uBHWnLroEN3QW_HHNoQh5ytuQ5js4ohvegXerJGJdGAN_CrbF5-lR82TsgTqnKvTmIIDkUKhK0Cn01ho0XvCedN-Faezg-Wt1xnL-R68EwmNg=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXGAK0uPWbIljaQ6xHAhyvy-9QSP7HdXAZ2mfgF13pqFzyrAkI3XWtZOlb-MgPzS-JsmHcjF-1w3M2AYqJz1pdbj-NjooVxQlc4E1rkl4CdTVUU_eeTio2I3M-RR7uhg0jw3W08BMXCDWGJOpbmDkMmxoCCmG6IcaMNxvDm-EXZv8OKE5IJaPM"
-        },
-        {
-          "title": "svmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOTPNpM0AkeMuGHPiMtuKsvv3wEdPNgm20VBhxLlMZfzSQQXat9PcqEG_1eptx_2xZ0hefVJE_3wI-jobkYxt-UkvxnYe_0EltrYDO8lUFp2vDl7J1QWk0gQuuViDApr2Mu7TPbhPsKaMI3dGymIMc"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpFqiT-vXYdxvcu6vO6tv06W3YJsBf9kOd0cQvkaQerU3KFtJSMzh00W_ENAutp8WeEfpMlWumZk1FVQG-GMXJwTSugYPx6trWXkfrsWjOD_ieKrtA0os855jTvLnVU8u4D0zA7geFDQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-01T10:47:29.201Z"
     },
     {
       "id": "social-e1d79f66ee96",
@@ -23301,47 +22860,6 @@
       "scrapedAt": "2026-07-02T09:58:48.685Z"
     },
     {
-      "id": "social-4a45d6400afc",
-      "title": "Sonntagsgrill für alle",
-      "category": "family",
-      "description": "Sommer, Sonne, Krone-Grill – genussvolle Sonntage in der Krone. Das Hotel Krone Churwalden organisiert saisonale Events für ihre Feriengäste, Ein- und Zweitheimische und schafft Begegnungsorte für gemeinsame Zeit und ungezwungenen, fröhlichen Austausch.",
-      "date": "2026-08-16",
-      "time": "11:30 - 15:00",
-      "price": "Preis für Essen",
-      "municipality": "Churwalden",
-      "locationName": "Hotel Krone Churwalden",
-      "lat": 46.7869,
-      "lng": 9.5684,
-      "image": "",
-      "organizerUrl": "https://kronechurwalden.ch/de/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6MCzqmXPH-c-0wt8QDDOobNKl1XV7szhLe1HoF-EIXimfMyF1pDeFyzMvw1J_g7LD4-Q9MHMgmkFD0iJLYmW9raz8NnbfxiGSUV9YOO3p9PbN8KI4KgjyzKB22iMPQaXe4oCq54FGiZJIaxyPpM9qnAIc"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSZe6FAiUA61Midb24HeuUfUyZMz_zCrr47pqoxp-baaEzbgUUZpNIsvpnUJnmpQZpM0x2Qql8rQGgmvYFm2MxVh-9zMiBcfQfwiiZUXSHLTN5M3VfESHQQJzKBl6sEtfGCoUaAu46nfnd2EDR24ZhmkYhoCWHxJDctX9vlZy8pfLK-3_tRCWrJwdWr2fElOMa"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaK2oPoLHWHNeO-BWId2C7eHFxB6z5CORpoq4ZK8cne6X2Ee8D-j8XVBDycVGT2cTG87vYjwDVfIQ2LjXzuC6S3mxEz_Nkl-c1a15RCcAwhvZycnHuVhEYbWc265Cres83J7frw3rIPDYZ60iXpWszoZeWcYPWnrmqNPMXhCi3"
-        },
-        {
-          "title": "kronechurwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzmMaycqC13_EK8w9xCLlT6HsvOZSKvN5oA4dF-X7pPkwoLewZViQD7svTLNnvyji3VDq5N-b3gTlKMbFsvqhSZmN2CLG7JaeSbHek0aPmp8IPJAhPKPw6qPLS3cIJhLbkOtRM5fEgpTjGtc5mbp_UC7Idc9k="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmtDcnVEuD-eAv-EfgMdPYPnJi9Evtar03sEOzRh8oPzwJwfyhLU2sWyeN8S3DguOPR-XZD5ad3gfeH6VwCFOoDUjJ1aOZJLQ4AOMKxCHgJbMaNcuPKvYXFIWc3t6hFdBnGWpZcuQGv0dOOSBr-23B4WpBDKwIYBcS2eYkZ5ocid337Iu5O2DBTIHn_zkUF--0IOWrCfJGj0_tzfcVSjR2_7MHn8y4"
-        }
-      ],
-      "scrapedAt": "2026-07-02T10:00:25.764Z"
-    },
-    {
       "id": "social-83535ca9f53a",
       "title": "DART-FRIDAY\" im Edelweiss in Tschiertschen",
       "category": "sport",
@@ -24224,26 +23742,6 @@
         }
       ],
       "scrapedAt": "2026-07-04T09:16:58.232Z"
-    },
-    {
-      "id": "social-55eb273b83de",
-      "title": "Berggottesdienst auf Stams mit Chilbi",
-      "category": "family",
-      "description": "Berggottesdienst mit anschliessender Chilbi.",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Stams",
-      "lat": 46.913923,
-      "lng": 9.603035,
-      "image": "",
-      "organizerUrl": "https://www.ref-kirchetrimmis.ch/gottesdienstplan",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:18:47.913Z"
     },
     {
       "id": "social-d5145fb773f7",
@@ -25818,26 +25316,6 @@
       "scrapedAt": "2026-07-06T11:32:30.394Z"
     },
     {
-      "id": "social-be4cecb77151",
-      "title": "Bike Kingdom Kids Cup 2026 im Alpenbikepark Chur",
-      "category": "sport",
-      "description": "Mountainbike-Rennen für Kinder im Alpenbikepark Chur.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Alpenbikepark Chur",
-      "lat": 46.8509,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:20:18.774Z"
-    },
-    {
       "id": "social-40d2b11cb2d1",
       "title": "Langer Samstag",
       "category": "stage",
@@ -26039,26 +25517,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-08T09:22:21.911Z"
-    },
-    {
-      "id": "social-2874f529eede",
-      "title": "Gottesdienst",
-      "category": "family",
-      "description": "Gottesdienst.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "free",
-      "municipality": "Domat/Ems",
-      "locationName": "Evang.-ref. Kirche Domat",
-      "lat": 46.83,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.domat-ems.ch/gesellschaft-soziales/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:23:24.502Z"
     },
     {
       "id": "social-17c21e959384",
@@ -28241,47 +27699,6 @@
       "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
-      "id": "social-873edbf75395",
-      "title": "Bike Kingdom Kids Cup 2026",
-      "category": "sport",
-      "description": "Kids Bike Rennen im Alpenbikepark Chur.",
-      "date": "2026-08-16",
-      "time": "Ganztägig",
-      "price": "Variiert",
-      "municipality": "Chur",
-      "locationName": "Alpenbikepark Chur",
-      "lat": 46.829,
-      "lng": 9.489,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_jFW_k-o0rLAF49QZn-Khn_yg-sB8-5jko_-zUk2oLlSK3mp3tzVGev9gxAEHQB25kXZmWsk8v0543L0g-Vds0Fq0POROp_Q0V53IoWz-C4r2wvrqBCeMzT2caEAv_HW-RAZIiDnbmhNa5T4="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMFrHOGzTeKdu4vYDAE3z6ZQ0YiuswwADpNMzcsdwpfk-dzysSbARaVN57esDlk0SPLEIfCBEFFMQwN2CEyp2yesiSiEQjMVRzEzWpQJ4Wxy3fbdNs_Twr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaPXH3AhCLyMUt0YX29J5ENrD4muYOONu868RZ-a11XwoLik6m07V_h8oO8ozbbgWWgUmp58PrQ611E7nzMKUr2akSG7gXC8q_0aJiEC-PrK0ktZnvUOsjwnI-30Ys9Xr108YjBk93hKuw1X4qpvWV0V9GETqzCpRcQIo2vgntWLs30NQ="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeaIKNdbej54QCzV81vu4b6TEb7EiDwbU6gaxFbP82twScz8vPQ1gPNDsnjCDNIqxq8dEv6j-Uhhc09dfNgmvzbb3X1Wkp2iwpsrD6A2I2K4yFMIw3mBZdNQ7P5gVLqNNAKGHD6zN--VcLS9PphpV15A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFgMgybSZ-KzoTxaVF2Y8L-Ey4G5lcKYYR3vKkf7eD8o9rMo194ePffznYIQz7Sw3BpG5hWwruEhqQEAhJX4zV8-xqLTczGw8tATiXVYNb-_UMJu7973z6ykVL41Wp-5ldYW9Z_LzCfclgL73rJ7qveNEK60DcNQ0mu6ZUFW9i6lw16ph-PW8FXO4c8T4OAKMkQFoCnQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T08:59:21.584Z"
-    },
-    {
       "id": "social-a2ea22883a54",
       "title": "Thomas Hirschhorn. My Atlas",
       "category": "stage",
@@ -30018,26 +29435,6 @@
       "scrapedAt": "2026-07-16T09:12:14.425Z"
     },
     {
-      "id": "social-d270ae0f0776",
-      "title": "Ökumenischer Wingertgottesdienst",
-      "category": "family",
-      "description": "Ökumenischer Wingertgottesdienst im Weingut Manfred Meier.",
-      "date": "2026-08-16",
-      "time": "11:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Weingut Manfred Meier",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://zizers-reformiert.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
       "id": "social-1eabd1b0efaa",
       "title": "Fritigstreff: Musikgesellschaft Zizers",
       "category": "music",
@@ -31270,26 +30667,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-7e9b55f94c78",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-16",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-0344a1e27272",
