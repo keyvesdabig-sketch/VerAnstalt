@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T07:31:35.505Z",
+  "lastUpdated": "2026-08-19T07:31:27.550Z",
   "events": [
     {
       "id": "social-664822b913b4",
@@ -546,27 +546,6 @@
       ],
       "scrapedAt": "2026-05-24T14:10:44.547Z",
       "legacyId": "social-1779631844547-DomatEms-13"
-    },
-    {
-      "id": "social-4bbb0a6caf20",
-      "title": "«Symphonic Pops» – Festspiele im Schloss",
-      "category": "music",
-      "description": "Fabienne Louves und Emanuel Heitz nehmen das Publikum mit auf eine faszinierende Reise durch die Pop-/Rock-Geschichte der letzten 60 Jahre. Konzertdauer inkl. Pause: ca. 2 h.",
-      "date": "2026-08-18",
-      "time": "20:30 - HH:MM",
-      "price": "Premium-Kategorie: 150.- | 1. Kategorie: 85.- (Normalpreis) / 40.- (bis 26 Jahre)",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.884,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch",
-      "ticketUrl": "https://www.chur-kultur.ch/konzerte/termine/symphonic-pops-schloss-haldenstein-4.php",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:11:38.448Z",
-      "legacyId": "social-1779631898448-Haldenstein-11"
     },
     {
       "id": "social-2884a3518f73",
@@ -4396,47 +4375,6 @@
       "scrapedAt": "2026-05-28T10:48:01.148Z"
     },
     {
-      "id": "social-bbb46f36887b",
-      "title": "Symphonic Pops – Festspiele im Schloss",
-      "category": "music",
-      "description": "Fabienne Louves und Emanuel Heitz nehmen das Publikum mit auf eine faszinierende Reise durch die Pop-/Rock-Geschichte der letzten 60 Jahre.",
-      "date": "2026-08-18",
-      "time": "20:30 - ",
-      "price": "Ab CHF 35.-",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/de/festspiele-im-schloss/festspiele-im-schloss-2026",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/de/konzerte/termine/symphonic-pops-schloss-haldenstein-4.php",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKkI-cIc-v8RvepvatE0jirKFBxiWbd-_7ayQfMKZjD9sV9YM8bpXAOtEEETLwSSIiLdQGIhq-8niSK3FW_Nly2yGJa1Senm5TNOluSIlIF4iou6GzWzyWMkRVJrzjN4D6pbRLJXROqNomhGitizS_dqSWVArsMS5XQQQqCRTcFH0xhPwBv_50PTPieiDQ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUzyqAOyidOHLkpDjVrJkBHOegpcwXPA-StjarwL2oiYd-jWYhxOwauy7pAEaUl4D74LqeNeakE-p99Qz2Ud7g4T2TPBS8OYOLCiaDP8JEdVEZVzmCtimK196uBMz1K8Rusjw7BtQ1UuxOIiSOrZHYYgHybblvfOlDKO79F5gOteyi96EgAUivA8-2dnMwqJxg3XSd0oD0IWDELOZrLUvrxc0Uag7szwSm1fY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1YeKfCE0jJXJZorQ8pC8XCdtmmn8GQXwXIqLhgc5WzmzyndRqIjQZTFANRTDtK131gSN0s6G06cfGhuJFnO4bRDOk8Oe93GsOZp-6E0DkCcxv4ZqVaaFBQY5cbHEgzdFGKgA2hVOfHZjrWiraJd1kVk-AE1m1V1ljOjksewek54Ts4d1d_xBZrVtdJyzZlQUe27FwNyJcP2SG5jLCbzD4JWg62cs="
-        },
-        {
-          "title": "wandernacht.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd3kwMUHX0TSWEvYkXSCqpYCRk8Y9Nwie9qUcD2MuAUff147qoHYGDvOR2mPWZs43YU7lw0PCDyhGN6HkQXBiXVZ311ZHa1lOxwxy8yH3HqgFUgQ0Uqnb00YSkx_TZ4KyxbwBcXQ=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVqUEu3NltxWfoA3Mzr5FZdbn_Jycwj-Wgjp6wwWHUbeWFUmVih2W8zL6qzqscOsC1g4YJJyW649PPyWj6M5ZBr_5n7BcYxWeauuUPoQ0WTcnYvINpEIqpUNiAwZrhEtwDLzQ1VIAWowZ00tZs01lBqyJpT6xo"
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:49:38.732Z"
-    },
-    {
       "id": "social-62e51e7490fc",
       "title": "Star Wars & Planeten – Festspiele im Schloss",
       "category": "music",
@@ -7170,26 +7108,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:42:14.728Z"
-    },
-    {
-      "id": "social-12cedacef6df",
-      "title": "Festspiele im Schloss: Symphonic Pops",
-      "category": "music",
-      "description": "Symphonische Pops-Konzerte im Rahmen der Festspiele im Schloss Haldenstein.",
-      "date": "2026-08-18",
-      "time": "20:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.883,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie-graubuenden.ch/kommende-veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:13:28.038Z"
     },
     {
       "id": "social-5ed5230a2a18",
@@ -12656,47 +12574,6 @@
       "scrapedAt": "2026-06-10T10:52:25.650Z"
     },
     {
-      "id": "social-7cf2206d81dc",
-      "title": "Festspiele im Schloss – «Symphonic Pops»",
-      "category": "music",
-      "description": "Vom 31. Juli bis zum 22. August 2026 verwandelt die Kammerphilharmonie Graubünden das Schloss Haldenstein in einen musikalischen Hotspot! Eine faszinierende Reise durch die Pop-/Rock-Geschichte der letzten 60 Jahre. Die Festspiele im Schloss 2026 versprechen ein visuell wie akustisch einzigartiges Erlebnis.",
-      "date": "2026-08-18",
-      "time": "20:30",
-      "price": "Premium: 150.-, 1. Kategorie: 85.- / 40.- (bis 26 Jahre), 2. Kategorie: 65.- / 30.- (bis 26 Jahre)",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.879,
-      "lng": 9.526,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "ticketUrl": "https://www.churtourismus.ch/de/region-entdecken/veranstaltungen/alle-veranstaltungen/event/symphonic-pops-festspiele-im-schloss",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdNBf003hsqINWyJ0_30kGslYWV-iLIFwF9WZYqqxxJ5awqfMOAgNTjKjm2H4xrkpsxyuSbOe1pP_0zlQCU-xCr9DThnqE-3Lsl7z1gaqJXpHBl6MXGdZWe9XSK-vPDzwiyHwZVxCG_QIbxkO5EAOyflbu6_I6uVPlOv_M7U--qXFrQTvOaKQGYHUD5mnlUSV55nAmFgL_gU-Fst4BTbsrUbu-TzY="
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD43jMlK9YiSeUtfaZJz8GxXzDY_ZQYZt2qjOdz-VbGZS2gfksLTKaCy9L6RdsCBhBT8nJyXOjJIQmwzCCwax6I6vhLAIk8tLMKVkBe1HcYYAY-9FZ6kCuHj4tkLeXJPRZOmXInvY="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVlxfVxal5TBUm84UQtOSac1tHjcTOXPH6Q_QPgHxNXIOtFl-fb1HoPT4GOrHStBd3NmTVYk_QJiMgpySrLzKYIT1iQei9BaHtYSwXN1VeBtydm7H7dVBapf8mD9QymIyZBrNguwIP8Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnjjhGXeKmMjE_g4GCGoce6AsxzuYwLvjT8iOGfciz-AzLAGuSxhLhACvNJM6pYDwglqXwONGP0JCjX3AzlEUrDpn40MCeU3YgFh550mTcnq9Thjf4q7aSutD2OO_8lOtHFdO7Hqxbmg=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb4uoqFR4BIKpKYsb_bgMITQ6yxbocNmem4Yft8c4T0yoZQhupH3lMnwclNBBGFYW4shkBEHT3zACSQLg6pnWR3qGNShEmtxzx9B0VyQCCO4x8zBG9g9e1JB4HI9OHM1qoFRDaKlvU8ONRf6iXa-_b6s_wdLQx"
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:00.045Z"
-    },
-    {
       "id": "social-d317ff275709",
       "title": "Festspiele im Schloss – «Star Wars & Planeten»",
       "category": "music",
@@ -17188,47 +17065,6 @@
       "scrapedAt": "2026-06-15T13:11:16.675Z"
     },
     {
-      "id": "social-dd07ba10ff42",
-      "title": "Festspiele im Schloss - Symphonic Pops",
-      "category": "music",
-      "description": "Eine faszinierende Reise durch die Pop-/Rock-Geschichte der letzten 60 Jahre mit Fabienne Louves und Emanuel Heitz, begleitet von orchestralen Arrangements im Schloss Haldenstein.",
-      "date": "2026-08-18",
-      "time": "20:30 - 22:30",
-      "price": "Premium: 150 CHF, 1. Kategorie: 85 CHF",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8847,
-      "lng": 9.5408,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/festspiele-im-schloss/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaj-aRZybmUN_4yFMUiZIqg4yt42MdU2CrhBKQMRkx4BnS4L7u9ksKOeUgu9VwfvJKay4ZBkmkQ7dBgrdLT5a1Y-7nfvCLZwVXdoQqxdI2cHQlD2gpFhtS_qbdieaV3XT7-bcHqr35Tuh6vCEAQZyp4bmVGTovjpAvxARqUQ1nkY-CEyImuuBvueNe6tBG"
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG18aGIVaOu14MPszpzuaxBAZsw3YjHAmcm__TgzY8aQ8ucY1u7IbG7a5Exlg_udyCrO9bs6YRoefZqhrE7R9qzpIBbiL8KvaaKL-F1sDYP7acIsbXhiSeBLI_XLxW4lAg-wJMAQj8eFTPaHvjywdZxYE6xQ4M4"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzbU6ywL4y8v-KafENBhk8FU61-qr8ZLiLB9GbY4Z8mGm9oo6fdyU4E2nEIYVqvUShDQ85yoc3118C4IAo9e5FVXLeitNv1VwDwkFktf4mx08b3cBv_pIsMD3X0Dp79m2wCxW_yPOO-w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4hua-6NC90yXSZD4VhbxXgW5QEDl5bsjOprYljJqn5-7N_ZTiFMp0Blx3dKM8o6CM61mekImTsUddtyhSWJHIWsbvljY4p1DftVsGxX5JVCdErIy7eNuozSpcArJK2F9q2jn3ne-Oew=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFjl5uDHnF2pTLYb-5SiHe15USKBRxUbSaFQ7E6TWOBGzw5zpb6wNi-eaLQTYV5D1CL2xP1aIpv5z10ev3XsXS4CRjJEStUdCPd53ADWMsj8Fay0P9PLB2BkjCIrTQu4LuQAKaUecw2VZNBMpAYWETQpMx3fVta7lRAOsVFeCIowPkQ1vjzppNKYTeVvpSIDQ7CK2UQpzpV-c="
-        }
-      ],
-      "scrapedAt": "2026-06-16T12:08:41.032Z"
-    },
-    {
       "id": "social-1bd85824e413",
       "title": "Festspiele im Schloss - Star Wars & Planeten",
       "category": "music",
@@ -18324,26 +18160,6 @@
       "scrapedAt": "2026-06-18T11:13:50.691Z"
     },
     {
-      "id": "social-4bb74c7608e8",
-      "title": "Lesen mit Giotto",
-      "category": "family",
-      "description": "Leseveranstaltung mit Giotto für Kinder.",
-      "date": "2026-08-18",
-      "time": "16:30 - 17:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
       "id": "social-f40f2ece7bc3",
       "title": "Buchstart für Kinder (0 - 3 Jahre)",
       "category": "family",
@@ -19138,26 +18954,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-a012156361a0",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-18",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-bdde57f07fa3",
       "title": "Polenta 7000",
       "category": "music",
@@ -19209,26 +19005,6 @@
       "locationName": "Chur",
       "lat": 46.8517,
       "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
-      "id": "social-8b223cb1b7e4",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-18",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
       "image": "",
       "organizerUrl": "https://www.churtourismus.ch/de/top-events",
       "ticketUrl": null,
@@ -22165,47 +21941,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-e692fe169652",
-      "title": "Festspiele im Schloss Haldenstein - Symphonic Pops",
-      "category": "music",
-      "description": "Orchesterkonzert mit Pop- und Sinfonik im historischen Ambiente des Schlosses Haldenstein. Findet an mehreren Daten statt.",
-      "date": "2026-08-18",
-      "time": "20:30",
-      "price": "siehe Website",
-      "municipality": "Haldenstein",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8778,
-      "lng": 9.5264,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte/uebersicht",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-1160548b8079",
@@ -25261,47 +24996,6 @@
         }
       ],
       "scrapedAt": "2026-07-07T10:24:03.569Z"
-    },
-    {
-      "id": "social-2d39984f4cef",
-      "title": "Dorfführung Churwalden",
-      "category": "family",
-      "description": "Eine Reise durch die Zeit, um die lebendige Vergangenheit von Churwalden zu entdecken.",
-      "date": "2026-08-18",
-      "time": "17:00 - 19:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Churwalden (Meeting point: Gemeindeverwaltung)",
-      "lat": 46.7909,
-      "lng": 9.5492,
-      "image": "",
-      "organizerUrl": "https://www.churwalden.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc2AMirNlsMHohDvejL87VfO43QoRfAs1B6YX3dQ5nsKLSHcoaRB09nzfxCiughBFqaELVmhBBw4JV0GHnEB-8GUAJM4nmqV9WjO7VFlsbw2ulrG_JdN7R_B6klRq968kaHIJNxPLhHduzXAfrZMf1wwPvq834zCNElJFGre4cTAf7VddtnluCbxkKfj3QCWeAgqDk"
-        },
-        {
-          "title": "pradaschier.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1sqdI_-QuISJHGCBLfdyPtkwy4hsA9Sj3O4mA5n9BZFpdvhXHEv_7DwGBmrFBIqItC_2FEjA1j-S-rf1chwXdy4GTA7fOe7Yavj2l6nYM9qUdYGqe4cJBfwcVfuuXCHHcmb2g5Q0z4_xbaTw0mETuFkZwArt0kBl0faPH_Q=="
-        },
-        {
-          "title": "arosalenzerheide.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsA4VrKk-hySxoNybSoBUWex3IbK4EjyH7lChWhuYI135Z84IwCHa9SkGcaIUftRvwNgrC96npwgQG-FvQWCFmCn_J9xhm282TQLRITOLppN_7QzyiHVlyNjWZuk3WtrrigPs1RyM1peOrRtz5j6J_zSQtryJxD6Ninl3J6GlunODO74XYXjfq0B7l1RzkriXaqIZkWFG3fPHP77EdePny0H1z4PICsJgZiAtV1Iz7F4oLjaYv6Ph7jwtiDiegaBsbPgDysw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC17R_BTipD8H77FL_-fI-96AwFkHRPQ7hywIxhPA9Y5vXhjFlb6TXtrlevYW4VDL9-EfP3GA7te42MQp09k82DyeU8B3FuztRZYPtwzTuSeR7DJ7iRfTkpewQlz8NFk6jyUZpiIR7qosUNSQRBmEhe1q2_aRBFbEYpD1Y9Bf0B5OoQsU5tcnUL6C_wnILjSEe7KLVUTN74npcQ3qynn42F8_cVEXS"
-        },
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1KS58JKmHjnIiYJ9sGBObdVppfVNIidYdNDjvB9TBKej9CROIyfSftwh2P24nMK77wEfAODk000zBB8PXYPh5ELKMiOfTsHrg5D4x23uWoDMrR8sryX0A6fA="
-        }
-      ],
-      "scrapedAt": "2026-07-07T10:25:27.752Z"
     },
     {
       "id": "social-cfa562ffb096",
@@ -30443,26 +30137,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-4d33f32b869e",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-2f57aed70068",
