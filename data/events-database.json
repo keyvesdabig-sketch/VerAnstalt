@@ -1083,52 +1083,6 @@
       }
     ]
   },
-  "jazzchursternencaf_2026-08-21": {
-    "id": 1779715515107,
-    "title": "JazzChur @ Sternen Café",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Der JazzChurSommer 2026.",
-    "date": "2026-08-21",
-    "time": "17:30",
-    "locationName": "Weinbar und Café Sternen PopUp!",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/f0/12/cf012bfeccfc2ca12b7b067a78ceaf7e69690e4a_932697406.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30"
-      }
-    ],
-    "ticketUrl": "https://www.sternen.cafe/"
-  },
-  "aelpliabendfuer50datingwillige_2026-08-21": {
-    "id": 1779715516710,
-    "title": "Älpli-Abend für 50+ Dating-Willige",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Älpli-Abend für 50+ Dating-Willige",
-    "date": "2026-08-21",
-    "time": "Siehe Beschreibung",
-    "locationName": "Älplibahn",
-    "municipality": "Malans",
-    "lat": 46.9993624,
-    "lng": 9.5789755,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/fd/9a/4fd9a60e90dd189c0d857d3dcb51a716b4844887_927604144.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026"
-      }
-    ],
-    "organizerUrl": "https://www.aelplibahn.ch/"
-  },
   "aelplibahnfest_2026-09-06": {
     "id": 1779715517034,
     "title": "Älplibahn-Fest",
@@ -1469,29 +1423,6 @@
       }
     ]
   },
-  "jazzchursternencafde_2026-08-21": {
-    "id": 1780312010184,
-    "title": "JazzChur @ Sternen Caf\nde",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Der JazzChurSommer 2026.",
-    "date": "2026-08-21",
-    "time": "17:30",
-    "locationName": "Weinbar und Café Sternen PopUp!",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/f0/12/cf012bfeccfc2ca12b7b067a78ceaf7e69690e4a_932697406.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30"
-      }
-    ],
-    "ticketUrl": "https://www.sternen.cafe/"
-  },
   "u00abgraubuendenvivaimfokusu00bbzubesuchbeimweingutschifferli_2026-11-18": {
     "id": 1780312010877,
     "title": "\\u00abgraubündenVIVA im Fokus\\u00bb Zu Besuch beim Weingut Schifferli",
@@ -1672,52 +1603,6 @@
       }
     ],
     "organizerUrl": "https://zizers-reformiert.ch/"
-  },
-  "jazzchursternencafu00e9_2026-08-21": {
-    "id": 1781084397928,
-    "title": "JazzChur @ Sternen Caf\\u00e9",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Der JazzChurSommer 2026.",
-    "date": "2026-08-21",
-    "time": "17:30",
-    "locationName": "Weinbar und Caf\\u00e9 Sternen PopUp!",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/c/f0/12/cf012bfeccfc2ca12b7b067a78ceaf7e69690e4a_932697406.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4787427?eventDateTime=21.08.2026%20%2017:30"
-      }
-    ],
-    "ticketUrl": "https://www.sternen.cafe/"
-  },
-  "u00c4lpliabendfu00fcr50datingwillige_2026-08-21": {
-    "id": 1781084398503,
-    "title": "\\u00c4lpli-Abend f\\u00fcr 50+ Dating-Willige",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Älpli-Abend für 50+ Dating-Willige",
-    "date": "2026-08-21",
-    "time": "Siehe Beschreibung",
-    "locationName": "\\u00c4lplibahn",
-    "municipality": "Malans",
-    "lat": 46.9803,
-    "lng": 9.5658,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/fd/9a/4fd9a60e90dd189c0d857d3dcb51a716b4844887_927604144.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026"
-      }
-    ],
-    "organizerUrl": "https://www.aelplibahn.ch/"
   },
   "u00c4lplibahnfest_2026-09-06": {
     "id": 1781084398989,
@@ -2084,29 +1969,6 @@
         "url": "https://www.localcities.ch/de/veranstaltungen/cazis/4633/4618849?eventDateTime=06.09.2026%20%2010:00"
       }
     ]
-  },
-  "aelpliabendfcr50datingwillige_2026-08-21": {
-    "id": 1781427711879,
-    "title": "Älpli-Abend f\bcr 50+ Dating-Willige",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Älpli-Abend für 50+ Dating-Willige",
-    "date": "2026-08-21",
-    "time": "Siehe Beschreibung",
-    "locationName": "Älplibahn",
-    "municipality": "Malans",
-    "lat": 46.9861825,
-    "lng": 9.5694943,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/4/fd/9a/4fd9a60e90dd189c0d857d3dcb51a716b4844887_927604144.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026",
-    "sources": [
-      {
-        "name": "LocalCities-Malans",
-        "url": "https://www.localcities.ch/de/veranstaltungen/malans/4949/4757191?eventDateTime=21.08.2026"
-      }
-    ],
-    "organizerUrl": "https://www.aelplibahn.ch/"
   },
   "graubndenvivaimfokuszubesuchbeimweingutschifferli_2026-11-18": {
     "id": 1781427713180,
