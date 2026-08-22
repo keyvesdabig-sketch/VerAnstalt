@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T07:36:20.209Z",
+  "lastUpdated": "2026-08-22T07:25:04.598Z",
   "events": [
     {
       "id": "social-664822b913b4",
@@ -779,27 +779,6 @@
       "legacyId": "social-1779631956501-Untervaz-11"
     },
     {
-      "id": "social-0a6f63b8fe04",
-      "title": "Fritigstreff (Musikgesellschaft Zizers)",
-      "category": "family",
-      "description": "Die Fritigstreffs finden auf dem südlichen Schulhausplatz der Schulanlage Obergasse statt. Ein Verein ist jeweils für die Festwirtschaft zuständig.",
-      "date": "2026-08-21",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.943,
-      "lng": 9.571,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch/daten-fritigstreff/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:08.761Z",
-      "legacyId": "social-1779631988761-Zizers-5"
-    },
-    {
       "id": "social-2f9f1d7691c6",
       "title": "Fritigstreff (Verein Seifenkistenrennen)",
       "category": "family",
@@ -1577,27 +1556,6 @@
       "legacyId": "social-1779632163363-Rhzns-3"
     },
     {
-      "id": "social-8d8b646a9311",
-      "title": "Älpli-Abend für 50+ Dating-Willige",
-      "category": "family",
-      "description": "Vergnüglicher, lockerer Dating-Abend für mindestens acht Frauen und acht Männer über 50 auf dem Älpli. Inklusive Bahn, Willkommensapéro und Essen.",
-      "date": "2026-08-21",
-      "time": "18:00 - 21:45",
-      "price": "CHF 65",
-      "municipality": "Malans",
-      "locationName": "Älpli Malans",
-      "lat": 46.974,
-      "lng": 9.513,
-      "image": "",
-      "organizerUrl": "https://www.aelplibahn.ch/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:17:00.486Z",
-      "legacyId": "social-1779632220486-Malans-27"
-    },
-    {
       "id": "social-5c592d95f14e",
       "title": "Ride & Vino, Malans",
       "category": "sport",
@@ -1905,27 +1863,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-9db1e4d4da60",
-      "title": "Thusner Dorffest",
-      "category": "family",
-      "description": "Während 2 Tagen verwandelt sich Thusis in ein lebendiges Festgelände. Ein Dorffest voller Attraktionen und Erlebnisse, das für jede und jeden etwas zu bieten hat.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Neudorfstrasse, Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": "https://thusnerdorffest.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-22"
     },
     {
       "id": "social-f38e97fefd7b",
@@ -5238,26 +5175,6 @@
       "scrapedAt": "2026-05-29T10:48:25.436Z"
     },
     {
-      "id": "social-f92e0d6c1b79",
-      "title": "Tras la Notg - Konfnacht",
-      "category": "music",
-      "description": "Eine Konzertnacht in Chur.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-05-30T09:12:05.233Z"
-    },
-    {
       "id": "social-00b75645bef3",
       "title": "Jules Spinatsch (Ausstellung)",
       "category": "stage",
@@ -6030,26 +5947,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-593a52c1a19c",
-      "title": "Fritigstreff",
-      "category": "stage",
-      "description": "Fritigstreff, organisiert vom Theater Salaz.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "offen",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-80e71cc8c28b",
@@ -7928,47 +7825,6 @@
       "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
-      "id": "social-677decc41c3e",
-      "title": "Fritigstreff Musikgesellschaft Zizers",
-      "category": "music",
-      "description": "Ein Fritigstreff organisiert von der Musikgesellschaft Zizers auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
-      "date": "2026-08-21",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
-      "lat": 46.94,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
-        },
-        {
-          "title": "tvzizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:19:05.082Z"
-    },
-    {
       "id": "social-9c495c1eab35",
       "title": "Fritigstreff Verein Seifenkistenrennen",
       "category": "family",
@@ -8274,26 +8130,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-03T11:53:21.095Z"
-    },
-    {
-      "id": "social-51b2f316da72",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-08-21",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
     },
     {
       "id": "social-8d8bfec68eb4",
@@ -11967,47 +11803,6 @@
       "scrapedAt": "2026-06-09T10:38:18.586Z"
     },
     {
-      "id": "social-8542e3466b22",
-      "title": "JazzChur @ Sternen Café (Schnoz-Sisera-Caflisch)",
-      "category": "music",
-      "description": "JazzChur verlässt die Stammlokale und kommt ins Dorf. Konzert mit Schnoz-Sisera-Caflisch.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Sternen Café",
-      "lat": 46.958,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.eventfrog.ch/de/p/konzert/jazz/jazzchur-sternen-cafe-malans-gr-7230554593430188732.html",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/konzert/jazz/jazzchur-sternen-cafe-malans-gr-7230554593430188732.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "rideandvino.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiORnJ950bOeqHoaRwIe0jgnJCaKwdxrkIoo4ZS7EwSU5cH_OTbhUPWSfcAxgyGoBeohFax6FBYJuTu--baDdGwKUO9dFefWP6yzeN5cEx0ALFB_Kt3PkpVpEF0F4VBe2HmG6IFwGaXD1ADUshUc4tlVFfhspRb44unA=="
-        },
-        {
-          "title": "sternen.cafe",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKZ6096igQifai5__UkfuekfFFB2wfIrXvDfVKV2iLoSI5C1iinSG8BpBxwwHLm3Eoep0q_Nl45Dd1kc7XzetWU8zXni29REyZwX2FVODLrlffSPggZ_nkwoY="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwWYZcym1SE8wFHljIY27n9cYBlGdKc72HhDdygdCGJmlB5joP_5q9iiOeFVWYE6Ck9FdomUDT-MTBS0uEjeHJLD4dRTi_frj6YeuHrBs-F7bkKsxNP3SAXEGn3-wMIn4="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCsgpONy_jzUWGMLlpCWWfZaXHpOoHd3yYgGwS7Hd6sUffnCbvfA54CPN8BeZDJ5jefDTfxq1XcPpRKOr3ziJdGcVk0lfy4AH53RolcLs3UdN4Vpl3QsGMPNflMjphuU7kdPnc1u187lumPZ9fD0b9Y_n_MMl0l126VP1HEfUKY2OqeN8kcCzI"
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlvY1XmSD2wey06skrk03fd-jFf7FySxZ1SXZoJZw4qKp4fTn75MuCb9NxkeIMNtwi4h0GMqQK39OJX5NTWGzMFOfXpkc-anIzk4ChBn2KPyb55wG30RICIPOA_bF47lgl"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:39:24.051Z"
-    },
-    {
       "id": "social-e2e620a3528b",
       "title": "Landquarter Herbstmarkt",
       "category": "markets",
@@ -12452,35 +12247,6 @@
       "scrapedAt": "2026-06-10T10:54:42.214Z"
     },
     {
-      "id": "social-09152662c7b5",
-      "title": "Fritigstreff (Theater Salaz)",
-      "category": "family",
-      "description": "Ein Treffpunkt am Freitagabend.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "offen, Theater Salaz",
-      "lat": 46.91,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG82jWdsZfe0QegqzQOmx8FnvIu0sfTaBUj8lDoUhnaZCdK50qAGTY63rnb6NlYSQX9M3TW5bZWRK9ntvHk9PFljrgOyOVylRlOIPzkGxKybgpZA1syBDLIqR1cGBlDAYfIzhtOJB2f06llXZ2Hagg9bCm1Kmm8Py32yMeuU3SxaOtqzIiHn8AGNTEYeo2-LTapKd-fXvD8OGfQHmaXw1mODg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_JVxXJG7OMZYD6-MtKGnZt7COOUHlt1UeR9jAJelI5SVQJI2VOkZRSqEUHdjXmy6mWTg62nhB7QIAWNK6dAHB_nurv9F2hYHhPO02h3FE3Uk4cAbCZvQe0aZiMTjit2qCTTAlYhlAI8wFrCDXa3bdmeG0N6HiNhfWgGMfQkWmsUFy80c2Cipqfk13chsz2UUbHA=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:55:17.772Z"
-    },
-    {
       "id": "social-4471a1e93d2d",
       "title": "Fritigstreff (Hof P. Philipp)",
       "category": "family",
@@ -12852,47 +12618,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
-      "id": "social-170dbcc90cb9",
-      "title": "JazzChur @ Sternen Café in Malans GR",
-      "category": "music",
-      "description": "Konzert von Schnoz-Sisera-Caflisch, im Rahmen von JazzChur, welches die Stammlokale verlässt und ins Dorf kommt.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Sternen Café",
-      "lat": 46.992,
-      "lng": 9.5543,
-      "image": "",
-      "organizerUrl": "https://www.eventfrog.ch/de/p/konzert/jazz/jazzchur-sternen-cafe-in-malans-gr-7164996459039343356.html",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/konzert/jazz/jazzchur-sternen-cafe-in-malans-gr-7164996459039343356.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDG2iMppw_iT8lTTgwEmcqz-w1lPQX91H_NgVjoYX0KdyYDUaehgBzNeGVL1U6jlcjWH2ZBgTn8U-uvNidODQQ6ggzBC-rsdI0pRWrGyC0NQ=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTCTtUoD7P4QwMWVhlY4LbBiBXdbONvzL_ylVEdJJWZfJg4mh6cA2M3GlWxH_bEA-6hkMd2k4Xt6Nq0lqfEgRPhntVBvtdTw2XP5nHWCsYcTMn3oolzaJPzppSprwf6A=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnl3-FTlR-vlSZuTJeKbhd1zffU80uL-gRzI99NhRB0ThXIgjM4dtkx2bUKM3okqSFJvjZ1Av4dnYz4esCQ93SyRvBJGUNV73zNlBEzXg57fMeE6vI3DkGI9N_scJ7sISIMupJgIsLRQgUUQZ8TesJOHSReMOMsteaP-FRF8r-TCix5Viry7A="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN960M5z2tNB8nUcgzvVJ9kffAuWAx8vMt69_5YDofhQfijsERjOQQRqHL-M9DedBjzdBeZ7GotKKZw1vd11FAGjX58CcXQFGdIMpGyHGFOwQF97c8_CipYGzY7SWqu71H3isVPvMDSi5mCONG-5G14_g_99ABAx8icl3i-3Xg3hTgSF795Q="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDe9JaX9elcwgDW_6GQFlV03uW4dBf-t4SZtaCT2Q0_OVrSvxMrZrlRiW8ZyiVRIBgH28_AmgnrPu9r7bdY_giSNBS5kN2CZ8azHGbq7T6yxjbuJrvRRMbR9tIRw=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:01:17.264Z"
     },
     {
       "id": "social-9e360a7eacf0",
@@ -14864,26 +14589,6 @@
       "scrapedAt": "2026-06-13T09:59:04.126Z"
     },
     {
-      "id": "social-f17892ec21e3",
-      "title": "JazzChur @ Sternen Café: Schnoz-Sisera-Caflisch",
-      "category": "music",
-      "description": "Jazz-Konzert von Schnoz-Sisera-Caflisch im Rahmen von JazzChur.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Sternen Café",
-      "lat": 46.9922,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T10:03:08.667Z"
-    },
-    {
       "id": "social-fc2bdc08e600",
       "title": "Abendstimmung auf dem Zuckerstock mit Gerstensuppe",
       "category": "family",
@@ -15022,43 +14727,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-13T10:04:49.311Z"
-    },
-    {
-      "id": "social-4b2192abd81f",
-      "title": "Thusner Dorffest",
-      "category": "family",
-      "description": "Das Thusner Dorffest findet am 21. und 22. August 2026 statt.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Thusis",
-      "lat": 46.69,
-      "lng": 9.38,
-      "image": "",
-      "organizerUrl": "https://fctc.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "mycity.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJFsghM4sOdmnNfDP3KE8rvC0DXHmTShgiUwlbOf9Exl8mAw8DGY3CJTORfXZPi-C1gRmSJLrCxrwm0f_hamYR7J8rnlCL9bXsEWid5dwF14A8Jdz40GUAdN9viq7sqRNHDaWScAbi1PslFYR0v-qM3H-TABvHgixsnRwvmGcYEYHBsQWJFgbcewz4Nt0XIWvfz9U="
-        },
-        {
-          "title": "fctc.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKjszyWlncDdM7_hbgoJwUveEEmG1iQ7Ywbjmaf-q2kL7Fe5lsyXcGpiIRHezK-H_N4t3x6crO7o3qG45UXRT3TPB_EEjMXhWoaBXTs6d-JOyOQ6nHkZGf2ihDmyQucftm3qU5mYlm4H3t8fNZrdVuidsdyqxV8C-8QT95T7jtq8L7YA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1UPYPgiCvlkEfrz-gjFGE0M8V8fhqnM69qF18s7V8FusSJECtxQMt9AOlDuATkCGRWHkKdRShz3UteTYJDRD5e8_g4P8hXdEuUTIe0m9Kky09Q5PTABdCiwD5afhD3C0n-aedOJS1tnrB8885Q0Qi4gAnY0v8CriulucrsaCxCCjLMOYlnYwk6vBE"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiXXnDwqbPA8WRwWcfKvcJGjeQ3YOUOrR_R28dBnKKRzGksYUMiLTw_MSE6Wmgx5NHho3FzVnVi2pSmr5cFkZh2wRRAgEG3aUYMX_TrILjaFU1MueZLW1i89q_CQZirh7y3p8k5NW7N1hWDU3d_WeIKg=="
-        }
-      ],
-      "scrapedAt": "2026-06-13T10:05:32.307Z"
     },
     {
       "id": "social-4893f4855751",
@@ -17559,47 +17227,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-a0127378afee",
-      "title": "DART-FRIDAY",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-08-21",
-      "time": "19:00 - offen",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.8309,
-      "lng": 9.6155,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-vb6Rh3vj1xEeimFYQViR3vi3gIS6wIbRZCrKazE7SIu8-SkGvVdxP3Y7UUyFk8L_SAjGkxuMWgEsmhJxnXZ6O5ffWxHPuE48rshZyyf9pBfr6FQPT8KmQM="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyQSr4G-Qy1lHuACv2G0kAmUeCVdBWT-qVk3XcuTCU9W2SCuH73GURix511dkFbKOZOIIGdbG4Y_M91dL0SCJ0DjaA93ZvYrUi18Y5K8HfYE5u3xYtyhRSmsvalIfDZ5r5ZEq3HpP3nmYXFjBeGhW7_icW6Hs-JHDihVZ1oQUAoVzJN-dvBbuBa2HtPeZtkArzlqaByLXNp2R-yXUVJgs="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWnbk4QCphXtdjZ-dQGhTRkp709wTQa_8EPq6hb_urYGJuDjfWly4LuY4k7H899xrXOdoUv7-v1c7qiVer2qOhbE5hhbD1V8Kx9QCV4mnuLGpHTHFmiN7AaJ5_RIYqyNIekvdR1dZhT-cjOua-H4Haotl1aX4Kc9DSKWA="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJxDV5f52c3bJeZrrBvHNn-wg73WDRkcDeS_TYqePQAasjihvcJrVRbklZnhH5wx2MSr1_Rukf1i8MfkFGYLCwkSygg-h-nOSNjb_PZZVtgGgk2l5LBxZ0GdqtoB92-8C2S6rzyaDiiBxJHAQuMGO8bQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH94yvq783CvVk6EqE2-Tki9stwkInd8PPPoV0ur64wolyAUgz-iaWVXkGDvwCSG7Wig6aJyGFmbHb5BNKvfruf0486vuQcAH1YI5KjiUY-ExHl7t5DmzVp-Bk6OrTHNCsvSD07jbMxxhi2-yYXUI9sQ8shzk2RbnbLfNOLitnr5IUH"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:12:32.035Z"
-    },
-    {
       "id": "social-25996d3a6b4d",
       "title": "DART-FRIDAY",
       "category": "sport",
@@ -18503,46 +18130,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-e1e165ac7fd5",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-21",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
-      "id": "social-5bf38263d639",
-      "title": "Festspiele im Schloss",
-      "category": "music",
-      "description": "Sommer-Musikfestivals im Schloss Haldenstein mit Orchester-Programmen wie Filmmusik, Pops, Sinfonik & mehr.",
-      "date": "2026-08-21",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Schloss Haldenstein",
-      "lat": 46.8797,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-c3caba1ff913",
@@ -19854,47 +19441,6 @@
       "scrapedAt": "2026-06-21T10:36:39.231Z"
     },
     {
-      "id": "social-2dd997f03a02",
-      "title": "Kulturpreisfeier der Stadt Chur 2026",
-      "category": "stage",
-      "description": "Die öffentliche Kulturpreisfeier der Stadt Chur findet am Freitag, 21. August 2026 am Theater Chur statt.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Theater Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/veranstaltung/kulturpreisfeier-der-stadt-chur-2026-2026-08-21-1264362480",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdJteLbAf4ERDejQGfzJw_Ta8L9wR0NwyVQWsjo0_WJn_6gx8s8Sy5WVSsaTerPZS74giGtX8dAU7a-qRW_TeqBsMbiFgUKjvlxc4DGcs2quje7JbUqhLuF2zI_M9IYOKwgE2KHbLqg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdlueN8CmGWAioN8maspsVJdwsONHrkgemmuHwY5BSCSw54I_XJYOvEOOdXMCCGrCejZ--64WzPaFldFOLfy5YwhkvZROTM-ANjWxj1w=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvmU3gE5t8eaRvBD-XZGOlRakpZ6AkW4LUa5gZq3Gd3XTd-JZhQCxbcwWg0tFe8wlLjtBGkfpPIeLrSrw1vxz_pv01dxiLfLOgO_JmTmtycL7m8zuiO3_C"
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANblN4Wse5cZCp6BL8rfJ69O_gyTA54SztDvO0MDlB_-f64yt-fHKTTbaXRxOn3jXopJgMuSYmQg_7u-jvlbj0KcYkG3CQY2Npyg7UhR-INOFJA=="
-        },
-        {
-          "title": "chur-kultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU_FLsDm3hIdHS-0nLjYjVhhUFTQ54f-89jbnxcsTmJ9_A5oRoZUnzTIqMQQsmVYEKXp0gQXUHjlV9Gr5hJyADJe95ZnYNIp9Q9-0e5vB9BQuLvBYUbJkufJCjF4O59bYo1fRiJfpi0lOu_RWpr7HtjkRhhanohQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-22T12:44:52.794Z"
-    },
-    {
       "id": "social-1fbf072ba5c3",
       "title": "Kirchenkonzert Musikgesellschaft Trimmis",
       "category": "music",
@@ -20502,26 +20048,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:31:06.695Z"
-    },
-    {
-      "id": "social-ecae487f0147",
-      "title": "Plausch-Fussball 2026/27",
-      "category": "sport",
-      "description": "Plausch-Fussball für die Kids der Gemeinde Felsberg.",
-      "date": "2026-08-21",
-      "time": "17:00 - 18:30",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.828,
-      "lng": 9.508,
-      "image": "",
-      "organizerUrl": "https://www.felsbergvereint.ch/aktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:31:56.516Z"
     },
     {
       "id": "social-5a8a34d56140",
@@ -23264,47 +22790,6 @@
       "scrapedAt": "2026-07-04T09:24:19.766Z"
     },
     {
-      "id": "social-922702900824",
-      "title": "Vernissage \"Thomas Hirschhorn. My Atlas\" und \"Jules Spinatsch. 1964-2155\"",
-      "category": "stage",
-      "description": "Vernissage zu den Ausstellungen von Thomas Hirschhorn und Jules Spinatsch im Bündner Kunstmuseum. Eintritt ist frei.",
-      "date": "2026-08-21",
-      "time": "18:00 - N/A",
-      "price": "Freier Eintritt",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.buendnerkunstverein.ch/de/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4mZOyHZEnUwpCrznWS33pAwgDF9Ttm92hw9h0ddDUfKDrhfNJkTYnFWYiPBv7DHX6ToHUMnKurSF-U47EcZnAC1g9R3wWxCzVGTfxeg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrepCql4BhLHShGL5qDzfoFetKAVqUhRJd_hYHHRGbqUny2BXFE9ej3OEZng0I1PIGqC_k8EYfyS1GUSYNCNnut_NCYHgbqQoVM5ZbKGncMDFrFFL_XQbod__MwlU80qm5ql9N_48E0O10tdfckWed1qZefDHgbEbIIzLW"
-        },
-        {
-          "title": "gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUIzgIcvWOaILikp0T6jkpviqosYGPzWwiF6h02NbTxrlqCM8paYIYILo3ncIKFFWAUwkF6-pZSwFAi_Kzs2DbZMcqbZhz-8pKOl_Xh7rD7A-Uz28Bga5kmeX2CcK-GSvjyb-brciJnkJ2V_OD9JqiB65-kbgsHyH2yxz5r7NOm7PgLQyf3KL_mBVMcmb2AVo="
-        },
-        {
-          "title": "gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuY0j7FrWYe1746KpZEDxvkYDUwbpNxiO3WEbFh0bAWBtPcDzH3HwcHio6FNFihkisPq2r0K3t6kAXm2M5prNccwFpf6u-sZNUi035IUne2_umT5r6xwgj-hT65Rktum0SDcQXJWZKAPeZMCmpAQ9SeMsnWqhJj9HO5rhW0_ZRnAKigdSMYg9wa8kM_Pmm89dwN7hjRZczfIyGG7YldN9Au41a"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9mTBDa54vEVQmCddWvNhFJujWv-wwkviCJwxE4_74C1m0ia_WyCaIas6gO6nlpV82Z-DY4PylibtpXUFp4yokUqywHcjSS21Xzxhx8B6PCbK_uXerXZZZIs2p_RsBDOvvJN4_nNfkii51yBu"
-        }
-      ],
-      "scrapedAt": "2026-07-05T09:37:02.492Z"
-    },
-    {
       "id": "social-6953946732e3",
       "title": "Ausstellung Jules Spinatsch. 1964-2155",
       "category": "stage",
@@ -24079,26 +23564,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-06T11:28:51.276Z"
-    },
-    {
-      "id": "social-4aeb2b95fbb3",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-08-21",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:30:39.141Z"
     },
     {
       "id": "social-84d8a0ea07b8",
@@ -26929,26 +26394,6 @@
       "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
-      "id": "social-ef3aaecd5937",
-      "title": "Kunstkombüse",
-      "category": "stage",
-      "description": "Art event \"Kunstkombüse\".",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
       "id": "social-5746d196e85d",
       "title": "Öffentliche Alphorn Workshops",
       "category": "music",
@@ -27814,26 +27259,6 @@
       "scrapedAt": "2026-07-15T09:14:27.450Z"
     },
     {
-      "id": "social-1474db49eb57",
-      "title": "Vernissage 'Thomas Hirschhorn. My Atlas' und 'Jules Spinatsch. 1964-2155'",
-      "category": "stage",
-      "description": "Vernissage der Ausstellungen 'Thomas Hirschhorn. My Atlas' und 'Jules Spinatsch. 1964-2155'.",
-      "date": "2026-08-21",
-      "time": "18:00 - Unbekannt",
-      "price": "Freier Eintritt",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum, Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": "https://www.buendnerkunstverein.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.187Z"
-    },
-    {
       "id": "social-00d17f7c294f",
       "title": "Familien-Nachmittag: Wie fühlt es sich an, 500 Jahre alt zu werden",
       "category": "family",
@@ -28053,26 +27478,6 @@
         }
       ],
       "scrapedAt": "2026-07-16T09:12:14.425Z"
-    },
-    {
-      "id": "social-1eabd1b0efaa",
-      "title": "Fritigstreff: Musikgesellschaft Zizers",
-      "category": "music",
-      "description": "Fritigstreff auf dem südlichen Schulhausplatz der Schulanlage Obergasse mit der Musikgesellschaft Zizers.",
-      "date": "2026-08-21",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
     },
     {
       "id": "social-f40fe4cee4a6",
@@ -28435,47 +27840,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:18:49.850Z"
-    },
-    {
-      "id": "social-0cf9c5018179",
-      "title": "Tanz dich frei in Weichheit, Leichtigkeit und Lebensfreude!",
-      "category": "family",
-      "description": "Dance course for freedom, softness, lightness, and joy of life.",
-      "date": "2026-08-21",
-      "time": "19:30 - 21:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Familienzentrum Planaterra",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.973Z"
     },
     {
       "id": "social-3fef28df8707",
@@ -29247,26 +28611,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-83cbc95009a2",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-84871ecfa764",
