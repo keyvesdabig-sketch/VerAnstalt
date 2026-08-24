@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T07:26:31.935Z",
+  "lastUpdated": "2026-08-24T07:51:40.766Z",
   "events": [
     {
       "id": "social-664822b913b4",
@@ -1239,48 +1239,6 @@
       ],
       "scrapedAt": "2026-05-24T14:14:23.487Z",
       "legacyId": "social-1779632063487-Churwalden-10"
-    },
-    {
-      "id": "social-cc2bac3a28dc",
-      "title": "SCHUBERT · Klaviertrio",
-      "category": "music",
-      "description": "Konzert mit einem Klaviertrio.",
-      "date": "2026-08-23",
-      "time": "11:00 - 12:30",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Enderdorf 47",
-      "lat": 46.83,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/tschiertschen-praden/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk545UWiMimYo1WAVzsJSFEWvQkbZN5oo6TOSBIP8I-hBVPXgTxvldtWxFl-fOznx3pIjzNlU8ViniiC2cnaBiohQSXqv5m3cQNyXEWlqCJA6Tu_V5tlDG132rIMGiwe3WlQQkuRdKHAEqtxkv-QBzB_mMuI6G9LdWJJpzoAI4roI0fdpgsl_hARzzarXQuFWQ2LTlaPWwMQ-lTr6QQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1shb0v9oFuGAHnY8y60Ddr8zz8c4trkWG8jcfNQj1K7KUkhmIqy9MLwsJGA4MPEjPwnpu_o20CQ6AZ0xo-XgqMSwdAVVntMaXtxDZq_2WjeG7Masd_mbwFL9DH1MdeGyA0YocBHdgENTF4cyieElxftMGceEtIK5KjrOK5UlWy6q-dDiL9dVe-OeIox3ZMfwEQQJn0jV2M6qEZNaw3Q=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJOp2z4GaHZX6FZyFWhhgBzDt4Lvsn2Y4TkxTucWVdjrbllDXMyCvIvPMDJNR-LXxoWF5RxkKt7NJfz-J8N8dTLia4OKosD798D9vznYrBdyUCnlArlgWC7nnzT2NMfPFngukWDs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzy86lqnz9ONH-a4KbfdVHkMxSnq7FouP5lHXAD0BDRIiS5lu3SUbk54YrslfsVTEck8grFIxbJxrzs-C1QOXIt0ZkzVwdonZ-yDxhJ5G_ex75OeJ1Rgx8ayialzmmuHGJhicGqkBkAhx4E6gopELifObC0wF1kI8GUiy9IhbHs8o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8HXmRmbCCALk_RbuES9IMKsxtTAMcR_g3HwLfP8YEEPZ6wVFRrt3WbEV17FuKNLp8cLRYgyTRyhqnw3VQLNduMWurFhLEXoyiTedozaO_Ed877zahKvBCfY2hozUPU_QA2yHeIR0k8LIUKp8xzksVegvipQOdICMg6lUPraku6dA="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:15:00.434Z",
-      "legacyId": "social-1779632100434-TschiertschenPraden-12"
     },
     {
       "id": "social-ff80a894a133",
@@ -3157,26 +3115,6 @@
       "image": "",
       "organizerUrl": "https://www.cazis.ch/cazner-markt",
       "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-9d03e2bf55fe",
-      "title": "TUNING DAY CAZIS 2026",
-      "category": "sport",
-      "description": "Auch dieses Jahr am 23. August wird in Cazis das grösste Car Meet der Schweiz stattfinden.",
-      "date": "2026-08-23",
-      "time": "09:00 - 17:00",
-      "price": "Besucher: Gratis; Cars: 25.- sFr.",
-      "municipality": "Cazis",
-      "locationName": "Driving Graubünden, Industrie Ost 2",
-      "lat": 46.7615,
-      "lng": 9.4205,
-      "image": "",
-      "organizerUrl": "https://www.eventfrog.ch/de/p/sonstiges/tuning-day-cazis-2026-7149729013092004245.html",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/sonstiges/tuning-day-cazis-2026-7149729013092004245.html",
       "sourceUrl": "",
       "sourcePlatform": "Other",
       "citations": [],
@@ -9569,47 +9507,6 @@
       "scrapedAt": "2026-06-06T09:23:00.281Z"
     },
     {
-      "id": "social-396849ba1701",
-      "title": "Konzert Landgasthof (2-Länder Musikanten)",
-      "category": "music",
-      "description": "Konzert der 2-Länder Musikanten. Das Repertoire umfasst Schlager, Oldies, Böhmisch-Mährisch, Swing und Jazz.",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Landgasthof (Malans)",
-      "lat": 46.99,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://2-laender-musikanten.ch/konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXMOmAQGSnYn3aHlYRNBPbwCnEaj4njaZ9YkzpfyE9XQUrl9ZV6LTr2IjtZhTTg7-Md8K8hIPfOyRV-UUdYw7BVSPUZSxEEjEUFGcBEW3PVhqY1NUNoFtMT5y9CMw="
-        },
-        {
-          "title": "sternen.cafe",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxNeYL10i7G76J2IZdxCQ_q5XLmdfEfKaG1qPQhYZLUDFzI4goM5sAAabzktq1sH9gCMGXIuHCUDXykR0HEuupFvNaJYXxV3elPo8fD1xC2XwdidXwp9QYhe0="
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe2b9Aji2qDTgci-9sFNH4WrcjX1DpTidxc61eNT8pYQrzOmY1QicUSy-OgVJQAuGnajGPBLkRY_GKk-1rE57hPbEh5QN9-M_lLPl0u7p5XSGwa4VkT77u_KP2Oi-aiAST"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzo_iMKAeZU2oVnbOfeTitAFkT_e1ap5-RNn8zGudTxDGdjIJd8OhqH-d8qrnIyC7aUtQoRgUa3qXmknmpdnCGMSTekCJLEtt2lvetQ8KtWF0K2N4mm0yc19inDyWC1uY="
-        },
-        {
-          "title": "aelplibahn.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGzD1yJ24vczZUpdQUBzxwguTnfPXlFj2voHwN7T6mVoR75UZquRfkao0oiwTihCcCnIrd0zzCQaoWsu8pvliA2jf9PNpuUdRRD7GiyGUge3SIZ6eeqn2BqLOWcsjLRrxiu1X4SQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-06T09:29:36.945Z"
-    },
-    {
       "id": "social-94a0a95251aa",
       "title": "Advent Volleyball Plauschturnier TV Landquart",
       "category": "sport",
@@ -10119,26 +10016,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:00:28.044Z"
-    },
-    {
-      "id": "social-ac13fa014060",
-      "title": "Film-Fest Malans",
-      "category": "stage",
-      "description": "Kino, Kultur & Kulinarik Festival in Malans.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://film-fest.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
     },
     {
       "id": "social-32964621d298",
@@ -11129,47 +11006,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T12:02:21.455Z"
-    },
-    {
-      "id": "social-073cff27e0b3",
-      "title": "Tour Brambrüesch",
-      "category": "family",
-      "description": "Führung auf Brambrüesch.",
-      "date": "2026-08-23",
-      "time": "14:00 - 16:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Brambrüesch, Churwalden",
-      "lat": 46.81,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/events-in-churwalden/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7XF0fL6C42w9BN2bXRk6X-FvqOvoAvfVxK3tPHQUutmFrcOgN8oCW6oItcMTqIVxq1FjoLydAz9U2h66e1Owh2A4z0ukjs2vvWjzJIX15iKiRLYqg2Be8wxrlTenoAUnU0wlPIu-1E7InMZ9sCr8="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdC9bOTKQ842-t8Xw8p7z6gwGjiBzcIk1GbSJqC_wk99hyj1OCrttSyiA_25LFNSdxAMIyDO046h-nwvqGajG0SImxFixtC7XBEunYG5lqwYC2BK4_YRcqO8e36_QTnx7Crv0Kn30TbQGlNPZq4iKuzdok3dpjrR0="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dQHr49x6EvmXcEvbQ7f6V65Zkcf-q02W8R981nQKvUSNO7fjr95qvwg5rirRfN76alxbCv_zBP8JO71R45FQo0Z55NkI-Mof0Qw8AkFSAaGmYiFwCkFrV5pdEAbHj8TKJ_N5TZCQGQF-cNh0oK1a-qApqmBeWmYjyRnjkFxDTSibGnvMR-TPexXx-TI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGowCzkD4Pm_i3-8tAuU1dg4xKaYTYqQ-D-xJz-X0mWWH_F_-3KvNqmbvSCgBINLBoU2zQDjnvEIV7RCkgUoxj91vPTXGzxpKLM_a74K4qwO92obqxCyG2tiv_ckU3Ai7rkyK5Cqq4siBL2-33wFCwoZMTltvEH7AxfF8e875l2eosihpZjcoU8CNCchtGOWaECJCyoQjQZ3Bj0"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbQnaRtsMmKSnRojPKPhqDlNu93pxonU5kM_8wwDk31qkWeuu7_4qlbib8uUgOIXX_7sk1XUufMNLd2Q1whekKhogEOC9_v8ndJnxJG2gtaN4ni69Beq6_vC3l7ROIp_XiwDlU4dXAPORQGELLQ0rz63xdH5Bwk8gyfEo8S1CYEy9kCM-mgYi8_XV5Ov21"
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:35:59.371Z"
     },
     {
       "id": "social-78b1dc3c845e",
@@ -17460,26 +17296,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-4ec0917e8039",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-23",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-6ff78c49b174",
       "title": "Polenta 7000",
       "category": "music",
@@ -18022,26 +17838,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-19T11:27:43.348Z"
-    },
-    {
-      "id": "social-3e8294ba8a2e",
-      "title": "5. Churer Orgelkonzert 2026",
-      "category": "music",
-      "description": "Das fünfte Orgelkonzert der Reihe 2026 in Chur.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
     },
     {
       "id": "social-ac299591978b",
@@ -19516,26 +19312,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:40:14.203Z"
-    },
-    {
-      "id": "social-02286466eb65",
-      "title": "Gottesdienst zur Begrüssung der neuen Konfirmanden",
-      "category": "family",
-      "description": "Gottesdienst zur Begrüssung der neuen Konfirmanden in der Kirche Felsberg.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Kirche Felsberg",
-      "lat": 46.839,
-      "lng": 9.507,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/aktuelles/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:40:50.287Z"
     },
     {
       "id": "social-db124101ab7a",
@@ -21362,26 +21138,6 @@
       "scrapedAt": "2026-07-04T09:16:58.232Z"
     },
     {
-      "id": "social-d5145fb773f7",
-      "title": "Grümpelschiessen",
-      "category": "sport",
-      "description": "Grümpelschiessen der Feldschützengesellschaft Trimmis mit anschliessendem Grümpelabend.",
-      "date": "2026-08-23",
-      "time": "12:00 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Schiessstand Trimmis / Schützenhaus Trimmis",
-      "lat": 46.9,
-      "lng": 9.567,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/vereine/feldschuetzengesellschaft-trimmis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:18:47.913Z"
-    },
-    {
       "id": "social-fc8b2214ac15",
       "title": "Filmgottesdienst mit Apéro",
       "category": "family",
@@ -22742,26 +22498,6 @@
       "scrapedAt": "2026-07-07T10:24:03.569Z"
     },
     {
-      "id": "social-cfa562ffb096",
-      "title": "Ride & Vino, Malans 2026",
-      "category": "sport",
-      "description": "Ein 30 km langer Social Ride durch die Weinberge der Bündner Herrschaft mit Daniela Ryf, gefolgt von einer Weinprobe bei Domaine Donatsch, Kellerführung und Abendessen im Alten Torkel.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Domaine Donatsch, Alter Torkel (Umgebung Malans)",
-      "lat": 46.993,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.rideandvino.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:28:14.620Z"
-    },
-    {
       "id": "social-bf7f1c014fcc",
       "title": "Jahreskonzert 2026",
       "category": "music",
@@ -23484,26 +23220,6 @@
       "scrapedAt": "2026-07-09T10:19:54.230Z"
     },
     {
-      "id": "social-f015d30f4905",
-      "title": "Firmung der Felsberger Kinder",
-      "category": "family",
-      "description": "Katholische Kirchgemeinde Domat/Ems-Felsberg.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Kirche Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-09T10:21:28.581Z"
-    },
-    {
       "id": "social-25869601b7a5",
       "title": "Kraft der Stille – Sitzen im Schweigen",
       "category": "family",
@@ -23704,47 +23420,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-10T10:23:39.184Z"
-    },
-    {
-      "id": "social-a72bd1130106",
-      "title": "Konzert Landgasthof",
-      "category": "music",
-      "description": "Concert by 2-Länder Musikanten.",
-      "date": "2026-08-23",
-      "time": "11:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Landgasthof (implied in Malans)",
-      "lat": 46.99,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://2laender-musikanten.ch/konzert-malans-gr/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxt7jYD4xWt7Vb0vQpCTSU7YA0DrTRl7pue8XsEH86LrztFXyW3cLreKAurk9OIBR9l_d0mSDFGA5YFFe4MaSnaDgffIpngelxwlDoqYCmnR9Y9uaS4Fev0vvFWO58Dw8="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0I1Jf9gVKsQ3c0JF07INh_FBr2i4cEqtvMlpx4Umm-lXCaAdY7pgUX3c_r974CiDoQFYoAW1bCH2Qr92IYFTW6QViFx7cVsQn98TfEBBGpX8mhz4JCK_CBPrrA9tcdujoWGIiQRlkqRLtwUJO5Wlq2ugONdGEZ-18qZvk-synucLK4miZ_hLz"
-        },
-        {
-          "title": "svmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGklpeajd6bnnoQnRF10yhuzeSBY5-4yRskF8peWyT8-9es1x6C4TRhsTaZyJvr3ZqIwPzZCtg6SM-YM73Cu1c6c_P1Y8nmjoe2LOkEem38C8B4X9ELy0JgGARJqW8t5dGsfgLD1hBtq1LsFElpioX-"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnhY-xOekLm-J5JkEo0-v_4eDtHogtzmXZfBs-x1wUj5bzPDAauimqtCqHikYnQn2dzLC_KYPpDvwtAmidHEJ2EY1QvW7wFhV-rI1nWPW0zTP_DPwIl81umOdfyi1m6rGVcbuiyqZ1Dg1qU3smLpnU4IahT0mql24y5eqcrN-HjqZXb-es6JG-ZKCAA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl-SVJLOvkhhQfDEabENAoQDIIVc0LWIBHtp6LeXIbuCxjzXLvAUE8_Sl1mvNrfHQIXdDj3wTbWoObkOOuYRVoAJNMVIrhpCqZOJsmI8ZJvPKgAfku3_SmKOTkkxnd_At-GbR6uBR1iTTO59noVeR-o7852eOT5lVHIFOxqojIejA2xe5St336QuHN0Q=="
-        }
-      ],
-      "scrapedAt": "2026-07-10T10:24:48.700Z"
     },
     {
       "id": "social-32549609d7f6",
@@ -26315,26 +25990,6 @@
       "scrapedAt": "2026-07-16T09:12:14.425Z"
     },
     {
-      "id": "social-f40fe4cee4a6",
-      "title": "Gottesdienst",
-      "category": "family",
-      "description": "Gottesdienst in der Ev.-ref. Kirche Zizers.",
-      "date": "2026-08-23",
-      "time": "10:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Ev.-ref. Kirche Zizers",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://zizers-reformiert.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
       "id": "social-8d24565fd692",
       "title": "Fritigstreff: Verein Seifenkistenrennen",
       "category": "sport",
@@ -27388,26 +27043,6 @@
       "scrapedAt": "2026-07-18T08:44:43.472Z"
     },
     {
-      "id": "social-83718614651c",
-      "title": "Alligator Challenge",
-      "category": "sport",
-      "description": "Unihockey-Event von Unihockey Felsberg.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "",
-      "lat": 46.837,
-      "lng": 9.501,
-      "image": "",
-      "organizerUrl": "https://unihockeyfelsberg.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
       "id": "social-6cc6af0b20fe",
       "title": "Beverin-Trophy",
       "category": "sport",
@@ -27426,26 +27061,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-b2c3d99cea3d",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-bbb7db2e2954",
