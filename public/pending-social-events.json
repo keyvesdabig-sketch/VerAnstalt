@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T07:51:40.766Z",
+  "lastUpdated": "2026-08-25T07:37:20.901Z",
   "events": [
     {
       "id": "social-664822b913b4",
@@ -10018,26 +10018,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-32964621d298",
-      "title": "Film-Fest Malans",
-      "category": "stage",
-      "description": "Kino, Kultur & Kulinarik Festival in Malans.",
-      "date": "2026-08-24",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://film-fest.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-3d939f1bcd72",
       "title": "Film-Fest Malans",
       "category": "stage",
@@ -15140,47 +15120,6 @@
       "scrapedAt": "2026-06-15T13:11:16.675Z"
     },
     {
-      "id": "social-31824ebc7ede",
-      "title": "Öffentliche Schlachtmärkte Grossvieh",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt für Grossvieh in der Bündner Arena.",
-      "date": "2026-08-24",
-      "time": "08:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.73,
-      "lng": 9.44,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch/oeffentliche-maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH47vjKPCdiRRLfUVV45zFcrUBJ2C9TfwGFuXTGou9R8_3Rmlr7fVtKkcn9O0EIWv6PBsunYtV2e90v3PmQlEklR-tJN9p3jMtxYRWIDwG1mvVyj-JbhH4T7QjAllmXuOvhUsnRUBncluZQn89kX2Pfd5_PW0JS9lY2u8BZOPzGtQlTAzjl1GViOs_cYA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKR5TFlYzs3R4x7P_zuk3DzPSIyxvqkeGqmdGYpdBIeY9haS5qe1VYhETvjx4Y4kRJ-b3x1QXADtprljBwUmNah_9bAAsKRaa468MHHy0doE97nTek-s6E-VXMfzHptLZl9LDfsjhrOwPuZkXGVJH4zOggOrauI8lLbyjslCu2Ky9SdFc9aTpYFJ1fFXQsgI-"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGTdjcrCrfOMgvoC0Mkejuw6syL97TUlwhu_T7WfhzthOLaSXRoJrYgg-J6DH-YAmF0bPbClAZPV1QoeibLobEb2sBnaTZWMPVqCTcHHDW6h015pvp6Cp0q65e7o_YO0CHfOBYxU9974py6yG8L19MZfs="
-        },
-        {
-          "title": "eventseeker.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZlUv2QA3oEThRyecVvIilLpA4Z_U9Rzz2pzFaU5okmkWJOwHL8xAYf2mLAgtYA0PEDbbmXss3MyQx89nJkcjyfXkwPC15vf69JZBssEImGNDhfiH2XF7nC5DVEqWQR-pM0ZnkF1vMg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTXMV0ft8auniHWtSJLeKgYumUhgYdKUV22-VUsH8ss6Vjpy3zDcq6jRkXYeRro9CjcSYd0CuaNYMbrrGL5tMKVYm5lbg0IbLH-MTh6v3VBuBCAVu7M8PLXF3DsEUgI6I_u_el5A42m47-h2rCLuYoUQ-xTLli1YtwkM0tKwcTWrEoG4rqoRKSzMMLO1MmrXgMay4i2w=="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:11:16.675Z"
-    },
-    {
       "id": "social-325f943801a1",
       "title": "Öffentliche Schlachtmärkte Grossvieh",
       "category": "markets",
@@ -15670,26 +15609,6 @@
         }
       ],
       "scrapedAt": "2026-06-16T12:15:52.955Z"
-    },
-    {
-      "id": "social-0f2b72ceef6e",
-      "title": "Orts-, Kirchen- und Museumsführung",
-      "category": "family",
-      "description": "Ein Handelsort mit Tradition. Erfahren Sie mehr auf einem spannenden Rundgang durch die Geschichte(n). Treffpunkt beim Rathaus. Im Anschluss Apéro, offeriert vom Verein Marktplatz- und Zentrumsort Thusis. Dauer inkl. Apéro ca. 1 1/2 Stunde. Anmeldung erforderlich.",
-      "date": "2026-08-24",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Rathaus Thusis",
-      "lat": 46.6901,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://www.viamala.ch/de/informieren/aktuelles/events/dorffuehrung-thusis-20.07.26",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
     },
     {
       "id": "social-1dc811ca3b54",
@@ -16763,47 +16682,6 @@
       "scrapedAt": "2026-06-18T11:17:12.154Z"
     },
     {
-      "id": "social-90197de67afd",
-      "title": "Öffentlicher Schlachtmarkt Grossvieh",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt der graubündenVIEH AG. Die Märkte zeichnen sich durch neutrale Taxation und Preistransparenz aus.",
-      "date": "2026-08-24",
-      "time": "08:00 - ",
-      "price": "Verkaufsgebühren für Tiere (CHF 10.00-15.00 für Grossvieh)",
-      "municipality": "Cazis",
-      "locationName": "graubündenVIEH AG, Italienische Strasse 128",
-      "lat": 46.7297,
-      "lng": 9.4187,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch/oeffentliche-maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9tGa16To2pQnF8u24xlpzOGTdCjOHJbe2w9tF-ZF5P0izRvTPwp24LmBdBzrFi9ZV4uSfNibo_MKEzf33vzmiXnFi_2iehpcbqsKR4zBripP3mqlBh3ZbA0J_FJsYj-mqrToiVY61NxTbSeEtq93yVWQTmk94MRmysLaglP13J4BY1IPLmtYAcCTJ4A=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGEevdI8cZ7s2Ci09BxLc86CacPXt6WgcpMgYD-ILeRea9agcuy_6G5zfWR_b8MSFaUR5EkXKi_sUXmaIzzzxKOg-aLGRjdQ-yXdGnryL48yw8oPFc3sr2j_Fz_tZfcA59nOeIPAXjPS3DD6RlFh9TaJEZBZN_OehMdad8btoja5xrGIoJhufGZBgZtsJpcqK0"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2kBricpYL6ktDfIbWMIF79e171yuUx9yz-i2l7BPX4MDqeR8OJt0m3JtiGXhpvgt0aWYxGJynffiP7-XtnTohkBkoZfHPfvMp2VBGv5x5Tl-LsJdO_P_rLFVagW8V0OP4Fdu-UuvKYSBwLgvo95-OtHw="
-        },
-        {
-          "title": "graubuendenvieh.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE479Gveh5UHNl1QL94dSERhP_9tPOEdZquYsjjLw2_Z02A3h0AAY7cqiw4WOcPmsoqegDfNUCCY1rb-NtWj-pda51sHjtKz_1NQGIamNWWcPnYApyMom1-lmM55bYBzhDD57U="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRb-pJVrda3GU8L-_nYfB-70QY-yA2J89PFfHaCXCDVqkXJRir0W7TPI81xHhM98e-46Ja1VFkiX3tx8YjZRab0lC6ByREDgIRUtv8Eoj0ADbNewsMR_9kKcruOFgk8HXmt_r2IhyJexUtAaegFuS7TEgRsHTdYqJ04g=="
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
       "id": "social-c9e9b5bddf98",
       "title": "Öffentlicher Schlachtmarkt Grossvieh",
       "category": "markets",
@@ -17294,26 +17172,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-6ff78c49b174",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-24",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-f0c70be158c2",
@@ -18687,26 +18545,6 @@
         }
       ],
       "scrapedAt": "2026-06-22T12:55:43.661Z"
-    },
-    {
-      "id": "social-d292da465218",
-      "title": "Öffentlicher Schlachtmarkt Cazis",
-      "category": "markets",
-      "description": "Regelmässiger Schlachtviehmarkt (Grossvieh) mit neutraler Taxation und Preistransparenz.",
-      "date": "2026-08-24",
-      "time": "08:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.7702,
-      "lng": 9.4429,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-22T12:56:31.843Z"
     },
     {
       "id": "social-cd057716863a",
@@ -23627,26 +23465,6 @@
       "scrapedAt": "2026-07-10T10:26:44.151Z"
     },
     {
-      "id": "social-5ab4fed13bb4",
-      "title": "Öffentlicher Schlachtmarkt Grossvieh Cazis",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt für Grossvieh, gekennzeichnet durch neutrale Taxation und Preistransparenz für Produzenten.",
-      "date": "2026-08-24",
-      "time": "08:00",
-      "price": "Siehe Beschreibung (Gebühren für Verkäufer)",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.7725,
-      "lng": 9.4079,
-      "image": "",
-      "organizerUrl": "https://graubuendenvieh.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-10T10:27:20.583Z"
-    },
-    {
       "id": "social-1a960d8f8bfb",
       "title": "Öffentlicher Schlachtmarkt Grossvieh Cazis",
       "category": "markets",
@@ -24188,47 +24006,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:49:13.334Z"
-    },
-    {
-      "id": "social-a5c8dc8d0f13",
-      "title": "Dorfführung Thusis",
-      "category": "family",
-      "description": "Ein Handelsort mit Tradition. Erfahren Sie mehr auf einem spannenden Rundgang durch die Geschichte(n). Treffpunkt beim Rathaus. Anmeldung erforderlich bis am Durchführungstag 14.00 Uhr. Im Anschluss Apéro, offeriert vom Verein Marktplatz- und Zentrumsort Thusis. Dauer inkl. Apéro ca. 1 1/2 Stunden.",
-      "date": "2026-08-24",
-      "time": "17:30",
-      "price": "Kostenlos",
-      "municipality": "Thusis",
-      "locationName": "Rathaus, Thusis",
-      "lat": 46.7093,
-      "lng": 9.4069,
-      "image": "",
-      "organizerUrl": "https://www.viamala.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs5oq2UB-HHytSroYfXJSM5xgbdfSz08BabKzGnRyQw7_ZiIhq7aMFUNWoNGpA_TCndBSeCx3aObzqMnTI7RSmAs3-fP7IvkiUmjL8kVNAjSWzikgEbLV7tq3tY4Uv76w="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6N9tCNEjOi6LfBE6jNIR2gzLJhWVgKiZJyZpR8wnlFsG_w85T0P6ZfhRfvw9vr0YxbxHAeWLlRSwPtX7FWzRZ7-dC4bltWqqxbxPxSpC6njH8sZWNoLpFlzhrqqWbl2sF-vZmYDDUSL7jpezvU11NlSaiJPWK5jIxhiJFJGZfRBsrvG8KKPOl0ungtwm"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrh-f2Plp0et0hSb5JCSfwB7aJT_c0vvMtTyZ2e1nQa7I1yIzc6AeAGFA71OzD2qy93xdO3bwEq1VoZ7s3BB8sO_lZE8O9u6_vGkKm-nZIP-kzgf0E1iGoI2_2oNhlztB3c9zJ0cnlCmZadHa5Cp-qcY="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa60g3qcYHg2ZHNVrWInqy5dk52g5Rq8jXd-GAxv2R8B2buQf2PRjqFYa8_JCwZzkhCv5Cg4vSMUnjdeGaUlDxfkTG4f9LgelNUJa5BEBUZh33MteJiYNGtUGBx6c3n4xp3sW2aek3DKMGskRtw2nxhkwz3RjZ56XS3M37pGezuub5WhMa7pUz2jBASmwSO_sg7EN9ug=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjPE3Yd_Fmpf9N5grl-hdRlUKz4TyOywSqfPGpDo0oy4B7IVRFcV9KE8cc7d2TedH87nsICP1w2UtVZ8lwscilAGgeFcPe6T3AhngyMosPNfg-zFeZx2TSmt8808S8YCFu1K68yN6ew-BOFGngFlbyFObO"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
       "id": "social-0aa2bca5be5f",
@@ -26638,26 +26415,6 @@
       "scrapedAt": "2026-07-17T09:06:06.388Z"
     },
     {
-      "id": "social-3706743765eb",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-08-24",
-      "time": "14:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
-    },
-    {
       "id": "social-7c0f417903a7",
       "title": "Kaffeetreff für Alt und Jung",
       "category": "family",
@@ -27061,26 +26818,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-bbb7db2e2954",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-24",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-4b9b843f40b7",
