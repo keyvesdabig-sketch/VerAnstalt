@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T19:10:41.514Z",
+  "lastUpdated": "2026-08-29T12:55:02.762Z",
   "events": [
     {
       "id": "social-664822b913b4",
@@ -758,27 +758,6 @@
       "legacyId": "social-1779631956501-Untervaz-11"
     },
     {
-      "id": "social-2f9f1d7691c6",
-      "title": "Fritigstreff (Verein Seifenkistenrennen)",
-      "category": "family",
-      "description": "Die Fritigstreffs finden auf dem südlichen Schulhausplatz der Schulanlage Obergasse statt. Ein Verein ist jeweils für die Festwirtschaft zuständig.",
-      "date": "2026-08-28",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.943,
-      "lng": 9.571,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch/daten-fritigstreff/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:08.761Z",
-      "legacyId": "social-1779631988761-Zizers-6"
-    },
-    {
       "id": "social-9b726451ee4d",
       "title": "Fritigstreff (Rappagugga)",
       "category": "family",
@@ -987,48 +966,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:13:49.600Z",
       "legacyId": "social-1779632029600-Tamins-28"
-    },
-    {
-      "id": "social-c3d53bbf3f21",
-      "title": "Begegnungstag Churwalden",
-      "category": "family",
-      "description": "Der dritte Begegnungstag für Einheimische, Zweitheimische und Interessierte der drei Gemeinden Churwalden, Lantsch/Lenz und Vaz/Obervaz. Mit Barbetrieb, Grill, DJ King Woodstock, verschiedenen Aktivitäten im Dorf und Musik von Alpenflieger und Quartett Waschächt.",
-      "date": "2026-08-28",
-      "time": "17:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Schiba Platz Churwalden",
-      "lat": 46.7944,
-      "lng": 9.5615,
-      "image": "",
-      "organizerUrl": "https://www.churwalden.ch/de/kalender/begegnungstag-churwalden",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtJ0EpPK3CxSB2Le_ssheIk7fLbvNvRQjzZForsIX1zX6QzbaF759eN_bvhLwUnMweXW_xQvTJoW9W2wzxaKE1rdqtmLurojJgsZQW5u0HBtRUTt9k_SjYoVtTUPISl_P5unX5-nhnM5paSdegEQDJIiNg7I5PFusqSptMslF3PRZ-f-Bj_HkBUHsbURVDLpc="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGif-qvfRNC3B0HRCmJ66jphF1OrDa_aWRK-ltwl6rRhcWBIGWN6xUt4MUyyc6bnujLH-yUWvGVDz4cAl69_H5n-Y18Y2piL2SjeXLZIBvlz0bfINDfWAB7DtHoUmKb5X03jVcSpp5paPb1a_gz2Tb2t-sdz8SciB0cWoZW6X8BqkEI6LRbxH_3DK1kD7thAbMR3g=="
-        },
-        {
-          "title": "arosalenzerheide.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhfEw8zB_KVOOqUvo1ksuxn6CFvl5DllSBm2gTNjUZnQXsAojbMNIJhbE7eNF7FlACu-gEHQsQFAn7-RoXQRBdgPU60D8WnNAxH2j8yTivv8lGXgBudYh28YLR288o52oG04tRYnhqctqSfdbyu2ctgGCL8edgUZatB1fHf93eGvT2ni6W4fjbaskY9TS2yT-PtiXrO3mi58gceEKGa0mXIpqhnKa_pX060JyHpD-5a4BofmExPd4fpZwPF2ZEywKTd9nagg=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6qwW1qgTCB7e8Q8yWCDNr3D31mW3bspLLBeSp3xr6DZWVF0niL2J__dVmQjjHVR-6AYrYTvdPFgvgsXP1Un0WuuAxdEXjFU5GF2e2nTetOuL-TMgzpaR2PBzXec-5GOKmqjmEIr7cny02t3-8WDKdLEQRpw1EXw=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwIT0NmQQThnxMtCXoLDrp1tonvV_TLK8hnSYfLQkJku1ZVATd0KJJtZ5D8WyZJBn0VJ3nPnc6FWXbfflesFWW0WLMiaL8fGTp73_FUkIlpibKaoTNxcDDqRoBKD4wjPh5A-Hie6iO3ylW-GaGwUOAQhKuwcl8ErraLwNFk0jWbOtg4aAH5kYxfrFQlgV1w2WUvDUtrdXXEnTt38XPAgwClY8-aJQ2Rw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:14:23.487Z",
-      "legacyId": "social-1779632063487-Churwalden-5"
     },
     {
       "id": "social-e2632f766864",
@@ -1365,27 +1302,6 @@
       ],
       "scrapedAt": "2026-05-24T14:15:00.434Z",
       "legacyId": "social-1779632100434-TschiertschenPraden-15"
-    },
-    {
-      "id": "social-fb3d6a56c89e",
-      "title": "4. Fritigstreff 2026",
-      "category": "family",
-      "description": "Ein geselliges Beisammensein, organisiert durch den Tennisclub Bonaduz.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8333,
-      "lng": 9.4217,
-      "image": "",
-      "organizerUrl": "https://www.gewerbevereinbonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:15:34.976Z",
-      "legacyId": "social-1779632134976-Bonaduz-6"
     },
     {
       "id": "social-f94c3085fb08",
@@ -2731,26 +2647,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:57:09.269Z"
-    },
-    {
-      "id": "social-f30e09682d67",
-      "title": "3. Begegnungstag Churwalden",
-      "category": "family",
-      "description": "Begegnungstag für Einheimische, Zweitheimische und Interessierte der drei Gemeinden Churwalden, Lantsch/Lenz und Vaz/Obervaz. Mit Bar, Grill, DJ und weiteren Aktivitäten und Musik.",
-      "date": "2026-08-28",
-      "time": "17:00 - open end",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Schiba Platz Churwalden",
-      "lat": 46.7936,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://www.churwalden.ch/kalender/begegnungstag-churwalden",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:57:54.049Z"
     },
     {
       "id": "social-ea1e960be69b",
@@ -4125,26 +4021,6 @@
       "scrapedAt": "2026-05-28T10:52:58.960Z"
     },
     {
-      "id": "social-7abdcc2a8e07",
-      "title": "Fritigstreff (Tennisclub Bonaduz)",
-      "category": "family",
-      "description": "Fritigstreff organized by the Bonaduz Tennis Club on the village square.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.833,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-28T10:53:32.846Z"
-    },
-    {
       "id": "social-5aa864a1bff0",
       "title": "Fritigstreff (FC Bonaduz)",
       "category": "family",
@@ -4779,35 +4655,6 @@
       "scrapedAt": "2026-05-29T10:46:07.560Z"
     },
     {
-      "id": "social-256e4c6f8af1",
-      "title": "4. Fritigstreff 2026 (Tennisclub Bonaduz)",
-      "category": "sport",
-      "description": "Offener Treffpunkt organisiert vom Tennisclub Bonaduz.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8306,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2LKQyKgdSBOGHlIlzvXBFpqhLeQmo33VtooR3-uo1Vjr7JITzHEgKLydeAE6zUnuMAiqmjgyHQPnSG2saZcS8AxrpzAIZXa9iOEdPc1-mwLtJH5o6vHEdOy7kxbHYOeos5y63_GiucvhTeoPHwqeBu1qqlle5IHz-jI1n2PQQzI1gCWstG4QiA1ETHCZmVQT5qeVwSx-TiUI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmmqP5n3AljP-hOYL3rTzd03MCHCI-h2TgIxYJDXcxvhGncfp23gzdarCbQZIm3J-uUSpoN-vSEmcPUEVN1-h4dFzRfcbI6TzHxsWVwh2Sa1N4-DN0TTSWvpCw-7ALGBhl2YL2COzRSovHad4Lmm0CVp1lRqgAn4KAnSR2h5vZ7B88fgqsvsUVAQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-29T10:46:39.078Z"
-    },
-    {
       "id": "social-60d6a400d1a6",
       "title": "5. Fritigstreff 2026 (FC Bonaduz)",
       "category": "sport",
@@ -5085,47 +4932,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-30T09:17:22.838Z"
-    },
-    {
-      "id": "social-7ddea12c26c8",
-      "title": "Fritigstreff 2026 (Tennisclub Bonaduz)",
-      "category": "family",
-      "description": "Ein Fritigstreff organisiert vom Tennisclub Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Gratis",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhnlGDRfwvecK6SlxcAjjMX-Zucj_ZMljiSJGTHL6AimdggZS2Iz9ykRNoHMjMdV8FFfg34U_8PhZWZE17l2aScTzU1KJMbmU31vfgGYJf9YWQvd6CP9NIaiCknAB4"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHQmgPPc6xMeS-jW37c4QCKh6wTG3g9pmVV-y3K1QfdLyKrczz85OlGnK4fEI_9qrO-pBOxlUsIQ_DhFNMmvlHrF9Ikye7STMR0qJ5qbQqWAOQrAhmbhL3GrRnF9Ez9w=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmhh3MwWYDuFF2w0twRCvasWjlmryv7WObRhE6TKlV8VaboWx3W6GRtPFWnEhcgNinuzX2s0HfSq8N7qKROhZGzmAhO2Cfg-zwiE0in0TvyeMDyp5QdkeORL8ZKBWCdbzAw=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtQHGSfQoWHGViv_FPYw0sM6bXSkNSm0MriLhZuXnKEGclGcROpE9jJB5hmsgEZdnnk7-VenaJxbr1Hch7CpBKodycwgYvuvFXZkTaVsRWpchfXlwMiO2lF7rypzJ31FXw"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdHbdFOvcUQy1RFhcSIaayDH2HvDdBBDTKqOASNX5NRS6StxY7VwNVMmN8cZHcVkctjykWIRebSOQFQxGjV5R1PYfLVkIoLV-4k1H25EqdLg9V7f8fEpkTJ_eWM7IRSbQ8ib9qYB6bdUO6dIioRXusnTA3_SM="
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:18:10.390Z"
     },
     {
       "id": "social-d8a82744b9ca",
@@ -5820,26 +5626,6 @@
       "scrapedAt": "2026-05-31T09:48:47.075Z"
     },
     {
-      "id": "social-22027d0c68e5",
-      "title": "\"DART-FRIDAY\" im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-08-28",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.848,
-      "lng": 9.58,
-      "image": "",
-      "organizerUrl": "info@edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:50:58.323Z"
-    },
-    {
       "id": "social-a992ddb71239",
       "title": "Jubiläumsanlass im Blockhaus Bonaduz",
       "category": "family",
@@ -6247,26 +6033,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:38:01.505Z"
-    },
-    {
-      "id": "social-5a9158b715ba",
-      "title": "Fritigstreff",
-      "category": "family",
-      "description": "Fritigstreff organisiert vom TV Malans.",
-      "date": "2026-08-28",
-      "time": "18:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.991,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://www.tvmalans.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:40:43.695Z"
     },
     {
       "id": "social-7714885afaa2",
@@ -7316,47 +7082,6 @@
       "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
-      "id": "social-9c495c1eab35",
-      "title": "Fritigstreff Verein Seifenkistenrennen",
-      "category": "family",
-      "description": "Ein Fritigstreff organisiert vom Verein Seifenkistenrennen auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
-      "date": "2026-08-28",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
-      "lat": 46.94,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
-        },
-        {
-          "title": "tvzizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:19:05.082Z"
-    },
-    {
       "id": "social-dcb5fd0605f5",
       "title": "Fritigstreff Rappagugga",
       "category": "music",
@@ -7621,26 +7346,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-03T11:53:21.095Z"
-    },
-    {
-      "id": "social-8d8bfec68eb4",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-08-28",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
     },
     {
       "id": "social-f36eb560ea90",
@@ -8247,88 +7952,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:40:31.060Z"
-    },
-    {
-      "id": "social-421e8f13e182",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-08-28",
-      "time": "19:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.85,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyRjoL4h2hItAN4zIIoyakMx6NBud99WDGb5TqD3PUTKZV7HErdCFafYGZFhn2g3MklSx_47qhRuguXT15zjaIopsdvd2lb9p7QrdQaCva4LvwWCS6Vs4NBvs="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcas-P8z87miWG8VJvQj3UBO5B7rizpN9VPzsbViXhqS1rotexmgtE_IeRSZ20_c_-FrJVXXMv-1d6XJ2o2ShpkilGcAgPWmIwiady3sBzDcwafMb58qL4iHu2SW-EUEUJNNIJ6h_aO6EdXbOhA0y0ixKt_ZXOGPjO1RwU6qnxle7CQ__5qg4Fb8P6MoGG29G10jAiA-OrAmZFP0c_-YI="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERyDgC6mZKd6RCwL5klDIH8wTtwsid423h4NC4UC4EMdNdGEFIKVueoNI5RY_vXv6RfSZ5gcA8DQAWhwhwuD5miNeJlL7FymnEm1HC9mH9NDi5lbCmQ_fBeCtc8uBZlGRGZDXwzdv82IGtHB3dqwwes3CvGoOn7Eq96WGqBrgSxJ0l1Mhdz3xQINPUXcvy54H8emRixt4frP_hbuS1NQA="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD1PhNZM0QXIOw33tXzA60nMjaIWvXlQhTDrEY99Erk1N0cYwfGiLEjZvUcJyBA_efXjTg3zZRSclhsbPzj7bmKG32Hs0y8bdx2lSqHUirp63Lu5NkdV_ikyKpe4CMbXzeCrxFXaLaQ87pF4SVu4HjhA=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWf3rq4mZ6n55D621fjg7vpkgcDAuA5PLZurkcD7aWlvazJWLMMLjmOKf-bmRCto8ZQw7Qt5tHLT0njBCO0d87zUGODHO5HbZCSRa_tNEgcs4KtjVrP4tZR_toAyTUvwEY2_Couh3vRkZRryJ62d1UkYJ8Bc76fJze4PWPdN3VQeqI"
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:41:46.772Z"
-    },
-    {
-      "id": "social-92fdf07840f2",
-      "title": "Fritigstreff Tennisclub Bonaduz",
-      "category": "family",
-      "description": "Fritigstreff organisiert vom Tennisclub Bonaduz.",
-      "date": "2026-08-28",
-      "time": "17:00",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.837,
-      "lng": 9.407,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXZG_Amu6w-uQ3tXajzkGbZNJXmH5b6bVBThGUcFd6WmXqBCKnX3aXs9S0CGsMEpfoZPnwda117yl-lu8rBDD_cu9fcjo2S-hUg-UcIuJ-IvG7P_nPJF2C6K2qe0arRRbVQ6A0MjPXFo="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVypF0V5n0zjmQ56HHnnCL4bL16JmAdDwJD_qyy06twPLr8ZxeGX-GthXY3UftwNR0NK2tXeuLwquvDXVbTY-ur9iLaopSIZ8ziLVff6_mz1h8ywkw9hTi9KzmxcJ_ApA-"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB5FNZlLkOgfuG-gRs5DjENLmSrvY3sGsr2VwehZdo6l0WvcL171J-kF4Imfn5BDM0DMRWm20PZN4KJ-eNWa0sHe-r9lsHT3gcB5wEv4h_g8F_N5w8bOtiEK-9VBnM"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4lr5X8uiJtcOfW3KDZGhESRyyJu2bUyY2sD7olWCEHwMY8_0YbjfxrEBTHDAyTzeH3DSqDJyedBUEsV-ivyEHcL5fbm4PmFAe-htCr-T6_0pDLc="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DuXsJbteXbti7IAp3-YzasAYuHiVi78cxyqFsGoX1Ly8Q9bUj2NGgNVMTr9LuU_iOaJUV2Ixqcy-Obc_J2OajmK9-UomR4ucLPcbFCI_ueMn6L-0wAMbIie4DJrm3vs="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:42:38.444Z"
     },
     {
       "id": "social-1f3b09690ab6",
@@ -9957,26 +9580,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-0d8c3d7add3d",
-      "title": "Film-Fest Malans",
-      "category": "stage",
-      "description": "Kino, Kultur & Kulinarik Festival in Malans.",
-      "date": "2026-08-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://film-fest.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-c4098b9c079e",
       "title": "Film-Fest Malans",
       "category": "stage",
@@ -10603,26 +10206,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
-      "id": "social-57047fa220af",
-      "title": "4. Fritigstreff 2026 - Tennisclub Bonaduz",
-      "category": "sport",
-      "description": "Der vierte Fritigstreff des Jahres, organisiert vom Tennisclub Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.828,
-      "lng": 9.388,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:58:32.845Z"
     },
     {
       "id": "social-00ce98c6b9b8",
@@ -11524,26 +11107,6 @@
       "scrapedAt": "2026-06-10T10:56:41.226Z"
     },
     {
-      "id": "social-a7f29f4c43ca",
-      "title": "3. Begegnungstag Churwalden - Freitagsprogramm",
-      "category": "family",
-      "description": "Der dritte Begegnungstag für Einheimische, Zweitheimische und Interessierte der Gemeinden Churwalden, Lantsch/Lenz und Vaz/Obervaz. Am Freitagabend gibt es Barbetrieb, Grill und DJ King Woodstock bis open end.",
-      "date": "2026-08-28",
-      "time": "17:00 - 02:00",
-      "price": "Unbekannt",
-      "municipality": "Churwalden",
-      "locationName": "Schiba Platz Churwalden",
-      "lat": 46.7905,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://www.lenzerheide.swiss/de/region/churwalden/3-begegnungstag-churwalden",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:57:51.671Z"
-    },
-    {
       "id": "social-7596a556e506",
       "title": "3. Begegnungstag Churwalden - Samstagsprogramm",
       "category": "family",
@@ -11562,26 +11125,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:57:51.671Z"
-    },
-    {
-      "id": "social-d152f1af319b",
-      "title": "4. Fritigstreff (Tennisclub Bonaduz)",
-      "category": "sport",
-      "description": "Fritigstreff organisiert vom Tennisclub Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:59:15.254Z"
     },
     {
       "id": "social-eb3f8a71f49d",
@@ -12868,26 +12411,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:03:26.119Z"
-    },
-    {
-      "id": "social-40be6ae578c5",
-      "title": "4. Fritigstreff 2026 Tennisclub Bonaduz",
-      "category": "family",
-      "description": "Gemütlicher Treffpunkt, organisiert vom Tennisclub Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.82,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:04:27.610Z"
     },
     {
       "id": "social-2184bd94b1b2",
@@ -14756,26 +14279,6 @@
       "scrapedAt": "2026-06-15T13:02:57.068Z"
     },
     {
-      "id": "social-e4e7c8b40fea",
-      "title": "Fritigstreff TV Malans",
-      "category": "family",
-      "description": "Ein Freitags-Treff, organisiert vom TV Malans.",
-      "date": "2026-08-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.962,
-      "lng": 9.5348,
-      "image": "",
-      "organizerUrl": "https://www.tvmalans.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-15T13:08:07.094Z"
-    },
-    {
       "id": "social-4ae0f6cfcb90",
       "title": "Raclette-Essen TV Malans",
       "category": "family",
@@ -16108,47 +15611,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-25996d3a6b4d",
-      "title": "DART-FRIDAY",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-08-28",
-      "time": "19:00 - offen",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.8309,
-      "lng": 9.6155,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-vb6Rh3vj1xEeimFYQViR3vi3gIS6wIbRZCrKazE7SIu8-SkGvVdxP3Y7UUyFk8L_SAjGkxuMWgEsmhJxnXZ6O5ffWxHPuE48rshZyyf9pBfr6FQPT8KmQM="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyQSr4G-Qy1lHuACv2G0kAmUeCVdBWT-qVk3XcuTCU9W2SCuH73GURix511dkFbKOZOIIGdbG4Y_M91dL0SCJ0DjaA93ZvYrUi18Y5K8HfYE5u3xYtyhRSmsvalIfDZ5r5ZEq3HpP3nmYXFjBeGhW7_icW6Hs-JHDihVZ1oQUAoVzJN-dvBbuBa2HtPeZtkArzlqaByLXNp2R-yXUVJgs="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWnbk4QCphXtdjZ-dQGhTRkp709wTQa_8EPq6hb_urYGJuDjfWly4LuY4k7H899xrXOdoUv7-v1c7qiVer2qOhbE5hhbD1V8Kx9QCV4mnuLGpHTHFmiN7AaJ5_RIYqyNIekvdR1dZhT-cjOua-H4Haotl1aX4Kc9DSKWA="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJxDV5f52c3bJeZrrBvHNn-wg73WDRkcDeS_TYqePQAasjihvcJrVRbklZnhH5wx2MSr1_Rukf1i8MfkFGYLCwkSygg-h-nOSNjb_PZZVtgGgk2l5LBxZ0GdqtoB92-8C2S6rzyaDiiBxJHAQuMGO8bQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH94yvq783CvVk6EqE2-Tki9stwkInd8PPPoV0ur64wolyAUgz-iaWVXkGDvwCSG7Wig6aJyGFmbHb5BNKvfruf0486vuQcAH1YI5KjiUY-ExHl7t5DmzVp-Bk6OrTHNCsvSD07jbMxxhi2-yYXUI9sQ8shzk2RbnbLfNOLitnr5IUH"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:12:32.035Z"
-    },
-    {
       "id": "social-68ceb13ac8a3",
       "title": "DART-FRIDAY",
       "category": "sport",
@@ -16970,26 +16432,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-2167097da907",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-28",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-e91a2dbac996",
@@ -18607,26 +18049,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:31:06.695Z"
-    },
-    {
-      "id": "social-5a8a34d56140",
-      "title": "Familien-Zeltlager 2026",
-      "category": "family",
-      "description": "Ein Familien-Zeltlager organisiert vom Dorfverein Felsberg Vereint.",
-      "date": "2026-08-28",
-      "time": "Ganztägig",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.828,
-      "lng": 9.508,
-      "image": "",
-      "organizerUrl": "https://www.felsbergvereint.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:31:56.516Z"
     },
     {
       "id": "social-9cbe30e8ae2e",
@@ -21088,39 +20510,6 @@
       "scrapedAt": "2026-07-04T09:19:56.982Z"
     },
     {
-      "id": "social-c065abb06c80",
-      "title": "Fritigstreff 2026 (organisiert durch Tennisclub Bonaduz)",
-      "category": "family",
-      "description": "Lokales Treffen organisiert durch den Tennisclub Bonaduz.",
-      "date": "2026-08-28",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8373,
-      "lng": 9.3991,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES3nIYkOtJ4HWCi-JYsFcnWGMAae0MnUqizE9_M5vFYOt8LTG4SV-2m37YnZvt-PWMwbV-wVOTFcNgxf36jXLgMoe_QqZ57usW1YOoAUuoP4zCib72G3_g4tlaB8r59EL8QBBE25On-9BXzdifuLp4Wsejw55y76K4fXFhc4d4KktshKglAZA="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjyewrLqfl9JeqeP_0DMwKXnI075GBHQEJZ3vwtbrP2hwTvyQR8hCd1eFdFzN1bSTqL_H4x7QdcOR1KcWL4aS5Z6H6fqOWVZ7fmdKKs1-VVMr4gxCNkzSNXTyF0fTPtdhfQXeC5NVjlWpB6FWDZeqQK57CG7h7aoL2B_QOCvRh"
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQenpvFZmPqaSxDXq8cb6B8w-qjsL-JDlK9jrLASq9To2WaE8KIMMnMWoGei6wkGaiGktS3FefcRV4Cl7YNqvmUX9VLi6a_f86iqp1FRsrOEmmZs9nxGP_XlvgIiXmrC3XQw=="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:22:18.249Z"
-    },
-    {
       "id": "social-6cbadee9feaf",
       "title": "Fritigstreff 2026 (organisiert durch FC Bonaduz)",
       "category": "family",
@@ -21707,35 +21096,6 @@
       "scrapedAt": "2026-07-06T11:24:48.683Z"
     },
     {
-      "id": "social-5353de430a89",
-      "title": "Zeltlager auf der Schafweide Domat/Ems",
-      "category": "family",
-      "description": "Felsberg Vereint organisiert ein Zeltlager auf der Schafweide in Domat/Ems.",
-      "date": "2026-08-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Schafweide Domat/Ems",
-      "lat": 46.85,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErjuSz6Bg1j5oCnpQ7XcovbR77IEvH11LePsC2biUu47sdMaEVCBuz1s3nkrrZcyRzYZVYxNx7Pn8SS50dfTugeAfPnPQBmwsxWLPqU2QLy9pvweOb7aD0L45HOgeUTFOD6gIJ"
-        },
-        {
-          "title": "mgfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcjmxu8bd4kWCdIUz-VAu1pbgdja_95kxdJKUOOmqvA0xxLb8ZgQp5GvEvx0s3xyGUw0u5YxDiqUwxDnf-JP-Y1XznDC6fqjYeFY1DZXbPQKCaMg6QuKUGuzIehx74"
-        }
-      ],
-      "scrapedAt": "2026-07-06T11:25:12.974Z"
-    },
-    {
       "id": "social-9efd76d61497",
       "title": "Herbstmarkt",
       "category": "markets",
@@ -21863,26 +21223,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-06T11:28:51.276Z"
-    },
-    {
-      "id": "social-84d8a0ea07b8",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-08-28",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:30:39.141Z"
     },
     {
       "id": "social-d9bc5d8c8b23",
@@ -22476,26 +21816,6 @@
       "scrapedAt": "2026-07-08T09:31:16.989Z"
     },
     {
-      "id": "social-7d8b644d75d8",
-      "title": "SpiCool Landquart - Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-08-28",
-      "time": "09:00 - 11:00",
-      "price": "Kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.961,
-      "lng": 9.575,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:32:16.685Z"
-    },
-    {
       "id": "social-dfdb272af9f0",
       "title": "SpiCool Landquart - Eltern-Kind-Treff",
       "category": "family",
@@ -22694,26 +22014,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-09T10:19:54.230Z"
-    },
-    {
-      "id": "social-19100d6b095a",
-      "title": "Zeltlager auf der Schafweide Domat/Ems",
-      "category": "family",
-      "description": "Felsberg Vereint.",
-      "date": "2026-08-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Schafweide Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-09T10:21:28.581Z"
     },
     {
       "id": "social-baa6945b6915",
@@ -25304,26 +24604,6 @@
       "scrapedAt": "2026-07-16T09:12:14.425Z"
     },
     {
-      "id": "social-8d24565fd692",
-      "title": "Fritigstreff: Verein Seifenkistenrennen",
-      "category": "sport",
-      "description": "Fritigstreff auf dem südlichen Schulhausplatz der Schulanlage Obergasse mit dem Verein Seifenkistenrennen.",
-      "date": "2026-08-28",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
       "id": "social-a8d9908c8143",
       "title": "Fritigstreff: Rappagugga",
       "category": "music",
@@ -25442,47 +24722,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
-      "id": "social-95daef49bbdb",
-      "title": "The Castles Garden - 40 Jahre Jungfreisinnige Graubünden",
-      "category": "music",
-      "description": "Eine warme Sommernacht mit guter Stimmung, kühlen Drinks und unserem DJ JND - feiere mit uns 40 Jahre Jungfreisinnige Graubünden! Egal ob du Mitglied bist oder einfach Lust auf eine tolle Party hast, alle sind herzlich willkommen.",
-      "date": "2026-08-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Tamins",
-      "lat": 46.83,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.eventfrog.ch/de/p/partys-nachtleben/nightlife/the-castles-garden-40-jahre-jungfreisinnige-graubuenden-7195418196627581515.html",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/partys-nachtleben/nightlife/the-castles-garden-40-jahre-jungfreisinnige-graubuenden-7195418196627581515.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHElSe0UYnto_vZSaDymZMor-sJiF0M2ovlDGhFdRmx9jQg5NGCCPuLZ3vnboRmZO8-M--K3L5eEgrdLc2rThf9kW7Mkr2G2BwIClmlx_3UMteJ2K6etr-kXD2vxZtVtJBIlnrulU6mQuvjxH64eRYVetGIgBQwnaJTNgJp-SecjsYeiA9L9tMxThLjWjv4ldlxV-zsCnA="
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_ssy8J0qIuCiV1h25i7l1J823BobLhvLc--7WzoEY-RDTnQNPMSAugdYzEjEnaQYV2z_hAHcU0Y-TDgoMjq2F4eosZer9Cp4er3i3IV-vAsK0k-cBJl546u8GmNhmP4EHQxOLAKADm7dL"
-        },
-        {
-          "title": "elterntamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcbscboztoRegNnH1cQD7mvLHEBdt7zA19cGN6ycfuQHbVV1lvKTjGJCxTAfKvlJBozq6UStck3eVveR2kn1rwsZSUSFF3zjtdPnAlhO9kGfwJ-hQvrxg="
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWkrBa-KPN7XcaI8SEMOHaE9Z_7kbvlMaFrWdvE8DniFXhVTeTdo-pj4vkqsLKComV-LMu--w6iF_vHalAm1ODijKRUeC7DZC_8LGLAT1vZDBviKmCiSkIApeY6PCCpNq_Nk5k8URE7iYx"
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECERQJ5ObSNc2WuIAF0PHX4NBetWkozULMrUfBbzjHx5llwhd3w1X0JIviKrnFXzomUVEkykv25V4D_QDROAWaTmZG3QVHbv2GVDaIVg6us2WCqxq69ILKY-Zhsb3rP1HghDNKkQ-wo7YJ"
-        }
-      ],
-      "scrapedAt": "2026-07-16T09:14:38.511Z"
     },
     {
       "id": "social-e09fd570bab9",
@@ -26212,26 +25451,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-18T08:46:16.008Z"
-    },
-    {
-      "id": "social-3410e9023482",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-28",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-96e8ed664692",
