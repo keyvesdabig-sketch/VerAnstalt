@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-29T11:52:04.830Z",
-  "eventsTotal": 128,
+  "timestamp": "2026-08-30T10:49:08.623Z",
+  "eventsTotal": 125,
   "eventsNew": 0,
   "eventsUpdated": 0,
   "eventsEnriched": 1,
   "enrichmentErrors": 0,
-  "eventsCleaned": 1,
+  "eventsCleaned": 3,
   "sources": [
     {
       "name": "Chur-Kultur",
@@ -113,7 +113,7 @@
       "name": "Streaminghall-Handmade-Music",
       "kind": "ical",
       "events": 0,
-      "error": "HTTP 404"
+      "error": "HTTP 403"
     }
   ]
 }
