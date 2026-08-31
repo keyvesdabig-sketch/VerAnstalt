@@ -1,50 +1,4 @@
 {
-  "parpanersunntigsmarkt_2026-08-30": {
-    "id": 1779538489701,
-    "title": "Parpaner Sunntigsmarkt",
-    "category": "markets",
-    "categoryLabel": "Märkte",
-    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten.",
-    "date": "2026-08-30",
-    "time": "09:00",
-    "locationName": "Riedplatz Parpan",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=30.08.2026%20%2009:00",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=30.08.2026%20%2009:00"
-      }
-    ]
-  },
-  "sonntagsbrunchinderbergbaizbrambrueesch_2026-08-30": {
-    "id": 1779538491134,
-    "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
-    "date": "2026-08-30",
-    "time": "09:00 - 11:30",
-    "locationName": "Bergbaiz",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=30.08.2026%20%2009:00%20-%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=30.08.2026%20%2009:00%20-%2011:30"
-      }
-    ],
-    "organizerUrl": "https://www.bergbaiz.ch",
-    "ticketUrl": "https://www.bergbaiz.ch"
-  },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-09-06": {
     "id": 1779538492344,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
@@ -1494,28 +1448,6 @@
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/grueezi-italia/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
-  "regvorstellungderkonfirmandeninnen_2026-08-30": {
-    "id": 1781084442406,
-    "title": "Reg. Vorstellung der Konfirmanden/Innen",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Regionale Vorstellung",
-    "date": "2026-08-30",
-    "time": "10:00",
-    "locationName": "Evang. ref, Steinkirche Cazis",
-    "municipality": "Cazis",
-    "lat": 46.7213,
-    "lng": 9.4304,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/d7/3e/8d73e2994c9277aa1e13e3d848e98bc3625eb21a_691694611.png",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/cazis/4633/4618847?eventDateTime=30.08.2026%20%2010:00",
-    "sources": [
-      {
-        "name": "LocalCities-Cazis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/cazis/4633/4618847?eventDateTime=30.08.2026%20%2010:00"
-      }
-    ]
-  },
   "seniorenmittagstisch_2026-09-03": {
     "id": 1781172105212,
     "title": "Senioren-Mittagstisch",
@@ -1865,28 +1797,6 @@
       }
     ],
     "organizerUrl": "https://bluewonderful.ch"
-  },
-  "regionalevorstellungderkonfirmandinnenundkonfirmanden_2026-08-30": {
-    "id": 1781524012637,
-    "title": "Regionale Vorstellung der Konfirmandinnen und Konfirmanden",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": ".",
-    "date": "2026-08-30",
-    "time": "10:00-10:45",
-    "locationName": "Evang. ref, Steinkirche Cazis",
-    "municipality": "Cazis",
-    "lat": 46.7213,
-    "lng": 9.4304,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/8/d7/3e/8d73e2994c9277aa1e13e3d848e98bc3625eb21a_691694611.png",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/cazis/4633/4808131?eventDateTime=30.08.2026%20%2010:00%20-%2010:45",
-    "sources": [
-      {
-        "name": "LocalCities-Cazis",
-        "url": "https://www.localcities.ch/de/veranstaltungen/cazis/4633/4808131?eventDateTime=30.08.2026%20%2010:00%20-%2010:45"
-      }
-    ]
   },
   "malundzeichenkursa_2027-01-21": {
     "id": 1781776928039,
