@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T14:39:24.063Z",
+  "lastUpdated": "2026-09-01T12:15:46.623Z",
   "events": [
     {
       "id": "social-a1ee91955d21",
@@ -14645,26 +14645,6 @@
       "scrapedAt": "2026-06-18T11:13:50.691Z"
     },
     {
-      "id": "social-f40f2ece7bc3",
-      "title": "Buchstart für Kinder (0 - 3 Jahre)",
-      "category": "family",
-      "description": "Veranstaltung für Kinder von 0-3 Jahren im Rahmen des Buchstarts.",
-      "date": "2026-08-31",
-      "time": "15:00 - 15:45",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
       "id": "social-5eb18ca8adf2",
       "title": "ReparierBar im Kinderlab",
       "category": "family",
@@ -15355,26 +15335,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-b3e35075133b",
-      "title": "Polenta 7000",
-      "category": "music",
-      "description": "Drei Monate lang wird das Polenta7000 zum Kulturparadies – ein Ort voller Musik, Magie und Lebensfreude.",
-      "date": "2026-08-31",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
     },
     {
       "id": "social-2889916b9130",
@@ -23460,26 +23420,6 @@
       "scrapedAt": "2026-07-17T09:06:06.388Z"
     },
     {
-      "id": "social-302fd96ba7a2",
-      "title": "Kaffeetreff für Alt und Jung",
-      "category": "family",
-      "description": "Regelmässiger Kaffeetreff für Alt und Jung im Begegnungsraum.",
-      "date": "2026-08-31",
-      "time": "14:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum",
-      "lat": 46.88,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:08:20.045Z"
-    },
-    {
       "id": "social-930eed55eddf",
       "title": "Dorfkaffi Tamins (September)",
       "category": "family",
@@ -23762,26 +23702,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:44:43.472Z"
-    },
-    {
-      "id": "social-17b4e3a3ef4a",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Ein offener Mittagstisch für die Gemeinschaft in Haldenstein. Findet mehrmals pro Woche statt.",
-      "date": "2026-08-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.883,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-18T08:47:13.088Z"
     },
     {
       "id": "social-72a2d13dc31d",
