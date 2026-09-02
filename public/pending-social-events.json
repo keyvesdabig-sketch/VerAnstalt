@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T12:15:46.623Z",
+  "lastUpdated": "2026-09-02T11:53:27.839Z",
   "events": [
     {
       "id": "social-a1ee91955d21",
@@ -8396,47 +8396,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-06T09:31:13.390Z"
-    },
-    {
-      "id": "social-647cec7494fe",
-      "title": "Eröffnungskonzert mit Gotthard",
-      "category": "music",
-      "description": "Eröffnungskonzert der AREON Eventhalle mit der Band Gotthard.",
-      "date": "2026-09-01",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "AREON Eventhalle Chur",
-      "lat": 46.8406,
-      "lng": 9.51,
-      "image": "",
-      "organizerUrl": "https://areon-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
     },
     {
       "id": "social-a8165e52e681",
@@ -17990,26 +17949,6 @@
       "scrapedAt": "2026-07-02T10:01:24.406Z"
     },
     {
-      "id": "social-c0a7af5920a2",
-      "title": "Learning Lunch",
-      "category": "family",
-      "description": "Diese Plattform wird von unterschiedlichen ReferentInnen genutzt, die gerne etwas zu teilen haben und mal mehr, mal weniger interaktiv mit den Teilnehmenden im Austausch stehen. Online-Anmeldung nötig.",
-      "date": "2026-09-01",
-      "time": "12:15 - 13:15",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "#Coworking der Story",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/kultur-brauchtum/learning-lunch-thusis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:04:45.689Z"
-    },
-    {
       "id": "social-88e60efa7770",
       "title": "Strickkino Bagger Drama (Film screening)",
       "category": "stage",
@@ -21784,26 +21723,6 @@
       "scrapedAt": "2026-07-12T09:00:52.844Z"
     },
     {
-      "id": "social-ac8b6586ec50",
-      "title": "Malanser Gespräche N°5 - Stephan Kunz",
-      "category": "stage",
-      "description": "Ein Live-Podcast im Sternen mit Stephan Kunz. Moderation: Mathias Balzer.",
-      "date": "2026-09-01",
-      "time": "19:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Sternen Malans",
-      "lat": 46.97,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://sternen.cafe/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-12T09:07:19.501Z"
-    },
-    {
       "id": "social-ad82e83e2c95",
       "title": "Brom88",
       "category": "music",
@@ -22753,26 +22672,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-15T09:12:14.059Z"
-    },
-    {
-      "id": "social-b44c58b200d2",
-      "title": "Dungeons & Dragons zwischen Büchern",
-      "category": "family",
-      "description": "Spannende One-Shots und kreatives Rollenspiel in der Stadtbibliothek Chur.",
-      "date": "2026-09-01",
-      "time": "19:00 - 22:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Stadtbibliothek Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.188Z"
     },
     {
       "id": "social-0cdd4cb974c3",
