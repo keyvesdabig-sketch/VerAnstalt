@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T11:53:27.839Z",
+  "lastUpdated": "2026-09-03T11:51:57.373Z",
   "events": [
-    {
-      "id": "social-a1ee91955d21",
-      "title": "7. JazzChurFestival",
-      "category": "music",
-      "description": "Europäischer Jazz in den Alpen. Das Festival präsentiert aufstrebende und etablierte Künstler mit internationaler Ausstrahlung.",
-      "date": "2026-09-02",
-      "time": "17:30 - ",
-      "price": "Tagesticket/Festivalpass",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE, Engadinstrasse 43",
-      "lat": 46.8518,
-      "lng": 9.5284,
-      "image": "",
-      "organizerUrl": "https://jazzchur.ch/jazzchurfestival/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-15"
-    },
     {
       "id": "social-48bb78240075",
       "title": "Kidical Mass #6: Veloumzug für Kinder & Familien",
@@ -1682,26 +1640,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-1961ebcfa464",
-      "title": "Good Habits",
-      "category": "music",
-      "description": "Konzert präsentiert vom Folk Club Chur.",
-      "date": "2026-09-02",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Kultur-Bar",
-      "lat": 46.8491,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://werkstatt-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-3a638ee1e47d",
@@ -5631,26 +5569,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:42:14.728Z"
-    },
-    {
-      "id": "social-919d37b7831b",
-      "title": "JazzChurFestival",
-      "category": "music",
-      "description": "Europäischer Jazz in den Alpen. Das Festival vereint aufstrebende und etablierte Künstler:innen mit internationaler Strahlkraft.",
-      "date": "2026-09-02",
-      "time": "Ganztägig",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.84984,
-      "lng": 9.53286,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/erleben/events/top-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-02T11:13:28.038Z"
     },
     {
       "id": "social-f0fc8bfe5299",
@@ -11091,47 +11009,6 @@
       "scrapedAt": "2026-06-11T11:20:27.034Z"
     },
     {
-      "id": "social-7692eaeffb56",
-      "title": "Kliikinderfiir",
-      "category": "family",
-      "description": "Eine Kinderfeier oder ein Kindergottesdienst in Haldenstein.",
-      "date": "2026-09-02",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.8837,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/kliikinderfiir/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeAxPcIqbsCe-bWZbaDTGcGVvEWt4ytorWiR3ee4NKp9jmJ1X80F9I7RR6bGtAsFKjv8LSXiKaushoHetWqmb0y7NFx6a1wUdImKb5g2Q-W-uuxzp6SRbSLmTlNVEBOXkefCHnnYoM2ZAZwQjWKEsearyg8ktVlS088p1x6CWVUt7ayGcQqtrUKMvcOI5ArAImdu1tUOdi6Ao6Dlmbrz4seJfohFrr0neoog=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbK7e6yxfrGtFSstJ9ugvcUC3GSm43hyZqFfSn0J0xcgEulIG4KKRZgHfjWxqzLKMPl8zEd37LLkFbOyTtzAuXDkAPjlVJ7RlYmw7MJlZMMa5aV_1j3Th3Sd3RMbxxn82Z_zCbLj-"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtf9MwNbTfPFLwsm1AD1rRqVxPQ58C1Va8hJ_95m_YSpQCb7pbW0pkfmQh6NaB5IfgpcKnCsD4O1n7m0ez_mg4UHo86H1LWocFaKMFBXUdznBSe7eW7yl--ImPr2psMUOQC2rKHYzt"
-        },
-        {
-          "title": "sghaldenstein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFudJ602giUrAi75-5y_yhQilhgXBWnOUgPDwkwSoz0ovfQ7xzlfcn0xqS2mFgB6iiBL8TSxn2dkBkeVd5HuUWK5YkXovnjIkdfGF73u9_LLSQX4kbF3L1VHauE81J_rwcSEQ8kww=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXdHs_a588mATHMXUwecGQpLHnbGpg7OKV_2vkaCFwmACz4hkaLcTqFFHddmmsfDU5XxjZb2PqZQAiEm-X0QjPsl5WLY1Sbv7GXKTbhtEg7px8m6zZ0akF5VpuYHgorbzXeuvegOE7aeBe82_7-fOi8ztMwiSSZHRt0MvUFB0vPhM55lt8SSAEVKe4dn24X3CBbuI1dK2zOJOuYR-O"
-        }
-      ],
-      "scrapedAt": "2026-06-11T11:21:56.011Z"
-    },
-    {
       "id": "social-e97223000f8b",
       "title": "Story of Light - Bald im Wald 2026 - Day and Nightdance Concert",
       "category": "music",
@@ -15476,47 +15353,6 @@
       "scrapedAt": "2026-06-19T11:23:35.195Z"
     },
     {
-      "id": "social-4ebafc113735",
-      "title": "Warenmarkt Landquart",
-      "category": "markets",
-      "description": "Warenmarkt in Landquart.",
-      "date": "2026-09-02",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.9427,
-      "lng": 9.5448,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN5-WxiKZv0o218aSsY4FvkWmbbAzbpx82mxIZiTYpO7PPanTDJ_X0VYd0YCrFjxrPkWZ--mJqA739F7Ph1m5jTHHtii9ECx4qCEpsaPb67qzG4SqCcEep_6R0Tsbxwb8rrqhHN7bsPpBCOBLfSgmcoJ8jSbPCf5zEKkq-sVSwEEYMfQA3"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDoibCYJhAWqPBZmfrThAGYx_jnSUava2uRwYZpzUXfTtO8bHFvri8L_1W5jIG95Mzu72F1zOJFa-a6hupfLi0x3McRPdasrZVzR30ixY_rERW7DZ626PpIP_sUn0neyEM4IewA3CX53_voQ=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZ8qX7u7eVk57iDCRwljp_5Ho-FcPqruOcO1r2jE4FUj4iRFrsg3lKM5V5t16giiKIAhwCZQ-PwBEc6NcZEb5-rQAdgG7t9m_Ib-VA5chFQ4uzqtQORcUuRZhzSUnyf5TCooMkKc="
-        },
-        {
-          "title": "cloudfront.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL-IaqbQJJZl2nLfPgpH6GaMAFy3XgKBOIoZ2cEoT5R3Ts37SdZXZk3pbJuDABjU8I7CTYXoMcxXGBXe9dVPMzBN3tIPkp4tZZnKcKC4VNi_dnwltEG9Zb0I78X11JesUNk5SrRLWbMMQvLb-K4DkI8FzGeqoNkGvyx8l1ViahGP-UB7zozRIRTPh5Se8UN6CP4MQi73bN0lntqzty"
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8l5MYYzKcaz340TMlGjP8Rlj_w4MQG37i8U3sSwipzaOo7uFbls6MEJLsu9Yy87TjtD52Komko1GWXSV1vuAy1zt_RSNWy8h5GZP0LKCfXqQ48PzMAqS37BkbQ_kr-2P5sVB_29S3YyrrDjtBlj3c4w=="
-        }
-      ],
-      "scrapedAt": "2026-06-19T11:25:42.188Z"
-    },
-    {
       "id": "social-4aa76ef264db",
       "title": "Gesundheits-Tage Landquart",
       "category": "markets",
@@ -17947,26 +17783,6 @@
         }
       ],
       "scrapedAt": "2026-07-02T10:01:24.406Z"
-    },
-    {
-      "id": "social-88e60efa7770",
-      "title": "Strickkino Bagger Drama (Film screening)",
-      "category": "stage",
-      "description": "Drama, Regie: Piet Baumgartner, CH, 2025, 96', ab 12 Jahren.",
-      "date": "2026-09-02",
-      "time": "19:00 - 20:36",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.kinoraetia.ch/",
-      "ticketUrl": "https://www.kinoraetia.ch/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:04:45.689Z"
     },
     {
       "id": "social-801d3fc7fe27",
@@ -20446,26 +20262,6 @@
       "scrapedAt": "2026-07-08T09:32:16.685Z"
     },
     {
-      "id": "social-48aaeb0b0fb4",
-      "title": "GENERATIONEN THEATER für 4- 99 jährige neugierige Menschen",
-      "category": "stage",
-      "description": "Ein Theatererlebnis für alle Generationen (bis 04.11.2026).",
-      "date": "2026-09-02",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-09T10:19:54.230Z"
-    },
-    {
       "id": "social-5da1aa885c7b",
       "title": "Theater Produktion Chur",
       "category": "stage",
@@ -21215,26 +21011,6 @@
       "scrapedAt": "2026-07-11T08:44:50.983Z"
     },
     {
-      "id": "social-c1d8c27aa326",
-      "title": "Offener Mittagstisch in Haldenstein",
-      "category": "family",
-      "description": "Peter verwöhnt uns mit einem feinen, preiswerten Mittagessen.",
-      "date": "2026-09-02",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Haldenstein",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.graubuenden.ch/de/haldenstein",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-11T08:45:39.847Z"
-    },
-    {
       "id": "social-dd2f2221672d",
       "title": "Offener Mittagstisch in Haldenstein",
       "category": "family",
@@ -21354,47 +21130,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:49:13.334Z"
-    },
-    {
-      "id": "social-0aa2bca5be5f",
-      "title": "Konzert \"Einfache Stücke in schwierigen Zeiten\"",
-      "category": "music",
-      "description": "Konzert mit Töbi Tobler (Hackbrett), Patrick Sommer (Bass) und Reto Suhner (Blasinstrumente).",
-      "date": "2026-09-02",
-      "time": "19:00",
-      "price": "CHF 28/35",
-      "municipality": "Thusis",
-      "locationName": "Kino Raetia Thusis",
-      "lat": 46.7112,
-      "lng": 9.4077,
-      "image": "",
-      "organizerUrl": "https://www.kinoraetia.ch/",
-      "ticketUrl": "https://www.kinoraetia.ch/buehne",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs5oq2UB-HHytSroYfXJSM5xgbdfSz08BabKzGnRyQw7_ZiIhq7aMFUNWoNGpA_TCndBSeCx3aObzqMnTI7RSmAs3-fP7IvkiUmjL8kVNAjSWzikgEbLV7tq3tY4Uv76w="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6N9tCNEjOi6LfBE6jNIR2gzLJhWVgKiZJyZpR8wnlFsG_w85T0P6ZfhRfvw9vr0YxbxHAeWLlRSwPtX7FWzRZ7-dC4bltWqqxbxPxSpC6njH8sZWNoLpFlzhrqqWbl2sF-vZmYDDUSL7jpezvU11NlSaiJPWK5jIxhiJFJGZfRBsrvG8KKPOl0ungtwm"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrh-f2Plp0et0hSb5JCSfwB7aJT_c0vvMtTyZ2e1nQa7I1yIzc6AeAGFA71OzD2qy93xdO3bwEq1VoZ7s3BB8sO_lZE8O9u6_vGkKm-nZIP-kzgf0E1iGoI2_2oNhlztB3c9zJ0cnlCmZadHa5Cp-qcY="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa60g3qcYHg2ZHNVrWInqy5dk52g5Rq8jXd-GAxv2R8B2buQf2PRjqFYa8_JCwZzkhCv5Cg4vSMUnjdeGaUlDxfkTG4f9LgelNUJa5BEBUZh33MteJiYNGtUGBx6c3n4xp3sW2aek3DKMGskRtw2nxhkwz3RjZ56XS3M37pGezuub5WhMa7pUz2jBASmwSO_sg7EN9ug=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjPE3Yd_Fmpf9N5grl-hdRlUKz4TyOywSqfPGpDo0oy4B7IVRFcV9KE8cc7d2TedH87nsICP1w2UtVZ8lwscilAGgeFcPe6T3AhngyMosPNfg-zFeZx2TSmt8808S8YCFu1K68yN6ew-BOFGngFlbyFObO"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
       "id": "social-7c1e3fd34930",
@@ -21602,47 +21337,6 @@
       "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
-      "id": "social-beaca65fca45",
-      "title": "Spieleabend",
-      "category": "family",
-      "description": "Spieleabend in der Stadtbibliothek & Ludothek.",
-      "date": "2026-09-02",
-      "time": "18:30 - 22:30",
-      "price": "Kostenlos",
-      "municipality": "Chur",
-      "locationName": "Stadtbibliothek & Ludothek",
-      "lat": 46.85,
-      "lng": 9.532,
-      "image": "",
-      "organizerUrl": "churkultur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_jFW_k-o0rLAF49QZn-Khn_yg-sB8-5jko_-zUk2oLlSK3mp3tzVGev9gxAEHQB25kXZmWsk8v0543L0g-Vds0Fq0POROp_Q0V53IoWz-C4r2wvrqBCeMzT2caEAv_HW-RAZIiDnbmhNa5T4="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMFrHOGzTeKdu4vYDAE3z6ZQ0YiuswwADpNMzcsdwpfk-dzysSbARaVN57esDlk0SPLEIfCBEFFMQwN2CEyp2yesiSiEQjMVRzEzWpQJ4Wxy3fbdNs_Twr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaPXH3AhCLyMUt0YX29J5ENrD4muYOONu868RZ-a11XwoLik6m07V_h8oO8ozbbgWWgUmp58PrQ611E7nzMKUr2akSG7gXC8q_0aJiEC-PrK0ktZnvUOsjwnI-30Ys9Xr108YjBk93hKuw1X4qpvWV0V9GETqzCpRcQIo2vgntWLs30NQ="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeaIKNdbej54QCzV81vu4b6TEb7EiDwbU6gaxFbP82twScz8vPQ1gPNDsnjCDNIqxq8dEv6j-Uhhc09dfNgmvzbb3X1Wkp2iwpsrD6A2I2K4yFMIw3mBZdNQ7P5gVLqNNAKGHD6zN--VcLS9PphpV15A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFgMgybSZ-KzoTxaVF2Y8L-Ey4G5lcKYYR3vKkf7eD8o9rMo194ePffznYIQz7Sw3BpG5hWwruEhqQEAhJX4zV8-xqLTczGw8tATiXVYNb-_UMJu7973z6ykVL41Wp-5ldYW9Z_LzCfclgL73rJ7qveNEK60DcNQ0mu6ZUFW9i6lw16ph-PW8FXO4c8T4OAKMkQFoCnQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T08:59:21.584Z"
-    },
-    {
       "id": "social-288365c2e06c",
       "title": "Wildkräuterkurs – Kräuter sammeln & kochen",
       "category": "family",
@@ -21761,47 +21455,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-12T09:07:19.501Z"
-    },
-    {
-      "id": "social-b2cf04335182",
-      "title": "Strickkino. Bagger Drama",
-      "category": "stage",
-      "description": "Drama, Regie: Piet Baumgartner, CH, 2025, 96', ab 12 Jahren.",
-      "date": "2026-09-02",
-      "time": "19:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Raetia Thusis",
-      "lat": 46.69916,
-      "lng": 9.43635,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PDWQovwedE4m3_PLyDKxy-ENJrEGBOH3MNzuA_0VCLqw4dX3SHKCKyqFfYbYnuBsyQnT4rWPIOArey9erlcYHPX4xvGkI-W1vSfdbIVzOVqukfoVgEQHggHXQV4nzBp_-2sHQNr0DiQ8yxfBVw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWSYC-VzQ-zI5uUWzgpvRiucH183eC_kXjvWnFN2r7Yu8hiII61RiMaWvgZTyDWbaHBKhqa2JVEtJyqt5gU2zzZl1XC82FLfSQGS5Adp0kZOic9b4OwvZjxy17QMgPnIIdUhhloT4Z9AZfNSoGosAdy8S"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY2au0Kffqj2J6FpdmUS4Mdk1ff45sN9kf6NuLnSCDhgbauH3a8blLlSJbk4gsgut5pqTRKZKsszKQkcClUiqoKppDFtKXPNW_NdqOQ7zRJUbqOCqSoKtTjf0WYSDW-YWgwA8LlOzz8bN"
-        },
-        {
-          "title": "story-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsYIFB4je8rSxHnTuh84jdI6CR2WAem4XeuEmZf0Q6tQD9JG730YuAy8g6cTmrlPUu2MfzvpFlmLyga9CZhLJUkGv90yCsUun3Fnqeae1Uh1Q"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3gl1HxRgyeOGHcJWGNzysh5QdaWkHPSwUuuhfumy16bNRhUMJDx-8STm1WhT6575pzkVQcGioIhksGtdw_UIKD4kJri4k4piU54Jsi4QezYF7V-OPTxuWWC_1BrNV5ZH8FDtgeVCSICwH_nf7j7JIqV1nzxkIG7avkRuuwlFsyo1ICkyloK6nQHav5RD4dcgfZPYUw=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
       "id": "social-b86148ccee31",
@@ -22147,26 +21800,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
-      "id": "social-3345471eb78f",
-      "title": "Fussball (Schulsporttag)",
-      "category": "sport",
-      "description": "Ein Schulsporttag im Rahmen eines Fussballturniers.",
-      "date": "2026-09-02",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Domat/Ems",
-      "lat": 46.837,
-      "lng": 9.5,
-      "image": "",
-      "organizerUrl": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/dafi/sport/schulsport/disdasportdascola/Seiten/DisdaSportdaScola.aspx",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:58.308Z"
     },
     {
       "id": "social-50b7f5182cff",
@@ -23093,47 +22726,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:18:49.850Z"
-    },
-    {
-      "id": "social-e739083e1436",
-      "title": "Spikl-Treff",
-      "category": "family",
-      "description": "Play and get to know each other for adults with babies or toddlers.",
-      "date": "2026-09-02",
-      "time": "09:00 - 11:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Familienzentrum Planaterra",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHhY2W1AH-tM-hmCdekDwxyiTDPbQhCuzRHr6mb5vSqZDrdwFPAM6Kfllklx6mfG4FRSBpDyTqdlSOnTQTvdWm97yd8d3UXMPzT7wdvNQEwzo4ipYOJqjOfjfhpjfR9coR3HbkzUxoZVKmsVEUhfpAYg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDpa_BXUFNyNDRWHyHRGi-XWVM3mCN9HhLWmIf2g5JXA9WRp79TNUyAWS3RHgYIRXY43wvBV9Caq7k6NQB1Raq10pFWR072w_fcoR791My_iV-WXuqBNH1C0Rbl0gwftuCh3Dxiw0ADJ61tVV3qryZLacskwFXzVXTJg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy8GAjDpHFXy48RmsyZVzEEAsh4gLdn925ZNqZLuXjQnptcjpwE5B8lAHu3rZwf1K5EXXGlf5C-ZPYRoKni1hWXCG1Xw3a3GJZRo3h2R-Cq4XkUnN-KOrErOQUODsV_zHitN-S4Ot5NxZtRroHiNY4Pjt8n4sYHf6KcqfkO-XGzPrnBZG6XVFzJ5_XRpQLldrIeJI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwgdzW-wJPloUc98S8YzGr2DhdNy0Hr_BpHtYUVxcMqEI5XX073Sov4DNuWeuSLs-dQ1DKosntzYXXrHfLeFFBG16WXQt7WyrGJBHB3GFdlOVUvfiEKHaEuKG4pK8AQxCbTCzkhG4Xw2i_8E8tgHi3aWFz6aFpnkks3iYrbpMGb_7Hihv3fvJRQ6lrdOHVfo0thC2lS-2o"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgX6gW8R1T92N2bvnJz4OxWkYNddb8BS9IiQ3IjgF8Ig9plXytNlU60EjX9tPGVS6SxYUYsmcMlh4YP4ejeEIDrA_huyJQrCzx861iEkU0iSuqHhGHvwqDaKijdublLrzkLQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:05:33.973Z"
     },
     {
       "id": "social-409198443f83",
