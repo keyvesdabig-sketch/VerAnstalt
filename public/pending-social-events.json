@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T11:51:57.373Z",
+  "lastUpdated": "2026-09-04T11:56:39.358Z",
   "events": [
     {
       "id": "social-48bb78240075",
@@ -2407,47 +2407,6 @@
       "scrapedAt": "2026-05-27T10:58:35.508Z"
     },
     {
-      "id": "social-20f9330dd5d6",
-      "title": "Warenmarkt Landquart",
-      "category": "markets",
-      "description": "Ein Warenmarkt in Landquart, wie er im Kanton Graubünden üblich ist.",
-      "date": "2026-09-03",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.938,
-      "lng": 9.539,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "landi.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_rCXxZWqzI9bRk4-dIPieFh-Qzs2IfmReofDZQPnsmD9h4zq1-2kR0Lpi8ht0BqdZQQ6jUUW_ip1d0iLfAuIVV6ejCAUUD3p67FxpYQquTt5FtAPl8LnwGx1lNYKlCTUAQ0h_hqaFHZDemSdoVzQfhg4QrXpI7P_-GW7trOTOijDphT9bjnqV"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiN_AEm9usawOoTiVponhSUGB4PtMY4JAlHFjJbh_yGgBjawBCnayoCAscrZsWnCPhw1XxlkYmzjSnpOGXOHzjFjlP3KMdE411lJw8fPhJtNgbxWwX-mBzZCMv9oYvFDaNNuUnZbt2GIorb4rtnyEMW1mXp0zbbDY40NQ-ERfbuAU="
-        },
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAd93NmDyuj_qvdUMsI2G7-Joc3IbQ8jIPjFzoQ2-o-maF4U19X-5A0-9Egt2cdl3yuMzWUw7Urso77_O0n_z5kSQLEBxbyyKagQ_q_8Bv-4FNPsZdZfnTQlEaCBV-daDtBupEo25VAyJ0iN0YBHUOrc8GyxwSQ1WtKnr3geVm"
-        },
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB6pfZ5GUjD-swnyf50GpqDsRt9uNFzQu4fsWrvkIeXJsDxUwc5cnjj136T3R6GxYjYbNnMU3oDYjj3mA2O07hsTE-wB6a8NchCcu0bYyqag35T9N4o710Lz7pygSxlDB4G3xkIASQYDyHA_wgZ_zmtSia4CIiaoviscLzYZC6AxQQoLcQ"
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH246ClbSRzda0jzTtnPOACXoJbF94NuILXRhq0We33K4Gyi216TNLU4wHoImqVQVI5oTVQZKFuqiztYCX7NhXR0V00-fCZt1uSPEfVkOgzwtRYHAebCj2XPngMpbEusGI3GxdHSBM="
-        }
-      ],
-      "scrapedAt": "2026-05-27T11:00:54.781Z"
-    },
-    {
       "id": "social-33a2cfeaf9db",
       "title": "The Original USA Gospel Singers & Band",
       "category": "music",
@@ -2707,47 +2666,6 @@
       "image": "",
       "organizerUrl": "https://www.chur.ch/veranstaltungen",
       "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
-      "id": "social-2698d2173f29",
-      "title": "7. JazzChurFestival",
-      "category": "music",
-      "description": "Das 7. JazzChurFestival präsentiert europäischen Jazz mit verschiedenen Acts.",
-      "date": "2026-09-03",
-      "time": "18:30 - 23:00",
-      "price": "Tages-/Festivalpass siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE Engadinstrasse 43",
-      "lat": 46.8523,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/jazzchurfestival",
-      "ticketUrl": "https://www.jazzchur.ch/jazzchurfestival",
       "sourceUrl": "",
       "sourcePlatform": "Other",
       "citations": [
@@ -8723,26 +8641,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:00:28.044Z"
-    },
-    {
-      "id": "social-a62f16d271d7",
-      "title": "Platzkonzert Termin 1",
-      "category": "music",
-      "description": "Platzkonzert der MG Oberschan.",
-      "date": "2026-09-03",
-      "time": "19:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://mgoberschan.ch/2024/06/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
     },
     {
       "id": "social-24c759ac0a27",
@@ -15173,26 +15071,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-2889916b9130",
-      "title": "JazzChurFestival",
-      "category": "music",
-      "description": "7. JazzChurFestival mit europäischem Jazz.",
-      "date": "2026-09-03",
-      "time": "17:30 - 23:59",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Postremise Engadinstrasse 43",
-      "lat": 46.8546,
-      "lng": 9.5218,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-2efa21d31d73",
       "title": "JazzChurFestival",
       "category": "music",
@@ -15919,26 +15797,6 @@
       "scrapedAt": "2026-06-21T10:33:57.582Z"
     },
     {
-      "id": "social-068a0aaf2937",
-      "title": "Schiessen mit dem Feuerwehrverein",
-      "category": "sport",
-      "description": "",
-      "date": "2026-09-03",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Feuerwehrdepot Landquart",
-      "lat": 46.94,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:35:48.017Z"
-    },
-    {
       "id": "social-6776494a7fdd",
       "title": "AC/DC Tribute Konzert mit Barock",
       "category": "music",
@@ -16201,26 +16059,6 @@
         }
       ],
       "scrapedAt": "2026-06-22T12:50:20.213Z"
-    },
-    {
-      "id": "social-f840871db156",
-      "title": "Schiessen mit dem Feuerwehrverein TV Landquart",
-      "category": "sport",
-      "description": "Schiessen des Turnvereins Landquart mit dem Feuerwehrverein.",
-      "date": "2026-09-03",
-      "time": "unknown - unknown",
-      "price": "unknown",
-      "municipality": "Landquart",
-      "locationName": "Feuerwehrdep. Burki",
-      "lat": 46.94,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-22T12:54:18.039Z"
     },
     {
       "id": "social-203aa279f839",
