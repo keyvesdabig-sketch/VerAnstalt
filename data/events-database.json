@@ -995,28 +995,6 @@
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/schneewittli/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
-  "konfirmationsunterricht_2026-09-03": {
-    "id": 1779962141802,
-    "title": "Konfirmationsunterricht",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Mit den Jugendlichen des Konfirmationskurses \"Bewegung\" , Konfirmation 2027",
-    "date": "2026-09-03",
-    "time": "18:30-19:45",
-    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
-    "municipality": "Zizers",
-    "lat": 46.9348,
-    "lng": 9.5667,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/d0/dd/fd0dde5f0505608a0ac8ad6402952d4b1e241974_917876823.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=03.09.2026%20%2018:30%20-%2019:45",
-    "sources": [
-      {
-        "name": "LocalCities-Zizers",
-        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=03.09.2026%20%2018:30%20-%2019:45"
-      }
-    ]
-  },
   "instrumentenparcoursbonaduz_2027-03-31": {
     "id": 1780045486883,
     "title": "Instrumentenparcours Bonaduz",
@@ -1380,29 +1358,6 @@
       }
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/grueezi-italia/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
-  },
-  "seniorenmittagstisch_2026-09-03": {
-    "id": 1781172105212,
-    "title": "Senioren-Mittagstisch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Keine Beschreibung verfügbar.",
-    "date": "2026-09-03",
-    "time": "11:30",
-    "locationName": "Restaurant Schlosshügel",
-    "municipality": "Domat/Ems",
-    "lat": 46.8336634,
-    "lng": 9.4470141,
-    "price": "Eintritt frei",
-    "image": "https://s.localcities.ch/event/images/placeholders/culinary.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690815?eventDateTime=03.09.2026%20%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Domat/Ems",
-        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4690815?eventDateTime=03.09.2026%20%2011:30"
-      }
-    ],
-    "organizerUrl": "https://www.dunnas-a-domat.ch"
   },
   "zuraeltesteneichegraubuendensundzudenehemaligengoldminenvonfelsberg_2026-10-10": {
     "id": 1781172123195,
