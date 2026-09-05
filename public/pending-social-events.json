@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T11:56:39.358Z",
+  "lastUpdated": "2026-09-05T11:04:34.186Z",
   "events": [
     {
       "id": "social-48bb78240075",
@@ -2666,47 +2666,6 @@
       "image": "",
       "organizerUrl": "https://www.chur.ch/veranstaltungen",
       "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
-      "id": "social-4b0a2cce4b6c",
-      "title": "7. JazzChurFestival",
-      "category": "music",
-      "description": "Das 7. JazzChurFestival präsentiert europäischen Jazz mit verschiedenen Acts.",
-      "date": "2026-09-04",
-      "time": "18:30 - 23:00",
-      "price": "Tages-/Festivalpass siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE Engadinstrasse 43",
-      "lat": 46.8523,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/jazzchurfestival",
-      "ticketUrl": "https://www.jazzchur.ch/jazzchurfestival",
       "sourceUrl": "",
       "sourcePlatform": "Other",
       "citations": [
@@ -6531,26 +6490,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-03T11:53:21.095Z"
-    },
-    {
-      "id": "social-f36eb560ea90",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-09-04",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
     },
     {
       "id": "social-300f38c8857c",
@@ -14309,47 +14248,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-68ceb13ac8a3",
-      "title": "DART-FRIDAY",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-09-04",
-      "time": "19:00 - offen",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.8309,
-      "lng": 9.6155,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-vb6Rh3vj1xEeimFYQViR3vi3gIS6wIbRZCrKazE7SIu8-SkGvVdxP3Y7UUyFk8L_SAjGkxuMWgEsmhJxnXZ6O5ffWxHPuE48rshZyyf9pBfr6FQPT8KmQM="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyQSr4G-Qy1lHuACv2G0kAmUeCVdBWT-qVk3XcuTCU9W2SCuH73GURix511dkFbKOZOIIGdbG4Y_M91dL0SCJ0DjaA93ZvYrUi18Y5K8HfYE5u3xYtyhRSmsvalIfDZ5r5ZEq3HpP3nmYXFjBeGhW7_icW6Hs-JHDihVZ1oQUAoVzJN-dvBbuBa2HtPeZtkArzlqaByLXNp2R-yXUVJgs="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWnbk4QCphXtdjZ-dQGhTRkp709wTQa_8EPq6hb_urYGJuDjfWly4LuY4k7H899xrXOdoUv7-v1c7qiVer2qOhbE5hhbD1V8Kx9QCV4mnuLGpHTHFmiN7AaJ5_RIYqyNIekvdR1dZhT-cjOua-H4Haotl1aX4Kc9DSKWA="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJxDV5f52c3bJeZrrBvHNn-wg73WDRkcDeS_TYqePQAasjihvcJrVRbklZnhH5wx2MSr1_Rukf1i8MfkFGYLCwkSygg-h-nOSNjb_PZZVtgGgk2l5LBxZ0GdqtoB92-8C2S6rzyaDiiBxJHAQuMGO8bQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH94yvq783CvVk6EqE2-Tki9stwkInd8PPPoV0ur64wolyAUgz-iaWVXkGDvwCSG7Wig6aJyGFmbHb5BNKvfruf0486vuQcAH1YI5KjiUY-ExHl7t5DmzVp-Bk6OrTHNCsvSD07jbMxxhi2-yYXUI9sQ8shzk2RbnbLfNOLitnr5IUH"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:12:32.035Z"
-    },
-    {
       "id": "social-c8092edc1cb8",
       "title": "Transruinaulta Curta",
       "category": "sport",
@@ -14377,26 +14275,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:13:50.691Z"
-    },
-    {
-      "id": "social-5eb18ca8adf2",
-      "title": "ReparierBar im Kinderlab",
-      "category": "family",
-      "description": "Workshop für Kinder in der ReparierBar im Kinderlab.",
-      "date": "2026-09-04",
-      "time": "17:00 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
     },
     {
       "id": "social-6b04460222be",
@@ -15071,26 +14949,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-2efa21d31d73",
-      "title": "JazzChurFestival",
-      "category": "music",
-      "description": "7. JazzChurFestival mit europäischem Jazz.",
-      "date": "2026-09-04",
-      "time": "17:30 - 23:59",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Postremise Engadinstrasse 43",
-      "lat": 46.8546,
-      "lng": 9.5218,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-ad45c37503c6",
       "title": "JazzChurFestival",
       "category": "music",
@@ -15512,47 +15370,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
-      "id": "social-35c568e778a9",
-      "title": "Öffentliche Führung EMSORAMA",
-      "category": "family",
-      "description": "Eine öffentliche Führung durch das EMSORAMA.",
-      "date": "2026-09-04",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "EMSORAMA",
-      "lat": 46.837,
-      "lng": 9.471,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAfnHXgi0vBX7OJRfEf0SOOfT0lu_ZzOMK0YgMcPIrM6iPPr0nf4fi-6xKAih31KI5sEDsJ4OCizMn8Pt3flccET2EwP7nExEMzaMZ0uCDncNS1DGNidzbBrCy09CMEYUOPiZRKt6eWhvXNxtO"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLEMd2wXdsyvVFuEHcVGdOxjZucpXH1VTH9NoA26erX-acT1wL-YSJAJPVdayEZ7lgaJUJe3XW8wf4jVb1N-D43Ue5XdzE-LsQBtODilVoF1Ri3i7kZGZLWCWIloQ9H7Qab1HuOOmDWsHJnQHOINdPa22ivFZj9Vz1YEiVE9vQDvcR1k431zvgFGK4"
-        },
-        {
-          "title": "emser-dorffest.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2YN_Z5b9wy8lPdpFWEW0PoAB825LEdlC-0TqF7rwuPkth7bDEtiTQZg9iP5Og9jPh_d-zncc1iI2IQfm-ezeu6dmmTrC7BIzz5qlYcvvDGRBR7uwJeiCUFZIzQEvUmxZNw7T2pJAbDMW5hqsQy6nLeX62hCldEF1Ua7GDrvZrVDRs38CiJaXryyGc6w-MXUaZNXT99g=="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY7UVBPzvtNhfoAupeUGzKbAs_EXwmj5cUUPby-ShebFPu4u8E_Yg6Jbm616cnZiAX1dTcq5MQJwwXKIECijINvKvoupQYIisUjIExlljRiO4HKbi8YeutZZEFrcSIc65XmcgLgA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9F3FNzrSG_TzSnZBtpVf3Ym6Nhzo-lNxny-01Jfo_IwSj6007QbBk5cThAuYaZiD8jskLy8-BNevru05SJEAYdAtOIWU2TPZdphkLgqrRplbU5F7I_xbVq5VSos0VoUP-uFwYoEwesUUIFzKd9fFehsyp7LE_Ew=="
-        }
-      ],
-      "scrapedAt": "2026-06-20T10:00:12.849Z"
     },
     {
       "id": "social-137869684271",
@@ -19418,26 +19235,6 @@
       "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
-      "id": "social-d9bc5d8c8b23",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-09-04",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:30:39.141Z"
-    },
-    {
       "id": "social-cb1caef39cfc",
       "title": "DART-FRIDAY im Edelweiss",
       "category": "sport",
@@ -19638,26 +19435,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-08T09:23:24.502Z"
-    },
-    {
-      "id": "social-f993e7f32c66",
-      "title": "Schlamuz 3.0",
-      "category": "family",
-      "description": "Ein wiederkehrendes Community-Event oder Festival auf dem Gemeindeplatz Felsberg, veranstaltet von Eulenwelt.",
-      "date": "2026-09-04",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Gemeindeplatz Felsberg",
-      "lat": 46.84,
-      "lng": 9.5,
-      "image": "",
-      "organizerUrl": "https://gemeinde.felsberg.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:23:57.731Z"
     },
     {
       "id": "social-1f295d692459",
@@ -22403,47 +22180,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
-      "id": "social-e09fd570bab9",
-      "title": "Hofkonzert mit Gaudion (AUS)",
-      "category": "music",
-      "description": "Hofkonzert mit Gaudion aus Australien.",
-      "date": "2026-09-04",
-      "time": "20:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Schloss Blumenfeld",
-      "lat": 46.834,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcGv7C6Xv-zGIHtvfjeYEgicuMQ56z1n89aiOPD4JtQX9vIeXdGNt3YHXqRUETyf9DdnWy3v69gOazxJy2r3o1kwV8FXL-uQtvRl8dsMhRNpJboFlX9ytZwnO44D7_-z5qtt_6dRxYXMiRyi3Ucae3GTtQ_mbAZgU4_L7qiLrC"
-        },
-        {
-          "title": "petzi.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBEfdNxFv8YL83pHgoWoKtobYsRL1o-5N2YdRGN5VFPGjYL9KbypoUYOSeXp2yImLaSDuUOduv-SP9HrJ_nDHOfffxI3MUS_G00Jj1MfECTSV7qphnxAKokyjxe6mL-NyhSyiqWC2xm34mmAP2zDDsnRBEg3-uE565YaSXoueQedo="
-        },
-        {
-          "title": "rapidopenair.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFchuGCPHOalUjfirksm4xwZIaprYoR8-GQBlywOwEUi-YXmLDevpltXfEB50GzvU63vxgt1KFt2TbHnDS8xjQ1I95c_SMePi8vqmI1xsc3CV0Ivg=="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAGL61GYrjK8Zm8RNpL-QQ83Q4MPhg2BmBkJUeF6j8uQ-3lQ0bluEzynO4h5NXzCF1zb66KFbgL9u6fgiOfapoUXCgf_uqMKw_djUxY1GT45e8LLyfVcnbb3cLqxj2FPE4x0BaEvu64mtg_Pb92G4ncuLFHGk8_UzVssJUdLkMeazQjIcHF4tb0nxjong="
-        },
-        {
-          "title": "eventbrite.sg",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbR59dWHPykKfkN_0OFN-iX3falzXuWalNyvY_QJCzvUVv4ahKTFz7YhElr_wl2J1EbGb04CpkXG9mrviyXE4gt7oyZmISpz3Ai_3J_kxxa-855ZC1WFdoNNLKmYa-MH8NaNM7UH4IbAFx-n6AzyIDr36lIJR-IA=="
-        }
-      ],
-      "scrapedAt": "2026-07-16T09:16:30.875Z"
     },
     {
       "id": "social-4a67526fda33",
