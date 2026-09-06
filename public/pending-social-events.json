@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T11:04:34.186Z",
+  "lastUpdated": "2026-09-06T11:28:53.770Z",
   "events": [
     {
       "id": "social-48bb78240075",
@@ -1283,40 +1283,6 @@
       "legacyId": "social-1779632220486-Malans-32"
     },
     {
-      "id": "social-c3ea350c5c8e",
-      "title": "Herbstmarkt Landquart",
-      "category": "markets",
-      "description": "Traditioneller Herbstmarkt, organisiert vom HGV.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Nicht spezifiziert",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.968,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://www.landquart.ch/de/gewerbe-tourismus/maerkte.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5yhCDTN6cNwoaKFfhC15rTSb3FrITzukvtuS6HHgNjNLXxK8S8Dyi_7MpOhxF5nREUaVG-dSjxtd8ffBC6SP_y8__SaVyuLzgHi6QFFUpdew7zT-PO21nWfyUBmxwNj9kIbl3w_VeiZmFQlT0ag=="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYlzsvko8CWiFpTvVcnMMjt08FC3D8WkjuqS8xbN_x2Jb65jzz65UL42C-7V25nvJU_L7Sdw5sByFQUtVgRXdlymeq7k0BD6_A8evuNM-VxF9YfGV23w-HF20aSsPSEWE5xMPXPSqvZ4l3_GIHhXgQsQ=="
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHeBthQLbsOtLQVVXqc-hYyYxIGUMHDgZEvRByJ24rggbxfyoE46eRKmX-nrED5yepbiquH9_UTDSOYzwPp6JTuu0KbEbVNjU4U2FRoBSPm-yz0pZhU3Fb1yWxPE="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:18:06.939Z",
-      "legacyId": "social-1779632286939-Landquart-10"
-    },
-    {
       "id": "social-78c9b6e21c0e",
       "title": "30. Plantahoftag",
       "category": "family",
@@ -1640,46 +1606,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-3a638ee1e47d",
-      "title": "Floh- und Gänggalimarkt Chur",
-      "category": "markets",
-      "description": "Grösster Flohmarkt in der Süd-Ost-Schweiz mit vielfältigem Angebot.",
-      "date": "2026-09-05",
-      "time": "07:00 - 14:00",
-      "price": "CHF 5.00 - CHF 15.00 pro m²",
-      "municipality": "Chur",
-      "locationName": "Arcas",
-      "lat": 46.8488,
-      "lng": 9.5322,
-      "image": "",
-      "organizerUrl": "https://flohmarkt-chur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
-      "id": "social-cc305e3088fa",
-      "title": "Bündner Plattenbörse",
-      "category": "markets",
-      "description": "Tausch- und Verkaufsbörse für Vinyl-Schallplatten.",
-      "date": "2026-09-05",
-      "time": "Ganztägig",
-      "price": "kostenlos (Eintritt)",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Kultur-Bar",
-      "lat": 46.8491,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://werkstatt-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-bb03ccd7a6f5",
@@ -2652,88 +2578,6 @@
       "scrapedAt": "2026-05-27T11:03:08.822Z"
     },
     {
-      "id": "social-e717d48a20f8",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-09-05",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
-      "id": "social-7dff00797456",
-      "title": "7. JazzChurFestival",
-      "category": "music",
-      "description": "Das 7. JazzChurFestival präsentiert europäischen Jazz mit verschiedenen Acts.",
-      "date": "2026-09-05",
-      "time": "18:30 - 23:00",
-      "price": "Tages-/Festivalpass siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE Engadinstrasse 43",
-      "lat": 46.8523,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/jazzchurfestival",
-      "ticketUrl": "https://www.jazzchur.ch/jazzchurfestival",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
       "id": "social-fc172a88e66b",
       "title": "Gotthard Eröffnungskonzert",
       "category": "music",
@@ -3511,47 +3355,6 @@
       "scrapedAt": "2026-05-28T10:55:16.620Z"
     },
     {
-      "id": "social-28b5c10125cd",
-      "title": "Kaya Yanar - Hör uf!",
-      "category": "stage",
-      "description": "Comedy-Programm von Kaya Yanar.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Nicht spezifiziert",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9467,
-      "lng": 9.5372,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "landquartfashionoutlet.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZTbdxLRlcI35cPnjJLbLo3cIVo2AKy-PqENJ6YU-FRyHl8JduiCPVCUXeifcY7EWwKwkDgnZl6Us8ppBx0UNrktTJ7MR8gIzowy482IfpFylBv4Bv2706kHwGr3TiA2P17pFaWQ=="
-        },
-        {
-          "title": "landi.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0kmRX9boukVpzkK1u_sWqV7fqvcM_WjOsu-eOoTbmp5J8523SnGfnK7mosaFv8clolM8j8GAGsdbgH4eOQmOU6hl4DrSgLAwQ2Vp6WJ79cJjs0UOvEtr9bDQiMbB381QEDwJPdXNzfTOQM-Z2rrg2-yWOSAcFilJuCsuFQOl0tQhsia5ijaEzKA=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv65GTKSrIdPoPLR1ZiHTCkZnlhETiTmc01P1ln-65aIjeI-a_x64ZR-0sbFS0wkiSoT1P5MG-69KazKG6qeh-4HT1BqeCU4o_K1zfgTMVhYo0mhLBMNaJNSRE5N-9zLqG_VnLdwosKFJ9ohvlm_2B5r1-mJuiccQivf9byw47lDRj"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNIt7U1_KqnzMDqMzwa_gXzXo6PWn9y2HqlXA-e-i59vHd6g9Ew6ASi8i_y8tvn0fQLJFJHGULGZbf-scR_YZRYkACNxFBiMdHT8yULe9Ia25AJvNvBpOn3Xy06UXsMiZFIqj5bNeKZIxYDlaftIh55qVs5jjLtkSn4yzLatmN-cYF99qx-rn3MSgQQClb3SlLXDsK641O4sLn"
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU0jUEWEtbJMylZJYNxYPTq02AqrI3VnvGUCJohokSBWlN1DF9ivIISRO5yXV84b85W2J-jLHaqdHHyPDV1DOyItQCX_D_blyxnmbxNjw6G4CLiFt3Xm-JP5Ei1EPdFAEB9_zNyG-G"
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:56:11.980Z"
-    },
-    {
       "id": "social-6e5bde1718a8",
       "title": "Fabio Landert - Die verbotene Frucht",
       "category": "stage",
@@ -3979,26 +3782,6 @@
       "scrapedAt": "2026-05-29T10:46:39.078Z"
     },
     {
-      "id": "social-ff6d4d2cef08",
-      "title": "Warenmarkt Landquart (Herbstmarkt)",
-      "category": "markets",
-      "description": "Der traditionelle Herbstmarkt in Landquart mit Zuckerwatte, Magenbrot und Wundertüten. Organisiert vom HGV.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Free",
-      "municipality": "Landquart",
-      "locationName": "Bahnhofstrasse Landquart",
-      "lat": 46.947,
-      "lng": 9.538,
-      "image": "",
-      "organizerUrl": "https://www.landquart.ch/leben/gewerbe-tourismus/maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-29T10:48:25.436Z"
-    },
-    {
       "id": "social-c709e2ab4790",
       "title": "6. Churer Orgelkonzert 2026",
       "category": "music",
@@ -4280,47 +4063,6 @@
         }
       ],
       "scrapedAt": "2026-05-30T09:18:10.390Z"
-    },
-    {
-      "id": "social-fa0909fceb72",
-      "title": "Herbstmarkt",
-      "category": "markets",
-      "description": "Der HGV organisiert den Herbstmarkt in Landquart, mit Zuckerwatte und Magenbrot.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart (likely town center)",
-      "lat": 46.9535,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.landquart.ch/gewerbe-tourismus/maerkte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9WukQYp5P85vgsgYAgR5L1D7aGx8jZ5AAf8A1j1r720kahca9-gI7PM8UmOSe6c-64TYs2uWEC2VwPZ8OfSu-QCWKaWY3qPu51Braf84Fdgg_JLBg4CJruRezGfLew19S21tbECOo-qLx6RGVr4VG2QP7UbrDo5O8Zh5y6Jg="
-        },
-        {
-          "title": "landquartfashionoutlet.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVUYztquytiQdsMUfheGc8B8PF5ZqpVsmP7e70Shicbp2LIeUz4kiio2wgH7F2KoP-jSLf-1-X69c1We6tREE98VLG2Wl1qoFRL4yfS5hAkIKgwVNFo61FotUr89Z8qXQDtls="
-        },
-        {
-          "title": "landquartfashionoutlet.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG3ZJL3Vc_V2ApGBKNN0HSzdaRp9i7U2Gut6edfrnfDUIK7Kz93mSyul8nLRvqGkenQ5tifQ12LOHcT76Xg7VLuUQ_QdZhR_uPHcd70w6L97m93Y5xnwPIwwP62mnzJSPam6Es5ZaX4xPW6UaX"
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeoV8k2MuQop6mVGknSrbGnFyNiOf69wSco0zyrNDKVmRTP2hvlQQZeCXfRnik9MyHy_L4XRU44OaoTrLiOW4n9uxx7Eli2lnHEzJ2YABx6vRVptucsPQ0N1VRqRRpBFd8dLFl8DEygmTTkTB5DlJI1CWYezQoGUInRL0Df6-5gFJ05mYvfRwe_efl7-ogxCl2yyvVJmKM3e3MiSzCh6A8XMxG_tOhZGg="
-        },
-        {
-          "title": "usa-gospel.de",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkeO9-A36yXCNdJkzaBWDrOn54zQHC_RErkELdZ9NgbMISmDTgcJJ5ymY9LHwFkDh8SSYKlJ1Ole_CPcEAHD1UCgs8303jLPEd8b9-jfhaCCJccJc-"
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:20:34.454Z"
     },
     {
       "id": "social-c428ff9f98b9",
@@ -4690,46 +4432,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-2a9d429158e8",
-      "title": "Vazer Alpentladung",
-      "category": "family",
-      "description": "Traditionelle Vazer Alpentladung, organisiert vom Bäuerinnen- und Landfrauenverein.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Untervaz vor Gemeindehaus",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
-    },
-    {
-      "id": "social-f7f3de618092",
-      "title": "Dorfturnier Volley",
-      "category": "sport",
-      "description": "Dorfturnier Volleyball, organisiert von Volley Untervaz.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Mehrzweckhalle Quader",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-ae927183b677",
@@ -5156,47 +4858,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:37:24.125Z"
-    },
-    {
-      "id": "social-12df138be9d6",
-      "title": "Fotogrüsse aus Tschiertschen – Fotografie-Workshop",
-      "category": "family",
-      "description": "Tschiertschen sehen und fotografieren. Ein Workshop für Fotografie-Interessierte.",
-      "date": "2026-09-05",
-      "time": "10:00 - 21:30",
-      "price": "CHF 350.00 (ohne Kost/Logis)",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Altes Schulhaus, Enderdorf 41",
-      "lat": 46.833,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp9yoN80l53MY6Z86LIDPn_NlaGQI_l3ROifwSj9QB0LBzyidzbkTioaS_nSkdkJOVkkR5HOLuZmlvCuQJK2KIT-6OYl3zwhhnOZmoWZanmT73ORsdC7pVfkapP1Ut67cY1FNmy39zFYMd7z4gJ-x0RIh9-HW4qlCiKdtXHOWMsvz5"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2fgtNL7FDNFgwc5RFGv-hESzWvSGZLMfrXDi820ZJL7kQptYybtilzq-VyZ4bm8zS7Q6JQzGyiTcp_QStnFgrAq9bHEeHHZxxp-xlM1jEBH_DEALoVayzAAb1ZWPS653i0IlwFKt05NlS-kwOX75re-HWYG-hJ0uE4dheQJtEB0V"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpqWL8nlbGN3TR1WBQtxX4UxiDGdbImJIgF_ZheifyBUHpdS0hO3ELVBngVOHhhs9E4WpX1S78I6iK0d0H83EL0t2tZQaYsnqou3bpFbrCfQ1R1uX5p2UFbMYA4VTLeaRCPhmRWL_R0qCc0CyTPPkIPbFRWeVD3nG4Lne_MumH4dhIWPV5eipjaqJVADQ_52Zbk9Fffj-jxBbVYmweMgI="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHddgMmom2828sx4qDrXCYrM5auiR1Lxk1izm5edv48KkrOL7z54P0o8W2RMOJNKmAnCifApPomErliaJkupdimV2WFKiIQSQCQIyxezx07k_FZZ5VLNQAXliY3bek4kB16YMN0zsq-j7v4uVSpdHDog=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpRRDsptmJOnBpLHdmr6nyeuQEQOMCIxDUeW58CSQsSDOl_l9lWqhgcF4HLRFPS5h3mU70-faa0Vpjegej-a0jDTI9Ygc2qjguPeu1Wen0xCyJ14Lz4X2SPLGSgLraFA=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:38:01.505Z"
     },
     {
       "id": "social-3584eb334dd3",
@@ -8153,108 +7814,6 @@
       "scrapedAt": "2026-06-06T09:30:13.512Z"
     },
     {
-      "id": "social-39adb148fbdd",
-      "title": "Domleschger Sommerkonzerte: \"Okto plus Freunde: Überraschungskonzert\"",
-      "category": "music",
-      "description": "Ein Überraschungskonzert im Rahmen der Domleschger Sommerkonzerte.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.6816,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de/erlebnisse/events/event-050926-domleschger-sommerkonzerte-okto-plus-freunde-ueberraschungskonzert/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-06T09:31:13.390Z"
-    },
-    {
-      "id": "social-a8165e52e681",
-      "title": "Haussmann Studiolo (Ausstellung)",
-      "category": "stage",
-      "description": "Ausstellung im Bündner Kunstmuseum, die an die planerischen und konzeptuellen Grundlagen der Arbeit von Trix und Robert Haussmann heranführt.",
-      "date": "2026-09-05",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.8529,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://www.kunstmuseum.gr.ch/de/ausstellungen/vorschauen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
-    },
-    {
-      "id": "social-d77a49d731df",
-      "title": "Vernissage Haussmann Studiolo",
-      "category": "stage",
-      "description": "Vernissage der Ausstellung \"Haussmann Studiolo\" im Bündner Kunstmuseum.",
-      "date": "2026-09-05",
-      "time": "18:00 - 20:00",
-      "price": "Eintritt frei",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.8529,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://www.kunstverein-gr.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
-    },
-    {
       "id": "social-70d2f6fa8e18",
       "title": "Franck und Mendelssohn. Chorkonzert",
       "category": "music",
@@ -8662,47 +8221,6 @@
       "scrapedAt": "2026-06-07T10:06:04.781Z"
     },
     {
-      "id": "social-93acf78a1598",
-      "title": "Domleschger Sommerkonzerte: 'Okto plus Freunde: Überraschungskonzert'",
-      "category": "music",
-      "description": "Ein Überraschungskonzert im Rahmen der Domleschger Sommerkonzerte.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen-thusis/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kinoraetia.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyyVCeZ396YF6UINId3fqm8syHzH41t5v5sMJMfOwvCkvQV_kGNCFmOsKrZNQOy-fQXYlLhHkhzvaJ1I4b01aDUjwebn3EidmH_HgdJ2ctwQ=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7m5U133tQnC8jkIKXMGzoXnvufJc9j504Ts8RL6iQ4UutbOUtKPJWXSpA3RYxL9iCdfWwhBykIlTB2vz6hZOAdPuw-xyJdwPLIGpwk2T_FAAqCEffLsZ6S4p_n7Rc1sOng2mqMP5JmLxVRza5wMfuB06ZKs33zijKOIfsBUlc17Gt6ARwik6OWe5ryLLINziWk5TSOyUyO7IihNWleA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFslklmgm9y9aDuNFWFFHLJw9YetowuEe_FU3-V3OqFaLDppQEz1BMHOynqGlu1-yxxK6Sv0twSdqfIt1DKh6dHnIwXYo8CZP9OAdFrQq-E52BJAVeVEKFdmSCvWTfetJrB4lHi5sC9IKg4tTCt8mVpuTAZcoD7Ge0ZLC7AbZARGr9g00xnTlWXK0ythgGq5HWXugutA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELisOCXj7FUhMwjpUxKs_iDsO--lSYea3WIgdK2_MyjHc-iFgHOo-ZfN2NRAs5Gy2vxUTReh68tE7BUKyL9FeKWZ1A1T8cDTiEDXiDnahrWzwmYXtTVNjaL1DtPNnIMl9XxgXWlBONAOHfo05ZBtcjHqDr"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3uqCLBwkT9Rz3ed4j0hcvY9yqv53HBFnICxMkMQxt23upLoz4bAbBbjpsmwHL3kt9HcFfJ2NCqIIkACz6Kmwxd7eDYUfEZ0tt8l9d-E5juSMJ3Mh5xxtpXRUSjD5lIhh6DIrdFmzCdqRk"
-        }
-      ],
-      "scrapedAt": "2026-06-07T10:07:15.743Z"
-    },
-    {
       "id": "social-ed4d45637d24",
       "title": "Konzert 'Einfache Stücke in schwierigen Zeiten'",
       "category": "music",
@@ -8988,26 +8506,6 @@
       "scrapedAt": "2026-06-08T11:51:07.392Z"
     },
     {
-      "id": "social-cb64d4552b31",
-      "title": "Gänggali-Markt",
-      "category": "markets",
-      "description": "Erster Samstag im Monat, jeweils ab 07.00 bis 14.00 Uhr.",
-      "date": "2026-09-05",
-      "time": "07:00 - 14:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinsplatz/Arcas Chur",
-      "lat": 46.848,
-      "lng": 9.532,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:51:07.392Z"
-    },
-    {
       "id": "social-d238493ee353",
       "title": "Gänggali-Markt",
       "category": "markets",
@@ -9190,46 +8688,6 @@
       "scrapedAt": "2026-06-08T11:58:32.845Z"
     },
     {
-      "id": "social-79f20354f485",
-      "title": "KAYA YANAR HÖR UF! (15:00 Uhr)",
-      "category": "stage",
-      "description": "Comedy-Programm von Kaya Yanar.",
-      "date": "2026-09-05",
-      "time": "15:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9582,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/7302/landquart/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T12:01:13.890Z"
-    },
-    {
-      "id": "social-24ca17a67bfa",
-      "title": "KAYA YANAR HÖR UF! (20:00 Uhr)",
-      "category": "stage",
-      "description": "Comedy-Programm von Kaya Yanar.",
-      "date": "2026-09-05",
-      "time": "20:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9582,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/7302/landquart/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T12:01:13.890Z"
-    },
-    {
       "id": "social-a73c11f12883",
       "title": "Schwiizergoofe (12:30 Uhr)",
       "category": "family",
@@ -9410,43 +8868,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-09T10:38:18.586Z"
-    },
-    {
-      "id": "social-e2e620a3528b",
-      "title": "Landquarter Herbstmarkt",
-      "category": "markets",
-      "description": "Am 1. Samstag im September organisiert der HGVL den Herbstmarkt.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.95,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.hgv-landquart.ch/anlaesse/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "seetickets.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgS-aQzXGuUQ83e1HjiF1t-KG3hkq3lCy6flvvh4wEVTtxBpDnvax7lM2rW8k52G6YnfIfilDdeaMz-noHol_Vr24WXZRxKSaUy75F1mRcVh87ECfEmx1Lr6q5rovFv5T7RrAQa2tYtYNfRPb6L4f18nFWAQxqwE4zCP05Pk4UgMLg6-Q"
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrjkqOXGcVmgDHZSjYvmDI6xDy6EQRHC8WnrFd6vA6w9roi7Yj2njRbEk93PULTvUd1IfLeMCdkNAB3JWmDpGcUWgm7P4WyRnwAxLLvZJFbLyo6tXkkRU81rFrej1alS5fsauN9OnG"
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_vVTktFAvNVEosqAFypo1NEK1wtfzSSh5tdCDkGSRaIGgW2f02HXfhxOoRBONifTUJlfWfil1-fJim7GUOCxU3u0pd3UBC11WyeEd3sUmHVnY2VmhCb8qW0OCzUMdGeyEV9q3r7B9sfy-pA=="
-        },
-        {
-          "title": "hgvl.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJrCARjj3TIX1rqog2IirMAOt2jBPYikgi1SgLo52bEZVWwVRw2J6m_IOsTiQbGoH6dCfCa5LT_iGGOlo9QP48ifo9j5xodqjZe4wI7HytXXfvF4ykfKc="
-        }
-      ],
-      "scrapedAt": "2026-06-09T10:40:05.891Z"
     },
     {
       "id": "social-8e8f0f500174",
@@ -10395,47 +9816,6 @@
       "scrapedAt": "2026-06-10T11:02:25.271Z"
     },
     {
-      "id": "social-c67079c1a6a4",
-      "title": "Landquart Warenmarkt",
-      "category": "markets",
-      "description": "Traditioneller Warenmarkt, auch als Herbstmarkt bekannt, organisiert vom Handels- und Gewerbeverein Landquart.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.94,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.schweizermarktverband.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fclandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbKWLxX79cWl_-ATpXG8_MfpyfbSOfJ_7tpQ9TDg1qH_ol_JCulek9NMx-eQItz5I1vE5l1j0n8BLfOpLbOwMG7FrOlDqHIqaSwgy1FUnQTFF4mp_umKEmpsb7P8VeDENwMviLfdvd90="
-        },
-        {
-          "title": "seetickets.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlecyadShSdV8aTpz4BC6ug31vPv1OAiwmSqi4_bUAgsv7Xqt0wKCAV3tcq9CmXYYiOAqwbU3cA0n8ucEjpFjhE6e8_6XYXEqGKk10-bKRaV2EZz12VtYcZIj5LOdLMdaatydCvvZ0H6tBLk6DiXr9ZSonxetFck7odOUBdRDGVHqWOo0M"
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfLLJ1zDSa35_qcUNo3g0sYVLEk3wiQv4fTJPx63u5WkGJIsDIlOJugmfuPJGKbcTWSkWd8iLyEqvwfHiMpvjrgU_ArSLKc5RpjetdsnrreLybo0HNhknH3M6X0QMeZH-gHRHVOzqjSnffbw=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz9HlrxGDU81A7VJl51LzeyVYr7G0t2PYSIgnTEeQ8u-LHLorK2ULYNSdUdBE1w1D0r-BHcFwM0Uhc01OVnSAyOY3s8dytnu_MvqLf9xZtUUy8iRX3_z6bd7BgQKVwFIou3c8CMicg0MvRQ39-qSvzJdEtv3da0TSZ4Uyl-Ow1qhCu1BdvupFIvZ_N7MRQHSacbjeMuP5-jx-GRil4yc8="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvCzc7NJ0ikF3UiVLbva9cxTTKl1Es7apKab6ZiAytLtU3P91-lsi0Hji_lbTWrtQZ759GVfZL39MKE8a13aO3fncLTB4jSoaoBfmO__S-mZpnsYzvfiS-CSRCiSl2MOxyzsQrMajSNmGu_Oi_pe_fbuqNdnABhWWZ4X0MESHZo0QbgeX5v3sQUJa86c8uMh31PdumVzS3N8gZSst2P0Vv9UYuiiDna_E="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:02:25.271Z"
-    },
-    {
       "id": "social-507cab505b07",
       "title": "Weihnachtsmarkt / Landquart ladet ii",
       "category": "markets",
@@ -10886,26 +10266,6 @@
       "scrapedAt": "2026-06-11T11:25:09.523Z"
     },
     {
-      "id": "social-63ec618c2ef9",
-      "title": "DART-FRIDAY",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten.",
-      "date": "2026-09-05",
-      "time": "19:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.82,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-11T11:25:52.278Z"
-    },
-    {
       "id": "social-ce06737d0575",
       "title": "Herbstanlass (Betriebsbesichtigung und Bowling)",
       "category": "family",
@@ -11229,26 +10589,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:07:00.791Z"
-    },
-    {
-      "id": "social-3a506655132c",
-      "title": "Domleschger Sommerkonzerte: Okto plus Freunde: Überraschungskonzert",
-      "category": "music",
-      "description": "Ein Überraschungskonzert im Rahmen der Domleschger Sommerkonzerte.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.schweiztourismus.ch/veranstaltungen/thusis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:07:45.887Z"
     },
     {
       "id": "social-cd946f2e82ad",
@@ -14105,26 +13445,6 @@
       "scrapedAt": "2026-06-18T11:07:18.495Z"
     },
     {
-      "id": "social-9177587734cb",
-      "title": "AckerGaudi",
-      "category": "music",
-      "description": "Die JuMa Trimmis lädt zur AckerGaudi unterhalb des Rüchi Hof für eine unvergessliche Sommernacht mit bester Stimmung und kühlen Drinks.",
-      "date": "2026-09-05",
-      "time": "18:00 - 03:00",
-      "price": "Tickets an der Abendkasse erhältlich",
-      "municipality": "Trimmis",
-      "locationName": "unterhalb Rüchi Hof, Deutsche Str. 10, Trimmis",
-      "lat": 46.88,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.juma-trimmis.ch/events/ackergaudi",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:09:11.117Z"
-    },
-    {
       "id": "social-d5ed650160d0",
       "title": "Mittagstisch für Erwachsene, neu im ref. Kirchgemeindehaus!",
       "category": "family",
@@ -14949,26 +14269,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-ad45c37503c6",
-      "title": "JazzChurFestival",
-      "category": "music",
-      "description": "7. JazzChurFestival mit europäischem Jazz.",
-      "date": "2026-09-05",
-      "time": "17:30 - 23:59",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Postremise Engadinstrasse 43",
-      "lat": 46.8546,
-      "lng": 9.5218,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-72942dd2877a",
       "title": "JazzChurFestival",
       "category": "music",
@@ -15212,26 +14512,6 @@
       "scrapedAt": "2026-06-19T11:25:42.188Z"
     },
     {
-      "id": "social-ac299591978b",
-      "title": "Arcas Rock",
-      "category": "music",
-      "description": "Das Musikfestival auf dem Churer Arcas.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Arcas, Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://arcasrock.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
       "id": "social-4602dd7e733f",
       "title": "Kinderkleider- und Sportartikelbörse",
       "category": "markets",
@@ -15430,26 +14710,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-20T10:09:50.451Z"
-    },
-    {
-      "id": "social-ac1936821616",
-      "title": "VA BENE Kabarett-Dinner",
-      "category": "stage",
-      "description": "Cabaret dinner with 3-course menu and musical accompaniment.",
-      "date": "2026-09-05",
-      "time": "18:00 - 23:00",
-      "price": "CHF 149",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8521,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/veranstaltung/va-bene-dinnershow-chur",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.338Z"
     },
     {
       "id": "social-54ec2fb0a55e",
@@ -18666,88 +17926,6 @@
       "scrapedAt": "2026-07-04T09:22:18.249Z"
     },
     {
-      "id": "social-b8b8649a30da",
-      "title": "Warenmarkt Landquart",
-      "category": "markets",
-      "description": "Der traditionelle Herbstmarkt in Landquart am 1. Samstag im September, organisiert vom HGVL, bietet Zuckerwatte, Magenbrot und mehr.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart Zentrum",
-      "lat": 46.8481,
-      "lng": 9.5401,
-      "image": "",
-      "organizerUrl": "https://www.landquart.ch/leben/gewerbe-tourismus/maerkte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFjFYYyoE0e5_FnL95HkLI28BuO7M6bpLezhL4bvCREkdkVJZ2nhOJ0Ae6egtLMbB5D2pjnTbnFfYiPUihQq5gPfI5bugnY3zkMhumspug3nu-17eZ2DDU1bWog7bDYeGdIHXRcLEW"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2jeMzziWDFbTNw7G0Wq8Zoo0iAvKnYZi-_HpO7ynoYWJNDGy1Nfs9H-eIJxyLeCv6nUEuLKIcKsfRLPly_FE-Gl-g1PNpzLVZdZ2DyWFRKiFd_eU6dlzh-OWohbW2WFptNHB2p0a-LL7YEOGYUrf5MonjdzPit-s9guImaQ7JflmQzfYDNEBZH-uDqA=="
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUV-pBGojkwz0LwYSKRY5sVDt1h8c5peALq6rIINWLtBDarVWYeCq7Rwtp0g_cPaUiCvWmCI590xNW2s8e9_FGpBR03_KL2D6MoXclUYqU0QNUcdhsPvem5EuuzH4FOqAV0Aih81nUqaZTHAKKJGbuTlE="
-        },
-        {
-          "title": "seetickets.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC5o29XBTZrWjXlhc6cCkgeEg3FkwgpanhzXcUQbfXX28RDqPOXKq38ytUjzVklkkTfAPheR6IijRx23_r_oFpFy8qBbeoamAiHixrVxpRaoBrh8BEeQ9BzkuJkrpSOXJyDMJWYudCP_CKfQtBptDOwH2KMGfKRrSafofizhL5vdnuNq3W"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGihC0r_jkLLbKHfD3mbA0mLftCYnB1H8UUxK8OLitTAHQ4hlAnAZ24aKlYoF-K8Sp7VTqkbBglI1i4PqOE1UqPf3_BOrDI8sArhztmsCqh-JHv8MptOLJ_E1iq6gXLDrr1clyfks9cHcXQjfIqH7-8naO17PP4V2XqISab_OfjmJuBx6u3JwsEKUybAfF10E0pI3Cpxq9zYMNLUuA="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:24:19.766Z"
-    },
-    {
-      "id": "social-180094af64b8",
-      "title": "Ausstellung Haussmann Studiolo",
-      "category": "stage",
-      "description": "Eine Ausstellung von Trix und Robert Haussmann. Die Ausstellung läuft vom 05. September bis 15. November 2026.",
-      "date": "2026-09-05",
-      "time": "N/A",
-      "price": "N/A",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.kunstmuseum.gr.ch/de/ausstellungen/vorschau",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4mZOyHZEnUwpCrznWS33pAwgDF9Ttm92hw9h0ddDUfKDrhfNJkTYnFWYiPBv7DHX6ToHUMnKurSF-U47EcZnAC1g9R3wWxCzVGTfxeg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrepCql4BhLHShGL5qDzfoFetKAVqUhRJd_hYHHRGbqUny2BXFE9ej3OEZng0I1PIGqC_k8EYfyS1GUSYNCNnut_NCYHgbqQoVM5ZbKGncMDFrFFL_XQbod__MwlU80qm5ql9N_48E0O10tdfckWed1qZefDHgbEbIIzLW"
-        },
-        {
-          "title": "gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUIzgIcvWOaILikp0T6jkpviqosYGPzWwiF6h02NbTxrlqCM8paYIYILo3ncIKFFWAUwkF6-pZSwFAi_Kzs2DbZMcqbZhz-8pKOl_Xh7rD7A-Uz28Bga5kmeX2CcK-GSvjyb-brciJnkJ2V_OD9JqiB65-kbgsHyH2yxz5r7NOm7PgLQyf3KL_mBVMcmb2AVo="
-        },
-        {
-          "title": "gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuY0j7FrWYe1746KpZEDxvkYDUwbpNxiO3WEbFh0bAWBtPcDzH3HwcHio6FNFihkisPq2r0K3t6kAXm2M5prNccwFpf6u-sZNUi035IUne2_umT5r6xwgj-hT65Rktum0SDcQXJWZKAPeZMCmpAQ9SeMsnWqhJj9HO5rhW0_ZRnAKigdSMYg9wa8kM_Pmm89dwN7hjRZczfIyGG7YldN9Au41a"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9mTBDa54vEVQmCddWvNhFJujWv-wwkviCJwxE4_74C1m0ia_WyCaIas6gO6nlpV82Z-DY4PylibtpXUFp4yokUqywHcjSS21Xzxhx8B6PCbK_uXerXZZZIs2p_RsBDOvvJN4_nNfkii51yBu"
-        }
-      ],
-      "scrapedAt": "2026-07-05T09:37:02.492Z"
-    },
-    {
       "id": "social-cf9e170eeb6f",
       "title": "1. Abokonzert Konzertverein Chur: Goethe String Quartet",
       "category": "music",
@@ -19558,35 +18736,6 @@
         }
       ],
       "scrapedAt": "2026-07-08T09:25:20.855Z"
-    },
-    {
-      "id": "social-19692ea7665c",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-09-05",
-      "time": "19:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.817,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjusITCW-jQkyLL4vYTKb7Qun2xLcWuHgb_ueCBnvwRzvcGMMHAZmGVueRWpMTVJ1Iu3EwI_otxPJC2b3PNcZIEYL01vNF7msNxYtX7DKFUdC54LEHurUS8Mt7KoPv0IS4X1GYG_Va3volrMQhuHkz_UNCEflh8HvoRQ=="
-        },
-        {
-          "title": "edelweiss-tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPsKTrifiotvlA9V7qXViOQeamb-LhRYW7w--UlW-XqS4elZHrPJk1UWz6vgKaUU5D-whjTSxQhOoGnPqIClkIOuoRe_C-aNSvLIwLn_saNhQbjMvCCqMuckazifW6ZXVBBw=="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:29:18.021Z"
     },
     {
       "id": "social-de3263d2939b",
@@ -20586,26 +19735,6 @@
       "scrapedAt": "2026-07-11T08:44:05.684Z"
     },
     {
-      "id": "social-042dc1a4c383",
-      "title": "Trainingstag Geräteriege",
-      "category": "sport",
-      "description": "",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Doppelturnhalle",
-      "lat": 46.837,
-      "lng": 9.506,
-      "image": "",
-      "organizerUrl": "https://www.felsberg.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-11T08:44:50.983Z"
-    },
-    {
       "id": "social-00c23f0ed8ce",
       "title": "Exkursion: Zur ältesten Eiche Graubündens und zu den ehemaligen Goldminen von Felsberg",
       "category": "family",
@@ -21277,26 +20406,6 @@
       "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
-      "id": "social-71c4c0f35657",
-      "title": "Offenes Lager & Führung",
-      "category": "stage",
-      "description": "Open storage and guided tour at Fundaziun Capauliana.",
-      "date": "2026-09-05",
-      "time": "10:30 - 11:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Sala Capauliana (Fundaziun Capauliana)",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://capauliana.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
       "id": "social-def642d7e1e3",
       "title": "Handwerkermarkt (Poststrasse)",
       "category": "markets",
@@ -21415,26 +20524,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
-      "id": "social-50b7f5182cff",
-      "title": "Herbst- und Warenmarkt Landquart",
-      "category": "markets",
-      "description": "Ein bunter Markt mit Zuckerwatte, Magenbrot und weiteren Waren, organisiert vom Handels- und Gewerbeverein.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart Zentrum (Bahnhofstrasse)",
-      "lat": 46.942,
-      "lng": 9.539,
-      "image": "",
-      "organizerUrl": "https://www.landquart.ch/leben/gewerbe-tourismus/maerkte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:28:30.260Z"
     },
     {
       "id": "social-698570127d33",
@@ -22182,26 +21271,6 @@
       "scrapedAt": "2026-07-16T09:14:04.621Z"
     },
     {
-      "id": "social-4a67526fda33",
-      "title": "Landquarter Herbstmarkt / Warenmarkt",
-      "category": "markets",
-      "description": "Der traditionelle Landquarter Herbstmarkt mit verschiedenen Ständen.",
-      "date": "2026-09-05",
-      "time": "ganztägig",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.95,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.marktverband.ch/sektionen/ostschweiz",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:18:49.850Z"
-    },
-    {
       "id": "social-b5f6e524b719",
       "title": "Eltern-Kind-Treff",
       "category": "family",
@@ -22902,56 +21971,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:54:35.656Z"
-    },
-    {
-      "id": "social-3cd563049cae",
-      "title": "Tschiertscher Alpabzug",
-      "category": "family",
-      "description": "Ein traditioneller Anlass für Gross und Klein, mit viel Charme und einem tollen Programm.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Tschiertschen",
-      "lat": 46.85,
-      "lng": 9.59,
-      "image": "",
-      "organizerUrl": "https://www.tschiertschen.ch/de/ferienregion-tschiertschen-praden/erleben/events-tschiertschen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtMI7JFMhScCArP7-eawG62QZ7lS-b9hFw5LyYdp8vZgUEa9KekpJ3y4OxQCPJAL1tO3CpSVMDnt2UoKqgtGZvIwPtv9l669MuxXkRqK_Y6q51XZA_ZGedUdM="
-        }
-      ],
-      "scrapedAt": "2026-08-30T12:28:23.586Z"
-    },
-    {
-      "id": "social-cfeb50dd41ee",
-      "title": "Arbeitstag der Bergbahnen Tschiertschen",
-      "category": "sport",
-      "description": "Helfen auch Sie mit, anzupacken und die Hänge rund um Tschiertschen für schöne Pisten vorzubereiten.",
-      "date": "2026-09-05",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Tschiertschen",
-      "lat": 46.85,
-      "lng": 9.59,
-      "image": "",
-      "organizerUrl": "https://www.tschiertschen.ch/de/ferienregion-tschiertschen-praden/erleben/events-tschiertschen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtMI7JFMhScCArP7-eawG62QZ7lS-b9hFw5LyYdp8vZgUEa9KekpJ3y4OxQCPJAL1tO3CpSVMDnt2UoKqgtGZvIwPtv9l669MuxXkRqK_Y6q51XZA_ZGedUdM="
-        }
-      ],
-      "scrapedAt": "2026-08-30T12:28:23.586Z"
     }
   ]
 }
