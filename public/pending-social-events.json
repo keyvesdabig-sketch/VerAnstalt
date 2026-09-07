@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T11:28:53.770Z",
+  "lastUpdated": "2026-09-07T13:10:41.826Z",
   "events": [
-    {
-      "id": "social-48bb78240075",
-      "title": "Kidical Mass #6: Veloumzug für Kinder & Familien",
-      "category": "family",
-      "description": "Ein Veloumzug für Kinder und Familien in Chur.",
-      "date": "2026-09-06",
-      "time": "",
-      "price": "Kostenlos",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/events/kidical-mass-6-veloumzug-fuer-kinder-familien",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-16"
-    },
     {
       "id": "social-a6178aa8b307",
       "title": "GOTTHARD - Eröffnungskonzert",
@@ -1199,27 +1157,6 @@
       "legacyId": "social-1779632163363-Rhzns-3"
     },
     {
-      "id": "social-165ee721edf6",
-      "title": "Älplibahn-Fest",
-      "category": "family",
-      "description": "Spiel und Spass, Speis und Trank für Gross und Klein beim Buochwald Malans.",
-      "date": "2026-09-06",
-      "time": "11:30 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Buochwald Malans",
-      "lat": 46.974,
-      "lng": 9.513,
-      "image": "",
-      "organizerUrl": "https://www.aelplibahn.ch/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:17:00.486Z",
-      "legacyId": "social-1779632220486-Malans-29"
-    },
-    {
       "id": "social-734e654d10bb",
       "title": "Wanderung ins Abendlicht",
       "category": "sport",
@@ -1419,27 +1356,6 @@
       "legacyId": "social-1779632286939-Landquart-16"
     },
     {
-      "id": "social-b14df2a1afb6",
-      "title": "Konzert \"Einfache Stücke in schwierigen Zeiten\"",
-      "category": "music",
-      "description": "Konzert.",
-      "date": "2026-09-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-25"
-    },
-    {
       "id": "social-3e1c08059d26",
       "title": "Warenmarkt Thusis",
       "category": "markets",
@@ -1606,26 +1522,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-bb03ccd7a6f5",
-      "title": "7. JazzChurFestival",
-      "category": "music",
-      "description": "Europäischer Jazz mit verschiedenen Künstlern.",
-      "date": "2026-09-06",
-      "time": "09:00 - 16:00",
-      "price": "Tages-/Festivalpass",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE Engadinstrasse 43",
-      "lat": 46.8525,
-      "lng": 9.5269,
-      "image": "",
-      "organizerUrl": "https://jazzchur.ch/jazzchurfestival/",
-      "ticketUrl": "https://jazzchur.ch/jazzchurfestival/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-bcb2c2d8b08c",
@@ -4858,47 +4754,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:37:24.125Z"
-    },
-    {
-      "id": "social-3584eb334dd3",
-      "title": "Fotogrüsse aus Tschiertschen – Fotografie-Workshop",
-      "category": "family",
-      "description": "Tschiertschen sehen und fotografieren. Ein Workshop für Fotografie-Interessierte.",
-      "date": "2026-09-06",
-      "time": "09:45 - 15:00",
-      "price": "CHF 350.00 (ohne Kost/Logis)",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Altes Schulhaus, Enderdorf 41",
-      "lat": 46.833,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp9yoN80l53MY6Z86LIDPn_NlaGQI_l3ROifwSj9QB0LBzyidzbkTioaS_nSkdkJOVkkR5HOLuZmlvCuQJK2KIT-6OYl3zwhhnOZmoWZanmT73ORsdC7pVfkapP1Ut67cY1FNmy39zFYMd7z4gJ-x0RIh9-HW4qlCiKdtXHOWMsvz5"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP2fgtNL7FDNFgwc5RFGv-hESzWvSGZLMfrXDi820ZJL7kQptYybtilzq-VyZ4bm8zS7Q6JQzGyiTcp_QStnFgrAq9bHEeHHZxxp-xlM1jEBH_DEALoVayzAAb1ZWPS653i0IlwFKt05NlS-kwOX75re-HWYG-hJ0uE4dheQJtEB0V"
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpqWL8nlbGN3TR1WBQtxX4UxiDGdbImJIgF_ZheifyBUHpdS0hO3ELVBngVOHhhs9E4WpX1S78I6iK0d0H83EL0t2tZQaYsnqou3bpFbrCfQ1R1uX5p2UFbMYA4VTLeaRCPhmRWL_R0qCc0CyTPPkIPbFRWeVD3nG4Lne_MumH4dhIWPV5eipjaqJVADQ_52Zbk9Fffj-jxBbVYmweMgI="
-        },
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHddgMmom2828sx4qDrXCYrM5auiR1Lxk1izm5edv48KkrOL7z54P0o8W2RMOJNKmAnCifApPomErliaJkupdimV2WFKiIQSQCQIyxezx07k_FZZ5VLNQAXliY3bek4kB16YMN0zsq-j7v4uVSpdHDog=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpRRDsptmJOnBpLHdmr6nyeuQEQOMCIxDUeW58CSQsSDOl_l9lWqhgcF4HLRFPS5h3mU70-faa0Vpjegej-a0jDTI9Ygc2qjguPeu1Wen0xCyJ14Lz4X2SPLGSgLraFA=="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:38:01.505Z"
     },
     {
       "id": "social-7714885afaa2",
@@ -8219,47 +8074,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-07T10:06:04.781Z"
-    },
-    {
-      "id": "social-ed4d45637d24",
-      "title": "Konzert 'Einfache Stücke in schwierigen Zeiten'",
-      "category": "music",
-      "description": "Konzert mit Töbi Tobler (Hackbrett), Patrick Sommer (Bass) und Reto Suhner (Blasinstrumente).",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "price": "CHF 28/35",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Bühne",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/buehne",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kinoraetia.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyyVCeZ396YF6UINId3fqm8syHzH41t5v5sMJMfOwvCkvQV_kGNCFmOsKrZNQOy-fQXYlLhHkhzvaJ1I4b01aDUjwebn3EidmH_HgdJ2ctwQ=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7m5U133tQnC8jkIKXMGzoXnvufJc9j504Ts8RL6iQ4UutbOUtKPJWXSpA3RYxL9iCdfWwhBykIlTB2vz6hZOAdPuw-xyJdwPLIGpwk2T_FAAqCEffLsZ6S4p_n7Rc1sOng2mqMP5JmLxVRza5wMfuB06ZKs33zijKOIfsBUlc17Gt6ARwik6OWe5ryLLINziWk5TSOyUyO7IihNWleA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFslklmgm9y9aDuNFWFFHLJw9YetowuEe_FU3-V3OqFaLDppQEz1BMHOynqGlu1-yxxK6Sv0twSdqfIt1DKh6dHnIwXYo8CZP9OAdFrQq-E52BJAVeVEKFdmSCvWTfetJrB4lHi5sC9IKg4tTCt8mVpuTAZcoD7Ge0ZLC7AbZARGr9g00xnTlWXK0ythgGq5HWXugutA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELisOCXj7FUhMwjpUxKs_iDsO--lSYea3WIgdK2_MyjHc-iFgHOo-ZfN2NRAs5Gy2vxUTReh68tE7BUKyL9FeKWZ1A1T8cDTiEDXiDnahrWzwmYXtTVNjaL1DtPNnIMl9XxgXWlBONAOHfo05ZBtcjHqDr"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3uqCLBwkT9Rz3ed4j0hcvY9yqv53HBFnICxMkMQxt23upLoz4bAbBbjpsmwHL3kt9HcFfJ2NCqIIkACz6Kmwxd7eDYUfEZ0tt8l9d-E5juSMJ3Mh5xxtpXRUSjD5lIhh6DIrdFmzCdqRk"
-        }
-      ],
-      "scrapedAt": "2026-06-07T10:07:15.743Z"
     },
     {
       "id": "social-c88b6e412771",
@@ -14269,26 +14083,6 @@
       "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
-      "id": "social-72942dd2877a",
-      "title": "JazzChurFestival",
-      "category": "music",
-      "description": "7. JazzChurFestival mit europäischem Jazz.",
-      "date": "2026-09-06",
-      "time": "09:00 - 23:59",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "Postremise Engadinstrasse 43",
-      "lat": 46.8546,
-      "lng": 9.5218,
-      "image": "",
-      "organizerUrl": "https://www.jazzchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.877Z"
-    },
-    {
       "id": "social-52de799d72c6",
       "title": "Oktoberfest",
       "category": "family",
@@ -14650,26 +14444,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
-      "id": "social-137869684271",
-      "title": "ProTier Hoftage 2026 / Giornato in fattoria 2026: Casa Orizzonti",
-      "category": "family",
-      "description": "Hoftage von ProTier bei Casa Orizzonti.",
-      "date": "2026-09-06",
-      "time": "14:00 - HH:MM",
-      "price": "Siehe Ticketpreis auf Eventbrite",
-      "municipality": "Churwalden",
-      "locationName": "Associazione Casa Orizzonti",
-      "lat": 46.8,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": "https://www.eventbrite.ch/e/protier-hoftage-2026-giornato-in-fattoria-2026-casa-orizzonti-tickets-...",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T10:04:17.116Z"
     },
     {
       "id": "social-816be7a18640",
@@ -17188,26 +16962,6 @@
       "scrapedAt": "2026-07-03T09:56:44.153Z"
     },
     {
-      "id": "social-5d1e0c9c8d6b",
-      "title": "Fotogrüsse aus Tschiertschen – Fotografie-Workshop (Tag 2)",
-      "category": "family",
-      "description": "Ein Fotografie-Workshop, um Tschiertschen zu sehen und zu fotografieren.",
-      "date": "2026-09-06",
-      "time": "09:45 - 15:00",
-      "price": "CHF 350.00",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Altes Schulhaus, Enderdorf 41, Tschiertschen",
-      "lat": 46.8196,
-      "lng": 9.6036,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": "mailto:buero@pro-tschiertschen-praden.ch",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-03T09:57:30.420Z"
-    },
-    {
       "id": "social-29d26c6cbb4b",
       "title": "'Buchstart' für kleine Bibliothekbesucher*innen",
       "category": "family",
@@ -17431,39 +17185,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-04T09:16:28.222Z"
-    },
-    {
-      "id": "social-dd7a93e58608",
-      "title": "Grillplausch beim Besmerstein: Ökumenischer Familiengottesdienst",
-      "category": "family",
-      "description": "Ein ökumenischer Familiengottesdienst mit anschliessendem Grillplausch am Besmerstein.",
-      "date": "2026-09-06",
-      "time": "10:30 -",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Besmerstein, Lösliweg, 7012 Felsberg",
-      "lat": 46.83,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/felsberg/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8c37BI50x5pQjUeAJpO0bvwtdmEz2qebJv5hVwUVNtfNTsgk7uOBkKFaxOS9Lc7ZNehSVROspexSZRqOCApU-8VrOACkYYVEJ2thnQOq7XG_MIQ=="
-        },
-        {
-          "title": "felsberg-vereint.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE83hoXnbnMy7gyFMCxbKX8SAER6cOxb0TRFvZN7_zkeSU5sADZXxc663q7RBqlYfr-kAgppjXnqsspsf75qsSurIDInPk-PONNP-pMQWb7QaIbUjKbjhEk7820zYRi3A=="
-        },
-        {
-          "title": "mycity.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEycJlyyjzFQ9aoz9O8hf2mVK1saPHgh4pbQKX5xQMzdznqsGTLk61nfTtWvbe34chgaE9yxinuTL5Ek7mZ4RyEI_rS9MpmId6sutAoBax7Bq0VBVHYEmNvsLlWyQP_gKlhEDDKJ_fXchZe1-nlPaVNADwwywUTsO7aw_4__pNVuMb6VAykp3Z7SpqQa60qlVaUty40"
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:16:58.232Z"
     },
     {
       "id": "social-5d662612a4e7",
@@ -18242,26 +17963,6 @@
         }
       ],
       "scrapedAt": "2026-07-05T09:46:46.957Z"
-    },
-    {
-      "id": "social-b74890f2c874",
-      "title": "6. Churer Orgelkonzert 2026",
-      "category": "music",
-      "description": "Orgelkonzert im Rahmen des Churer Domorgelsommers.",
-      "date": "2026-09-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:23:46.578Z"
     },
     {
       "id": "social-a8a0b2bfa88e",
@@ -20081,26 +19782,6 @@
       "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
-      "id": "social-288365c2e06c",
-      "title": "Wildkräuterkurs – Kräuter sammeln & kochen",
-      "category": "family",
-      "description": "Kurs zum Sammeln und Kochen von Wildkräutern, organisiert von Felsberg Vereint.",
-      "date": "2026-09-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.8488,
-      "lng": 9.5041,
-      "image": "",
-      "organizerUrl": "https://felsbergvereint.ch/kurse/wildkraeuterkurs-kraeuter-sammeln-kochen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-12T09:00:52.844Z"
-    },
-    {
       "id": "social-5b1a29d8b7e9",
       "title": "Notfälle bei Kleinkindern (0 – 4 Jahre)",
       "category": "family",
@@ -21009,26 +20690,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-15T09:12:14.059Z"
-    },
-    {
-      "id": "social-0cdd4cb974c3",
-      "title": "CHURER DOMORGELSOMMER 2026 - Orgelkonzert mit ...",
-      "category": "music",
-      "description": "Orgelkonzert im Rahmen des Churer Domorgelsommers.",
-      "date": "2026-09-06",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.188Z"
     },
     {
       "id": "social-45bae1185a58",
