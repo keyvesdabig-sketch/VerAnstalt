@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T12:04:39.519Z",
+  "lastUpdated": "2026-09-10T11:59:14.082Z",
   "events": [
     {
       "id": "social-a6178aa8b307",
@@ -1333,27 +1333,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-3e1c08059d26",
-      "title": "Warenmarkt Thusis",
-      "category": "markets",
-      "description": "Reges Markttreiben an der Neudorfstrasse, ein beliebter Treffpunkt für Jung und Alt.",
-      "date": "2026-09-09",
-      "time": "08:00 - 17:30",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Neudorfstrasse, Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": "https://www.thusis.ch/maerkte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-26"
     },
     {
       "id": "social-9a2d6fe2625d",
@@ -20311,26 +20290,6 @@
       "sourcePlatform": "Guidle",
       "citations": [],
       "scrapedAt": "2026-07-16T09:10:04.188Z"
-    },
-    {
-      "id": "social-494a510a2a01",
-      "title": "Abendgebet mit Liedern aus Taizé",
-      "category": "music",
-      "description": "Abendgebet mit Liedern aus Taizé in der Ev.-ref. Kirche Zizers.",
-      "date": "2026-09-09",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Ev.-ref. Kirche Zizers",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://zizers-reformiert.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
     },
     {
       "id": "social-afd8497f849c",
