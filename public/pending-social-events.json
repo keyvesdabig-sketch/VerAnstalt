@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T11:59:14.082Z",
+  "lastUpdated": "2026-09-11T11:58:02.071Z",
   "events": [
     {
       "id": "social-a6178aa8b307",
@@ -7753,26 +7753,6 @@
       "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
-      "id": "social-24c759ac0a27",
-      "title": "Platzkonzert Ausweichtermin",
-      "category": "music",
-      "description": "Ausweichtermin für das Platzkonzert der MG Oberschan.",
-      "date": "2026-09-10",
-      "time": "19:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "",
-      "lat": 46.99,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://mgoberschan.ch/2024/06/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:05:20.402Z"
-    },
-    {
       "id": "social-3e3c48dc483c",
       "title": "Altersnachmittag",
       "category": "family",
@@ -11107,47 +11087,6 @@
         }
       ],
       "scrapedAt": "2026-06-14T10:25:11.829Z"
-    },
-    {
-      "id": "social-45b5456896c6",
-      "title": "Performing Rage Kollektiv – hundertachtzig",
-      "category": "stage",
-      "description": "Theateraufführung im Klibühni.",
-      "date": "2026-09-10",
-      "time": "20:00 - Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "KLIBÜHNI, DAS THEATER",
-      "lat": 46.8491,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://www.kassablanca.de",
-      "ticketUrl": "https://www.kassablanca.de/spielplan",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
     },
     {
       "id": "social-ae073e9c1d6c",
@@ -15152,26 +15091,6 @@
       "scrapedAt": "2026-07-01T10:39:34.006Z"
     },
     {
-      "id": "social-8eeb2198a3b6",
-      "title": "Lesung Guido I. Tomaschett, «Die letzte Tür»",
-      "category": "stage",
-      "description": "Lesung von Guido I. Tomaschett aus seinem Werk «Die letzte Tür» in der Gemeindebibliothek.",
-      "date": "2026-09-10",
-      "time": "19:00 - 21:00",
-      "price": "N/A",
-      "municipality": "Domat/Ems",
-      "locationName": "Gemeindebibliothek Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.domat-ems.ch/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:40:14.203Z"
-    },
-    {
       "id": "social-97fdda58d16d",
       "title": "MZH Adventsanlass Senioren FV",
       "category": "family",
@@ -17705,26 +17624,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-07T10:20:18.774Z"
-    },
-    {
-      "id": "social-f39e270e02fe",
-      "title": "Seniorentanznachmittag",
-      "category": "family",
-      "description": "Dance afternoon for seniors.",
-      "date": "2026-09-10",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Domat/Ems",
-      "locationName": "Mehrzweckhalle Tircal",
-      "lat": 46.8406,
-      "lng": 9.4925,
-      "image": "",
-      "organizerUrl": "https://www.domat-ems.ch/veranstaltungen.html/164",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:20:59.257Z"
     },
     {
       "id": "social-7975636ac9e5",
