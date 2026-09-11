@@ -948,28 +948,6 @@
       }
     ]
   },
-  "konfirmationsunterricht_2026-09-10": {
-    "id": 1780311952149,
-    "title": "Konfirmationsunterricht",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Mit den Jugendlichen des Konfirmationskurses \"Bewegung\" , Konfirmation 2027",
-    "date": "2026-09-10",
-    "time": "18:30-19:45",
-    "locationName": "Evang.-ref. Kirchgemeindehaus Zizers",
-    "municipality": "Zizers",
-    "lat": 46.9348,
-    "lng": 9.5667,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/f/d0/dd/fd0dde5f0505608a0ac8ad6402952d4b1e241974_917876823.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=10.09.2026%20%2018:30%20-%2019:45",
-    "sources": [
-      {
-        "name": "LocalCities-Zizers",
-        "url": "https://www.localcities.ch/de/veranstaltungen/zizers/4917/4695143?eventDateTime=10.09.2026%20%2018:30%20-%2019:45"
-      }
-    ]
-  },
   "u00abgraubuendenvivaimfokusu00bbzubesuchbeimweingutschifferli_2026-11-18": {
     "id": 1780312010877,
     "title": "\\u00abgraubündenVIVA im Fokus\\u00bb Zu Besuch beim Weingut Schifferli",
@@ -1730,29 +1708,6 @@
     ],
     "ticketUrl": "https://www.ticketcorner.ch/artist/claudio-zuccolini/claudio-zuccolini-der-vorsorger-4114388/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
-  "lesungguidoitomaschettdieletztetuer_2026-09-10": {
-    "id": 1782981574122,
-    "title": "Lesung Guido I. Tomaschett, «Die letzte Tür»",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Lesung Guido I. Tomaschett, «Die letzte Tür»",
-    "date": "2026-09-10",
-    "time": "19:00",
-    "locationName": "Gemeindebibliothek Domat/Ems",
-    "municipality": "Domat/Ems",
-    "lat": 46.8348519,
-    "lng": 9.4525004,
-    "price": "Eintritt frei",
-    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4821759?eventDateTime=10.09.2026%20%2019:00",
-    "sources": [
-      {
-        "name": "LocalCities-Domat/Ems",
-        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4821759?eventDateTime=10.09.2026%20%2019:00"
-      }
-    ],
-    "organizerUrl": "http://www.gbde.ch"
-  },
   "spielabendfuererwachsene_2026-09-16": {
     "id": 1782981574992,
     "title": "Spielabend für Erwachsene",
@@ -1844,29 +1799,6 @@
       }
     ],
     "organizerUrl": "https://x.com/share?text=%22Katie Henry (USA)%22%20-%20&amp;url=https://eventfrog.ch/de/p/konzerte/jazz-blues/katie-henry-usa-7480261826078342348.html&amp;via=eventfrog_net"
-  },
-  "seniorentanznachmittag_2026-09-10": {
-    "id": 1783673861741,
-    "title": "Seniorentanznachmittag",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Tanznachmittage der Pro Senectute Graubünden",
-    "date": "2026-09-10",
-    "time": "14:00-18:00",
-    "locationName": "Mehrzweckhalle Tircal",
-    "municipality": "Domat/Ems",
-    "lat": 46.8354,
-    "lng": 9.4476,
-    "price": "Eintritt frei",
-    "image": "https://s.localcities.ch/event/images/placeholders/culture.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4826337?eventDateTime=10.09.2026%20%2014:00%20-%2018:00",
-    "sources": [
-      {
-        "name": "LocalCities-Domat/Ems",
-        "url": "https://www.localcities.ch/de/veranstaltungen/domat-ems/4745/4826337?eventDateTime=10.09.2026%20%2014:00%20-%2018:00"
-      }
-    ],
-    "organizerUrl": "https://gr.prosenectute.ch/de/freizeit/geselligkeit.html"
   },
   "gemeinschaftszmittag_2026-09-17": {
     "id": 1783673878948,
