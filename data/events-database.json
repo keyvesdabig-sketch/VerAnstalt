@@ -1,27 +1,4 @@
 {
-  "dorffuehrungchurwalden_2026-09-12": {
-    "id": 1779538493150,
-    "title": "Dorfführung Churwalden",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Erfahren Sie mehr über die touristische Entwicklung und von der Geschichte der Herstellung von Bündnerfleisch",
-    "date": "2026-09-12",
-    "time": "17:00",
-    "locationName": "Churwalden",
-    "municipality": "Churwalden",
-    "lat": 46.7776766,
-    "lng": 9.5411792,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/c/87/45/c87455f543a4c540f7f673b0b981c15d7c73d8dc_898828913.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=12.09.2026%20%2017:00",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4760581?eventDateTime=12.09.2026%20%2017:00"
-      }
-    ],
-    "organizerUrl": "https://booking.arosalenzerheide.swiss/de/Buchen-Tickets/Aktivitaeten/Dorffuehrung-Churwalden_asd-19978921"
-  },
   "sonntagsbrunchinderbergbaizbrambrueesch_2026-09-13": {
     "id": 1779538493714,
     "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
@@ -530,30 +507,6 @@
         "url": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG"
       }
     ]
-  },
-  "grueeziitalia_2026-09-12": {
-    "id": 1779569151552,
-    "title": "Grüezi Italia",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "La Dolce Vita – Eine multimediale Musikshow, die italienische Lebensfreude auf die Bühne bringt.",
-    "date": "2026-09-12",
-    "time": "Siehe Beschreibung",
-    "locationName": "Forum Landquart",
-    "municipality": "Landquart",
-    "lat": 46.957418,
-    "lng": 9.563505,
-    "price": "CHF 59.00",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1200,h-800,dpr-1/b/5f/62/b5f6290e581af8055086bb87caf474b05cef540d_875279164.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993",
-    "sources": [
-      {
-        "name": "LocalCities-Landquart",
-        "url": "https://www.localcities.ch/de/veranstaltungen/landquart/4945/4483993"
-      }
-    ],
-    "organizerUrl": "https://www.h2u-studios.ch/",
-    "ticketUrl": "https://www.ticketcorner.ch/artist/grueezi-italia/?affiliate=GUI&amp;utm_source=GUI&amp;utm_medium=dp&amp;utm_campaign=guidle"
   },
   "schwiizergoofe_2026-09-20": {
     "id": 1779569152490,
