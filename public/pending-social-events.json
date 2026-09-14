@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T12:28:17.545Z",
+  "lastUpdated": "2026-09-14T13:31:41.386Z",
   "events": [
     {
       "id": "social-0e83e15f13d6",
@@ -3224,26 +3224,6 @@
       "scrapedAt": "2026-05-29T10:46:39.078Z"
     },
     {
-      "id": "social-c709e2ab4790",
-      "title": "6. Churer Orgelkonzert 2026",
-      "category": "music",
-      "description": "Orgelkonzert mit Helmut Freitag unter dem Motto 'Ein Streifzug durch die Welt der Toccata'.",
-      "date": "2026-09-13",
-      "time": "17:30 - ",
-      "price": "Eintritt frei, Kollekte",
-      "municipality": "Chur",
-      "locationName": "Martinskirche",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "www.churerorgelkonzerte.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-30T09:12:05.233Z"
-    },
-    {
       "id": "social-9fde8eb6544d",
       "title": "Beethoven und Bruckner. Chorsinfonik",
       "category": "music",
@@ -3753,47 +3733,6 @@
       "scrapedAt": "2026-05-30T09:21:14.949Z"
     },
     {
-      "id": "social-b8393839e18a",
-      "title": "7. Churer Orgelkonzert 2026",
-      "category": "music",
-      "description": "Orgelkonzert mit Helmut Freitag unter dem Motto 'A foray through the world of toccata'.",
-      "date": "2026-09-13",
-      "time": "17:30 - Siehe Website",
-      "price": "Eintritt frei (Kollekte)",
-      "municipality": "Chur",
-      "locationName": "Martinskirche",
-      "lat": 46.8488,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://www.churerorgelkonzerte.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk_ju-6hiRUcUBUpGwb2roAc76W-fR3MUU2Kl3oXDQtso3rawZYWpXrnXfMU34lkDLac9HifuRmATV4FJZ01_DlvqoGfkuSJ0nZ6A9mpcTjSSx2n4kXQSfw_tGSFAK8DdBwM4JE_eKme_KJpts218g3CW3tU0ZzUK8iLo="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2Om0hS5G1yHFOKJN9RNL0EMBxMD-2C0OnyWHx984BHZQQ6m3Bxb1YNk1Iq9PCXrbcNqn5K25dOwXTyReGpRcskCMieJyxtRKV0MaygyRB-fhlTlcPDbbNM5_U2hSDR08yEV9LPi2fNQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaf8NtcpctiVrTR_h6rCTTHXCv_MP1DKXrIDlCrqYAlHBYwO2AYNRXHdamQOJnqu9XfEWTnRX22e7LyLVxujRJsI8Dnng-G4kaRE8ndFWcJMlnUOI6BIBXC5EVRJ3kTtoCo2yViUZoV-CPek_Ok5vGrjzPfiJ8-0Oma9fQqOY6pK2YP_CBXOCw9Exd_9yJiBmY29VnEjfZhjZ6HpeC4w=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hJY2nm_NXHFooR3A4UoVMatqujRm4EI8BzSQQlYXFBpI2mpiEkHgt0256ohxQa59dYXQdT7gcbBHezt8vf5znSY3FnRU836Edgu3hg7tGEu-T2tR6n9uptVvoM35oWjbRYYZOJ-t2xPDnWhcRu7CogSrOM9Q8BdCJTY-EuNKtNhduWZRKFRfK9L0qalk_fwmG0M9XiZ6dHqKfJG_Atqd4MPZzeXOa0v-"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9RCqoxk8bEXXSAPZ_KOcxo-1bz_lBPab6SgftoYGwRBdVDIvypATaAwC4WM0Q5MimhlP6os2Zlzwmwh_peksgkMak5lPP2QGCo-jtjatu2JZiB8NgLDvLrIoyboKAJ-VtEAOH-imr8sgNCusP3B87ltxI3ti_wv-N5ra-VlQIf6JFvsigww=="
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
       "id": "social-2376ee2d24cd",
       "title": "Merry Blissmas ist zurück – und legt 2026 noch einen drauf",
       "category": "stage",
@@ -4095,47 +4034,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
-      "id": "social-e1d149f8bcc3",
-      "title": "3. Felsberger Herbstlauf",
-      "category": "sport",
-      "description": "Der dritte Felsberger Herbstlauf bietet verschiedene Distanzen, darunter 10 km, 5 km und 1,5 km für Kinder.",
-      "date": "2026-09-13",
-      "time": "09:00 - 13:00",
-      "price": "siehe Website",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.8489,
-      "lng": 9.477572,
-      "image": "",
-      "organizerUrl": "http://felsberger-herbstlauf.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdNCobpxqHG1rgVJIa36g79nd41RpYgLJ0lSkkBy_s08cCq_hRiy_1dvPHP7_ORNfp-rbsCV8x8ttdZ1pWL-oI3kbW2UprEDsX-LFI5diZKaFJcWXLxwUcuehxeql67PTMIPds"
-        },
-        {
-          "title": "felsberg-vereint.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMfpDw73F-MvjhlTB2Ri7eY7oeyNFLcYlBCBPEr2MWnjVKdB7MzyxfvKJTRjvieLLrcbFUscX-AZXycRHHoz4ZyJA-CwnDECRh7dpfzPXApK4sy6Kg0QHkV5dfiI6Dgw=="
-        },
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTSiMq3aWhadHQuUJh6EW0WXA4CZVnUUBUsSeKo8C_h1z3iSiEo5gFC7X4wA_6ycvE3Gcub9lC80F4BzuzxFLBbseE8aKTcaYyYbE5WVJ9wa6gDWu-"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqIBNw8fipeRZLPAg2-OvyDihmxhtZc0nVWriudFVP-0vmWBg6eaEf7C2uBOu9wN3t77yKMUfd7DX2k9cPvxLS1XN1-_WcszxLQlrogsgGKoFlE_at4F22vhQkES4tB3c8e7i_a0R2E2lYoq_54f8="
-        },
-        {
-          "title": "rtr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm4mrVPs-WmqglsFwsGltBaNQSLlbvhgBHa3ha8GSgkjLioHYPWeI39DDYTHHeBl-od4Dyjy3Gh-dJmYVnsCBWHOgk-YoWKEE_7kjFlqMQ_chKM2aLx3eHSIyViRPDtDVn0keG1rwGryQTP4CRZ5N6vq3MBWrU-Marog9lELL7BAQXahGmqBdej_APRjA7aFIOsbOjTThDNH4-5oOuR34p6kzGJMTiNFIzeBdnfe_eGrbqxxM5dFnn2Dffxh5HQktZkSchjhKms3yqU1Qn7GTNDOasfsMueVtm"
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:33:34.997Z"
     },
     {
       "id": "social-a78a9ddcc928",
@@ -5489,47 +5387,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-03T11:55:00.126Z"
-    },
-    {
-      "id": "social-ed65414eabc0",
-      "title": "Vorstellungsgottesdienst",
-      "category": "family",
-      "description": "Vorstellungsgottesdienst mit den Jugendlichen des Konfirmationskurses \"Bewegung\" Konfirmation 2027. Alle Eltern sind herzlich willkommen!",
-      "date": "2026-09-13",
-      "time": "10:00 - ",
-      "price": "Kollekte",
-      "municipality": "Zizers",
-      "locationName": "Ev.-ref. Kirche Zizers, Obergasse 7205 Zizers",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/event/927421884",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "musik-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0pXPajnhLWjn5jvsel2woZ6dg0BcP90_zqdQqCJvXBJJZxGG8hA9b-m8IXB2rGmz3OKgk64-copkbb6yWgx_ZHWDh3BLy4uSE34ym9SF1lf6rUABVg=="
-        },
-        {
-          "title": "tvzizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRK2bYBvyWcU9mWVwYYlimMye2zyeQvAHuLF704DPQjOfn5M0xfhilCqusq6W5tQZ5equAgqidgnSIZZUwTvUjk0grj5FN_ZkrCWYtiVbplgSJoRplWqOs5hOotGaSTkczDqLPB0wtdIWVOAs="
-        },
-        {
-          "title": "sportschuetzen-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5RdEszX7Th8eSb8nDsWDVrARg3WOQec-vYRDepLaTR02EHxvEF7J512ia-88S0wMKlgWhw0h7o5gqtK6XsvOHb6HRQt8bpS-XSCd-CgBNSfYSIVPXwYxyCRHTBfjRhg=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfW6Mr1qZpbhPwu7QZP9SYMuwx5WfzUkfAMa4c48L8aQjiIsIc1QUGYssCzcNHN2Z0I4jytP-l0eoOWHZqag2M3d5IDICm6MvLY89erfd0BF1uJyw_nvszfEsqdeTOSWF88-hYH78izS8komq4Fmhlb73B9cl2tJe-xg=="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELGNPT1Jk2JdsEmF-VB29H4k18FU4SZsOGwYc5I6cKts3zdEjCz6EafhjoF5ZDvMw-q8EMO9umTw_j0exPmN4JjP3jtIIXNzS9xVKIFzpM0KNIVN2qSqL1_oXxiNkjV5XvmJkWaw=="
-        }
-      ],
-      "scrapedAt": "2026-06-03T11:56:05.201Z"
     },
     {
       "id": "social-934f7abf1ee4",
@@ -13991,26 +13848,6 @@
       "scrapedAt": "2026-06-23T10:31:06.695Z"
     },
     {
-      "id": "social-9cbe30e8ae2e",
-      "title": "Felsberger Herbstlauf",
-      "category": "sport",
-      "description": "Ein Herbstlauf in Felsberg, organisiert vom Dorfverein Felsberg Vereint.",
-      "date": "2026-09-13",
-      "time": "Ganztägig (Uhrzeit nicht spezifiziert)",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.828,
-      "lng": 9.508,
-      "image": "",
-      "organizerUrl": "https://www.felsbergvereint.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:31:56.516Z"
-    },
-    {
       "id": "social-1f44b90700da",
       "title": "Gemeinschaftszmittag",
       "category": "family",
@@ -14280,26 +14117,6 @@
         }
       ],
       "scrapedAt": "2026-07-01T10:43:42.762Z"
-    },
-    {
-      "id": "social-12a6712700fe",
-      "title": "Eltern-Kind-Treff SpiCool Landquart",
-      "category": "family",
-      "description": "Im Eltern-Kind-Treff wird gespielt, gehüpft, ausgetauscht, gelacht und vieles mehr. Ein ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugsperson.",
-      "date": "2026-09-13",
-      "time": "09:00 - 11:00",
-      "price": "kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
       "id": "social-ea6567053966",
@@ -18561,47 +18378,6 @@
       "scrapedAt": "2026-07-14T09:01:59.560Z"
     },
     {
-      "id": "social-62b2a8cbe800",
-      "title": "Familiensonntag mit Sternenlauf",
-      "category": "family",
-      "description": "Familiensonntag mit Sternenlauf, Musik von Musikgesellschaft Felsberg und Musica da Trin, Alphorntrio, Mittagessen und Schnitzeljagd.",
-      "date": "2026-09-13",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.83,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.kirchefelsberg.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgx1xWiCQBM5xIWJn4FgQOpNg1z89VKiWrOyWEN3D5yqSBu2SoQpz-URrXlo72TqZeZQnWTIfGlz-cEnZnFe4oFoqx54JiiIy3XttANMbGJDbAxG9BcpiaTds2mFeH1_GbObzf"
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyGqLlVeo-RQWrLcFeIeP-uh1IA_xNoFa75MKs5VlJRUJiqOiPljPvBYT9V8HZa4k4u_goL1A1V4B3zbRjYEcWYQYGNqCkzAO4JivBzBht3xBrzw=="
-        },
-        {
-          "title": "mgfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDG3K_Rt-Xm3uFIK7DEZ6qTnBxqgCoR41m1FPOXS9zxMUUIGty54LfVgvfyZAvYIydqsi-MPWbVR7gsQI_knXVp-G-WD5EfYx8V39K-xFB4njl9563hHLxBSfnHVVL"
-        },
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgvOUyZ2CPDiCEg2H7LHP2RPkhjxJknxbCdyhmMzZwd2D8Om1s_6iC5IxN0WB8Z6WmgNvEDYPGHFP9RvIvdDxJxhTdfYsz8DjfSXGxKk9SFUfJFu4bSHSvtkziYQ=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPBz-o7Qyvfrjs1enYpG-d88gVUZPwaEgz7M7GkCTWHqlQpqwkLTmWFMne21_YfcBPEITV-OmLhKB95i2MF09DK1SNKAgW-FrMvP7q0f8aI3oze3zVzRdTVLZds1paQEucqLgNOwchKSZEk1D6t7x5AHVbe3I="
-        }
-      ],
-      "scrapedAt": "2026-07-14T09:02:45.330Z"
-    },
-    {
       "id": "social-8c4b1d76b3b9",
       "title": "Nachschiesskurs Obligatorisches Schiessen",
       "category": "sport",
@@ -18863,26 +18639,6 @@
       "scrapedAt": "2026-07-15T09:12:14.059Z"
     },
     {
-      "id": "social-4fff6ff488cd",
-      "title": "16. Churer Degenmarathon",
-      "category": "sport",
-      "description": "Der 16. Degenmarathon in Chur.",
-      "date": "2026-09-13",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.188Z"
-    },
-    {
       "id": "social-58b8fc00bc64",
       "title": "Dungeons & Dragons zwischen Büchern",
       "category": "family",
@@ -19041,26 +18797,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
-      "id": "social-b5f6e524b719",
-      "title": "Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ein ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-09-13",
-      "time": "09:00 - 11:00",
-      "price": "kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.9508,
-      "lng": 9.5445,
-      "image": "",
-      "organizerUrl": "https://www.elternnotruf.ch/fileadmin/user_upload/Elternbildung/SpiCool_Landquart_2026.pdf",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
       "id": "social-045f9400bf25",
