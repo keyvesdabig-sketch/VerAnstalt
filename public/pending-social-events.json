@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T12:23:38.633Z",
+  "lastUpdated": "2026-09-16T12:20:45.508Z",
   "events": [
     {
       "id": "social-0e83e15f13d6",
@@ -15678,35 +15678,6 @@
       "scrapedAt": "2026-07-04T09:18:47.913Z"
     },
     {
-      "id": "social-bdafffe97bd4",
-      "title": "Abendgebet mit Liedern aus Taizé",
-      "category": "music",
-      "description": "Ruhiges, gemeinsames Gebet, das seine höchste Entfaltung in anhaltenden Gesängen findet.",
-      "date": "2026-09-15",
-      "time": "19:00 - 20:00",
-      "price": "N/A",
-      "municipality": "Zizers",
-      "locationName": "Ev.-ref. Kirche Zizers, Obergasse",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/veranstaltung-in-zizers-abendgebet-mit-liedern-aus-taize-localcities",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBTpqkGLU01W33NtJorx5WcnLncMP_8dVJPq2BwpD-V3Aldcv4y7blZGvD-4ejEMxP_CQQOJ9RW4fn6YZRFFYUt-bIIvn1gX5FCePrKOdZpcNF7EokgECru0qAiyR5RuNXiIeUXw=="
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnTNhFsffGID4iuFi7XcD1v2YpzbzINl0qNwVSzSsAb3oQCDTvHEhyLU3Ls_ZumRctaxWP8BmnjoAmdVD6o1Owg226HOkA_xo30Av61253DSCJ1oWo3NYJL5HplIZIyyK9qWp8K-lk5pdCg6Dy1q3aO8u07D4Yj-E-2yA_yaMRzkHuHhbs85u2-z4oBwChl1ocrYfZDRUtKppoA-nvHdtmQ6jebrRmp_FqXmp3ZnpiPkmkJ9DRyWZguRuyG5CIXjJSutjKa2Q="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:19:56.982Z"
-    },
-    {
       "id": "social-cef6a9120165",
       "title": "Abendgebet mit Liedern aus Taizé",
       "category": "music",
@@ -17888,26 +17859,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-12T09:00:52.844Z"
-    },
-    {
-      "id": "social-ed90118b3f83",
-      "title": "U N I T live! — KRAVCHENKO CLEES",
-      "category": "music",
-      "description": "Jazz im Sternen Konzert mit KRAVCHENKO CLEES.",
-      "date": "2026-09-15",
-      "time": "20:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Sternen Malans",
-      "lat": 46.97,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://sternen.cafe/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-12T09:07:19.501Z"
     },
     {
       "id": "social-b86148ccee31",
