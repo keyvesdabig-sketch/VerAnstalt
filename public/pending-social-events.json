@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T12:00:09.972Z",
+  "lastUpdated": "2026-09-19T11:44:08.339Z",
   "events": [
-    {
-      "id": "social-0e83e15f13d6",
-      "title": "2. Street Food Park Festival Chur",
-      "category": "markets",
-      "description": "Das Street Food Park Festival verwandelt den Theaterplatz Chur in ein Paradies für Street-Food-Fans mit über 30 Food-Ausstellern, DJs, Live-Acts und Kinderattraktionen.",
-      "date": "2026-09-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Theaterplatz, Chur",
-      "lat": 46.8499,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://streetfoodparkfestival.ch/chur/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-18"
-    },
     {
       "id": "social-b4cfe6906d28",
       "title": "Schlagerparade Chur",
@@ -905,27 +863,6 @@
       "legacyId": "social-1779632100434-TschiertschenPraden-15"
     },
     {
-      "id": "social-f94c3085fb08",
-      "title": "5. Fritigstreff 2026",
-      "category": "family",
-      "description": "Ein geselliges Beisammensein, organisiert durch den FC Bonaduz.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8333,
-      "lng": 9.4217,
-      "image": "",
-      "organizerUrl": "https://www.gewerbevereinbonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:15:34.976Z",
-      "legacyId": "social-1779632134976-Bonaduz-7"
-    },
-    {
       "id": "social-c2e72cbc20be",
       "title": "6. Fritigstreff 2026",
       "category": "family",
@@ -966,27 +903,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:16:03.363Z",
       "legacyId": "social-1779632163363-Rhzns-3"
-    },
-    {
-      "id": "social-734e654d10bb",
-      "title": "Wanderung ins Abendlicht",
-      "category": "sport",
-      "description": "Eine gemütliche Wanderung auf den Zuckerstock, um die Abendstimmung zu geniessen und den Sonnenuntergang zu erleben. Inklusive warmer Gerstensuppe auf dem Älpli. Stirn- oder Taschenlampe mitnehmen! Bergfahrten um 15:30/15:45 Uhr, Talfahrten ab ca. 21:00 Uhr.",
-      "date": "2026-09-18",
-      "time": "15:30 - 21:00",
-      "price": "CHF 49",
-      "municipality": "Malans",
-      "locationName": "Zuckerstock / Älpli Malans",
-      "lat": 46.974,
-      "lng": 9.513,
-      "image": "",
-      "organizerUrl": "https://www.aelplibahn.ch/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:17:00.486Z",
-      "legacyId": "social-1779632220486-Malans-30"
     },
     {
       "id": "social-27921135814f",
@@ -1165,27 +1081,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-627cd167afde",
-      "title": "Oktoberfest Thusis 2026",
-      "category": "family",
-      "description": "Bayerische Stimmung und Musik, Partyband, DJ. Das Oktoberfest in Thusis findet am 18. & 19. September statt.",
-      "date": "2026-09-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": "https://eventfrog.ch/de/p/other-festivities/oktoberfest-thusis-2026-freitag-in-thusis-7289569720078021183.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-28"
     },
     {
       "id": "social-93bf48b58c44",
@@ -1959,47 +1854,6 @@
       "scrapedAt": "2026-05-27T11:00:54.781Z"
     },
     {
-      "id": "social-32492d34e281",
-      "title": "Oktoberfest Thusis 2026 - Freitag",
-      "category": "music",
-      "description": "Das Oktoberfest in Thusis am 18. und 19. September mit bayerischer Stimmung und Musik, Partyband, DJ.",
-      "date": "2026-09-18",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/sonstige/sonstige-feste/oktoberfest-thusis-2026-freitag-7221008687352824386.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/sonstige/sonstige-feste/oktoberfest-thusis-2026-freitag-7221008687352824386.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqJW36c_66V-8yx1Ci_en9kQRVTQfYcQYyAuNKfuZtRnS-ejG5paovkIckGvDXy2WaFVZhmu8vdHIOkk6xdr6JyTBwHPuLjVv9NuTRT-uDOpdSyt7xFrgGk2hWYUqMpkGCv67w37v6TMgX_DulOTuC5A6MUmn3TS3nWZU"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETrMBzX1nHyePPswJ_k8MDTmEN5GGRb7JCKi59GU5rskL1VCOjssTFhe2B1JBnXxzCWeK9Gp6YEobRrVj-1-ZjEDSSK1mZi4wWuhIUhA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYrYCwu2S85bS1n0aAseXheKZd2QZU5VoZXTXLxz6VWoQytcTOIjYandjmhD8upWgEYYVkKUwlOiaAnZERmWuhQlIzohrE-r6GUVWUtMGIFkyoM3MhSk8rYkZUtk5HBWAZHvZdhkocdgLe_63nA2nEOC4kjebgTDIShlM7bOTSuLPy3snFGxgfWbymC5fBXHYYayucoDY="
-        },
-        {
-          "title": "ssp-rheinau.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMyv2--lxVf7BTZ39IZw3fpCPGbi2oQawdrpIC2AYev8-ybJJu1clKWqEgAtPf7ITXYlNChFfGvue_90rITZ577AnGfvgSwnejevW47YlAIysiOfH5LFeXez74"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_ch-M6ZZcPjh2r5QaA4hOfTIJ1Q5LAExeMSTknftQXKF-Pca_oPate0hVg-yYmGgno7mcF4WGeolzCnOc2kO6kCsIW_H-xI6JRUur8y-kKRL5tigvoH888lA335z5J8QC9tQE5ZMFPjDjxzsiFEPSOPBtA7b9P6XKQwfVAc1vJHgqlUcXowxX-XXKV5a"
-        }
-      ],
-      "scrapedAt": "2026-05-27T11:01:55.774Z"
-    },
-    {
       "id": "social-33cedac8a703",
       "title": "Oktoberfest Thusis 2026 - Samstag",
       "category": "music",
@@ -2737,26 +2591,6 @@
       "scrapedAt": "2026-05-28T10:51:30.982Z"
     },
     {
-      "id": "social-5aa864a1bff0",
-      "title": "Fritigstreff (FC Bonaduz)",
-      "category": "family",
-      "description": "Fritigstreff organized by FC Bonaduz on the village square.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.833,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-28T10:53:32.846Z"
-    },
-    {
       "id": "social-15900115d253",
       "title": "Fritigstreff (DTV Bonaduz)",
       "category": "family",
@@ -3166,35 +3000,6 @@
       "scrapedAt": "2026-05-29T10:46:07.560Z"
     },
     {
-      "id": "social-60d6a400d1a6",
-      "title": "5. Fritigstreff 2026 (FC Bonaduz)",
-      "category": "sport",
-      "description": "Offener Treffpunkt organisiert vom FC Bonaduz.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8306,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2LKQyKgdSBOGHlIlzvXBFpqhLeQmo33VtooR3-uo1Vjr7JITzHEgKLydeAE6zUnuMAiqmjgyHQPnSG2saZcS8AxrpzAIZXa9iOEdPc1-mwLtJH5o6vHEdOy7kxbHYOeos5y63_GiucvhTeoPHwqeBu1qqlle5IHz-jI1n2PQQzI1gCWstG4QiA1ETHCZmVQT5qeVwSx-TiUI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmmqP5n3AljP-hOYL3rTzd03MCHCI-h2TgIxYJDXcxvhGncfp23gzdarCbQZIm3J-uUSpoN-vSEmcPUEVN1-h4dFzRfcbI6TzHxsWVwh2Sa1N4-DN0TTSWvpCw-7ALGBhl2YL2COzRSovHad4Lmm0CVp1lRqgAn4KAnSR2h5vZ7B88fgqsvsUVAQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-29T10:46:39.078Z"
-    },
-    {
       "id": "social-193e914eaead",
       "title": "6. Fritigstreff 2026 (DTV Bonaduz)",
       "category": "sport",
@@ -3405,47 +3210,6 @@
       "scrapedAt": "2026-05-30T09:17:22.838Z"
     },
     {
-      "id": "social-d8a82744b9ca",
-      "title": "Fritigstreff 2026 (FC Bonaduz)",
-      "category": "family",
-      "description": "Ein Fritigstreff organisiert vom FC Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Gratis",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhnlGDRfwvecK6SlxcAjjMX-Zucj_ZMljiSJGTHL6AimdggZS2Iz9ykRNoHMjMdV8FFfg34U_8PhZWZE17l2aScTzU1KJMbmU31vfgGYJf9YWQvd6CP9NIaiCknAB4"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHQmgPPc6xMeS-jW37c4QCKh6wTG3g9pmVV-y3K1QfdLyKrczz85OlGnK4fEI_9qrO-pBOxlUsIQ_DhFNMmvlHrF9Ikye7STMR0qJ5qbQqWAOQrAhmbhL3GrRnF9Ez9w=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmhh3MwWYDuFF2w0twRCvasWjlmryv7WObRhE6TKlV8VaboWx3W6GRtPFWnEhcgNinuzX2s0HfSq8N7qKROhZGzmAhO2Cfg-zwiE0in0TvyeMDyp5QdkeORL8ZKBWCdbzAw=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtQHGSfQoWHGViv_FPYw0sM6bXSkNSm0MriLhZuXnKEGclGcROpE9jJB5hmsgEZdnnk7-VenaJxbr1Hch7CpBKodycwgYvuvFXZkTaVsRWpchfXlwMiO2lF7rypzJ31FXw"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdHbdFOvcUQy1RFhcSIaayDH2HvDdBBDTKqOASNX5NRS6StxY7VwNVMmN8cZHcVkctjykWIRebSOQFQxGjV5R1PYfLVkIoLV-4k1H25EqdLg9V7f8fEpkTJ_eWM7IRSbQ8ib9qYB6bdUO6dIioRXusnTA3_SM="
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:18:10.390Z"
-    },
-    {
       "id": "social-18029ea43480",
       "title": "Fritigstreff 2026 (DTV Bonaduz)",
       "category": "family",
@@ -3485,47 +3249,6 @@
         }
       ],
       "scrapedAt": "2026-05-30T09:18:10.390Z"
-    },
-    {
-      "id": "social-c428ff9f98b9",
-      "title": "Okotoberfest Thusis 2026",
-      "category": "music",
-      "description": "Das Oktoberfest in Thusis mit bayerischer Stimmung und Musik, Partyband, DJ. Zum zweiten Mal bringt der Verein EventBünda das Oktoberfest nach Thusis!",
-      "date": "2026-09-18",
-      "time": "17:00 - 03:00",
-      "price": "Siehe Ticketinformationen",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle",
-      "lat": 46.6865,
-      "lng": 9.414,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-in-thusis-7347710321798319690.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-in-thusis-7347710321798319690.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6ly-Wqj65UC_Vr7cNA65eEfGlsDGVQX_QsnmmIgDmgMXXjM_ERLF48Gf3u_AYE53g677eZMpOTAldWQ25OVT7Q2O50TvVbcgvzODNvFhnzpspFc5fL_QAosy68CKxWngfFSXnwOXhgrj3c3p4bg1J2YQlkP2nnhAiSapz"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJdEGVsxCDatZLd-wS6UbfaoMF4BmaeM1jGD00lH8SAI0HhtZG5AUsbA-DHfJ8Wll6nw3pOPFr_A8O1JakDnnWd17c8DfS2IVa_RCVA=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8eJBDETle06KNVqMKPyK1lUWR4FIFZFilO7l7PQg9Aepi2WMnkN9qkPt04utGkLv98fv_NDRNizwUpPs2YlpX7d9isKhTwPW6YGbReIS5gsSduKIXpwNpUKpdGZ9F5k4ctnjDD25J2bKfCF93PFt1Nzi7CQ5tlG-B0PJjEjVpXjvbjVv3Dlwcj3Fl7yuL"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgD-tLNo0_MiYHvazKr4L3Llc1WwbRq1acSVo-D2DQ8hP6yTxLYx1GFdVzVEnLv9wBH37A5FnmcsgIPpRWmFAsXum9ndcf99568xajTC9aYHIiHZti5xZwWWsnfIzrzc-3d8mB59hi4BvPneSNQ1a4Sc4OhIOmxuf_lS7HFB7QI8lcUOswCnYNIcdzBCOOg0XCjN05S48="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtRjMhsPjXpc6SW4ihLyuchq1NNCdtlr0CFsAhNjkikOge2IIrYN2cjQjcbLrV1XmvjMk4Qy55CPDuOcrpsqIKnpFIXZ819izunh-y25VomZCy-GxSIFOPPfIFl6pRGV_FXjo4Tt19s4f_2r7_-BTpLa6P3cttrvyp8K34ZI5wW8PBHlAVEY0oc-praSw1bLXFBA-N_c4m48PbwCvVcr7QRGo8"
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:21:14.949Z"
     },
     {
       "id": "social-7e13643e7fe4",
@@ -3772,26 +3495,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-ae927183b677",
-      "title": "Fritigstreff",
-      "category": "family",
-      "description": "Fritigstreff, organisiert von Heubüüch.",
-      "date": "2026-09-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Hof P. Philipp",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-910dcf5050c7",
@@ -5329,26 +5032,6 @@
       "scrapedAt": "2026-06-03T11:53:21.095Z"
     },
     {
-      "id": "social-124d975d479a",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-09-18",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
-    },
-    {
       "id": "social-f99ad990f1d1",
       "title": "Wochenmarkt Trimmis",
       "category": "markets",
@@ -5428,43 +5111,6 @@
         }
       ],
       "scrapedAt": "2026-06-03T11:56:05.201Z"
-    },
-    {
-      "id": "social-3844110c2201",
-      "title": "Führung Kirche St. Georg, Rhäzüns",
-      "category": "stage",
-      "description": "Führung von Orlando Fetz in der Kirche S. Gieri mit seiner beeindruckenden Ausmalung vom Waltensburger Meister und vom Rhäzünser Meister.",
-      "date": "2026-09-18",
-      "time": "14:00 - 15:00",
-      "price": "CHF 10.-",
-      "municipality": "Rhäzüns",
-      "locationName": "Kirche St. Georg Rhäzüns",
-      "lat": 46.8066,
-      "lng": 9.3946,
-      "image": "",
-      "organizerUrl": "https://www.waltensburger.ch/angebote/details-angebote/am-abgrund",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH674wXmaehgqH42phup6YQmJ9EAHCDZEc05HA4EWFVfD18XkzK0-2meLUp7EGsM7EXa0XhHWWSr19F4Tu5Z6ilxMYoIUVzUzx7XxaBfeZx9SCBE1ENL3Es1KAQZwId69F3tsry_BW9gzYaaFNiJfZ69qhx-_0psLL08SoEcR-tcOCY50ZJJTOdd-yZczAbLE9g_-gTETcDEXSj6yHAYa4="
-        },
-        {
-          "title": "kirchgemeinde-rhaezuens.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdX5A3_3mJ_oJCFZEj3dyYk1vGg6AR02Xcs4-lQ24WY6B7xz4qmLldvEh8L80Kwo20re3L119Y8LnJJTYQ9rGs70gl53Z_LDuGk8wLq7hId8F1MyBRC0urUZwZYXJ3CaVLtg=="
-        },
-        {
-          "title": "projuventute.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBg5gYpJjxULPUUWst1gx35hAmr6_mkCo0mh2mo4E7ktFkH47T4XHqGZVarGHm7C9_CylkhBUo0bz52Ew_mr3ZqTIjqfeNiH9I_gcu8VjRI0UHaWKzb-lfVxp-hDXzzCTd4IVp_ujd"
-        },
-        {
-          "title": "dejavu-music.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxKonKkXk6ayK_GKeGl-fiyT1EA9hiBYFGyG3c9kSgzfZAijBJgAwXn4F-NY8xLq-aMUI6GSWS9s5git0uysv3q4anMVABkagj-6A6DdqhSAG4fUSKnk3KrtoRqvYFWsxLx0oh9Gr7PmTvco="
-        }
-      ],
-      "scrapedAt": "2026-06-03T11:59:03.155Z"
     },
     {
       "id": "social-c359db1758ee",
@@ -5689,47 +5335,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:40:31.060Z"
-    },
-    {
-      "id": "social-1f3b09690ab6",
-      "title": "Fritigstreff FC Bonaduz",
-      "category": "family",
-      "description": "Fritigstreff organisiert vom FC Bonaduz.",
-      "date": "2026-09-18",
-      "time": "17:00",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.837,
-      "lng": 9.407,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXZG_Amu6w-uQ3tXajzkGbZNJXmH5b6bVBThGUcFd6WmXqBCKnX3aXs9S0CGsMEpfoZPnwda117yl-lu8rBDD_cu9fcjo2S-hUg-UcIuJ-IvG7P_nPJF2C6K2qe0arRRbVQ6A0MjPXFo="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVypF0V5n0zjmQ56HHnnCL4bL16JmAdDwJD_qyy06twPLr8ZxeGX-GthXY3UftwNR0NK2tXeuLwquvDXVbTY-ur9iLaopSIZ8ziLVff6_mz1h8ywkw9hTi9KzmxcJ_ApA-"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB5FNZlLkOgfuG-gRs5DjENLmSrvY3sGsr2VwehZdo6l0WvcL171J-kF4Imfn5BDM0DMRWm20PZN4KJ-eNWa0sHe-r9lsHT3gcB5wEv4h_g8F_N5w8bOtiEK-9VBnM"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4lr5X8uiJtcOfW3KDZGhESRyyJu2bUyY2sD7olWCEHwMY8_0YbjfxrEBTHDAyTzeH3DSqDJyedBUEsV-ivyEHcL5fbm4PmFAe-htCr-T6_0pDLc="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DuXsJbteXbti7IAp3-YzasAYuHiVi78cxyqFsGoX1Ly8Q9bUj2NGgNVMTr9LuU_iOaJUV2Ixqcy-Obc_J2OajmK9-UomR4ucLPcbFCI_ueMn6L-0wAMbIie4DJrm3vs="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:42:38.444Z"
     },
     {
       "id": "social-8368ef68c50d",
@@ -7440,26 +7045,6 @@
       "scrapedAt": "2026-06-08T11:53:51.962Z"
     },
     {
-      "id": "social-00ce98c6b9b8",
-      "title": "5. Fritigstreff 2026 - FC Bonaduz",
-      "category": "sport",
-      "description": "Der fünfte Fritigstreff des Jahres, organisiert vom FC Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.828,
-      "lng": 9.388,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:58:32.845Z"
-    },
-    {
       "id": "social-a422eeaf5a28",
       "title": "6. Fritigstreff 2026 - DTV Bonaduz",
       "category": "sport",
@@ -7640,26 +7225,6 @@
         }
       ],
       "scrapedAt": "2026-06-09T10:37:28.392Z"
-    },
-    {
-      "id": "social-83eb88e7f7b1",
-      "title": "Führung Kirche St. Georg",
-      "category": "family",
-      "description": "Geführte Besichtigung der Kirche St. Georg mit Ausmalungen des Waltensburger und Rhäzünser Meisters.",
-      "date": "2026-09-18",
-      "time": "14:00 - 15:00",
-      "price": "CHF 10.-",
-      "municipality": "Rhäzüns",
-      "locationName": "Kirche St. Georg Rhäzüns",
-      "lat": 46.8188,
-      "lng": 9.3888,
-      "image": "",
-      "organizerUrl": "https://www.waltensburger.ch/angebote/details-angebote/am-abgrund",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-09T10:38:18.586Z"
     },
     {
       "id": "social-a042fb430d75",
@@ -7926,35 +7491,6 @@
       "scrapedAt": "2026-06-10T10:54:42.214Z"
     },
     {
-      "id": "social-4471a1e93d2d",
-      "title": "Fritigstreff (Hof P. Philipp)",
-      "category": "family",
-      "description": "Ein Treffpunkt am Freitagabend.",
-      "date": "2026-09-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Hof P. Philipp, Heubüüch",
-      "lat": 46.91,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG82jWdsZfe0QegqzQOmx8FnvIu0sfTaBUj8lDoUhnaZCdK50qAGTY63rnb6NlYSQX9M3TW5bZWRK9ntvHk9PFljrgOyOVylRlOIPzkGxKybgpZA1syBDLIqR1cGBlDAYfIzhtOJB2f06llXZ2Hagg9bCm1Kmm8Py32yMeuU3SxaOtqzIiHn8AGNTEYeo2-LTapKd-fXvD8OGfQHmaXw1mODg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_JVxXJG7OMZYD6-MtKGnZt7COOUHlt1UeR9jAJelI5SVQJI2VOkZRSqEUHdjXmy6mWTg62nhB7QIAWNK6dAHB_nurv9F2hYHhPO02h3FE3Uk4cAbCZvQe0aZiMTjit2qCTTAlYhlAI8wFrCDXa3bdmeG0N6HiNhfWgGMfQkWmsUFy80c2Cipqfk13chsz2UUbHA=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:55:17.772Z"
-    },
-    {
       "id": "social-6b3f5a8d4055",
       "title": "Fritigstreff",
       "category": "family",
@@ -8117,26 +7653,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T10:56:41.226Z"
-    },
-    {
-      "id": "social-eb3f8a71f49d",
-      "title": "5. Fritigstreff (FC Bonaduz)",
-      "category": "sport",
-      "description": "Fritigstreff organisiert vom FC Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:59:15.254Z"
     },
     {
       "id": "social-6ff4c1fbb22f",
@@ -9138,26 +8654,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:03:26.119Z"
-    },
-    {
-      "id": "social-2184bd94b1b2",
-      "title": "5. Fritigstreff 2026 FC Bonaduz",
-      "category": "family",
-      "description": "Gemütlicher Treffpunkt, organisiert vom FC Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.82,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:04:27.610Z"
     },
     {
       "id": "social-cc7c388b4ab2",
@@ -11393,26 +10889,6 @@
         }
       ],
       "scrapedAt": "2026-06-16T12:15:52.955Z"
-    },
-    {
-      "id": "social-1dc811ca3b54",
-      "title": "Oktoberfest Thusis",
-      "category": "family",
-      "description": "Das Oktoberfest in Thusis mit bayerischer Stimmung und Musik, Partyband, DJ.",
-      "date": "2026-09-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.6901,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/sonstige-feste/okotoberfest-thusis-2026-7289053330368819448.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
     },
     {
       "id": "social-833e84213333",
@@ -13786,26 +13262,6 @@
       "scrapedAt": "2026-06-23T10:31:56.516Z"
     },
     {
-      "id": "social-99fce07974f8",
-      "title": "Fritigstreff (Heubüüch)",
-      "category": "family",
-      "description": "Fritigstreff, organisiert von Heubüüch.",
-      "date": "2026-09-18",
-      "time": "unknown - unknown",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Hof P. Philipp, Heubüüch",
-      "lat": 46.916,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:33:56.982Z"
-    },
-    {
       "id": "social-5ace1da39cc6",
       "title": "Trailrun Graubünda",
       "category": "sport",
@@ -14266,47 +13722,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-6a6f1b95025a",
-      "title": "Street Food Park Festival Chur",
-      "category": "markets",
-      "description": "Festival für Street-Food-Fans mit Musik und Unterhaltung.",
-      "date": "2026-09-18",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Theaterplatz Chur",
-      "lat": 46.8517,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://streetfoodparkfestival.ch/chur/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-d9f6710f3e93",
@@ -15672,39 +15087,6 @@
       "scrapedAt": "2026-07-04T09:19:56.982Z"
     },
     {
-      "id": "social-6cbadee9feaf",
-      "title": "Fritigstreff 2026 (organisiert durch FC Bonaduz)",
-      "category": "family",
-      "description": "Lokales Treffen organisiert durch den FC Bonaduz.",
-      "date": "2026-09-18",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8373,
-      "lng": 9.3991,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES3nIYkOtJ4HWCi-JYsFcnWGMAae0MnUqizE9_M5vFYOt8LTG4SV-2m37YnZvt-PWMwbV-wVOTFcNgxf36jXLgMoe_QqZ57usW1YOoAUuoP4zCib72G3_g4tlaB8r59EL8QBBE25On-9BXzdifuLp4Wsejw55y76K4fXFhc4d4KktshKglAZA="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjyewrLqfl9JeqeP_0DMwKXnI075GBHQEJZ3vwtbrP2hwTvyQR8hCd1eFdFzN1bSTqL_H4x7QdcOR1KcWL4aS5Z6H6fqOWVZ7fmdKKs1-VVMr4gxCNkzSNXTyF0fTPtdhfQXeC5NVjlWpB6FWDZeqQK57CG7h7aoL2B_QOCvRh"
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQenpvFZmPqaSxDXq8cb6B8w-qjsL-JDlK9jrLASq9To2WaE8KIMMnMWoGei6wkGaiGktS3FefcRV4Cl7YNqvmUX9VLi6a_f86iqp1FRsrOEmmZs9nxGP_XlvgIiXmrC3XQw=="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:22:18.249Z"
-    },
-    {
       "id": "social-f11b232487e3",
       "title": "Fritigstreff 2026 (organisiert durch DTV Bonaduz)",
       "category": "family",
@@ -16183,26 +15565,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-06T11:28:51.276Z"
-    },
-    {
-      "id": "social-cb1caef39cfc",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-09-18",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:30:39.141Z"
     },
     {
       "id": "social-6a86568cac8d",
@@ -17710,47 +17072,6 @@
       "scrapedAt": "2026-07-12T09:00:52.844Z"
     },
     {
-      "id": "social-b86148ccee31",
-      "title": "Sieger Sein",
-      "category": "family",
-      "description": "Familienfilm, Regie: Soleen Yusef, DE, 2023, 123', ab 8 Jahren.",
-      "date": "2026-09-18",
-      "time": "14:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.69916,
-      "lng": 9.43635,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PDWQovwedE4m3_PLyDKxy-ENJrEGBOH3MNzuA_0VCLqw4dX3SHKCKyqFfYbYnuBsyQnT4rWPIOArey9erlcYHPX4xvGkI-W1vSfdbIVzOVqukfoVgEQHggHXQV4nzBp_-2sHQNr0DiQ8yxfBVw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWSYC-VzQ-zI5uUWzgpvRiucH183eC_kXjvWnFN2r7Yu8hiII61RiMaWvgZTyDWbaHBKhqa2JVEtJyqt5gU2zzZl1XC82FLfSQGS5Adp0kZOic9b4OwvZjxy17QMgPnIIdUhhloT4Z9AZfNSoGosAdy8S"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY2au0Kffqj2J6FpdmUS4Mdk1ff45sN9kf6NuLnSCDhgbauH3a8blLlSJbk4gsgut5pqTRKZKsszKQkcClUiqoKppDFtKXPNW_NdqOQ7zRJUbqOCqSoKtTjf0WYSDW-YWgwA8LlOzz8bN"
-        },
-        {
-          "title": "story-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsYIFB4je8rSxHnTuh84jdI6CR2WAem4XeuEmZf0Q6tQD9JG730YuAy8g6cTmrlPUu2MfzvpFlmLyga9CZhLJUkGv90yCsUun3Fnqeae1Uh1Q"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3gl1HxRgyeOGHcJWGNzysh5QdaWkHPSwUuuhfumy16bNRhUMJDx-8STm1WhT6575pzkVQcGioIhksGtdw_UIKD4kJri4k4piU54Jsi4QezYF7V-OPTxuWWC_1BrNV5ZH8FDtgeVCSICwH_nf7j7JIqV1nzxkIG7avkRuuwlFsyo1ICkyloK6nQHav5RD4dcgfZPYUw=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T09:09:30.723Z"
-    },
-    {
       "id": "social-9acfb119ff12",
       "title": "Zauberlaterne",
       "category": "family",
@@ -17913,26 +17234,6 @@
         }
       ],
       "scrapedAt": "2026-07-12T09:09:30.723Z"
-    },
-    {
-      "id": "social-94e1b81b0cbc",
-      "title": "Street Food Park Festival",
-      "category": "markets",
-      "description": "Market event focused on street food.",
-      "date": "2026-09-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
     },
     {
       "id": "social-f58b9e256dbe",
@@ -19001,26 +18302,6 @@
         }
       ],
       "scrapedAt": "2026-07-17T09:13:27.547Z"
-    },
-    {
-      "id": "social-de9d9b43066b",
-      "title": "Okotoberfest Thusis 2026 - Freitag",
-      "category": "music",
-      "description": "Oktoberfest in Thusis mit bayerischer Stimmung und Musik, Partyband und DJ.",
-      "date": "2026-09-18",
-      "time": "18:00 - Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle Thusis",
-      "lat": 46.6806,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://www.eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-7292276535261546955.html",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-7292276535261546955.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:14:22.625Z"
     },
     {
       "id": "social-392e0fb96728",
