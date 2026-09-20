@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T11:44:08.339Z",
+  "lastUpdated": "2026-09-20T11:56:47.453Z",
   "events": [
     {
       "id": "social-b4cfe6906d28",
@@ -506,27 +506,6 @@
       "legacyId": "social-1779631956501-Untervaz-11"
     },
     {
-      "id": "social-7feade7f127c",
-      "title": "Herbstmarkt Zizers",
-      "category": "markets",
-      "description": "Abwechslungsreiche Marktstände, verführerische Düfte, ein Getümmel an fröhlichen Menschen und Musikformationen zeichnen den traditionellen Zizerser Herbstmarkt aus.",
-      "date": "2026-09-19",
-      "time": "10:00 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulareal Obergasse",
-      "lat": 46.943,
-      "lng": 9.571,
-      "image": "",
-      "organizerUrl": "https://www.frauenvereinzizers.ch/herbstmarkt/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:08.761Z",
-      "legacyId": "social-1779631988761-Zizers-8"
-    },
-    {
       "id": "social-4527af0c9565",
       "title": "Fritigstreff (Gemischter Chor Igis/Zizers)",
       "category": "family",
@@ -777,48 +756,6 @@
       ],
       "scrapedAt": "2026-05-24T14:14:23.487Z",
       "legacyId": "social-1779632063487-Churwalden-10"
-    },
-    {
-      "id": "social-7acb610dbc22",
-      "title": "VIVIANE CHASSOT · AKKORDEON solo · Folk Flow",
-      "category": "music",
-      "description": "Akkordeon-Solokonzert mit Viviane Chassot.",
-      "date": "2026-09-19",
-      "time": "17:00 - 18:30",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Blacktawuoscht",
-      "lat": 46.83,
-      "lng": 9.61,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/tschiertschen-praden/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWk545UWiMimYo1WAVzsJSFEWvQkbZN5oo6TOSBIP8I-hBVPXgTxvldtWxFl-fOznx3pIjzNlU8ViniiC2cnaBiohQSXqv5m3cQNyXEWlqCJA6Tu_V5tlDG132rIMGiwe3WlQQkuRdKHAEqtxkv-QBzB_mMuI6G9LdWJJpzoAI4roI0fdpgsl_hARzzarXQuFWQ2LTlaPWwMQ-lTr6QQ=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1shb0v9oFuGAHnY8y60Ddr8zz8c4trkWG8jcfNQj1K7KUkhmIqy9MLwsJGA4MPEjPwnpu_o20CQ6AZ0xo-XgqMSwdAVVntMaXtxDZq_2WjeG7Masd_mbwFL9DH1MdeGyA0YocBHdgENTF4cyieElxftMGceEtIK5KjrOK5UlWy6q-dDiL9dVe-OeIox3ZMfwEQQJn0jV2M6qEZNaw3Q=="
-        },
-        {
-          "title": "pro-tschiertschen-praden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPJOp2z4GaHZX6FZyFWhhgBzDt4Lvsn2Y4TkxTucWVdjrbllDXMyCvIvPMDJNR-LXxoWF5RxkKt7NJfz-J8N8dTLia4OKosD798D9vznYrBdyUCnlArlgWC7nnzT2NMfPFngukWDs="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzy86lqnz9ONH-a4KbfdVHkMxSnq7FouP5lHXAD0BDRIiS5lu3SUbk54YrslfsVTEck8grFIxbJxrzs-C1QOXIt0ZkzVwdonZ-yDxhJ5G_ex75OeJ1Rgx8ayialzmmuHGJhicGqkBkAhx4E6gopELifObC0wF1kI8GUiy9IhbHs8o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8HXmRmbCCALk_RbuES9IMKsxtTAMcR_g3HwLfP8YEEPZ6wVFRrt3WbEV17FuKNLp8cLRYgyTRyhqnw3VQLNduMWurFhLEXoyiTedozaO_Ed877zahKvBCfY2hozUPU_QA2yHeIR0k8LIUKp8xzksVegvipQOdICMg6lUPraku6dA="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:15:00.434Z",
-      "legacyId": "social-1779632100434-TschiertschenPraden-14"
     },
     {
       "id": "social-048087d8b46d",
@@ -1081,27 +1018,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-93bf48b58c44",
-      "title": "Oktoberfest Thusis 2026",
-      "category": "family",
-      "description": "Bayerische Stimmung und Musik, Partyband, DJ. Das Oktoberfest in Thusis findet am 18. & 19. September statt.",
-      "date": "2026-09-19",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": "https://eventfrog.ch/de/p/other-festivities/oktoberfest-thusis-2026-freitag-in-thusis-7289569720078021183.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-29"
     },
     {
       "id": "social-e8666b54e671",
@@ -1854,47 +1770,6 @@
       "scrapedAt": "2026-05-27T11:00:54.781Z"
     },
     {
-      "id": "social-33cedac8a703",
-      "title": "Oktoberfest Thusis 2026 - Samstag",
-      "category": "music",
-      "description": "Das Oktoberfest in Thusis am 18. und 19. September mit bayerischer Stimmung und Musik, Partyband, DJ.",
-      "date": "2026-09-19",
-      "time": "17:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/sonstige/sonstige-feste/oktoberfest-thusis-2026-freitag-7221008687352824386.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/sonstige/sonstige-feste/oktoberfest-thusis-2026-freitag-7221008687352824386.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhqJW36c_66V-8yx1Ci_en9kQRVTQfYcQYyAuNKfuZtRnS-ejG5paovkIckGvDXy2WaFVZhmu8vdHIOkk6xdr6JyTBwHPuLjVv9NuTRT-uDOpdSyt7xFrgGk2hWYUqMpkGCv67w37v6TMgX_DulOTuC5A6MUmn3TS3nWZU"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETrMBzX1nHyePPswJ_k8MDTmEN5GGRb7JCKi59GU5rskL1VCOjssTFhe2B1JBnXxzCWeK9Gp6YEobRrVj-1-ZjEDSSK1mZi4wWuhIUhA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYrYCwu2S85bS1n0aAseXheKZd2QZU5VoZXTXLxz6VWoQytcTOIjYandjmhD8upWgEYYVkKUwlOiaAnZERmWuhQlIzohrE-r6GUVWUtMGIFkyoM3MhSk8rYkZUtk5HBWAZHvZdhkocdgLe_63nA2nEOC4kjebgTDIShlM7bOTSuLPy3snFGxgfWbymC5fBXHYYayucoDY="
-        },
-        {
-          "title": "ssp-rheinau.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMyv2--lxVf7BTZ39IZw3fpCPGbi2oQawdrpIC2AYev8-ybJJu1clKWqEgAtPf7ITXYlNChFfGvue_90rITZ577AnGfvgSwnejevW47YlAIysiOfH5LFeXez74"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj_ch-M6ZZcPjh2r5QaA4hOfTIJ1Q5LAExeMSTknftQXKF-Pca_oPate0hVg-yYmGgno7mcF4WGeolzCnOc2kO6kCsIW_H-xI6JRUur8y-kKRL5tigvoH888lA335z5J8QC9tQE5ZMFPjDjxzsiFEPSOPBtA7b9P6XKQwfVAc1vJHgqlUcXowxX-XXKV5a"
-        }
-      ],
-      "scrapedAt": "2026-05-27T11:01:55.774Z"
-    },
-    {
       "id": "social-d0d0842d38cf",
       "title": "Herbstfest Gottesdienst",
       "category": "music",
@@ -1974,47 +1849,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-fc7e899ac59d",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-09-19",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-be41f05d57da",
@@ -3150,26 +2984,6 @@
       "scrapedAt": "2026-05-30T09:12:56.539Z"
     },
     {
-      "id": "social-3eaa1cdb8f11",
-      "title": "Stockschlag-Cup Felsberg",
-      "category": "sport",
-      "description": "Ein Unihockey-Turnier in Felsberg.",
-      "date": "2026-09-19",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.8504,
-      "lng": 9.5019,
-      "image": "",
-      "organizerUrl": "https://www.unihockeyfelsberg.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-30T09:13:34.080Z"
-    },
-    {
       "id": "social-e64cfeced104",
       "title": "Maurice Storrer concert",
       "category": "music",
@@ -3249,47 +3063,6 @@
         }
       ],
       "scrapedAt": "2026-05-30T09:18:10.390Z"
-    },
-    {
-      "id": "social-7e13643e7fe4",
-      "title": "Okotoberfest Thusis 2026",
-      "category": "music",
-      "description": "Das Oktoberfest in Thusis mit bayerischer Stimmung und Musik, Partyband, DJ. Zum zweiten Mal bringt der Verein EventBünda das Oktoberfest nach Thusis!",
-      "date": "2026-09-19",
-      "time": "17:00 - 03:00",
-      "price": "Siehe Ticketinformationen",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle",
-      "lat": 46.6865,
-      "lng": 9.414,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-in-thusis-7347710321798319690.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/partys/okotoberfest-thusis-2026-in-thusis-7347710321798319690.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6ly-Wqj65UC_Vr7cNA65eEfGlsDGVQX_QsnmmIgDmgMXXjM_ERLF48Gf3u_AYE53g677eZMpOTAldWQ25OVT7Q2O50TvVbcgvzODNvFhnzpspFc5fL_QAosy68CKxWngfFSXnwOXhgrj3c3p4bg1J2YQlkP2nnhAiSapz"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJdEGVsxCDatZLd-wS6UbfaoMF4BmaeM1jGD00lH8SAI0HhtZG5AUsbA-DHfJ8Wll6nw3pOPFr_A8O1JakDnnWd17c8DfS2IVa_RCVA=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8eJBDETle06KNVqMKPyK1lUWR4FIFZFilO7l7PQg9Aepi2WMnkN9qkPt04utGkLv98fv_NDRNizwUpPs2YlpX7d9isKhTwPW6YGbReIS5gsSduKIXpwNpUKpdGZ9F5k4ctnjDD25J2bKfCF93PFt1Nzi7CQ5tlG-B0PJjEjVpXjvbjVv3Dlwcj3Fl7yuL"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgD-tLNo0_MiYHvazKr4L3Llc1WwbRq1acSVo-D2DQ8hP6yTxLYx1GFdVzVEnLv9wBH37A5FnmcsgIPpRWmFAsXum9ndcf99568xajTC9aYHIiHZti5xZwWWsnfIzrzc-3d8mB59hi4BvPneSNQ1a4Sc4OhIOmxuf_lS7HFB7QI8lcUOswCnYNIcdzBCOOg0XCjN05S48="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtRjMhsPjXpc6SW4ihLyuchq1NNCdtlr0CFsAhNjkikOge2IIrYN2cjQjcbLrV1XmvjMk4Qy55CPDuOcrpsqIKnpFIXZ819izunh-y25VomZCy-GxSIFOPPfIFl6pRGV_FXjo4Tt19s4f_2r7_-BTpLa6P3cttrvyp8K34ZI5wW8PBHlAVEY0oc-praSw1bLXFBA-N_c4m48PbwCvVcr7QRGo8"
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:21:14.949Z"
     },
     {
       "id": "social-795162d0ae77",
@@ -3615,47 +3388,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-31T09:48:47.075Z"
-    },
-    {
-      "id": "social-a992ddb71239",
-      "title": "Jubiläumsanlass im Blockhaus Bonaduz",
-      "category": "family",
-      "description": "Jubiläumsanlass für Mitglieder und Familien im Blockhaus Bonaduz.",
-      "date": "2026-09-19",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Blockhaus Bonaduz",
-      "lat": 46.82,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://naturvereinbonaduz.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "https://naturvereinbonaduz.ch/jahresprogramm/",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFro1rcLKhk44h7efTs7xbKAwNbYkv1ZqMNORwjnyJO_4tQ_n3PsSVUCZxrQjp7jBlQwdNfUVlSdQb_3nCTgYiLqnZn5uO4Vw5UksBMwxjCTxgVJE_a4ALllOZ_OCE="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsekdMmAsh2doFQi89Y5iqHq2D_wZ3kjlcdwtyMSEpUHHrrlUjve3YfJPn8t6QsVgk1aYW3vtyo_aZM0ER_-TWrHqq-Kwe51BdNqejcE6TbTfOjqosQb43cwdSpkMzm5g="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_dxca0BRiMpzxCuB6Fk16V0SzkOgYzVwwNUk92KKlHUBjAQaQJrk54RGOiURqs-Y0vyV1EpC5e3vocU-T6NQL_f-vkjsbpMe04bcZVnDziYjyo2DLJYA8syfZAQ7GZCDhZwT7ihkbJM0IeN004OJAToh-fQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv08XYNDJbj3y7rnspmHugpjaHrHCi-dYK-NpFSZVlKVkzkRqW9V43g8ODxHxnmHSZL8xPTJe_iPGr-ayLYT3AUmREYIEV5tuBlb_ViCQUwwbBwklqVckyHBv6-iToJyakMAzQdJTggB1yjqqRWmHPjD8AXVdbwwS-JDpGC3vP4oatKjupJqEdaRhs61r2qIracgqRSyc="
-        },
-        {
-          "title": "rapidopenair.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGozo3Bdt1_oU0pHDLSTKZ9DaVQEJn3PUklpL3oesVV-7wYOkwk3-4R8Hpzw_mv1t-rg1VOnMWKdz-Z7kuJ4dgepyIXXVwI0Q7WwkqVCVVWsLId"
-        }
-      ],
-      "scrapedAt": "2026-05-31T09:51:30.300Z"
     },
     {
       "id": "social-213f9983d140",
@@ -5070,47 +4802,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-03T11:55:00.126Z"
-    },
-    {
-      "id": "social-934f7abf1ee4",
-      "title": "Herbstmarkt",
-      "category": "markets",
-      "description": "Abwechslungsreiche Marktstände, verführerische Düfte, ein Getümmel an fröhlichen Menschen, Musikformationen.",
-      "date": "2026-09-19",
-      "time": "10:00 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulareal Obergasse, Zizers",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.frauenverein-zizers.ch/herbstmarkt",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "musik-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0pXPajnhLWjn5jvsel2woZ6dg0BcP90_zqdQqCJvXBJJZxGG8hA9b-m8IXB2rGmz3OKgk64-copkbb6yWgx_ZHWDh3BLy4uSE34ym9SF1lf6rUABVg=="
-        },
-        {
-          "title": "tvzizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRK2bYBvyWcU9mWVwYYlimMye2zyeQvAHuLF704DPQjOfn5M0xfhilCqusq6W5tQZ5equAgqidgnSIZZUwTvUjk0grj5FN_ZkrCWYtiVbplgSJoRplWqOs5hOotGaSTkczDqLPB0wtdIWVOAs="
-        },
-        {
-          "title": "sportschuetzen-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5RdEszX7Th8eSb8nDsWDVrARg3WOQec-vYRDepLaTR02EHxvEF7J512ia-88S0wMKlgWhw0h7o5gqtK6XsvOHb6HRQt8bpS-XSCd-CgBNSfYSIVPXwYxyCRHTBfjRhg=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfW6Mr1qZpbhPwu7QZP9SYMuwx5WfzUkfAMa4c48L8aQjiIsIc1QUGYssCzcNHN2Z0I4jytP-l0eoOWHZqag2M3d5IDICm6MvLY89erfd0BF1uJyw_nvszfEsqdeTOSWF88-hYH78izS8komq4Fmhlb73B9cl2tJe-xg=="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELGNPT1Jk2JdsEmF-VB29H4k18FU4SZsOGwYc5I6cKts3zdEjCz6EafhjoF5ZDvMw-q8EMO9umTw_j0exPmN4JjP3jtIIXNzS9xVKIFzpM0KNIVN2qSqL1_oXxiNkjV5XvmJkWaw=="
-        }
-      ],
-      "scrapedAt": "2026-06-03T11:56:05.201Z"
     },
     {
       "id": "social-c359db1758ee",
@@ -7099,26 +6790,6 @@
       "image": "",
       "organizerUrl": "https://www.localcities.ch/de/7302/landquart/veranstaltungen",
       "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T12:01:13.890Z"
-    },
-    {
-      "id": "social-52b67cf512ba",
-      "title": "Lapsus - Ego!",
-      "category": "stage",
-      "description": "Comedy-Programm von Lapsus.",
-      "date": "2026-09-19",
-      "time": "N/A - N/A",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart (genaue Lokalität nicht spezifiziert)",
-      "lat": 46.958,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.ticketcorner.ch/artist/lapsus/",
-      "ticketUrl": "https://www.ticketcorner.ch/artist/lapsus/",
       "sourceUrl": "",
       "sourcePlatform": "Other",
       "citations": [],
@@ -9339,26 +9010,6 @@
       "scrapedAt": "2026-06-13T09:59:04.126Z"
     },
     {
-      "id": "social-fc2bdc08e600",
-      "title": "Abendstimmung auf dem Zuckerstock mit Gerstensuppe",
-      "category": "family",
-      "description": "Eine gemütliche Wanderung auf den Zuckerstock, um die Abendstimmung und den Sonnenuntergang zu geniessen, gefolgt von einer warmen Gerstensuppe auf dem Älpli.",
-      "date": "2026-09-19",
-      "time": "15:30 - ",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Zuckerstock / Älpli",
-      "lat": 46.9922,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://www.aelplibahn.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T10:03:08.667Z"
-    },
-    {
       "id": "social-b163b77d6a90",
       "title": "Jahreskonzert (2-Länder Musikanten)",
       "category": "music",
@@ -10889,26 +10540,6 @@
         }
       ],
       "scrapedAt": "2026-06-16T12:15:52.955Z"
-    },
-    {
-      "id": "social-833e84213333",
-      "title": "Oktoberfest Thusis",
-      "category": "family",
-      "description": "Das Oktoberfest in Thusis mit bayerischer Stimmung und Musik, Partyband, DJ.",
-      "date": "2026-09-19",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.6901,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/sonstige-feste/okotoberfest-thusis-2026-7289053330368819448.html",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
     },
     {
       "id": "social-5093245aa7b4",
@@ -13303,26 +12934,6 @@
       "scrapedAt": "2026-06-23T10:36:00.038Z"
     },
     {
-      "id": "social-100c4658684c",
-      "title": "2. Street Food Park Festival Chur",
-      "category": "markets",
-      "description": "Das beliebte Street Food Park Festival verwandelt den Theaterplatz Chur in ein Paradies für Street Food Fans mit Musik und Unterhaltung.",
-      "date": "2026-09-19",
-      "time": "Ganztägig",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Theaterplatz Chur",
-      "lat": 46.852,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.streetfoodparkfestival.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.006Z"
-    },
-    {
       "id": "social-fe1cdf8c0d78",
       "title": "2. Street Food Park Festival Chur",
       "category": "markets",
@@ -13722,47 +13333,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-d9f6710f3e93",
-      "title": "Street Food Park Festival Chur",
-      "category": "markets",
-      "description": "Festival für Street-Food-Fans mit Musik und Unterhaltung.",
-      "date": "2026-09-19",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Theaterplatz Chur",
-      "lat": 46.8517,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://streetfoodparkfestival.ch/chur/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-5ed0532cbc44",
@@ -15397,47 +14967,6 @@
       "scrapedAt": "2026-07-05T09:40:25.446Z"
     },
     {
-      "id": "social-ccc4beb5d516",
-      "title": "Okotoberfest Thusis 2026 - Samstag",
-      "category": "music",
-      "description": "Das Oktoberfest in Thusis am 18. und 19. September mit bayerischer Stimmung und Musik, Partyband, DJ.",
-      "date": "2026-09-19",
-      "time": "17:00 -",
-      "price": "Tickets verfügbar",
-      "municipality": "Thusis",
-      "locationName": "Mehrzweckhalle, Thusis",
-      "lat": 46.702,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/partys/oktoberfest/okotoberfest-thusis-2026-7359929252324203643.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/partys/oktoberfest/okotoberfest-thusus-2026-7359929252324203643.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyjcjOZOfjbEy0JXtn_otoVtyJA6j_EsTGcxMKa3RU_cOKyQ5KiFLH00Uiy7rffq5NbGIDNqvum1N2cl5IDnD0H3W1pvc66pXaRejqs1-GJ5rjMonWQYIStIFORnUwVhCW5DA3zZIicSqDnksZbCV-yrJoa3-dWvxS3xURN2YW8NCpzEgoiDvUxUfHpPEN2H5GyqY="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMhtMLuCXpB7uzHcNNvDPawlZg2YCReg2NVYGw_lkb3CaxNXYK76g5UpDtpI3JwO5Upnm5Zgg0uJi-olvYXcn8SBt7v27OuiZeZHQbq07rF8VFZCKgjW5tAmFw3T-lR4UCmMox3Wn6WO5KazG3qAmDe4-hRlQh9PjBQOp6GYQgzMatgjWePg4nOiKcv5PjjdE="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMhbnn6e4onfqCGRuRmpr9uJlLG7T4AS5CThh7PoIem41Lmv6k4cVtJw0pp3TX0PRN10u3AC-urWvUvnh_zdYS9z0Iu-6C1oEZgrDkbQYkWbQg-1BJtPYvvkf65nKtWoGN4sFo2kHxR8J0ItOjvx8sWMcifimJ0VuEA5hLtbfJg3_DP5QWlRNOYT5NFP0zaQ=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvc1yh0rzQ0nBUYuAZU3cgYjChF1C-Dmdv97OyAXZfWpE6J5GLuX5llSFwh8bgC-TyXxlb7DlL5ycsjP5iwxod1-H3AD8-iyzb61yyq8nk24wsbyIKorOqBZbWLQe1aXgTpaZe6grqxcYEq3V4zQVlKfYi7yfYEQc8mksGfrKstfEADgeTXuukPYoujPFj"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0t1PfvLsI9jadhMW16P1SdMqxuHRKwCzzvEZ4tmTVGLIwh2c41SJwcaGvElZPoa7E6_iHinYucN-zyPVAH5fwrE0uWjl19esYrvriMwYZWQGNedf8iey2pQ0PVjz-D7fm2wbV3ZSRIeeeWkEdRiF-Iad4dqVkkT9eLZW7GMV3VvACJ0bCtMDSrPyvESKSjg=="
-        }
-      ],
-      "scrapedAt": "2026-07-05T09:46:46.957Z"
-    },
-    {
       "id": "social-08bb382fae25",
       "title": "Bettagsandacht vom 20.09.2026 mit Chor viril Domat",
       "category": "music",
@@ -15819,35 +15348,6 @@
       "scrapedAt": "2026-07-08T09:25:20.855Z"
     },
     {
-      "id": "social-0318855dc6af",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-09-19",
-      "time": "19:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.817,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjusITCW-jQkyLL4vYTKb7Qun2xLcWuHgb_ueCBnvwRzvcGMMHAZmGVueRWpMTVJ1Iu3EwI_otxPJC2b3PNcZIEYL01vNF7msNxYtX7DKFUdC54LEHurUS8Mt7KoPv0IS4X1GYG_Va3volrMQhuHkz_UNCEflh8HvoRQ=="
-        },
-        {
-          "title": "edelweiss-tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPsKTrifiotvlA9V7qXViOQeamb-LhRYW7w--UlW-XqS4elZHrPJk1UWz6vgKaUU5D-whjTSxQhOoGnPqIClkIOuoRe_C-aNSvLIwLn_saNhQbjMvCCqMuckazifW6ZXVBBw=="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:29:18.021Z"
-    },
-    {
       "id": "social-e83a2293f31b",
       "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
       "category": "sport",
@@ -15875,47 +15375,6 @@
         }
       ],
       "scrapedAt": "2026-07-08T09:29:18.021Z"
-    },
-    {
-      "id": "social-afb5fd83c7b5",
-      "title": "GRTV Spieltag",
-      "category": "sport",
-      "description": "GRTV Spieltag.",
-      "date": "2026-09-19",
-      "time": "",
-      "price": "Siehe Website",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.99,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.tvmalans.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa8obHWDdr9TqxxbK08Ymlw5mR-aoEJ84xLXw8gyRkI4vp1M6fD8AyBn36YO5O6PDVZfPWSiEdtEmxa3ywZI-bCtgceoTYyFwIrn95zGaeWnY9CoqdKtrgE4xRJ2CA-14="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN8dTuXAbgqYdwxGnWy6SUcsiv9WBzaIy5reObOjIGj9fPwLYIA2nZoBYezd4Y8gUTqMah0xrMpHy8yn4unfFAYb5hBkcdjPRYfrQzYqyU-gfGsAlSECTg_nw8fVJu-0iALM_BiDAKyJTM9D6zrLf5-5u96J-pDqVFha9-9HUKvtr2nRC39OVK"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5CItWzpLtLFrYjc2DzKTkEc5ZZ9YfDenfIZ9cKFlIzrDcUeTM2Jc1yL9mCLeIARdvtFgakaMrlhBvRKc1FaLyNgB5hCaYSpwO-nCGO0IIDT1GyxmoiIj_kiJjI7Juq65S3N5ZJSH4rYxDF15JHaxKtrgz2dbKIT1KHfPhWiTW4lEJou5VHINf"
-        },
-        {
-          "title": "aelplibahn.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiuHo92LgLv9Lo6IOwR0wIArgV_ni-Xysh0DLv-F3QMWnz6N2VXuUTeBNf3wjr0v_UwtkfPr0neBBPFehSiTqC9CdSTfD7vPGKt1t5HEJV7RFXzGgVqIvRDMw9x1tiyPTpv5lUew=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVjoOgmwa_or7LD5V1GTno2XDkhckSir0dGFTv6ji2e0hoo2raH4UxUJF3Y206AhH5hcQWmfZxA3kA7J9wkFRwti2X-39cbw-3fSqDZZ4Q9dMFh-CRDFcSRi8E8T5go9wLj1XLHOZNtC9rVYrE4tWyMf31-XRAYX0sgEkUZFPY5h05xObqaV6i1zoObRdnVvYimlOhcmR2qihHcQ="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:31:16.989Z"
     },
     {
       "id": "social-b903e90126df",
@@ -17010,26 +16469,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
-      "id": "social-5b1a29d8b7e9",
-      "title": "Notfälle bei Kleinkindern (0 – 4 Jahre)",
-      "category": "family",
-      "description": "Kurs zu Notfällen bei Kleinkindern, organisiert von Felsberg Vereint.",
-      "date": "2026-09-19",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.8488,
-      "lng": 9.5041,
-      "image": "",
-      "organizerUrl": "https://felsbergvereint.ch/kurse/notfaelle-bei-kleinkindern-0-4-jahre/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-12T09:00:52.844Z"
     },
     {
       "id": "social-7960ccd06476",
