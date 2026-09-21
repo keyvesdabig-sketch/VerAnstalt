@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T11:56:47.453Z",
+  "lastUpdated": "2026-09-21T13:30:28.834Z",
   "events": [
     {
       "id": "social-b4cfe6906d28",
@@ -4744,26 +4744,6 @@
       "scrapedAt": "2026-06-02T11:25:01.963Z"
     },
     {
-      "id": "social-1701e116675d",
-      "title": "Auftritt Bettag",
-      "category": "music",
-      "description": "Musikalischer Auftritt der Musikgesellschaft Felsberg anlässlich des Bettagsgottesdienstes.",
-      "date": "2026-09-20",
-      "time": "09:00",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Kirche Felsberg",
-      "lat": 46.837,
-      "lng": 9.507,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-felsberg.ch/agenda/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:53:21.095Z"
-    },
-    {
       "id": "social-f99ad990f1d1",
       "title": "Wochenmarkt Trimmis",
       "category": "markets",
@@ -5354,43 +5334,6 @@
         }
       ],
       "scrapedAt": "2026-06-05T10:42:18.631Z"
-    },
-    {
-      "id": "social-d17d02369a4d",
-      "title": "Stockschlag-Cup Felsberg",
-      "category": "sport",
-      "description": "Unihockey-Cup in Felsberg.",
-      "date": "2026-09-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg (Unihockey Felsberg)",
-      "lat": 46.83,
-      "lng": 9.51,
-      "image": "",
-      "organizerUrl": "https://www.unihockey-felsberg.ch/junioren-d/spielplan-termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb0_YscLah0kwWM5qdK_88Kq7tg6V_vnGzyvF2I3ctgJ2hWiUR_fb3Gd8JIK0U2vIOFTLYcX1mUOfpCkgGK1EDFMEgrkyD5KBec7EY58zRCQR1VQU_WKwjrFXY-A=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ79zutsYGX4VbCb9u4V0mawe8nhW6RJleZvy5xleJCAkJEzjnHOL4k-hTqoRFiHaU87m2K8qjlqtgSWlwbYGp9sdJP4Jq87AwsXHax0rhVCOX8JITusdNcP-c67qfhOSAkJMK"
-        },
-        {
-          "title": "projunior-gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOtl5Shw2S469VlSJDqMDRd38mZKLty9AV3JRORXXoLhSgT4_wGO_V-WeX-8llunalW-sRakbBGtkCqCFsP57hvoWRPG1T55yGTqoU9J8VPkbK_5ExDEXFiTDjtIdZKq9oPIYeSIw6uAac_ecTwxM="
-        },
-        {
-          "title": "unihockeyfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmD9qs26viVKjog6okiwZ3ohl18eVGsuQv_wB8h1xND5EtkOIkqpJ_IC_dIyRvFbEi5MpmsQx5oDQ6apE7cOfvdpEu8--jAmz0XCwVtQA-fN_Snzx9nODJ3lzyjTNuHcMQNSdzMDeO8z-DQBVQJuo1JVQKvPqL8bxHJn44"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:43:57.523Z"
     },
     {
       "id": "social-8206f33fe199",
@@ -6756,46 +6699,6 @@
       "scrapedAt": "2026-06-08T11:58:32.845Z"
     },
     {
-      "id": "social-a73c11f12883",
-      "title": "Schwiizergoofe (12:30 Uhr)",
-      "category": "family",
-      "description": "Kinderkonzert der Schwiizergoofe.",
-      "date": "2026-09-20",
-      "time": "12:30 - 14:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9582,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/7302/landquart/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T12:01:13.890Z"
-    },
-    {
-      "id": "social-1ab46df8b392",
-      "title": "Schwiizergoofe (16:00 Uhr)",
-      "category": "family",
-      "description": "Kinderkonzert der Schwiizergoofe.",
-      "date": "2026-09-20",
-      "time": "16:00 - 18:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9582,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/7302/landquart/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T12:01:13.890Z"
-    },
-    {
       "id": "social-836a5d9feb75",
       "title": "Gregor Meyle - Unplugged 2026",
       "category": "music",
@@ -7039,26 +6942,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T10:51:31.446Z"
-    },
-    {
-      "id": "social-1dc4efc90275",
-      "title": "Bettagsandacht mit Chor viril Domat",
-      "category": "music",
-      "description": "Eine Gebetsandacht, musikalisch begleitet vom Chor viril Domat.",
-      "date": "2026-09-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Domat/Ems",
-      "lat": 46.828,
-      "lng": 9.502,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:52:25.650Z"
     },
     {
       "id": "social-73f5115b72c1",
@@ -12853,26 +12736,6 @@
       "scrapedAt": "2026-06-23T10:31:06.695Z"
     },
     {
-      "id": "social-426ed404f431",
-      "title": "Bettagsgottesdienst mit Abendmahl",
-      "category": "music",
-      "description": "Bettagsgottesdienst mit Abendmahl mit Pfr. Harald Schade und Musikgesellschaft Felsberg und Musica da Trin.",
-      "date": "2026-09-20",
-      "time": "09:45 - offen",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Evangelisch-reformierte Kirche Felsberg",
-      "lat": 46.845477,
-      "lng": 9.470554,
-      "image": "",
-      "organizerUrl": "https://www.kirchefelsberg.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-23T10:31:56.516Z"
-    },
-    {
       "id": "social-62be0348a8ca",
       "title": "Stubete",
       "category": "music",
@@ -12932,26 +12795,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:36:00.038Z"
-    },
-    {
-      "id": "social-fe1cdf8c0d78",
-      "title": "2. Street Food Park Festival Chur",
-      "category": "markets",
-      "description": "Das beliebte Street Food Park Festival verwandelt den Theaterplatz Chur in ein Paradies für Street Food Fans mit Musik und Unterhaltung.",
-      "date": "2026-09-20",
-      "time": "Ganztägig",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "Theaterplatz Chur",
-      "lat": 46.852,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.streetfoodparkfestival.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.006Z"
     },
     {
       "id": "social-65c999f968aa",
@@ -13333,47 +13176,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-5ed0532cbc44",
-      "title": "Street Food Park Festival Chur",
-      "category": "markets",
-      "description": "Festival für Street-Food-Fans mit Musik und Unterhaltung.",
-      "date": "2026-09-20",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Theaterplatz Chur",
-      "lat": 46.8517,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://streetfoodparkfestival.ch/chur/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-5fee1775aec8",
@@ -14292,26 +14094,6 @@
       "scrapedAt": "2026-07-04T09:16:28.222Z"
     },
     {
-      "id": "social-5d662612a4e7",
-      "title": "Ökum. Bettag in der kath. Kirche mit Apéro",
-      "category": "family",
-      "description": "Ökumenischer Gottesdienst zum Bettag mit katholischen und reformierten Kirchenchören und anschliessendem Apéro.",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Katholische Kirche Trimmis",
-      "lat": 46.9,
-      "lng": 9.567,
-      "image": "",
-      "organizerUrl": "https://www.kath-kirchetrimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:18:47.913Z"
-    },
-    {
       "id": "social-d85dced647e7",
       "title": "Erntedankfest auf dem Rüchi Hof",
       "category": "family",
@@ -14965,26 +14747,6 @@
         }
       ],
       "scrapedAt": "2026-07-05T09:40:25.446Z"
-    },
-    {
-      "id": "social-08bb382fae25",
-      "title": "Bettagsandacht vom 20.09.2026 mit Chor viril Domat",
-      "category": "music",
-      "description": "Bettagsandacht mit dem Chor viril Domat.",
-      "date": "2026-09-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/de/veranstaltungen/domat-ems",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:24:48.683Z"
     },
     {
       "id": "social-9efd76d61497",
@@ -16673,46 +16435,6 @@
         }
       ],
       "scrapedAt": "2026-07-12T09:09:30.723Z"
-    },
-    {
-      "id": "social-f58b9e256dbe",
-      "title": "Handwerkermarkt Chur",
-      "category": "markets",
-      "description": "Market for handicrafts.",
-      "date": "2026-09-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Poststrasse",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
-      "id": "social-5cb7d99b5629",
-      "title": "Reise ins Farbenland mit Clà Ferrovia",
-      "category": "family",
-      "description": "Journey to the land of colors with Clà Ferrovia (likely a children's entertainer/storyteller).",
-      "date": "2026-09-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
     },
     {
       "id": "social-d06660766b19",
