@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T13:30:28.834Z",
+  "lastUpdated": "2026-09-22T12:14:52.947Z",
   "events": [
     {
       "id": "social-b4cfe6906d28",
@@ -840,27 +840,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:16:03.363Z",
       "legacyId": "social-1779632163363-Rhzns-3"
-    },
-    {
-      "id": "social-27921135814f",
-      "title": "Zu Besuch beim Weingut Schifferli in Malans",
-      "category": "family",
-      "description": "Einblick in die Arbeit von Astrid und Andrin Schifferli, mehr über den Bündner Weinbau und Degustation.",
-      "date": "2026-09-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Weingut Schifferli",
-      "lat": 46.992,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.schweizerbauer.ch/agenda/von-alplaese-bis-weinbau/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:17:00.486Z",
-      "legacyId": "social-1779632220486-Malans-31"
     },
     {
       "id": "social-174c5ea1373a",
@@ -9975,47 +9954,6 @@
       "scrapedAt": "2026-06-15T13:11:16.675Z"
     },
     {
-      "id": "social-9836bc095b0e",
-      "title": "Öffentliche Schlachtmärkte Grossvieh",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt für Grossvieh in der Bündner Arena.",
-      "date": "2026-09-21",
-      "time": "08:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.73,
-      "lng": 9.44,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch/oeffentliche-maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH47vjKPCdiRRLfUVV45zFcrUBJ2C9TfwGFuXTGou9R8_3Rmlr7fVtKkcn9O0EIWv6PBsunYtV2e90v3PmQlEklR-tJN9p3jMtxYRWIDwG1mvVyj-JbhH4T7QjAllmXuOvhUsnRUBncluZQn89kX2Pfd5_PW0JS9lY2u8BZOPzGtQlTAzjl1GViOs_cYA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKR5TFlYzs3R4x7P_zuk3DzPSIyxvqkeGqmdGYpdBIeY9haS5qe1VYhETvjx4Y4kRJ-b3x1QXADtprljBwUmNah_9bAAsKRaa468MHHy0doE97nTek-s6E-VXMfzHptLZl9LDfsjhrOwPuZkXGVJH4zOggOrauI8lLbyjslCu2Ky9SdFc9aTpYFJ1fFXQsgI-"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGTdjcrCrfOMgvoC0Mkejuw6syL97TUlwhu_T7WfhzthOLaSXRoJrYgg-J6DH-YAmF0bPbClAZPV1QoeibLobEb2sBnaTZWMPVqCTcHHDW6h015pvp6Cp0q65e7o_YO0CHfOBYxU9974py6yG8L19MZfs="
-        },
-        {
-          "title": "eventseeker.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZlUv2QA3oEThRyecVvIilLpA4Z_U9Rzz2pzFaU5okmkWJOwHL8xAYf2mLAgtYA0PEDbbmXss3MyQx89nJkcjyfXkwPC15vf69JZBssEImGNDhfiH2XF7nC5DVEqWQR-pM0ZnkF1vMg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTXMV0ft8auniHWtSJLeKgYumUhgYdKUV22-VUsH8ss6Vjpy3zDcq6jRkXYeRro9CjcSYd0CuaNYMbrrGL5tMKVYm5lbg0IbLH-MTh6v3VBuBCAVu7M8PLXF3DsEUgI6I_u_el5A42m47-h2rCLuYoUQ-xTLli1YtwkM0tKwcTWrEoG4rqoRKSzMMLO1MmrXgMay4i2w=="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:11:16.675Z"
-    },
-    {
       "id": "social-a5a153ffc0fa",
       "title": "Öffentliche Schlachtmärkte Grossvieh",
       "category": "markets",
@@ -11191,47 +11129,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
-      "id": "social-32cc44c63a21",
-      "title": "Öffentlicher Schlachtmarkt Grossvieh",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt der graubündenVIEH AG. Die Märkte zeichnen sich durch neutrale Taxation und Preistransparenz aus.",
-      "date": "2026-09-21",
-      "time": "08:00 - ",
-      "price": "Verkaufsgebühren für Tiere (CHF 10.00-15.00 für Grossvieh)",
-      "municipality": "Cazis",
-      "locationName": "graubündenVIEH AG, Italienische Strasse 128",
-      "lat": 46.7297,
-      "lng": 9.4187,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch/oeffentliche-maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9tGa16To2pQnF8u24xlpzOGTdCjOHJbe2w9tF-ZF5P0izRvTPwp24LmBdBzrFi9ZV4uSfNibo_MKEzf33vzmiXnFi_2iehpcbqsKR4zBripP3mqlBh3ZbA0J_FJsYj-mqrToiVY61NxTbSeEtq93yVWQTmk94MRmysLaglP13J4BY1IPLmtYAcCTJ4A=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGEevdI8cZ7s2Ci09BxLc86CacPXt6WgcpMgYD-ILeRea9agcuy_6G5zfWR_b8MSFaUR5EkXKi_sUXmaIzzzxKOg-aLGRjdQ-yXdGnryL48yw8oPFc3sr2j_Fz_tZfcA59nOeIPAXjPS3DD6RlFh9TaJEZBZN_OehMdad8btoja5xrGIoJhufGZBgZtsJpcqK0"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2kBricpYL6ktDfIbWMIF79e171yuUx9yz-i2l7BPX4MDqeR8OJt0m3JtiGXhpvgt0aWYxGJynffiP7-XtnTohkBkoZfHPfvMp2VBGv5x5Tl-LsJdO_P_rLFVagW8V0OP4Fdu-UuvKYSBwLgvo95-OtHw="
-        },
-        {
-          "title": "graubuendenvieh.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE479Gveh5UHNl1QL94dSERhP_9tPOEdZquYsjjLw2_Z02A3h0AAY7cqiw4WOcPmsoqegDfNUCCY1rb-NtWj-pda51sHjtKz_1NQGIamNWWcPnYApyMom1-lmM55bYBzhDD57U="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRb-pJVrda3GU8L-_nYfB-70QY-yA2J89PFfHaCXCDVqkXJRir0W7TPI81xHhM98e-46Ja1VFkiX3tx8YjZRab0lC6ByREDgIRUtv8Eoj0ADbNewsMR_9kKcruOFgk8HXmt_r2IhyJexUtAaegFuS7TEgRsHTdYqJ04g=="
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
       "id": "social-7993bb951532",
@@ -12451,26 +12348,6 @@
         }
       ],
       "scrapedAt": "2026-06-22T12:55:43.661Z"
-    },
-    {
-      "id": "social-952b2fa02ba4",
-      "title": "Öffentlicher Schlachtmarkt Cazis",
-      "category": "markets",
-      "description": "Regelmässiger Schlachtviehmarkt (Grossvieh) mit neutraler Taxation und Preistransparenz.",
-      "date": "2026-09-21",
-      "time": "08:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.7702,
-      "lng": 9.4429,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-22T12:56:31.843Z"
     },
     {
       "id": "social-113d6de7ed23",
@@ -15583,26 +15460,6 @@
         }
       ],
       "scrapedAt": "2026-07-10T10:26:44.151Z"
-    },
-    {
-      "id": "social-4a4a85df22dc",
-      "title": "Öffentlicher Schlachtmarkt Grossvieh Cazis",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt für Grossvieh, gekennzeichnet durch neutrale Taxation und Preistransparenz für Produzenten.",
-      "date": "2026-09-21",
-      "time": "08:00",
-      "price": "Siehe Beschreibung (Gebühren für Verkäufer)",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.7725,
-      "lng": 9.4079,
-      "image": "",
-      "organizerUrl": "https://graubuendenvieh.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-10T10:27:20.583Z"
     },
     {
       "id": "social-1d674f14051a",
