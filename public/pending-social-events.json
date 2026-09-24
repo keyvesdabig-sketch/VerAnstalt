@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T12:27:58.650Z",
+  "lastUpdated": "2026-09-24T12:27:12.885Z",
   "events": [
     {
       "id": "social-b4cfe6906d28",
@@ -999,27 +999,6 @@
       "legacyId": "social-1779632286939-Landquart-16"
     },
     {
-      "id": "social-e8666b54e671",
-      "title": "\"Story\" Kinderdisco",
-      "category": "family",
-      "description": "Kinderdisco. Teil einer wiederkehrenden Veranstaltung vom 23.09.2026 bis 18.11.2026.",
-      "date": "2026-09-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-30"
-    },
-    {
       "id": "social-23381ff94041",
       "title": "Konzert \"Follia\"",
       "category": "music",
@@ -1081,26 +1060,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-5605f34d79a8",
-      "title": "Henry's Blues Duo",
-      "category": "music",
-      "description": "Blues-Konzert präsentiert vom Folk Club Chur.",
-      "date": "2026-09-23",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Kultur-Bar",
-      "lat": 46.8491,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://werkstatt-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-ea563b843c51",
@@ -3042,47 +3001,6 @@
         }
       ],
       "scrapedAt": "2026-05-30T09:18:10.390Z"
-    },
-    {
-      "id": "social-795162d0ae77",
-      "title": "Kids Nachmittag mit Disco",
-      "category": "family",
-      "description": "Mit Baby Dance für unsere kleinen Gäste! Zieh dein Lieblingsoutfit an und feiere mit uns einen bunten, fröhlichen Nachmittag! Die Kinderdisco wird durch Laura und Riccarda angeleitet. Anschliessend gibt es ein Kids Z'Vieri Buffet mit frischen Früchten, Kuchen und Süssigkeiten.",
-      "date": "2026-09-23",
-      "time": "15:00 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "STORY Thusis, Unterer Rosenbühl 5",
-      "lat": 46.6879,
-      "lng": 9.4137,
-      "image": "",
-      "organizerUrl": "https://story-thusis.ch/events/kids-nachmittag-mit-disco",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6ly-Wqj65UC_Vr7cNA65eEfGlsDGVQX_QsnmmIgDmgMXXjM_ERLF48Gf3u_AYE53g677eZMpOTAldWQ25OVT7Q2O50TvVbcgvzODNvFhnzpspFc5fL_QAosy68CKxWngfFSXnwOXhgrj3c3p4bg1J2YQlkP2nnhAiSapz"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJdEGVsxCDatZLd-wS6UbfaoMF4BmaeM1jGD00lH8SAI0HhtZG5AUsbA-DHfJ8Wll6nw3pOPFr_A8O1JakDnnWd17c8DfS2IVa_RCVA=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8eJBDETle06KNVqMKPyK1lUWR4FIFZFilO7l7PQg9Aepi2WMnkN9qkPt04utGkLv98fv_NDRNizwUpPs2YlpX7d9isKhTwPW6YGbReIS5gsSduKIXpwNpUKpdGZ9F5k4ctnjDD25J2bKfCF93PFt1Nzi7CQ5tlG-B0PJjEjVpXjvbjVv3Dlwcj3Fl7yuL"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgD-tLNo0_MiYHvazKr4L3Llc1WwbRq1acSVo-D2DQ8hP6yTxLYx1GFdVzVEnLv9wBH37A5FnmcsgIPpRWmFAsXum9ndcf99568xajTC9aYHIiHZti5xZwWWsnfIzrzc-3d8mB59hi4BvPneSNQ1a4Sc4OhIOmxuf_lS7HFB7QI8lcUOswCnYNIcdzBCOOg0XCjN05S48="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtRjMhsPjXpc6SW4ihLyuchq1NNCdtlr0CFsAhNjkikOge2IIrYN2cjQjcbLrV1XmvjMk4Qy55CPDuOcrpsqIKnpFIXZ819izunh-y25VomZCy-GxSIFOPPfIFl6pRGV_FXjo4Tt19s4f_2r7_-BTpLa6P3cttrvyp8K34ZI5wW8PBHlAVEY0oc-praSw1bLXFBA-N_c4m48PbwCvVcr7QRGo8"
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:21:14.949Z"
     },
     {
       "id": "social-7a9d5e445ca0",
@@ -6313,47 +6231,6 @@
       "scrapedAt": "2026-06-07T10:06:04.781Z"
     },
     {
-      "id": "social-84519f479973",
-      "title": "Story Kinderdisco",
-      "category": "family",
-      "description": "Eine Kinderdisco, die regelmässig stattfindet (bis 18.11.2026).",
-      "date": "2026-09-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.68,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen-thusis/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kinoraetia.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyyVCeZ396YF6UINId3fqm8syHzH41t5v5sMJMfOwvCkvQV_kGNCFmOsKrZNQOy-fQXYlLhHkhzvaJ1I4b01aDUjwebn3EidmH_HgdJ2ctwQ=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7m5U133tQnC8jkIKXMGzoXnvufJc9j504Ts8RL6iQ4UutbOUtKPJWXSpA3RYxL9iCdfWwhBykIlTB2vz6hZOAdPuw-xyJdwPLIGpwk2T_FAAqCEffLsZ6S4p_n7Rc1sOng2mqMP5JmLxVRza5wMfuB06ZKs33zijKOIfsBUlc17Gt6ARwik6OWe5ryLLINziWk5TSOyUyO7IihNWleA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFslklmgm9y9aDuNFWFFHLJw9YetowuEe_FU3-V3OqFaLDppQEz1BMHOynqGlu1-yxxK6Sv0twSdqfIt1DKh6dHnIwXYo8CZP9OAdFrQq-E52BJAVeVEKFdmSCvWTfetJrB4lHi5sC9IKg4tTCt8mVpuTAZcoD7Ge0ZLC7AbZARGr9g00xnTlWXK0ythgGq5HWXugutA=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELisOCXj7FUhMwjpUxKs_iDsO--lSYea3WIgdK2_MyjHc-iFgHOo-ZfN2NRAs5Gy2vxUTReh68tE7BUKyL9FeKWZ1A1T8cDTiEDXiDnahrWzwmYXtTVNjaL1DtPNnIMl9XxgXWlBONAOHfo05ZBtcjHqDr"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3uqCLBwkT9Rz3ed4j0hcvY9yqv53HBFnICxMkMQxt23upLoz4bAbBbjpsmwHL3kt9HcFfJ2NCqIIkACz6Kmwxd7eDYUfEZ0tt8l9d-E5juSMJ3Mh5xxtpXRUSjD5lIhh6DIrdFmzCdqRk"
-        }
-      ],
-      "scrapedAt": "2026-06-07T10:07:15.743Z"
-    },
-    {
       "id": "social-ea55f79e57dd",
       "title": "Konzert 'Follia'",
       "category": "music",
@@ -8227,26 +8104,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:07:00.791Z"
-    },
-    {
-      "id": "social-cd946f2e82ad",
-      "title": "'Story' Kinderdisco",
-      "category": "family",
-      "description": "Eine Kinderdisco in Thusis.",
-      "date": "2026-09-23",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.69,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.schweiztourismus.ch/veranstaltungen/thusis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:07:45.887Z"
     },
     {
       "id": "social-475dd0cccc3b",
