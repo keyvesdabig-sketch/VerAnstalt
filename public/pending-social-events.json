@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T12:27:29.865Z",
+  "lastUpdated": "2026-09-26T11:59:20.654Z",
   "events": [
-    {
-      "id": "social-b4cfe6906d28",
-      "title": "Schlagerparade Chur",
-      "category": "music",
-      "description": "Die Schlagerparade Chur ist ein Kult-Event mit einer grossen Schlagerparade und Umzug.",
-      "date": "2026-09-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Stadthallenparkplatz, Chur",
-      "lat": 46.8488,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://schlagerparade.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-19"
-    },
     {
       "id": "social-438cca1c32dd",
       "title": "Polysport-Camp Chur",
@@ -504,27 +462,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:12:36.501Z",
       "legacyId": "social-1779631956501-Untervaz-11"
-    },
-    {
-      "id": "social-4527af0c9565",
-      "title": "Fritigstreff (Gemischter Chor Igis/Zizers)",
-      "category": "family",
-      "description": "Die Fritigstreffs finden auf dem südlichen Schulhausplatz der Schulanlage Obergasse statt. Ein Verein ist jeweils für die Festwirtschaft zuständig.",
-      "date": "2026-09-25",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.943,
-      "lng": 9.571,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch/daten-fritigstreff/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:08.761Z",
-      "legacyId": "social-1779631988761-Zizers-9"
     },
     {
       "id": "social-917e3dd26912",
@@ -2942,26 +2879,6 @@
       "scrapedAt": "2026-05-30T09:14:03.282Z"
     },
     {
-      "id": "social-3b3b34276746",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche, die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-09-25",
-      "time": "19:00 - 23:00",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/veranstaltungen/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-30T09:17:22.838Z"
-    },
-    {
       "id": "social-18029ea43480",
       "title": "Fritigstreff 2026 (DTV Bonaduz)",
       "category": "family",
@@ -4518,47 +4435,6 @@
       "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
-      "id": "social-cc7f541b9a36",
-      "title": "Fritigstreff Gemischter Chor Igis/Zizers",
-      "category": "music",
-      "description": "Ein Fritigstreff organisiert vom Gemischten Chor Igis/Zizers auf dem südlichen Schulhausplatz der Schulanlage Obergasse.",
-      "date": "2026-09-25",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Südlicher Schulhausplatz der Schulanlage Obergasse",
-      "lat": 46.94,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyDj2Djy1-gUQb0BgTKROxPQFa3woyWLdJZFr2afGO5kReRA7i6N3CXgGsZxkfx64snp6q76UFE3EAJZ4YPrdwUXoNXAjChyIAevCiHlSfeQOhqBqa1sr0H1Qt8o2AF21AsTc="
-        },
-        {
-          "title": "tvzizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTwajNhVUMTX67CQGTUQ2c31hGah20OmKuDAgz0sJiKfJDZaOQ_rboHSJpTX1awNiYwT2I13MXmZzze82BtOcWAMLs8YjYHL_l0cg9g0dXBFu7O6KLVVIq2H2AKFKlIXh9Tl9gLHcMU_pT5Nen"
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDP-_tJa1QmGmB5RREeihgGmnY_X_v8Sc_X0YCNr4Gcrx_NYcLRbf6G6E22mvHFY1FlWDaPjWaUx8Am5nWXBqP1vcJjiKc_bPeYqkAVzSfzPTgy9UIt_Qf2_5eUVmUeR-eqf3RMQ=="
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbkKXIOus1tZ0Bsq2K2uHCZ5I5VWvUQuRy2TKK6zcPoLgH63u8pLCp_c23K5I8g2h2USBJ8vyjWVJkfbEtypbADmgcr8ta0Oi1n-s_DSkGO3-sHHpEFqPnQWa85yv7IQ=="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyFcOPS_1ikino93UO0_2ybqwIOiloNrrDrjBUvtCb50Ua7k_4XQlu-TRJUlP9ln4Oa3ORtXn6bpPa8am5OoM1Be0cSBbTS2yI6200tpAEgQpzPpLXDv6mmcmWaH_ooWc2F2H_HUo="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:19:05.082Z"
-    },
-    {
       "id": "social-448cd352019b",
       "title": "Samiklausbesuche",
       "category": "family",
@@ -4639,26 +4515,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:25:01.963Z"
-    },
-    {
-      "id": "social-f99ad990f1d1",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-09-25",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
     },
     {
       "id": "social-d6bec2bf9e47",
@@ -6313,26 +6169,6 @@
       "scrapedAt": "2026-06-07T10:07:15.743Z"
     },
     {
-      "id": "social-143d7b46eca6",
-      "title": "Schlagerparade",
-      "category": "music",
-      "description": "Der Kultevent des Jahres: Jedes Jahr im Frühherbst findet in der Bündner Hauptstadt die grosse Schlagerparade mit Umzug statt. Ein grosse Fest für alle, die Schlager lieben!",
-      "date": "2026-09-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Altstadt Chur",
-      "lat": 46.848,
-      "lng": 9.532,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:51:07.392Z"
-    },
-    {
       "id": "social-84320aed6b3a",
       "title": "Andreas-Markt",
       "category": "markets",
@@ -6899,47 +6735,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T10:54:42.214Z"
-    },
-    {
-      "id": "social-6b3f5a8d4055",
-      "title": "Fritigstreff",
-      "category": "family",
-      "description": "Friday gathering organized by Gemischter Chor Igis/Zizers.",
-      "date": "2026-09-25",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Obergasse",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.zizerser-dorfzitig.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "vilan24.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0FW_Uk6ADrJ6sfZ1ss0aImHr-bkC-1YSrHCfDwSy74Sl9KX9yroYf2yx_CjOQg5VnuFVgnW5_IcWEiyUyP3u8_Nut0r9Zy7wP3yaaMtOVYB8FKwMU5AwtA7jb2P-tmBDcwECPSk5s14i0Vs_qKlt9FrJpCPUqknaAigasXyOVJoGax2Nkfbi0HxCP6g4iWDZwBU="
-        },
-        {
-          "title": "zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp-Jyfdfrs_DNeQ6J4JxIxZo8ueDpiydDQ5ITKagCpqrrmDNH7lPCwJ_yEWdM0pVoA2XJBbBBlrVn_bQrOjr2THLTYJDDMeMUKWsfYi1bTH-YoUXqucgPrKBmH2b23T9UrIhU="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO5KML4P9HeRU5vofZK2EH2wloSDVH1I2nEjvwYjrvk5bDtfJH6VSWoL5rbSlHikWcaSZ0hB9nrop1e4AtDvLGOoiUQsDTubfyjcNQR9zlFED_RBeucuMKvYv-fzMBVanHnIID0xkCUgy2VF-I"
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa_qjrgvasLSbEmYCcTUQyANl_0j45bGr3AdJHoqbO3KdmV8eP7pfCy26WLP-ZvPa9Q6SBlUIh9zfwduRpTFmXwJD25OvWN778JkJLCaOyMlRFmkMIygn4tketuEdByN7d_Bszc0w="
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNtiLxcqK8Cd-bJscz9BrQUTgVBe916jwms6qGe0aOyjlplWIq4ng3RF5FVw0-HMMfh3IidtVL6Y7LFXRFNY7AXbrIAEOON7-eQANV33tAQqfzQRF32zUbrYKCtoPs2Q=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:55:53.062Z"
     },
     {
       "id": "social-ecf45581c27c",
@@ -14511,26 +14306,6 @@
       "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
-      "id": "social-6a86568cac8d",
-      "title": "DART-FRIDAY im Edelweiss",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten.",
-      "date": "2026-09-25",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss, Pajüel 4, 7064 Tschiertschen",
-      "lat": 46.82,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:30:39.141Z"
-    },
-    {
       "id": "social-40d2b11cb2d1",
       "title": "Langer Samstag",
       "category": "stage",
@@ -14790,26 +14565,6 @@
         }
       ],
       "scrapedAt": "2026-07-08T09:29:18.021Z"
-    },
-    {
-      "id": "social-b903e90126df",
-      "title": "SpiCool Landquart - Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-09-25",
-      "time": "09:00 - 11:00",
-      "price": "Kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.961,
-      "lng": 9.575,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:32:16.685Z"
     },
     {
       "id": "social-5c443d6bae53",
@@ -15659,47 +15414,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:49:13.334Z"
-    },
-    {
-      "id": "social-7c1e3fd34930",
-      "title": "Les Toons: Kaboom",
-      "category": "stage",
-      "description": "Bühnenprogramm der Les Toons.",
-      "date": "2026-09-25",
-      "time": "20:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Raetia Thusis",
-      "lat": 46.7112,
-      "lng": 9.4077,
-      "image": "",
-      "organizerUrl": "https://www.kinoraetia.ch/",
-      "ticketUrl": "https://www.kinoraetia.ch/buehne",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs5oq2UB-HHytSroYfXJSM5xgbdfSz08BabKzGnRyQw7_ZiIhq7aMFUNWoNGpA_TCndBSeCx3aObzqMnTI7RSmAs3-fP7IvkiUmjL8kVNAjSWzikgEbLV7tq3tY4Uv76w="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6N9tCNEjOi6LfBE6jNIR2gzLJhWVgKiZJyZpR8wnlFsG_w85T0P6ZfhRfvw9vr0YxbxHAeWLlRSwPtX7FWzRZ7-dC4bltWqqxbxPxSpC6njH8sZWNoLpFlzhrqqWbl2sF-vZmYDDUSL7jpezvU11NlSaiJPWK5jIxhiJFJGZfRBsrvG8KKPOl0ungtwm"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrh-f2Plp0et0hSb5JCSfwB7aJT_c0vvMtTyZ2e1nQa7I1yIzc6AeAGFA71OzD2qy93xdO3bwEq1VoZ7s3BB8sO_lZE8O9u6_vGkKm-nZIP-kzgf0E1iGoI2_2oNhlztB3c9zJ0cnlCmZadHa5Cp-qcY="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa60g3qcYHg2ZHNVrWInqy5dk52g5Rq8jXd-GAxv2R8B2buQf2PRjqFYa8_JCwZzkhCv5Cg4vSMUnjdeGaUlDxfkTG4f9LgelNUJa5BEBUZh33MteJiYNGtUGBx6c3n4xp3sW2aek3DKMGskRtw2nxhkwz3RjZ56XS3M37pGezuub5WhMa7pUz2jBASmwSO_sg7EN9ug=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjPE3Yd_Fmpf9N5grl-hdRlUKz4TyOywSqfPGpDo0oy4B7IVRFcV9KE8cc7d2TedH87nsICP1w2UtVZ8lwscilAGgeFcPe6T3AhngyMosPNfg-zFeZx2TSmt8808S8YCFu1K68yN6ew-BOFGngFlbyFObO"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:53:35.370Z"
     },
     {
       "id": "social-0a975052fd15",
@@ -16612,26 +16326,6 @@
       "sourcePlatform": "Guidle",
       "citations": [],
       "scrapedAt": "2026-07-16T09:10:04.188Z"
-    },
-    {
-      "id": "social-afd8497f849c",
-      "title": "Fritigstreff: Gemischter Chor Igis/Zizers",
-      "category": "music",
-      "description": "Fritigstreff auf dem südlichen Schulhausplatz der Schulanlage Obergasse mit dem Gemischten Chor Igis/Zizers.",
-      "date": "2026-09-25",
-      "time": "18:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schulanlage Obergasse",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
     },
     {
       "id": "social-7823f04535f8",
