@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T11:59:20.654Z",
+  "lastUpdated": "2026-09-27T12:37:40.846Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -999,26 +999,6 @@
       "legacyId": "social-1779632363346-Thusis-33"
     },
     {
-      "id": "social-ea563b843c51",
-      "title": "Schlagerparade Chur",
-      "category": "music",
-      "description": "Die grosse Schlagerparade mit Umzug und Party.",
-      "date": "2026-09-26",
-      "time": "12:00 - 04:00",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Stadthallenparkplatz",
-      "lat": 46.8504,
-      "lng": 9.5306,
-      "image": "",
-      "organizerUrl": "https://schlagerparade.ch/",
-      "ticketUrl": "https://schlagerparade.ch/ticketshop/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
       "id": "social-99b92cc21a9c",
       "title": "Floh- und Gänggalimarkt Chur",
       "category": "markets",
@@ -1724,47 +1704,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-be41f05d57da",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-09-26",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-23520fb6297a",
@@ -3082,26 +3021,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-910dcf5050c7",
-      "title": "Kinderkleiderbörse Untervaz",
-      "category": "markets",
-      "description": "Kinderkleiderbörse, organisiert von Nadja Wirth.",
-      "date": "2026-09-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Mehrzweckhalle Quader",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-5f8363fe15a5",
@@ -6737,47 +6656,6 @@
       "scrapedAt": "2026-06-10T10:54:42.214Z"
     },
     {
-      "id": "social-ecf45581c27c",
-      "title": "Finalwochenende Clubmeisterschaft",
-      "category": "sport",
-      "description": "Final weekend of the tennis club championship.",
-      "date": "2026-09-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Stöckli, Tennisclub Zizers",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.tczizers.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "vilan24.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ0FW_Uk6ADrJ6sfZ1ss0aImHr-bkC-1YSrHCfDwSy74Sl9KX9yroYf2yx_CjOQg5VnuFVgnW5_IcWEiyUyP3u8_Nut0r9Zy7wP3yaaMtOVYB8FKwMU5AwtA7jb2P-tmBDcwECPSk5s14i0Vs_qKlt9FrJpCPUqknaAigasXyOVJoGax2Nkfbi0HxCP6g4iWDZwBU="
-        },
-        {
-          "title": "zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp-Jyfdfrs_DNeQ6J4JxIxZo8ueDpiydDQ5ITKagCpqrrmDNH7lPCwJ_yEWdM0pVoA2XJBbBBlrVn_bQrOjr2THLTYJDDMeMUKWsfYi1bTH-YoUXqucgPrKBmH2b23T9UrIhU="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO5KML4P9HeRU5vofZK2EH2wloSDVH1I2nEjvwYjrvk5bDtfJH6VSWoL5rbSlHikWcaSZ0hB9nrop1e4AtDvLGOoiUQsDTubfyjcNQR9zlFED_RBeucuMKvYv-fzMBVanHnIID0xkCUgy2VF-I"
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa_qjrgvasLSbEmYCcTUQyANl_0j45bGr3AdJHoqbO3KdmV8eP7pfCy26WLP-ZvPa9Q6SBlUIh9zfwduRpTFmXwJD25OvWN778JkJLCaOyMlRFmkMIygn4tketuEdByN7d_Bszc0w="
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNtiLxcqK8Cd-bJscz9BrQUTgVBe916jwms6qGe0aOyjlplWIq4ng3RF5FVw0-HMMfh3IidtVL6Y7LFXRFNY7AXbrIAEOON7-eQANV33tAQqfzQRF32zUbrYKCtoPs2Q=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:55:53.062Z"
-    },
-    {
       "id": "social-57ba61c6341d",
       "title": "Finalwochenende Clubmeisterschaft",
       "category": "sport",
@@ -8665,47 +8543,6 @@
       "scrapedAt": "2026-06-14T10:23:49.455Z"
     },
     {
-      "id": "social-af3684b75816",
-      "title": "Offene Turnhalle",
-      "category": "sport",
-      "description": "Offene Turnhalle für Jedermann. Findet jeden zweiten Samstag nach den Herbstferien bis zu den Frühlingsferien statt.",
-      "date": "2026-09-26",
-      "time": "20:00 - 22:00",
-      "price": "Unbekannt",
-      "municipality": "Zizers",
-      "locationName": "Turnhalle Feld",
-      "lat": 46.914,
-      "lng": 9.554,
-      "image": "",
-      "organizerUrl": "https://www.zizers.ch/jugend/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFauB4H_-MqJ83ectM7kDD-VlReGzLaYuqb3mlkce0v7q-FoFyaoMBdZxqsD89lb5yHvBAkWCQdCbuFpbcHIntiaHmrrKoVEpICWbqI9ve6DE5XsTyUmCbyrfrvK0m43Zc1WBoYtlIDgZSlAu8ZWPrwMPW1ba-mX28Axk9EF4KgMH8_VDcnnOZN"
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiTdaJkhHQ-5AfUms0CCpURvSmC3RCijQMlQZMw_WppkI3tzfnpp208zppKmtQyKOdNoZfTMZokCtcrAyMMx8Fp2-ltj_C25uN9tSjbUlw5PVgF6i0rlxfrWLEfRU2btliDmaV"
-        },
-        {
-          "title": "sportschuetzen-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSY1NIVpGmNycYH-psj66d2OT0sNmn9DoWu90AxdyPZgbur3eNz3Dy1sjZ76C3EXYmfrV28Es7eo0Lvg1Q9lUMBWb6KTgxQxAZnihmVnjlHOzsODjmWR_Imnkswgc3bg=="
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU0JfFpValoMl_3X1O4qvIatA3xoMZuFqvz5YJyxSDTG1AVHjP0s3_emFCrhCFmQaG1-gvU3Ih8ghr82z1cH7vQbsgdKbPOO8-4YU6C7JXgXyYn-5nFeQvGhnSsGHJWlABaXnm9xrVjNW_oivCF18UqmQ6kPyaYbSGPtn6ElZlXcu1XMxuaS4u2UTlNkE2KGpdsYoJfP7L1L_Q5ScMlsuMywrrUj6pyT_vTzil9kE="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFntIp1OCO7WFouK_WABAl3EstFYt-ODIqBf7VTHdCqgX3mgNb_GYoW4BwcoBxuDtBDsFbqt5ICDLiQcInICYe13PrF1Gww0w7eabZZ5Jdo72iKEhowBzXGu06AQFTWk-xwmjJ0jQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:25:11.829Z"
-    },
-    {
       "id": "social-05bdae650479",
       "title": "Offene Turnhalle",
       "category": "sport",
@@ -10277,43 +10114,6 @@
         }
       ],
       "scrapedAt": "2026-06-17T11:39:10.374Z"
-    },
-    {
-      "id": "social-bc2933927ecc",
-      "title": "Schlagerparade",
-      "category": "music",
-      "description": "",
-      "date": "2026-09-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Altstadt",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw_3swQkhsOeSQdi1h_ogNnSed_AFXbwJjFDXOkqhddOiQ3qM4yrKEPpXq0Rgi2kO-WT4vlfwXTJ8-ghSItW3gqXM6Vqb50budl4ftKCP64-xhPnvGfAWbyRua9j6-V7A9qvjirw0JlA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Z9pYIYSJ_42X4N27BT8Kz9iliCY-AiQhAWoY9vtzAYWpLVowPz_2Xqn-EdlIsZzexdtOv8Ey9Y_I98bhj-R1UIu-3j5Pa0Klj8i8AqXOFn5gX1j81-5zNUnN_Ls-ogDxnje3atKuj9uVIMYuA-2tIoJb7VTE-sazXHLCAfzpJtDnZ-mbAw_x8hZQPJLWQs-5E0AalA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwpX4ZNeUmfxuw1siJ_mGsDrZtzjDKX9nwjmKVW9mzFW7xWNCaTmR8IxzvqdzufFJCzYWrzkL7OeurKdHKBJoBQKUX_gJYuGLEOcQIQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrJUcWZ9BUl4fXZmQEZD72AZo0rKHq5DCZ8ZmqxHo2m0mdGimOeiXyQPfwbZwbg90jj3laPTqVlc_OCguPIaG2nvqp2R1E6PZa6GZRld0TScPy95DcwTvFJb92K7zF93Zp8M-L"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:06:42.479Z"
     },
     {
       "id": "social-55484ffe7f0e",
@@ -12222,47 +12022,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-23T10:31:56.516Z"
-    },
-    {
-      "id": "social-5ace1da39cc6",
-      "title": "Trailrun Graubünda",
-      "category": "sport",
-      "description": "Ein sportliches Highlight mit fantastischen Trails durch die Regionen Lenzerheide, Lantsch/Lenz, Churwalden, Tschiertschen und Arosa.",
-      "date": "2026-09-26",
-      "time": "unknown - unknown",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Region Lenzerheide, Lantsch/Lenz, Churwalden, Tschiertschen und Arosa",
-      "lat": 46.81,
-      "lng": 9.56,
-      "image": "",
-      "organizerUrl": "https://trailrun-graubuenda.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churwalden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9qfq5L2G9xv3Khx9CHXY4YBvIO8gYS5sbEMXntrJj59Zf-FfO6yA92fbIa2UKduR3EmfoeoK-fLJIHaI9ptnlWZ_reUA0iR30tpz-HHlMl3Z2zqtjKiRBXw=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXLeyiPv4E12pPV9PXdsWKr81FV-8q3MNWhLKZHyG0_23M9cqBrjZCo0GO506hK-GYrDhpDFuMvx9lPfsXHNCTS5MoIdsJsSGvm2BaqM-z-LIy6z9-JA6P5UgwASvdFZ7I_oPr6kZKAN4a0gVeZCqj3PCMpJVybQKtqQGuZlGCiFdj2bJ-7pkF-YTOkRsyndRhvDg9r8IJHok="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-xqpCFVHa_9En5YmfpkveexeRmProBekEdEaVoaU89jXaqUrTYqlFZLMkUR0AP4CyjHA-imfTBgeSC6AZOlTJLoFDeamhJJwXuNOqK9pO2dU5lspPbRj5XsAeX-m8KKUDkiXJ6o41KNeYpmNxBXl_3j6v4hLK"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhGOAw-EwsCExNlNo0H9h4qxx7GdERhiFf5sNlvI5wxWhLxlYmK3ZJPnblBs_zuYyJZANsy3Z5nGdeviRbDZ4YWHg9R0m_1sYEmjPRKu_vZAiwc9w63Ca74yd0PtEfA-Yptaw0hOek4c15B-tLrV2fix0O7jlU"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIpgT65Eej7Whwdt05-JTDn0nDokRKIlNWXSsL4oenYa_fVkZG-fP8AAOpafwZQEjj9vU6vGN6360Eud8Ozxnd__e8mUvVyTlqSyQZFfehpfyWY_4ZISBFEFFAUG4drtSWR8fKiK_4fPmurg1hITCtpcyb4ydBbZdZp8Jlvbw0aLYWGsF6tBFnEKttcg=="
-        }
-      ],
-      "scrapedAt": "2026-06-23T10:36:00.038Z"
     },
     {
       "id": "social-65c999f968aa",
@@ -14326,35 +14085,6 @@
       "scrapedAt": "2026-07-07T10:20:18.774Z"
     },
     {
-      "id": "social-7975636ac9e5",
-      "title": "Finalwochenende Clubmeisterschaft (Tennis)",
-      "category": "sport",
-      "description": "",
-      "date": "2026-09-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Anlage Stöckli",
-      "lat": 46.92,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://zizers.ch/events/2026-09/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-Yy_BpF0ooBXe9Mag6tlzU4eZWLH48g1RVRKSzx_cjqJjpLDQ4Ga46HKMIfmYfZ_fqrxdpEyoIkQixfa-S3L6X7vTQrbXM1WFDRzAhS95DREDSQAkTNkOqopIKRaE2uzaQAbYg=="
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVsqxmHeRkNDz2fRsLgtzHlNw698-4brh_n5B4Zird8bNe3RqCUJ2veBIZQ9R8xh2MLJaAqu10WJg7UKVSxJf5IcLi19cZ1cqKaSPWbZ9ysURG1GdyD0pXJfokcfLYc4U4T-GLf4332cOoBPfUf7wOQH_eRqXBjmDgRtZfSj8sEhSUX3ky7PEknz7pnX_ictV9ChYTEttsoEK5U3gGwbA7dPTFNrYRrBWIAhlFjHo4oDXJejvipCYUnJm63AKgzYbhXmjmmY8="
-        }
-      ],
-      "scrapedAt": "2026-07-07T10:24:03.569Z"
-    },
-    {
       "id": "social-bf7f1c014fcc",
       "title": "Jahreskonzert 2026",
       "category": "music",
@@ -14536,35 +14266,6 @@
         }
       ],
       "scrapedAt": "2026-07-08T09:25:20.855Z"
-    },
-    {
-      "id": "social-e83a2293f31b",
-      "title": "DART-FRIDAY im Edelweiss in Tschiertschen",
-      "category": "sport",
-      "description": "Gemütliche Dart-Abende für Dart-Freunde oder solche die es gerne werden möchten. Kommt nach Tschiertschen und lasst die Pfeile fliegen!",
-      "date": "2026-09-26",
-      "time": "19:00 -",
-      "price": "Keine Angabe",
-      "municipality": "Tschiertschen-Praden",
-      "locationName": "Hotel Edelweiss",
-      "lat": 46.817,
-      "lng": 9.6,
-      "image": "",
-      "organizerUrl": "https://www.edelweiss-tschiertschen.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjusITCW-jQkyLL4vYTKb7Qun2xLcWuHgb_ueCBnvwRzvcGMMHAZmGVueRWpMTVJ1Iu3EwI_otxPJC2b3PNcZIEYL01vNF7msNxYtX7DKFUdC54LEHurUS8Mt7KoPv0IS4X1GYG_Va3volrMQhuHkz_UNCEflh8HvoRQ=="
-        },
-        {
-          "title": "edelweiss-tschiertschen.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPsKTrifiotvlA9V7qXViOQeamb-LhRYW7w--UlW-XqS4elZHrPJk1UWz6vgKaUU5D-whjTSxQhOoGnPqIClkIOuoRe_C-aNSvLIwLn_saNhQbjMvCCqMuckazifW6ZXVBBw=="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:29:18.021Z"
     },
     {
       "id": "social-5c443d6bae53",
@@ -15578,26 +15279,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
-      "id": "social-7960ccd06476",
-      "title": "Frühlingsrollen selber machen",
-      "category": "family",
-      "description": "Kochkurs zum Selbermachen von Frühlingsrollen, organisiert von Felsberg Vereint.",
-      "date": "2026-09-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.8488,
-      "lng": 9.5041,
-      "image": "",
-      "organizerUrl": "https://felsbergvereint.ch/kurse/fruehlingsrollen-selber-machen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-12T09:00:52.844Z"
     },
     {
       "id": "social-995b45534b6c",
