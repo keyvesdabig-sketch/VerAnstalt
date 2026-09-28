@@ -1,50 +1,4 @@
 {
-  "parpanersunntigsmarkt_2026-09-27": {
-    "id": 1779538499387,
-    "title": "Parpaner Sunntigsmarkt",
-    "category": "markets",
-    "categoryLabel": "Märkte",
-    "description": "Traditioneller Markt für Neues und Antikes und Bündnerspezialitäten.",
-    "date": "2026-09-27",
-    "time": "09:00",
-    "locationName": "Riedplatz Parpan",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/9e/e0/d9ee0f9c7394e625b30703186fddb0f98162ec4f_866161500.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=27.09.2026%20%2009:00",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4778263?eventDateTime=27.09.2026%20%2009:00"
-      }
-    ]
-  },
-  "sonntagsbrunchinderbergbaizbrambrueesch_2026-09-27": {
-    "id": 1779538500533,
-    "title": "Sonntags-Brunch in der Bergbaiz Brambrüesch",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Jeden Sonntag während des Sommerbetriebs erwartet die Gäste am Churer Hausberg ein feiner Brunch in der gemütlichen Bergbaiz Brambrüesch.",
-    "date": "2026-09-27",
-    "time": "09:00 - 11:30",
-    "locationName": "Bergbaiz",
-    "municipality": "Churwalden",
-    "lat": 46.7797,
-    "lng": 9.5348,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:n-small/d/bc/0a/dbc0a352735170fa78a9981442498417360bc2b7_755372491.jpg",
-    "sourceUrl": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=27.09.2026%20%2009:00%20-%2011:30",
-    "sources": [
-      {
-        "name": "LocalCities-Churwalden",
-        "url": "https://www.localcities.ch/de/veranstaltungen/churwalden/4881/4487871?eventDateTime=27.09.2026%20%2009:00%20-%2011:30"
-      }
-    ],
-    "organizerUrl": "https://www.bergbaiz.ch",
-    "ticketUrl": "https://www.bergbaiz.ch"
-  },
   "dorffuehrungchurwalden_2026-10-03": {
     "id": 1779538501427,
     "title": "Dorfführung Churwalden",
@@ -365,28 +319,6 @@
       {
         "name": "Chur-Kultur",
         "url": "https://www.chur-kultur.ch/de/suche/rhb-speisewagen-gourmino-chur_AKrmeeE"
-      }
-    ]
-  },
-  "addiowillkommenarevairmigrationsgeschichtenausdemgrandhotelalpen_2026-09-27": {
-    "id": 1779566368844,
-    "title": "«Addio – Willkommen – A revair. Migrationsgeschichten aus dem Grandhotel Alpen»",
-    "category": "stage",
-    "categoryLabel": "Bühne & Kunst",
-    "description": "Sonderausstellung über Migrationsgeschichten.",
-    "date": "2026-09-27",
-    "time": "10:00 - 17:00",
-    "locationName": "Rätisches Museum, Chur",
-    "municipality": "Chur",
-    "lat": 46.8486,
-    "lng": 9.5328,
-    "price": "Eintritt frei",
-    "image": "https://ik.imagekit.io/guidle/tr:w-1904,h-1670,dpr-1/8/08/4f/8084f6836c19021246c23cb7424a02d6c85af8f2_931453931.jpg",
-    "sourceUrl": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG",
-    "sources": [
-      {
-        "name": "Chur-Kultur",
-        "url": "https://www.chur-kultur.ch/de/suche/addio--willkommen--a-revair-migrationsgeschichten-aus-dem-grandhotel-alpen-chur_A1sarWG"
       }
     ]
   },
