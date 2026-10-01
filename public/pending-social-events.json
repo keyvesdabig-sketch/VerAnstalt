@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T13:13:07.312Z",
+  "lastUpdated": "2026-10-01T14:03:09.507Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -483,27 +483,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:13:08.761Z",
       "legacyId": "social-1779631988761-Zizers-10"
-    },
-    {
-      "id": "social-ba592100d267",
-      "title": "Dorfkaffi",
-      "category": "family",
-      "description": "Community coffee gathering organized by Verein elterntamins.",
-      "date": "2026-09-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Gemeindezentrum",
-      "lat": 46.85,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:49.600Z",
-      "legacyId": "social-1779632029600-Tamins-23"
     },
     {
       "id": "social-6c8cdc8be22a",
@@ -6327,26 +6306,6 @@
         }
       ],
       "scrapedAt": "2026-06-09T10:37:28.392Z"
-    },
-    {
-      "id": "social-a042fb430d75",
-      "title": "Der Bassimist Von und mit Daniel Ziegler",
-      "category": "stage",
-      "description": "Musikalisch-satirisches Programm von und mit Daniel Ziegler.",
-      "date": "2026-09-30",
-      "time": "20:15 - ",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia, Thusis",
-      "lat": 46.671,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.kino-raetia.ch/buehne",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-09T10:41:06.759Z"
     },
     {
       "id": "social-6712bd766ee9",
@@ -12426,26 +12385,6 @@
       "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
-      "id": "social-698cbba226f6",
-      "title": "Geschichte bauen - Lego hören",
-      "category": "family",
-      "description": "Event at the public library. Could be storytelling or an interactive session with Lego.",
-      "date": "2026-09-30",
-      "time": "14:00 - 15:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Gemeindebibliothek Domat/Ems",
-      "lat": 46.833,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/domat-ems/gemeindebibliothek-domat-ems/geschichte-bauen-lego-hoeren",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-02T09:55:47.190Z"
-    },
-    {
       "id": "social-2b50189657c9",
       "title": "Adventskonzert Domat/Ems",
       "category": "music",
@@ -13717,26 +13656,6 @@
         }
       ],
       "scrapedAt": "2026-07-06T11:25:12.974Z"
-    },
-    {
-      "id": "social-6b8ed2ed5cc9",
-      "title": "Dorfkaffi Tamins",
-      "category": "family",
-      "description": "Ein gemütliches Treffen für die Dorfgemeinschaft.",
-      "date": "2026-09-30",
-      "time": "...",
-      "price": "...",
-      "municipality": "Tamins",
-      "locationName": "Gemeindezentrum Tamins",
-      "lat": 46.83,
-      "lng": 9.46,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/de/leben-freizeit/veranstaltungen/aktuell",
-      "ticketUrl": null,
-      "sourceUrl": "https://...",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
       "id": "social-c5983dd166b8",
@@ -16005,26 +15924,6 @@
       "scrapedAt": "2026-07-17T09:06:06.388Z"
     },
     {
-      "id": "social-930eed55eddf",
-      "title": "Dorfkaffi Tamins (September)",
-      "category": "family",
-      "description": "Gemütliches Beisammensein im Gemeindezentrum, organisiert vom Verein elterntamins.",
-      "date": "2026-09-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Gemeindezentrum",
-      "lat": 46.83,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:09:48.154Z"
-    },
-    {
       "id": "social-666d810cee24",
       "title": "Dorfkaffi Tamins (November)",
       "category": "family",
@@ -16341,47 +16240,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:53:19.092Z"
-    },
-    {
-      "id": "social-f1a15084e17d",
-      "title": "FOTO-AUSSTELLUNG: Portraits- & Gruppenbilder aus der Gemeinde Cazis von 1860 bis heute",
-      "category": "stage",
-      "description": "Ausstellung in der Schatzkammer mit Portraits- & Gruppenbildern aus der Gemeinde Cazis von 1860 bis heute. Tage werden noch publiziert.",
-      "date": "2026-09-30",
-      "time": "13:30 - 15:30",
-      "price": "Unbekannt",
-      "municipality": "Cazis",
-      "locationName": "Schatzkammer-Museum, Pfrundhaus Cazis",
-      "lat": 46.735,
-      "lng": 9.421,
-      "image": "",
-      "organizerUrl": "https://www.cazis.ch/Jahresprogramm.cfm",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrqeCnKE0yrvS80ldUcCcbaa3S0Mt-gLr3qKS59SqbRA6rJwqpQX4NOgsi7Yc4V9lYEk7u_IDkFuaBiRmO84Ef_u7fX2PTfZb6nFHfxpQ4yQEH7NKeaQeB6myMdiOkfBJXz367Om1HqiFJkKAbHNrzD-W5"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG87tF7BVuxkMsRrse7WtZBfyKcMHN7YKq7fVPQRUoJ2f6EORXMrhaIJH4DZgPWPBUrvxAJIjaxmC7wQDE2eHXnS6nSBI5oOxQLypZ"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOfYZWxqg2ASaoeCt4l8tmqanhOFdZ86dAM-fLW4pVw28-DRg8IQeoX9SxR1EsPIjCt4ih791aSJruHSlDZdQTbNRLnDlAEXfBMCGg6D4IcirDtAOacxmd21uODJcvKfpreevDEP6mKcHHB95aPyWVRg0="
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmpA0AANa2vIUopQ7yggppPbeLEsj45TyP0s2jHpauHcrkaD0--wgiFmjJJA_1NmzNJXoEtddCOVZytziqSZfGjanIqJJhHq4pCJmxExUaRdTRuysX5p2n4OMpi0AHrmxbbgx1Vg4="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEONoopmPmI8zNE1iFp1gq9NCr5GxLlRAYkfE7WJPa2Zl1cLqwx2IGlPhTzjp34BiRffYG8HwsPZknQZzj0TJLoC2lF0h4oHrvI4joCgJVlBYBmO8rJrV1_fO9Dy5mR6eQcRoNMoeH7Zf98WJ8yMR0ltspcpBUU8os2D6oKGChP5vsTyVzg4U45Z2sK2s4P0k5F"
-        }
-      ],
-      "scrapedAt": "2026-07-18T08:54:35.656Z"
     }
   ]
 }
