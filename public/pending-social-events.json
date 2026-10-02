@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T14:03:09.507Z",
+  "lastUpdated": "2026-10-02T13:23:49.438Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -1643,47 +1643,6 @@
       "scrapedAt": "2026-05-27T11:03:08.822Z"
     },
     {
-      "id": "social-23520fb6297a",
-      "title": "Debut! Ladina Brülhart, Violine Mattia Ingelis, Bariton",
-      "category": "music",
-      "description": "Konzert des Orchester Chur mit Werken von Mozart, Gluck und Bellini mit Mattia Ingelis (Bariton) und Felix Mendelssohn mit Ladina Brülhart (Violine).",
-      "date": "2026-10-01",
-      "time": "",
-      "price": "40 CHF / ermässigt 10 CHF / Kinder gratis",
-      "municipality": "Chur",
-      "locationName": "Heiligkreuzkirche, Chur",
-      "lat": 46.8465,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://orchesterchur.ch/konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
       "id": "social-b2e48b05e0ce",
       "title": "Churer Wochenmarkt",
       "category": "markets",
@@ -3261,43 +3220,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-01T12:40:43.695Z"
-    },
-    {
-      "id": "social-58e717f93e8a",
-      "title": "Fotoausstellung Familie Joseph",
-      "category": "stage",
-      "description": "Fotoausstellung. Termin noch nicht fixiert.",
-      "date": "2026-10-01",
-      "time": "HH:MM - HH:MM",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.landquartkultur.ch/unsere-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1jJ9yKjjZS17cSx8IqRVml41tu3rifPVpIJQpdyfjiMVEt-tJqElXaep8XqX7K0OCr-EPDKntgmiud2EkOx1p2w3aTTyqooC3qD0UE5gwK05nxEy7pViz2n1C0_dx1ga2gBUe4Mz"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMGSsCTe7cxxGZfrO7DTmzASHdU_V-b6hZmQGDY9bAtzzcBdklUteFlsyab1kUSZmsWtDNmVWV2Us8C-luJHl1L0gJAOMGzcLXcdidu0LPByr2U661LhPnPLIcaMJ0Onzm3azlJ3FXxqiXcMU="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu3f_C-4jghIWS59UsmYJoGGo_8Ehs1osyI6zyaX043lvxXdYkC3Dof_slGriReG5li5-GRvRzC3snZTsxxsunjOJySzM23Xiosp7pt3fqNc-WxYjz389j_Oy5AnpET3uEiWFl5THo7iT41EoEwNNhCtE27xdnTSiV2jDtChll79NiOqk-owdCA4DAjQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyCQOjt3iAYwUvVPuKPYgwmhgY65Nk9j7bOG8hlJ3EFut9CaOXcJSjmqVgr4MsH36eFs7s-9rXxX8n9DPeB61dZRmtmKaKYX4CzPTybTqmsy09woWgb76EeKXaAT3JDiviA3zUwbBH0ok2n_MoJWehW7_H0eN4r20Q4Ng="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:41:25.243Z"
     },
     {
       "id": "social-dc6b3efa9703",
@@ -6429,26 +6351,6 @@
         }
       ],
       "scrapedAt": "2026-06-10T10:51:31.446Z"
-    },
-    {
-      "id": "social-73f5115b72c1",
-      "title": "Senioren-Mittagstisch",
-      "category": "family",
-      "description": "Ein gemeinsames Mittagessen für Senioren in Domat/Ems.",
-      "date": "2026-10-01",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Domat/Ems",
-      "lat": 46.828,
-      "lng": 9.502,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:52:25.650Z"
     },
     {
       "id": "social-57c6d24ac4ac",
@@ -11653,47 +11555,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-22T12:56:31.843Z"
-    },
-    {
-      "id": "social-461d7f666d0f",
-      "title": "Orchester Chur: Debut! Ladina Brülhart, Violine Mattia Ingelis, Bariton",
-      "category": "music",
-      "description": "Konzert des Orchester Chur mit den Solisten Ladina Brülhart (Violine) und Mattia Ingelis (Bariton). Es werden Werke von Mozart, Gluck, Bellini und Mendelssohn aufgeführt.",
-      "date": "2026-10-01",
-      "time": "",
-      "price": "40 CHF (Erwachsene), 10 CHF (Schüler/Studenten), Kinder bis 16 gratis",
-      "municipality": "Chur",
-      "locationName": "Heiligkreuzkirche, Chur",
-      "lat": 46.8502,
-      "lng": 9.5229,
-      "image": "",
-      "organizerUrl": "https://orchester-chur.ch/konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1bioYyCcpex7A2tJXlb1I7Y2H9l6gUSQXUOpeN5qWbBR3s1HikEpVt9uJocfziaW9naSBgi4_FpxgrSY4dgSS3hrxr-0um1ijZD5p9A=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG49x8VZgtJyPqSGGQHJ4hJbQcOOht-k9cGBOJR6je6M6kEPgpo4RX_XH_cvoaT621b1hpuiV85P9dNblfFiCnQ8BiWVwJ9IjhU-DtPis5Oj7jva2sashgb5MmPQgJVcHDQ3q4u8bNIvw=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWsR5y2hjmAfQ4KsgMhLve3KiXDG4RttGZb99YA23f7sa8-tkejEqTx1dOwI7UBqadb4tayU6OnwGrVAkA1-hQLXlJIKAcaZE81x-l-puRNXnwuHjJc4mmwQYb9SuUcOTU_nYx9awHykYiQ6pz_6O0pXP_AReFarC582w0e0O0HOmCV_bCq7QONON4IBfIyfD7cNTrF_wb1DKMkCnT3VoAYN8="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH5GWcU01-rQz_fSDMmDRFYRNbayQCzuLB2HtqksqUvbAR5-zMq_xzb_8Uv5ulRRbbj-PG2eNInqeeOn0iHHZlrUVJZ-vvi-fLpMoGtFJodRkmenJ_AHGvPR7F0H6LSPr9O-FkSsXZjQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuXMkaGPK4Olk3Z3GVCuibAa-5w-Au9S3np4jp8omNnd9lvNPqNcpEY7rFBsQmyIhco2-SfDdCPJL6vsz0m2MqP4fo8umDCdf2aivyExZJh9q6LF4jtLnNHMLuGNnpbBChyckyt07am-jO3ffN"
-        }
-      ],
-      "scrapedAt": "2026-06-23T10:30:13.183Z"
     },
     {
       "id": "social-859b939d4f86",
