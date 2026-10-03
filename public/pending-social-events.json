@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T13:23:49.438Z",
+  "lastUpdated": "2026-10-03T12:10:10.644Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -672,27 +672,6 @@
       ],
       "scrapedAt": "2026-05-24T14:15:00.434Z",
       "legacyId": "social-1779632100434-TschiertschenPraden-15"
-    },
-    {
-      "id": "social-c2e72cbc20be",
-      "title": "6. Fritigstreff 2026",
-      "category": "family",
-      "description": "Ein geselliges Beisammensein, organisiert durch den DTV Bonaduz.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8333,
-      "lng": 9.4217,
-      "image": "",
-      "organizerUrl": "https://www.gewerbevereinbonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:15:34.976Z",
-      "legacyId": "social-1779632134976-Bonaduz-8"
     },
     {
       "id": "social-fb33bf76e2d9",
@@ -2135,26 +2114,6 @@
       "scrapedAt": "2026-05-28T10:51:30.982Z"
     },
     {
-      "id": "social-15900115d253",
-      "title": "Fritigstreff (DTV Bonaduz)",
-      "category": "family",
-      "description": "Fritigstreff organized by DTV Bonaduz (Damen-Turnverein Bonaduz) on the village square.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.833,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-28T10:53:32.846Z"
-    },
-    {
       "id": "social-0b985b8f6103",
       "title": "Team-Event der Malanser Turnvereine",
       "category": "sport",
@@ -2544,35 +2503,6 @@
       "scrapedAt": "2026-05-29T10:46:07.560Z"
     },
     {
-      "id": "social-193e914eaead",
-      "title": "6. Fritigstreff 2026 (DTV Bonaduz)",
-      "category": "sport",
-      "description": "Offener Treffpunkt organisiert vom DTV Bonaduz.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8306,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2LKQyKgdSBOGHlIlzvXBFpqhLeQmo33VtooR3-uo1Vjr7JITzHEgKLydeAE6zUnuMAiqmjgyHQPnSG2saZcS8AxrpzAIZXa9iOEdPc1-mwLtJH5o6vHEdOy7kxbHYOeos5y63_GiucvhTeoPHwqeBu1qqlle5IHz-jI1n2PQQzI1gCWstG4QiA1ETHCZmVQT5qeVwSx-TiUI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmmqP5n3AljP-hOYL3rTzd03MCHCI-h2TgIxYJDXcxvhGncfp23gzdarCbQZIm3J-uUSpoN-vSEmcPUEVN1-h4dFzRfcbI6TzHxsWVwh2Sa1N4-DN0TTSWvpCw-7ALGBhl2YL2COzRSovHad4Lmm0CVp1lRqgAn4KAnSR2h5vZ7B88fgqsvsUVAQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-29T10:46:39.078Z"
-    },
-    {
       "id": "social-9fde8eb6544d",
       "title": "Beethoven und Bruckner. Chorsinfonik",
       "category": "music",
@@ -2712,47 +2642,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-30T09:14:03.282Z"
-    },
-    {
-      "id": "social-18029ea43480",
-      "title": "Fritigstreff 2026 (DTV Bonaduz)",
-      "category": "family",
-      "description": "Ein Fritigstreff organisiert vom DTV Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Gratis",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhnlGDRfwvecK6SlxcAjjMX-Zucj_ZMljiSJGTHL6AimdggZS2Iz9ykRNoHMjMdV8FFfg34U_8PhZWZE17l2aScTzU1KJMbmU31vfgGYJf9YWQvd6CP9NIaiCknAB4"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHQmgPPc6xMeS-jW37c4QCKh6wTG3g9pmVV-y3K1QfdLyKrczz85OlGnK4fEI_9qrO-pBOxlUsIQ_DhFNMmvlHrF9Ikye7STMR0qJ5qbQqWAOQrAhmbhL3GrRnF9Ez9w=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmhh3MwWYDuFF2w0twRCvasWjlmryv7WObRhE6TKlV8VaboWx3W6GRtPFWnEhcgNinuzX2s0HfSq8N7qKROhZGzmAhO2Cfg-zwiE0in0TvyeMDyp5QdkeORL8ZKBWCdbzAw=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtQHGSfQoWHGViv_FPYw0sM6bXSkNSm0MriLhZuXnKEGclGcROpE9jJB5hmsgEZdnnk7-VenaJxbr1Hch7CpBKodycwgYvuvFXZkTaVsRWpchfXlwMiO2lF7rypzJ31FXw"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdHbdFOvcUQy1RFhcSIaayDH2HvDdBBDTKqOASNX5NRS6StxY7VwNVMmN8cZHcVkctjykWIRebSOQFQxGjV5R1PYfLVkIoLV-4k1H25EqdLg9V7f8fEpkTJ_eWM7IRSbQ8ib9qYB6bdUO6dIioRXusnTA3_SM="
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:18:10.390Z"
     },
     {
       "id": "social-7a9d5e445ca0",
@@ -4254,26 +4143,6 @@
       "scrapedAt": "2026-06-02T11:25:01.963Z"
     },
     {
-      "id": "social-d6bec2bf9e47",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Saisonale Produkte einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-10-02",
-      "time": "09:00 - 11:00",
-      "price": "Kosten nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.882,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/neuigkeiten/meldung/58501",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T11:55:00.126Z"
-    },
-    {
       "id": "social-c359db1758ee",
       "title": "Gesundheits-Tag Landquart 2026",
       "category": "markets",
@@ -4496,47 +4365,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:40:31.060Z"
-    },
-    {
-      "id": "social-8368ef68c50d",
-      "title": "Fritigstreff DTV Bonaduz",
-      "category": "family",
-      "description": "Fritigstreff organisiert vom DTV Bonaduz.",
-      "date": "2026-10-02",
-      "time": "17:00",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.837,
-      "lng": 9.407,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXZG_Amu6w-uQ3tXajzkGbZNJXmH5b6bVBThGUcFd6WmXqBCKnX3aXs9S0CGsMEpfoZPnwda117yl-lu8rBDD_cu9fcjo2S-hUg-UcIuJ-IvG7P_nPJF2C6K2qe0arRRbVQ6A0MjPXFo="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVypF0V5n0zjmQ56HHnnCL4bL16JmAdDwJD_qyy06twPLr8ZxeGX-GthXY3UftwNR0NK2tXeuLwquvDXVbTY-ur9iLaopSIZ8ziLVff6_mz1h8ywkw9hTi9KzmxcJ_ApA-"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB5FNZlLkOgfuG-gRs5DjENLmSrvY3sGsr2VwehZdo6l0WvcL171J-kF4Imfn5BDM0DMRWm20PZN4KJ-eNWa0sHe-r9lsHT3gcB5wEv4h_g8F_N5w8bOtiEK-9VBnM"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4lr5X8uiJtcOfW3KDZGhESRyyJu2bUyY2sD7olWCEHwMY8_0YbjfxrEBTHDAyTzeH3DSqDJyedBUEsV-ivyEHcL5fbm4PmFAe-htCr-T6_0pDLc="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9DuXsJbteXbti7IAp3-YzasAYuHiVi78cxyqFsGoX1Ly8Q9bUj2NGgNVMTr9LuU_iOaJUV2Ixqcy-Obc_J2OajmK9-UomR4ucLPcbFCI_ueMn6L-0wAMbIie4DJrm3vs="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:42:38.444Z"
     },
     {
       "id": "social-3d6e9fb4c2e6",
@@ -5343,26 +5171,6 @@
       "scrapedAt": "2026-06-05T10:51:43.865Z"
     },
     {
-      "id": "social-6e762f6a5de8",
-      "title": "Kurs: bessere Gartenfotos (Fotokurs mit Manuela Göhner)",
-      "category": "family",
-      "description": "Fotokurs mit der internationalen preisgekrönten Gartenfotografin Manuela Göhner: Sie zeigt, wie man stimmungsvolle Gartenbilder gestaltet. Inklusive Mittagsimbiss sowie Kaffee und Kuchen.",
-      "date": "2026-10-02",
-      "time": "11:00 - 19:00",
-      "price": "CHF 230.00",
-      "municipality": "Domat/Ems",
-      "locationName": "Gartenatelier Domat/Ems",
-      "lat": 46.838861,
-      "lng": 9.466846,
-      "image": "",
-      "organizerUrl": "https://www.gartenatelier.org/kalender",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-06T09:22:24.766Z"
-    },
-    {
       "id": "social-d1f529b9e236",
       "title": "Kurs: bessere Gartenfotos (Fotokurs mit Manuela Göhner)",
       "category": "family",
@@ -6026,47 +5834,6 @@
       "scrapedAt": "2026-06-08T11:51:07.392Z"
     },
     {
-      "id": "social-ad2fd5df5602",
-      "title": "Wochenmarkt Trimmis (Herbstsaison)",
-      "category": "markets",
-      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe, inkl. Sayser Gmüas, und Treffpunkt im Kaffeeklatsch. Start der Herbstsaison nach der Sommerpause.",
-      "date": "2026-10-02",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.91,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/aktuelles/infos-led-dorftafel.html/534",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhrU5X0DtzF8mow0Ap5HvZkCIQmE9vfr3rBw6PR29vyURM1p0RcvLDybMlYp5hPYg_CZ7YlqSgXQf3plhllvAkCcO9DyCrRwtAHi3Gh5p8Nfteo2Vr9uChuqGzywfsAAgAhtRaGecny0w_-5RlZ0w="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5E8MAf0wLD80k9_HPBjqH3DUoC7fUemmR1K9uDifsL7ERFrGRF09AVVbF4dfMdA3LgHKgK2qAPiSybT0lmkhD4sAEsdu9zlJ45dh2DsSkZhaNALgnaMHWfiP8Nvd5QVvNwPG69Z9vfI7j9UYnQ_AltwvqXIWInXROAVTbWistbaPFMiE0s_eDCphRHgxGHw=="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIcWulnUWSn2FUxgzU_nhFjbafxbeknxxgx9iggJuiQIq6TUGFAZAlQcIfxmXUUCJ93M481gnR1HetXqQhhsPDHvrGf-X40SXbQS8_5tShtuMPknDKsmJCI9dYqlk="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs8fGcflyDtiignfssDCP-Latd_b01a0whgyq6bQanY875-e6XSxUOjRL9mqvJdw_s3Z1YYlKjtwsWwzmqTX19W6BZs5znl21FU0cMRws_XQsbErX-Qk0vgeR66YlNuIZA8HVO9cgcw_f2WOFZn-K7aRZZuNZvBx9j2xktsXeTcPG3hqXIPP1YYRc_yaLR1WiVfUiFpb8cHxGZLZJmU84FYhVlrsD_d-Ism2EABYyGabFt2I0m9Cw9WbjyWXwoHKuJ0dqPa5WZ7obFdHD-ClTtYDA="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFStop_uNyNgaMMMEluGwxSV5MNQEp1sbq9IkV_BlQmYAsSc1ryKzEfmrtll9_TUKYp-jEOmG7b-SuDD0HdpceUYLy64GnAaT5W4lq38jF91_d5kmAJmgKeOUsZaw=="
-        }
-      ],
-      "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
       "id": "social-58fd769ce8bd",
       "title": "Adventsfenster Frauenverein",
       "category": "family",
@@ -6106,26 +5873,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
-      "id": "social-a422eeaf5a28",
-      "title": "6. Fritigstreff 2026 - DTV Bonaduz",
-      "category": "sport",
-      "description": "Der sechste Fritigstreff des Jahres, organisiert vom DTV Bonaduz (Damen Turnverein). Keine Anmeldung erforderlich.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.828,
-      "lng": 9.388,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:58:32.845Z"
     },
     {
       "id": "social-836a5d9feb75",
@@ -6475,26 +6222,6 @@
       "scrapedAt": "2026-06-10T10:56:41.226Z"
     },
     {
-      "id": "social-6ff4c1fbb22f",
-      "title": "6. Fritigstreff (DTV Bonaduz)",
-      "category": "sport",
-      "description": "Fritigstreff organisiert vom DTV Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
       "id": "social-0ed88962d931",
       "title": "Herbstanlass (Gewerbeverein Bonaduz)",
       "category": "family",
@@ -6553,47 +6280,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
-      "id": "social-9e360a7eacf0",
-      "title": "POP-UP Weinterrasse mit 1Xanders",
-      "category": "family",
-      "description": "Pop-Up Weinterrasse auf dem Weingut Wegelin.",
-      "date": "2026-10-02",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Weingut Wegelin",
-      "lat": 46.9935,
-      "lng": 9.558,
-      "image": "",
-      "organizerUrl": "https://www.weingutwegelin.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDG2iMppw_iT8lTTgwEmcqz-w1lPQX91H_NgVjoYX0KdyYDUaehgBzNeGVL1U6jlcjWH2ZBgTn8U-uvNidODQQ6ggzBC-rsdI0pRWrGyC0NQ=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTCTtUoD7P4QwMWVhlY4LbBiBXdbONvzL_ylVEdJJWZfJg4mh6cA2M3GlWxH_bEA-6hkMd2k4Xt6Nq0lqfEgRPhntVBvtdTw2XP5nHWCsYcTMn3oolzaJPzppSprwf6A=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnl3-FTlR-vlSZuTJeKbhd1zffU80uL-gRzI99NhRB0ThXIgjM4dtkx2bUKM3okqSFJvjZ1Av4dnYz4esCQ93SyRvBJGUNV73zNlBEzXg57fMeE6vI3DkGI9N_scJ7sISIMupJgIsLRQgUUQZ8TesJOHSReMOMsteaP-FRF8r-TCix5Viry7A="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN960M5z2tNB8nUcgzvVJ9kffAuWAx8vMt69_5YDofhQfijsERjOQQRqHL-M9DedBjzdBeZ7GotKKZw1vd11FAGjX58CcXQFGdIMpGyHGFOwQF97c8_CipYGzY7SWqu71H3isVPvMDSi5mCONG-5G14_g_99ABAx8icl3i-3Xg3hTgSF795Q="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDe9JaX9elcwgDW_6GQFlV03uW4dBf-t4SZtaCT2Q0_OVrSvxMrZrlRiW8ZyiVRIBgH28_AmgnrPu9r7bdY_giSNBS5kN2CZ8azHGbq7T6yxjbuJrvRRMbR9tIRw=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:01:17.264Z"
     },
     {
       "id": "social-41af5f13ecfd",
@@ -7474,26 +7160,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:03:26.119Z"
-    },
-    {
-      "id": "social-cc7c388b4ab2",
-      "title": "6. Fritigstreff 2026 DTV Bonaduz",
-      "category": "family",
-      "description": "Gemütlicher Treffpunkt, organisiert vom DTV Bonaduz. Keine Anmeldung erforderlich.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.82,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:04:27.610Z"
     },
     {
       "id": "social-6ccb5387baa5",
@@ -9605,47 +9271,6 @@
       "sourcePlatform": "Guidle",
       "citations": [],
       "scrapedAt": "2026-06-16T12:18:03.581Z"
-    },
-    {
-      "id": "social-ec75c8cd72b4",
-      "title": "KURS: bessere Gartenfotos",
-      "category": "family",
-      "description": "Fotokurs mit Manuela Göhner, einer international preisgekrönten Gartenfotografin, die zeigt, wie man stimmungsvolle Gartenbilder gestaltet. Inklusive Mittagsimbiss sowie Kaffee und Kuchen.",
-      "date": "2026-10-02",
-      "time": "11:00 - 19:00",
-      "price": "CHF 230.00",
-      "municipality": "Domat/Ems",
-      "locationName": "Gartenatelier Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "gartenatelier.org",
-      "ticketUrl": "mailto:info@gartenatelier.org",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy6O0GRUyPv4svPofwbltkGc2o7guoDCOFhjZdy9NT0SzqOEjrkEDalcAUwK970h5QfEhnw3ch3LFae0lvZypSseCdPIRrvYVVKNXWA4snGGnBgHO-T9_JhKH4wA_cTuWqOFZPBeB6-Dpk-Sy1Q3tYM56Atwq3tPOC63rC9rDU2CaZVaefUbbN784="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTuvWNhPHobDtix898cnLMaAaFTA6XvDFQu18gRNJKAkN_0Fz65cxnl1ExDvwna5JwoSy3Qz_XmmjZTGei3mMv5C5VXusfNXUz6GpL_uhKwEj5K8RpY6r-VWMkW_eGdW8u7Bo5Ows4NlUXggCjdRO49Q=="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCtkL_2e1k1UftDgH7cqwX6dIXQWMAQHcIVkpq0HWixJZa4S7hMIjELPoVg_Cmx08YwEidxTUIJALeF3ts2CAv24znqk6BNqxYcXpEQzNoyZ_SOTGY5HLxgjSCbykLS0otJMuhj68W4vfM1Ok="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7kGM1u4FFGs7xGtMvjLmZm2D1FbnihH0ex4vneHrFuAIty30gC_CaczHi-lBnI5olPs5GBG491Fkg_uYg5bQrardjuOX237sxlJJoV09nhOIt92LvckjBskb5STkepbsZlALF-Kzm1Qg3z8="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkB6dMyOY8cRWIWRerxS1ay_hx1OPgK7KAnxuiXH5yJ751CEviL7fM2sGibi5qNoMPQd23WZyw657Qk6iM51d4LKIySxOCILV8v7xq3Y6nu-uBzG24pdhbQhWR9jcQWy2dlSnhYe8MRgFe2xHQmxsJZsj0RuEY4F19jJFvZ_c_CyKaZjFeae1JxRbEnmq48XWD_G5enMCwxMs-cPn9ycc="
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:30:41.538Z"
     },
     {
       "id": "social-213428ae4868",
@@ -13198,39 +12823,6 @@
         }
       ],
       "scrapedAt": "2026-07-04T09:19:56.982Z"
-    },
-    {
-      "id": "social-f11b232487e3",
-      "title": "Fritigstreff 2026 (organisiert durch DTV Bonaduz)",
-      "category": "family",
-      "description": "Lokales Treffen organisiert durch den DTV Bonaduz.",
-      "date": "2026-10-02",
-      "time": "17:00 - 22:00",
-      "price": "Kostenlos",
-      "municipality": "Bonaduz",
-      "locationName": "Dorfplatz Bonaduz",
-      "lat": 46.8373,
-      "lng": 9.3991,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES3nIYkOtJ4HWCi-JYsFcnWGMAae0MnUqizE9_M5vFYOt8LTG4SV-2m37YnZvt-PWMwbV-wVOTFcNgxf36jXLgMoe_QqZ57usW1YOoAUuoP4zCib72G3_g4tlaB8r59EL8QBBE25On-9BXzdifuLp4Wsejw55y76K4fXFhc4d4KktshKglAZA="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjyewrLqfl9JeqeP_0DMwKXnI075GBHQEJZ3vwtbrP2hwTvyQR8hCd1eFdFzN1bSTqL_H4x7QdcOR1KcWL4aS5Z6H6fqOWVZ7fmdKKs1-VVMr4gxCNkzSNXTyF0fTPtdhfQXeC5NVjlWpB6FWDZeqQK57CG7h7aoL2B_QOCvRh"
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQenpvFZmPqaSxDXq8cb6B8w-qjsL-JDlK9jrLASq9To2WaE8KIMMnMWoGei6wkGaiGktS3FefcRV4Cl7YNqvmUX9VLi6a_f86iqp1FRsrOEmmZs9nxGP_XlvgIiXmrC3XQw=="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:22:18.249Z"
     },
     {
       "id": "social-cf9e170eeb6f",
