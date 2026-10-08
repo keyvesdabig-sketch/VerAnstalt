@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T14:05:38.916Z",
+  "lastUpdated": "2026-10-08T14:15:32.333Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -768,27 +768,6 @@
       "legacyId": "social-1779632286939-Landquart-16"
     },
     {
-      "id": "social-bf079c188a89",
-      "title": "Kids-Nachmittag mit Buchvorlesung",
-      "category": "family",
-      "description": "Kids-Nachmittag mit Buchvorlesung.",
-      "date": "2026-10-07",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-32"
-    },
-    {
       "id": "social-8f9796594176",
       "title": "Jahreskonzert MG Thusis",
       "category": "music",
@@ -808,26 +787,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-ab0ef315222f",
-      "title": "Kieran Goss & Annie Kinsella",
-      "category": "music",
-      "description": "Konzert von Kieran Goss & Annie Kinsella, präsentiert vom Folk Club Chur.",
-      "date": "2026-10-07",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Kultur-Bar",
-      "lat": 46.8491,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://werkstatt-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-03eab0dd047a",
@@ -4303,43 +4262,6 @@
         }
       ],
       "scrapedAt": "2026-06-05T10:42:18.631Z"
-    },
-    {
-      "id": "social-8206f33fe199",
-      "title": "Kraft der Stille - Sitzen im Schweigen",
-      "category": "stage",
-      "description": "Innerlich zur Ruhe kommen und sich auf das Wesentliche besinnen.",
-      "date": "2026-10-07",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Evang.-ref. Kirche Felsberg",
-      "lat": 46.83,
-      "lng": 9.51,
-      "image": "",
-      "organizerUrl": "https://www.evang-felsberg.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb0_YscLah0kwWM5qdK_88Kq7tg6V_vnGzyvF2I3ctgJ2hWiUR_fb3Gd8JIK0U2vIOFTLYcX1mUOfpCkgGK1EDFMEgrkyD5KBec7EY58zRCQR1VQU_WKwjrFXY-A=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ79zutsYGX4VbCb9u4V0mawe8nhW6RJleZvy5xleJCAkJEzjnHOL4k-hTqoRFiHaU87m2K8qjlqtgSWlwbYGp9sdJP4Jq87AwsXHax0rhVCOX8JITusdNcP-c67qfhOSAkJMK"
-        },
-        {
-          "title": "projunior-gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOtl5Shw2S469VlSJDqMDRd38mZKLty9AV3JRORXXoLhSgT4_wGO_V-WeX-8llunalW-sRakbBGtkCqCFsP57hvoWRPG1T55yGTqoU9J8VPkbK_5ExDEXFiTDjtIdZKq9oPIYeSIw6uAac_ecTwxM="
-        },
-        {
-          "title": "unihockeyfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmD9qs26viVKjog6okiwZ3ohl18eVGsuQv_wB8h1xND5EtkOIkqpJ_IC_dIyRvFbEi5MpmsQx5oDQ6apE7cOfvdpEu8--jAmz0XCwVtQA-fN_Snzx9nODJ3lzyjTNuHcMQNSdzMDeO8z-DQBVQJuo1JVQKvPqL8bxHJn44"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:43:57.523Z"
     },
     {
       "id": "social-8558c4e55291",
@@ -11541,47 +11463,6 @@
       "scrapedAt": "2026-07-03T09:54:13.526Z"
     },
     {
-      "id": "social-dce664e98ccc",
-      "title": "'Story'-Quiz",
-      "category": "family",
-      "description": "A quiz event held at 'Story'.",
-      "date": "2026-10-07",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.68,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de/erlebnisse/events/veranstaltungen-in-thusus/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "shootingsportscloud.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwVX2AWfCcgGMe20lrgky-b3-kt31ayDf8R4sySXi1G4Q0sPIwi5_-t9JigmhflZjt_lw5VdDW9j0AsvQBnB3FTFf-nUhkANJEyQlBwjqbjHg11AuyMVuwCWvefc6lw4vffWjTknVvXNjbzG_gPl4GHeN7eFlQbegHHMW_T21aiEUElrVsK8kIEbjsV_a6vDo5bcqvsuxh"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHIYXqJWAM_q3M8deb8rDkhwHrSThTU74mJrHiYUtzJK28GfOVUgZhx_GGoD1Jvj8dFg4GkA8gYoGO10MLyyT1khWiTN2IOYfWt9ua-A=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-OyANn4bVJAjc6q2XZqerPiv-RqLhjcCaY3vd8QugLt6nM_DkhMRnp932iUncDFw8X0X378FHxpSmMnQB9I5V0YzTfVDjATi2x9IeFsF1oKq-Hw8SYvnPGMUR4ODXGq-cFUEFPraG1RZzHxcL0OI="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf7t-UniUg6soWueODYzqC6pWBV9CbePoBQuLnanvz3QFRabbaVTEQ2Eem02hi-tIQ-W2-rsfn2aHblEtTkwE06oQcGtZ04j7_elXP8PJZaN3qgtcjoQLF125hXGxyu78szif7nEPxdaPy4-SjtcTRb4wgc-OfjD_a0iTJDH7rjWKWwdS2lCRS-kLE-aQhis71fFO1DDE="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQs5kYldWX5XjF4UOA9yjQ01Y-8MwKbOhgrL2-Yvwy1d8JSLS5LsYjNyRlvw4EkfTKTQP03_orkoZ8RrBWNymFl7N72yFY-7g99fhuuVgRaRL6Yo8VABR8dVshsQABIsLFpvj0QgjNA1olDfHIrk1Bu3CG2WmWDGU-8FJSY52iTnp4ZjmWXw=="
-        }
-      ],
-      "scrapedAt": "2026-07-03T10:00:54.073Z"
-    },
-    {
       "id": "social-e44e6ca0f776",
       "title": "Orchestrina Chur & Himmel und Hölle",
       "category": "music",
@@ -12711,47 +12592,6 @@
       "scrapedAt": "2026-07-10T10:23:39.184Z"
     },
     {
-      "id": "social-43c8163aafd7",
-      "title": "Zauberlaterne Thusis",
-      "category": "family",
-      "description": "Filmklub für Kinder von 6 bis 12 Jahren. Jede Saison zeigen wir 9 spannende und abwechslungsreiche Filme aus der Geschichte des Kinos.",
-      "date": "2026-10-07",
-      "time": "14:45 - 16:15",
-      "price": "CHF 40.– (Saisonabo), CHF 30.– (zweites Kind), kostenfrei (weitere Kinder)",
-      "municipality": "Thusis",
-      "locationName": "Kino Theater Raetia",
-      "lat": 46.6906,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "www.zauberlaterne.org",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJoc1lvrjaXIkEXwNF8vjKsYYVzSt4YlCxnC6EjFcXp7t2xhfieAukDoUMjpnZaOVzo4brEtRJBBik1NQ3Epm6h4QSLGpt41TBm-ftbBpKhGPfKExpLji31Kqw8gPzSyvcTy04acieJvEZpKNNpQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoHPCJyN_TU6pe1r_3TajdP8xJ2pd_9xcekHsYSXMoJ_WuoiSt0IGQqSHMQZO9lSnL39z5pg1Cu33MgzMdfdpQL7FEVb9seV1HwlGUoaC6x8nA571YwmZMJxNTZTfKWGpCoGxMTuZlkgCBocxIYfaJrNkwEMVEYOPXbGuU7KbdE0TefARXAB7xyb5BMhFxVWbyEPsxLQ=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmJ4vI8p00EAQ3BbBDaxYEeiviF23etJtsER5sV_UPPrwW1WCtZMmxM_tOaMEF9AYEjFGNv7lh_uaXSgbO7X-1y5jJlohd7gUyEcqKIha7r7qoLuzLwcmPalR6Mx1LGC1yghrpcdfqDH8XBWCITvXeAIlg"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG2xdiQw1obYkgGaY9c3hIGWdO2qJ-UHXF2zVDGAo0Oyuh--FoG-vhFfwnVcXl6Sk1Kn3Fo8ykjXHp28Qr_Z9rS_wgJ-v7dOt7LsPylJOnIFtKYtEyq7bOyC_REJHo7kbQ8mhHKFDk7mL_eYj5S32m-cv5lLB7I7ozgY6s_MY8gUgX9m3eMzQtiFr7Fh2rhG4o5g=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrVfxye_ti36f66wRvoOOqntTOPUqOaB6DpWuivmIMh2xCkFp8R4JjW_27gB4uVhPrnMMQnN4N2AixNQ12dZqp7K7SR4Hl_qICuxoqtftBax0Ipa-XcsVjIq_jWC986zkoOx67rOE2Pj96A2b8BqE25qXLPsnFT5DHh1L6bMqYADvni1_nqYDHrOIcow7z"
-        }
-      ],
-      "scrapedAt": "2026-07-10T10:26:44.151Z"
-    },
-    {
       "id": "social-0c566ac7be54",
       "title": "Zauberlaterne Thusis",
       "category": "family",
@@ -13217,47 +13057,6 @@
       "scrapedAt": "2026-07-11T08:49:13.334Z"
     },
     {
-      "id": "social-0a975052fd15",
-      "title": "Zauberlaterne Thusis (Filmklub für Kinder)",
-      "category": "family",
-      "description": "Filmklub für Kinder von 6 bis 12 Jahren. Zeigt 9 spannende und abwechslungsreiche Filme aus der Geschichte des Kinos.",
-      "date": "2026-10-07",
-      "time": "14:45",
-      "price": "CHF 40.– Saisonabo",
-      "municipality": "Thusis",
-      "locationName": "Kino Theater Raetia, Obere Stallstrasse 14, 7430 Thusis",
-      "lat": 46.7112,
-      "lng": 9.4077,
-      "image": "",
-      "organizerUrl": "https://www.zauberlaterne.org/",
-      "ticketUrl": "https://www.zauberlaterne.org/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs5oq2UB-HHytSroYfXJSM5xgbdfSz08BabKzGnRyQw7_ZiIhq7aMFUNWoNGpA_TCndBSeCx3aObzqMnTI7RSmAs3-fP7IvkiUmjL8kVNAjSWzikgEbLV7tq3tY4Uv76w="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6N9tCNEjOi6LfBE6jNIR2gzLJhWVgKiZJyZpR8wnlFsG_w85T0P6ZfhRfvw9vr0YxbxHAeWLlRSwPtX7FWzRZ7-dC4bltWqqxbxPxSpC6njH8sZWNoLpFlzhrqqWbl2sF-vZmYDDUSL7jpezvU11NlSaiJPWK5jIxhiJFJGZfRBsrvG8KKPOl0ungtwm"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrh-f2Plp0et0hSb5JCSfwB7aJT_c0vvMtTyZ2e1nQa7I1yIzc6AeAGFA71OzD2qy93xdO3bwEq1VoZ7s3BB8sO_lZE8O9u6_vGkKm-nZIP-kzgf0E1iGoI2_2oNhlztB3c9zJ0cnlCmZadHa5Cp-qcY="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa60g3qcYHg2ZHNVrWInqy5dk52g5Rq8jXd-GAxv2R8B2buQf2PRjqFYa8_JCwZzkhCv5Cg4vSMUnjdeGaUlDxfkTG4f9LgelNUJa5BEBUZh33MteJiYNGtUGBx6c3n4xp3sW2aek3DKMGskRtw2nxhkwz3RjZ56XS3M37pGezuub5WhMa7pUz2jBASmwSO_sg7EN9ug=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjPE3Yd_Fmpf9N5grl-hdRlUKz4TyOywSqfPGpDo0oy4B7IVRFcV9KE8cc7d2TedH87nsICP1w2UtVZ8lwscilAGgeFcPe6T3AhngyMosPNfg-zFeZx2TSmt8808S8YCFu1K68yN6ew-BOFGngFlbyFObO"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
       "id": "social-63ab1a2c913d",
       "title": "Zauberlaterne Thusis (Filmklub für Kinder)",
       "category": "family",
@@ -13399,47 +13198,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-12T09:00:52.844Z"
-    },
-    {
-      "id": "social-9acfb119ff12",
-      "title": "Zauberlaterne",
-      "category": "family",
-      "description": "Kino Rätia Zauberlaterne – ein Filmklub für Kinder von 6 bis 12 Jahren.",
-      "date": "2026-10-07",
-      "time": "14:45",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.69916,
-      "lng": 9.43635,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PDWQovwedE4m3_PLyDKxy-ENJrEGBOH3MNzuA_0VCLqw4dX3SHKCKyqFfYbYnuBsyQnT4rWPIOArey9erlcYHPX4xvGkI-W1vSfdbIVzOVqukfoVgEQHggHXQV4nzBp_-2sHQNr0DiQ8yxfBVw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWSYC-VzQ-zI5uUWzgpvRiucH183eC_kXjvWnFN2r7Yu8hiII61RiMaWvgZTyDWbaHBKhqa2JVEtJyqt5gU2zzZl1XC82FLfSQGS5Adp0kZOic9b4OwvZjxy17QMgPnIIdUhhloT4Z9AZfNSoGosAdy8S"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY2au0Kffqj2J6FpdmUS4Mdk1ff45sN9kf6NuLnSCDhgbauH3a8blLlSJbk4gsgut5pqTRKZKsszKQkcClUiqoKppDFtKXPNW_NdqOQ7zRJUbqOCqSoKtTjf0WYSDW-YWgwA8LlOzz8bN"
-        },
-        {
-          "title": "story-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsYIFB4je8rSxHnTuh84jdI6CR2WAem4XeuEmZf0Q6tQD9JG730YuAy8g6cTmrlPUu2MfzvpFlmLyga9CZhLJUkGv90yCsUun3Fnqeae1Uh1Q"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3gl1HxRgyeOGHcJWGNzysh5QdaWkHPSwUuuhfumy16bNRhUMJDx-8STm1WhT6575pzkVQcGioIhksGtdw_UIKD4kJri4k4piU54Jsi4QezYF7V-OPTxuWWC_1BrNV5ZH8FDtgeVCSICwH_nf7j7JIqV1nzxkIG7avkRuuwlFsyo1ICkyloK6nQHav5RD4dcgfZPYUw=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
       "id": "social-84f0e706e56c",
@@ -13806,26 +13564,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-14T09:10:09.874Z"
-    },
-    {
-      "id": "social-01c0296251c6",
-      "title": "Die Zauberlaterne",
-      "category": "family",
-      "description": "Filmklub für Kinder von 6 bis 12 Jahren mit spannenden und abwechslungsreichen Filmen.",
-      "date": "2026-10-07",
-      "time": "14:45 - open end",
-      "price": "CHF 40.00 (Saison)",
-      "municipality": "Thusis",
-      "locationName": "Kino Theater Raetia, Obere Stallstrasse 14",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.zauberlaterne.org/de/klubs/thusis/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-14T09:11:07.196Z"
     },
     {
       "id": "social-267a6d2ac83e",
