@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T14:01:32.600Z",
+  "lastUpdated": "2026-10-10T13:10:49.339Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -789,26 +789,6 @@
       "legacyId": "social-1779632363346-Thusis-33"
     },
     {
-      "id": "social-03eab0dd047a",
-      "title": "Beethoven und Bruckner",
-      "category": "music",
-      "description": "Chorsinfonik-Konzert der Kammerphilharmonie Graubünden.",
-      "date": "2026-10-09",
-      "time": "19:00 - 21:00",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8493,
-      "lng": 9.5314,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/konzerte/",
-      "ticketUrl": "https://kammerphilharmonie.ch/konzerte/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
       "id": "social-f19b7e41f7b1",
       "title": "Werkstatt-Karaoke",
       "category": "music",
@@ -1312,47 +1292,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-199147f33d16",
-      "title": "Beethoven und Bruckner (Chorsinfonik)",
-      "category": "music",
-      "description": "Chorsinfonik mit Werken von Beethoven und Bruckner in der Martinskirche Chur.",
-      "date": "2026-10-09",
-      "time": "19:00 - 21:00",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8492,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/kommende-veranstaltungen/",
-      "ticketUrl": "https://kammerphilharmonie.ch/tickets/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-14af5d75dd67",
@@ -2154,26 +2093,6 @@
       "scrapedAt": "2026-05-29T10:46:07.560Z"
     },
     {
-      "id": "social-9fde8eb6544d",
-      "title": "Beethoven und Bruckner. Chorsinfonik",
-      "category": "music",
-      "description": "Ein Chorsinfonik-Konzert mit Werken von Beethoven und Bruckner.",
-      "date": "2026-10-09",
-      "time": "19:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-30T09:12:05.233Z"
-    },
-    {
       "id": "social-f2af159b78e1",
       "title": "Christkindlimarkt Chur",
       "category": "markets",
@@ -2931,47 +2850,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:14:08.037Z"
-    },
-    {
-      "id": "social-22103b7c3678",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-10-09",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-85b53dcf19b7",
@@ -4621,47 +4499,6 @@
       "scrapedAt": "2026-06-05T10:46:09.189Z"
     },
     {
-      "id": "social-527be974322a",
-      "title": "Herbstanlass Gewerbeverein Bonaduz",
-      "category": "family",
-      "description": "Ein Herbstanlass des Gewerbevereins Bonaduz mit Betriebsbesichtigung und Bowling. Details folgen.",
-      "date": "2026-10-09",
-      "time": "Ganztägig",
-      "price": "Unbekannt",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.82,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGptEszfrs3N_Kl21aJ8meIhJGpyOhUvs4_apb1kjB3UigZH0Sth61XBw7Zq4XpQSyIyXlsbkhSD3dxnbwfdKvKcvDDS7w5WqJrA6xNDx3W6scRBZBm68zh1FkDcRSYmJu4vGQl1ylb2rFc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjBP6H7o98CKReOu_KeK3wbNfOvizb6bgGP0L1V9p4Ioiluf5Z67fIZ0JmtOx-j1hJPcP_hrbSRzR4Y5Jn_U6UeNqLruhUQ3-B8bKv7g=="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvAD1cDc1mQaiRccNEtyS51d_zXvJkkBh7SJIZGQ1tsk5gG1LVzdMJywpDmn2B0BfiIcQdHgJzmB70kCukxoJo-cbtkmVkvLhFuDMIMPDmhXdAdi6mi6-XBIb4tQgj_-VPrQ=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN929xi5QRqBrpu00AbV9aKaMinR-9H24s0o3eq6SsDruyK4pzvhMc5Th9p1trcucN9vW8cWdqJLC_GksrF465GswncNltVDnMxVPnaY1-oIogHeDk"
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESD74mMVfIXl9J45i47capZ8WgiLSUZ3DbQC30VSIeXYiWp1zaK-ZP3dOLPIt_SPKzfsS_aJjOYUKTGlAKDfb3hsxu6PeoI5Col8-4xKy4EZmHuHqIAMJHDw2hUzCEMA=="
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:49:42.490Z"
-    },
-    {
       "id": "social-57b1c08a9693",
       "title": "Samiklausbesuche",
       "category": "family",
@@ -5694,26 +5531,6 @@
       "scrapedAt": "2026-06-10T10:56:41.226Z"
     },
     {
-      "id": "social-0ed88962d931",
-      "title": "Herbstanlass (Gewerbeverein Bonaduz)",
-      "category": "family",
-      "description": "Betriebsbesichtigung und Bowling. Details und Einladung folgen.",
-      "date": "2026-10-09",
-      "time": "17:00 - open end",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.83,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.gewerbe-bonaduz.ch/termine/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
       "id": "social-1066447d89f9",
       "title": "Samiklausbesuche (FC Bonaduz)",
       "category": "family",
@@ -5752,47 +5569,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
-      "id": "social-a6b4ef1716b0",
-      "title": "POP-UP Weinterrasse mit 1Xanders",
-      "category": "family",
-      "description": "Pop-Up Weinterrasse auf dem Weingut Wegelin.",
-      "date": "2026-10-09",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Weingut Wegelin",
-      "lat": 46.9935,
-      "lng": 9.558,
-      "image": "",
-      "organizerUrl": "https://www.weingutwegelin.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDG2iMppw_iT8lTTgwEmcqz-w1lPQX91H_NgVjoYX0KdyYDUaehgBzNeGVL1U6jlcjWH2ZBgTn8U-uvNidODQQ6ggzBC-rsdI0pRWrGyC0NQ=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTCTtUoD7P4QwMWVhlY4LbBiBXdbONvzL_ylVEdJJWZfJg4mh6cA2M3GlWxH_bEA-6hkMd2k4Xt6Nq0lqfEgRPhntVBvtdTw2XP5nHWCsYcTMn3oolzaJPzppSprwf6A=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnl3-FTlR-vlSZuTJeKbhd1zffU80uL-gRzI99NhRB0ThXIgjM4dtkx2bUKM3okqSFJvjZ1Av4dnYz4esCQ93SyRvBJGUNV73zNlBEzXg57fMeE6vI3DkGI9N_scJ7sISIMupJgIsLRQgUUQZ8TesJOHSReMOMsteaP-FRF8r-TCix5Viry7A="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN960M5z2tNB8nUcgzvVJ9kffAuWAx8vMt69_5YDofhQfijsERjOQQRqHL-M9DedBjzdBeZ7GotKKZw1vd11FAGjX58CcXQFGdIMpGyHGFOwQF97c8_CipYGzY7SWqu71H3isVPvMDSi5mCONG-5G14_g_99ABAx8icl3i-3Xg3hTgSF795Q="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDe9JaX9elcwgDW_6GQFlV03uW4dBf-t4SZtaCT2Q0_OVrSvxMrZrlRiW8ZyiVRIBgH28_AmgnrPu9r7bdY_giSNBS5kN2CZ8azHGbq7T6yxjbuJrvRRMbR9tIRw=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:01:17.264Z"
     },
     {
       "id": "social-695458a996d8",
@@ -6246,67 +6022,6 @@
       "scrapedAt": "2026-06-11T11:20:27.034Z"
     },
     {
-      "id": "social-389f2a902a73",
-      "title": "Konzert Jugendmusik Alpina Churwalden",
-      "category": "music",
-      "description": "Konzert der Jugendmusik Alpina Churwalden.",
-      "date": "2026-10-09",
-      "time": "20:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Gemeindesaal Witiwäg, Churwalden",
-      "lat": 46.799722,
-      "lng": 9.530556,
-      "image": "",
-      "organizerUrl": "https://www.churwalden.ch/de/kalender/?tx_cal_phpicalendar%5Blastview%5D=month&tx_cal_phpicalendar%5Byear%5D=2026&tx_cal_phpicalendar%5Bmonth%5D=10&tx_cal_phpicalendar%5Bday%5D=09&cHash=c078b6630f6a27e7ce9637c35a7709b1",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-11T11:25:09.523Z"
-    },
-    {
-      "id": "social-ce06737d0575",
-      "title": "Herbstanlass (Betriebsbesichtigung und Bowling)",
-      "category": "family",
-      "description": "Herbstanlass mit Betriebsbesichtigung und Bowling. Details und Einladung folgen.",
-      "date": "2026-10-09",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Bonaduz",
-      "lat": 46.82,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://gewerbe-bonaduz.ch/termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDn7H_7Ew4zSJzw5gvvkXncG6pzAtzLv-wNngz1bkaIl7H1M62vdO8KojbOe_NgIr-qbKATfDDPuKHfkl9Wk-XwhjhUCdpoa82ILexckU0MLRHOlOCLMvXBJz_fdP2YC6Oj1TK_XSYPNQFiNmXSrxyPwvG_m2EEDfnxMcPrlSb"
-        },
-        {
-          "title": "rapidopenair.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPDwMlGhc3-VCwi7dy0u8rk8Lf1ZKmzK55Bh1YIq0xBDguoi3mh7jvYavPzXY3GilFt48j_LNvs9SXyk0ZxUCMYj5eGMkDR_ApLNcN22j1UlNG6g=="
-        },
-        {
-          "title": "openairguide.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv8ZO_53PdnByGWGjM3OaZGD5HXIv3Lwf0Pu4fWpLQCqCD-KtUM91GTIWHZC19Xau7RhhCDncCpIDsKJ48x5EEViyoIf_Zip6ORSACQ5i0FVRnS_aRTurHeQxdGmCBCo3iU0xylVo6WUazfmNsSV83ohCjK6Bd369-AMbsY72Gul0aoFJfPBs="
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFccKTOUzBH12OU3KtP2IMb6v5s9oqqBJq7mVpz49i2h_-3lRoGly4pT3xZWumk0sbvi54m-cWTf0Jesa7wnK1b4D4HpCtpzQ744AzrOI8-ZESzSQNWQXp3KsGbO-aLl23w5w=="
-        },
-        {
-          "title": "fcbonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpY4MgcEag8hE1bALwzXwkPGk9QxWiA-cFN9Fl9Itp8qZnpGKCOOxXMS8FwzjfK2-dxAMuzdGSfcUwqY-Xoy9DbV7wR9CVI4oEdY5uAwmCtJfwS1tL"
-        }
-      ],
-      "scrapedAt": "2026-06-11T11:26:33.609Z"
-    },
-    {
       "id": "social-ef9d4d48b66b",
       "title": "Öffentliche SAGENhafte Abendführung",
       "category": "family",
@@ -6489,26 +6204,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:01:34.672Z"
-    },
-    {
-      "id": "social-96646e5b00e8",
-      "title": "Familienfest Pradaschier",
-      "category": "family",
-      "description": "Ein Familienfest in Pradaschier.",
-      "date": "2026-10-09",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Churwalden",
-      "locationName": "Pradaschier, Churwalden",
-      "lat": 46.801,
-      "lng": 9.572,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/en-ch/experiences/events/events-in-churwalden/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:03:26.119Z"
     },
     {
       "id": "social-6ccb5387baa5",
@@ -7334,47 +7029,6 @@
         }
       ],
       "scrapedAt": "2026-06-14T10:25:11.829Z"
-    },
-    {
-      "id": "social-cfec0d219432",
-      "title": "Familienfest Pradaschier",
-      "category": "family",
-      "description": "Kinderfest und Event mit Spielen, Spass und Abenteuer für die ganze Familie.",
-      "date": "2026-10-09",
-      "time": "10:00 - 17:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Erlebnisberg Pradaschier (Churwalden)",
-      "lat": 46.7917,
-      "lng": 9.5786,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/top-events/familienfest-pradaschier",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
     },
     {
       "id": "social-53929c1c4faf",
@@ -9478,26 +9132,6 @@
       "scrapedAt": "2026-06-19T11:20:30.037Z"
     },
     {
-      "id": "social-c2467855ac4d",
-      "title": "Herbstanlass",
-      "category": "family",
-      "description": "Betriebsbesichtigung und Bowling. Details und Einladung folgen.",
-      "date": "2026-10-09",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "",
-      "lat": 46.812,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:23:35.195Z"
-    },
-    {
       "id": "social-4aa76ef264db",
       "title": "Gesundheits-Tage Landquart",
       "category": "markets",
@@ -9759,26 +9393,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-20T10:09:50.451Z"
-    },
-    {
-      "id": "social-54ec2fb0a55e",
-      "title": "Beethoven und Bruckner. Chorsinfonik.",
-      "category": "music",
-      "description": "Choral symphony concert.",
-      "date": "2026-10-09",
-      "time": "19:00 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8521,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.338Z"
     },
     {
       "id": "social-27db3e76401c",
@@ -12246,26 +11860,6 @@
         }
       ],
       "scrapedAt": "2026-07-08T09:25:20.855Z"
-    },
-    {
-      "id": "social-5c443d6bae53",
-      "title": "SpiCool Landquart - Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-10-09",
-      "time": "09:00 - 11:00",
-      "price": "Kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.961,
-      "lng": 9.575,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-08T09:32:16.685Z"
     },
     {
       "id": "social-3b839bf85451",
