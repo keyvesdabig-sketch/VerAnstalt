@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T13:10:49.339Z",
+  "lastUpdated": "2026-10-11T13:40:10.059Z",
   "events": [
     {
       "id": "social-438cca1c32dd",
@@ -1294,47 +1294,6 @@
       "scrapedAt": "2026-05-27T11:03:08.822Z"
     },
     {
-      "id": "social-14af5d75dd67",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-10-10",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
       "id": "social-79ad5254ddaf",
       "title": "Churer Wochenmarkt",
       "category": "markets",
@@ -2335,26 +2294,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-5f8363fe15a5",
-      "title": "Ringen NLA Kriessern",
-      "category": "sport",
-      "description": "NLA Ringen mit Kriessern, organisiert vom Bündner Ringerclub.",
-      "date": "2026-10-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Mehrzweckhalle Quader",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-749743b4affd",
@@ -5569,47 +5508,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
-      "id": "social-695458a996d8",
-      "title": "POP-UP Weinterrasse mit 1Xanders",
-      "category": "family",
-      "description": "Pop-Up Weinterrasse auf dem Weingut Wegelin.",
-      "date": "2026-10-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Weingut Wegelin",
-      "lat": 46.9935,
-      "lng": 9.558,
-      "image": "",
-      "organizerUrl": "https://www.weingutwegelin.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDG2iMppw_iT8lTTgwEmcqz-w1lPQX91H_NgVjoYX0KdyYDUaehgBzNeGVL1U6jlcjWH2ZBgTn8U-uvNidODQQ6ggzBC-rsdI0pRWrGyC0NQ=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTCTtUoD7P4QwMWVhlY4LbBiBXdbONvzL_ylVEdJJWZfJg4mh6cA2M3GlWxH_bEA-6hkMd2k4Xt6Nq0lqfEgRPhntVBvtdTw2XP5nHWCsYcTMn3oolzaJPzppSprwf6A=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnl3-FTlR-vlSZuTJeKbhd1zffU80uL-gRzI99NhRB0ThXIgjM4dtkx2bUKM3okqSFJvjZ1Av4dnYz4esCQ93SyRvBJGUNV73zNlBEzXg57fMeE6vI3DkGI9N_scJ7sISIMupJgIsLRQgUUQZ8TesJOHSReMOMsteaP-FRF8r-TCix5Viry7A="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN960M5z2tNB8nUcgzvVJ9kffAuWAx8vMt69_5YDofhQfijsERjOQQRqHL-M9DedBjzdBeZ7GotKKZw1vd11FAGjX58CcXQFGdIMpGyHGFOwQF97c8_CipYGzY7SWqu71H3isVPvMDSi5mCONG-5G14_g_99ABAx8icl3i-3Xg3hTgSF795Q="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDe9JaX9elcwgDW_6GQFlV03uW4dBf-t4SZtaCT2Q0_OVrSvxMrZrlRiW8ZyiVRIBgH28_AmgnrPu9r7bdY_giSNBS5kN2CZ8azHGbq7T6yxjbuJrvRRMbR9tIRw=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:01:17.264Z"
     },
     {
       "id": "social-2d685baae57c",
@@ -10083,26 +9981,6 @@
       "scrapedAt": "2026-07-01T10:42:11.569Z"
     },
     {
-      "id": "social-8f85d9e91c57",
-      "title": "Eltern-Kind-Treff SpiCool Landquart",
-      "category": "family",
-      "description": "Im Eltern-Kind-Treff wird gespielt, gehüpft, ausgetauscht, gelacht und vieles mehr. Ein ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugsperson.",
-      "date": "2026-10-10",
-      "time": "09:00 - 11:00",
-      "price": "kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
       "id": "social-450840824de8",
       "title": "Sprachtreff GR",
       "category": "family",
@@ -11496,26 +11374,6 @@
       "scrapedAt": "2026-07-05T09:37:02.492Z"
     },
     {
-      "id": "social-3c873f4a85c2",
-      "title": "Wanderung zur ältesten Eiche Graubündens und zu den ehemaligen Goldminen von Felsberg",
-      "category": "sport",
-      "description": "Geführte Wanderung zu naturhistorischen und kulturellen Besonderheiten von Felsberg.",
-      "date": "2026-10-10",
-      "time": "unknown",
-      "price": "unbekannt",
-      "municipality": "Felsberg",
-      "locationName": "7012 Felsberg",
-      "lat": 46.84,
-      "lng": 9.5,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/felsberg/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-05T09:39:04.116Z"
-    },
-    {
       "id": "social-3b935117cbaf",
       "title": "Kirchenkonzert 2026",
       "category": "music",
@@ -12428,26 +12286,6 @@
       "scrapedAt": "2026-07-11T08:44:05.684Z"
     },
     {
-      "id": "social-00c23f0ed8ce",
-      "title": "Exkursion: Zur ältesten Eiche Graubündens und zu den ehemaligen Goldminen von Felsberg",
-      "category": "family",
-      "description": "",
-      "date": "2026-10-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.837,
-      "lng": 9.506,
-      "image": "",
-      "organizerUrl": "https://www.mycity.ch/de/felsberg/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-11T08:44:50.983Z"
-    },
-    {
       "id": "social-dd2f2221672d",
       "title": "Offener Mittagstisch in Haldenstein",
       "category": "family",
@@ -12690,26 +12528,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
-      "id": "social-995b45534b6c",
-      "title": "Tour: zur ältesten Eiche Graubündens und zu den ehemaligen Goldminen von Felsberg",
-      "category": "family",
-      "description": "Geführte Tour zur ältesten Eiche Graubündens und zu den ehemaligen Goldminen von Felsberg.",
-      "date": "2026-10-10",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Felsberg",
-      "lat": 46.8488,
-      "lng": 9.5041,
-      "image": "",
-      "organizerUrl": "https://felsberg.mycity.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-12T09:00:52.844Z"
     },
     {
       "id": "social-84f0e706e56c",
@@ -13377,26 +13195,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
-      "id": "social-045f9400bf25",
-      "title": "Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ein ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-10-10",
-      "time": "09:00 - 11:00",
-      "price": "kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.9508,
-      "lng": 9.5445,
-      "image": "",
-      "organizerUrl": "https://www.elternnotruf.ch/fileadmin/user_upload/Elternbildung/SpiCool_Landquart_2026.pdf",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
       "id": "social-014d59af706e",
