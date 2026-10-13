@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-10-12T16:21:48.283Z",
+  "lastUpdated": "2026-10-13T14:43:01.660Z",
   "events": [
-    {
-      "id": "social-438cca1c32dd",
-      "title": "Polysport-Camp Chur",
-      "category": "sport",
-      "description": "Ein Polysport-Camp in Chur.",
-      "date": "2026-10-12",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.chur.graubuenden.ch/de/events/polysport-camp-chur",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-20"
-    },
     {
       "id": "social-02b16197c5c6",
       "title": "Swisscom Football Camp Chur",
