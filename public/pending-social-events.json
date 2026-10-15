@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T12:35:08.325Z",
+  "lastUpdated": "2026-10-15T12:20:06.595Z",
   "events": [
     {
       "id": "social-02b16197c5c6",
@@ -703,26 +703,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-f19b7e41f7b1",
-      "title": "Werkstatt-Karaoke",
-      "category": "music",
-      "description": "Karaoke-Abend in der Werkstatt Kultur-Bar.",
-      "date": "2026-10-14",
-      "time": "Ganztägig",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Werkstatt Kultur-Bar",
-      "lat": 46.8491,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://werkstatt-chur.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-ac5f86d788c1",
@@ -6767,47 +6747,6 @@
       "scrapedAt": "2026-06-14T10:25:11.829Z"
     },
     {
-      "id": "social-1dc827ce9a43",
-      "title": "Polysport-Camp Chur",
-      "category": "sport",
-      "description": "Sportcamp für Kinder und Jugendliche.",
-      "date": "2026-10-14",
-      "time": "Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/sport-in-chur/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
-    },
-    {
       "id": "social-652b37e5cb0b",
       "title": "Polysport-Camp Chur",
       "category": "sport",
@@ -12611,26 +12550,6 @@
         }
       ],
       "scrapedAt": "2026-07-14T09:01:15.320Z"
-    },
-    {
-      "id": "social-838ec4893a10",
-      "title": "Spielabend für Erwachsene",
-      "category": "family",
-      "description": "Verbringen Sie einen lustigen Abend mit verschiedenen Gesellschaftsspielen. Anmeldung erforderlich.",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Gemeindebibliothek Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/veranstaltung/spielabend-fuer-erwachsene-11361286",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-14T09:01:59.560Z"
     },
     {
       "id": "social-c8f0cff5ca21",
