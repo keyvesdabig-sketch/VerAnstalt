@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T11:17:39.362Z",
+  "lastUpdated": "2026-10-18T11:54:02.921Z",
   "events": [
     {
       "id": "social-02b16197c5c6",
@@ -359,27 +359,6 @@
       "legacyId": "social-1779631956501-Untervaz-11"
     },
     {
-      "id": "social-917e3dd26912",
-      "title": "Schlussmatch Sportschützen-Zizers",
-      "category": "sport",
-      "description": "Abschlusswettkampf der Sportschützen Zizers.",
-      "date": "2026-10-17",
-      "time": "13:30 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schiessstand Ochsenweide",
-      "lat": 46.9247,
-      "lng": 9.5753,
-      "image": "",
-      "organizerUrl": "https://www.sportschuetzen-zizers.ch/news/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:08.761Z",
-      "legacyId": "social-1779631988761-Zizers-10"
-    },
-    {
       "id": "social-6c8cdc8be22a",
       "title": "Dorfkaffi",
       "category": "family",
@@ -525,27 +504,6 @@
       ],
       "scrapedAt": "2026-05-24T14:15:00.434Z",
       "legacyId": "social-1779632100434-TschiertschenPraden-15"
-    },
-    {
-      "id": "social-fb33bf76e2d9",
-      "title": "déjàvu - live",
-      "category": "music",
-      "description": "Live-Auftritt von déjàvu.",
-      "date": "2026-10-17",
-      "time": "20:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Rhäzüns",
-      "locationName": "Restaurant Clavau",
-      "lat": 46.81792,
-      "lng": 9.39763,
-      "image": "",
-      "organizerUrl": "https://dejavu-music.ch/live",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:16:03.363Z",
-      "legacyId": "social-1779632163363-Rhzns-3"
     },
     {
       "id": "social-78c9b6e21c0e",
@@ -1008,26 +966,6 @@
       "scrapedAt": "2026-05-27T10:55:21.295Z"
     },
     {
-      "id": "social-f3f21ddbc97b",
-      "title": "Schlussmatch",
-      "category": "sport",
-      "description": "Abschluss-Schiessmatch der Sportschützen Zizers.",
-      "date": "2026-10-17",
-      "time": "13:30 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Schiessstand Zizers",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://sportschuetzen-zizers.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:56:12.874Z"
-    },
-    {
       "id": "social-0b91e9df6d1e",
       "title": "TTO mit DJ Susanne",
       "category": "music",
@@ -1188,47 +1126,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-79ad5254ddaf",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-10-17",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-8b2014e0074a",
@@ -2232,26 +2129,6 @@
       "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
-      "id": "social-f6623af497e6",
-      "title": "Schlussmatch Sportschützen Zizers",
-      "category": "sport",
-      "description": "Der abschliessende Wettkampf der Sportschützen Zizers.",
-      "date": "2026-10-17",
-      "time": "13:30 - 17:00",
-      "price": "Unbekannt",
-      "municipality": "Zizers",
-      "locationName": "Schiessstand Sportschützen Zizers",
-      "lat": 46.92,
-      "lng": 9.57,
-      "image": "",
-      "organizerUrl": "https://sportschuetzen-zizers.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:47.075Z"
-    },
-    {
       "id": "social-768619baf248",
       "title": "Chlaushock TV Zizers",
       "category": "family",
@@ -2392,26 +2269,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-7714885afaa2",
-      "title": "Jahreskonzert 2026 (2-Länder Musikanten)",
-      "category": "music",
-      "description": "Jahreskonzert der 2-Länder Musikanten mit einem Repertoire aus Schlager, Oldies, Böhmisch-Mährisch, Swing und Jazz.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.991,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://2-laender-musikanten.ch/konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:40:43.695Z"
     },
     {
       "id": "social-123c83585c0e",
@@ -5246,47 +5103,6 @@
       "scrapedAt": "2026-06-10T10:59:15.254Z"
     },
     {
-      "id": "social-7ed5a496485f",
-      "title": "POP-UP Weinterrasse mit 1Xanders",
-      "category": "family",
-      "description": "Pop-Up Weinterrasse auf dem Weingut Wegelin.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Weingut Wegelin",
-      "lat": 46.9935,
-      "lng": 9.558,
-      "image": "",
-      "organizerUrl": "https://www.weingutwegelin.ch/events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDG2iMppw_iT8lTTgwEmcqz-w1lPQX91H_NgVjoYX0KdyYDUaehgBzNeGVL1U6jlcjWH2ZBgTn8U-uvNidODQQ6ggzBC-rsdI0pRWrGyC0NQ=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTCTtUoD7P4QwMWVhlY4LbBiBXdbONvzL_ylVEdJJWZfJg4mh6cA2M3GlWxH_bEA-6hkMd2k4Xt6Nq0lqfEgRPhntVBvtdTw2XP5nHWCsYcTMn3oolzaJPzppSprwf6A=="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnl3-FTlR-vlSZuTJeKbhd1zffU80uL-gRzI99NhRB0ThXIgjM4dtkx2bUKM3okqSFJvjZ1Av4dnYz4esCQ93SyRvBJGUNV73zNlBEzXg57fMeE6vI3DkGI9N_scJ7sISIMupJgIsLRQgUUQZ8TesJOHSReMOMsteaP-FRF8r-TCix5Viry7A="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsN960M5z2tNB8nUcgzvVJ9kffAuWAx8vMt69_5YDofhQfijsERjOQQRqHL-M9DedBjzdBeZ7GotKKZw1vd11FAGjX58CcXQFGdIMpGyHGFOwQF97c8_CipYGzY7SWqu71H3isVPvMDSi5mCONG-5G14_g_99ABAx8icl3i-3Xg3hTgSF795Q="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDe9JaX9elcwgDW_6GQFlV03uW4dBf-t4SZtaCT2Q0_OVrSvxMrZrlRiW8ZyiVRIBgH28_AmgnrPu9r7bdY_giSNBS5kN2CZ8azHGbq7T6yxjbuJrvRRMbR9tIRw=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:01:17.264Z"
-    },
-    {
       "id": "social-c0939002ad20",
       "title": "Plausch-Jassen TV Landquart",
       "category": "family",
@@ -6401,26 +6217,6 @@
       "scrapedAt": "2026-06-13T09:56:08.554Z"
     },
     {
-      "id": "social-b163b77d6a90",
-      "title": "Jahreskonzert (2-Länder Musikanten)",
-      "category": "music",
-      "description": "Das Jahreskonzert der 2-Länder Musikanten.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.9922,
-      "lng": 9.5303,
-      "image": "",
-      "organizerUrl": "https://2-laender-musikanten.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T10:03:08.667Z"
-    },
-    {
       "id": "social-0793a48e7e06",
       "title": "Raclette-Essen (TV Malans)",
       "category": "family",
@@ -7011,26 +6807,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-15T13:08:07.094Z"
-    },
-    {
-      "id": "social-870eb0044fe0",
-      "title": "Barock - The ACDC Tribute Show",
-      "category": "music",
-      "description": "Erleben Sie BAROCK, die wohl beste AC/DC-Tribute-Band Europas, live im Forum Landquart. Eine energiegeladene Rockshow mit legendären Hits.",
-      "date": "2026-10-17",
-      "time": "20:00 - 22:30",
-      "price": "CHF 55.- (Early Bird CHF 45.-, Abendkasse CHF 60.-)",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.941,
-      "lng": 9.535,
-      "image": "",
-      "organizerUrl": "https://www.barock-acdc.com/",
-      "ticketUrl": "https://www.eventfrog.ch/de/p/konzert/rock-pop/barock-the-acdc-tribute-show-in-landquart-7195847772719500000.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-15T13:08:52.139Z"
     },
     {
       "id": "social-452d7b0c1592",
@@ -8900,51 +8676,6 @@
       "scrapedAt": "2026-06-21T10:28:37.826Z"
     },
     {
-      "id": "social-317f0dd2d045",
-      "title": "Konzert Déjàvu",
-      "category": "music",
-      "description": "Euphorisch und energiegeladen. Emotional und voller Power. Ein Konzert von déjàvu darf man sich nicht entgehen lassen. Die fünf Musiker bringen ihre Leidenschaft auf die Bühne und reissen jeden mit, der ihre Liebe zur Musik teilt. Erlebe echten, bodenständigen und abwechslungsreichen Rock an einem Konzert von déjàvu.",
-      "date": "2026-10-17",
-      "time": "20:00 - 23:00",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Restaurant Clavau",
-      "lat": 46.804,
-      "lng": 9.39,
-      "image": "",
-      "organizerUrl": "https://www.dejavu-music.ch/tour",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "restaurantguru.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxdaCCHR0Tqjd44HFQPbWr_8r2GopU4KVae1WcsT4geUkj_SbCo4IcRKqfhM8tO9GRNJst3y0gJVTFf0ivsc5GL-IGn5LqUJErTGfNXybsjpmMrcQRLnMhqhYW-eeJ_TghVCFUQHFg6HIl"
-        }
-      ],
-      "scrapedAt": "2026-06-21T10:33:57.582Z"
-    },
-    {
-      "id": "social-6776494a7fdd",
-      "title": "AC/DC Tribute Konzert mit Barock",
-      "category": "music",
-      "description": "Erlebe BAROCK, die wohl beste AC/DC-Tribute-Band Europas, live im Forum Landquart! Mit legendären Hits, authentischem Sound und einer energiegeladenen Rockshow zum Mitsingen und Abfeiern.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.94,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMf35tPOqbpbgGat564K4fit5UHHHY_YaUvaXDXxDn0GhtI6ecZ6KfRjuQ8f1sBznXMUoEdwxGLcdnBZ3NwrkUDExpItZ5YrAFwdAwne4b0HlLBjsRdR4ULpKLw5tjhb95PupDV5vHZc03zboOVrEa4SDV7g-G1ioEa_rtKcdQIgvXjwVaaKzOLHwy_jWYziVgOdSTe9bAHWw_Og==",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:35:48.017Z"
-    },
-    {
       "id": "social-20421563e38b",
       "title": "Lapsus - Ego!",
       "category": "stage",
@@ -9146,26 +8877,6 @@
         }
       ],
       "scrapedAt": "2026-06-22T12:48:33.748Z"
-    },
-    {
-      "id": "social-203aa279f839",
-      "title": "AC/DC Tribute Konzert mit der bekannten Band Barock",
-      "category": "music",
-      "description": "AC/DC Tribute Konzert mit der bekannten Band Barock im Forum in Landquart.",
-      "date": "2026-10-17",
-      "time": "20:00 - 22:30",
-      "price": "unknown",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.94,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/konzert/pop-rock-jazz/barock-the-acdc-tribute-show-7033580554522438592.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/konzert/pop-rock-jazz/barock-the-acdc-tribute-show-7033580554522438592.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-22T12:54:18.039Z"
     },
     {
       "id": "social-c44fedf0fd7a",
@@ -9975,26 +9686,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-02T09:57:35.208Z"
-    },
-    {
-      "id": "social-2e51c93ff43a",
-      "title": "Schlussmatch (Sportschützen)",
-      "category": "sport",
-      "description": "Der finale Wettkampf der Sportschützen Zizers.",
-      "date": "2026-10-17",
-      "time": "13:30 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Sportschützen-Zizers Schiessstand",
-      "lat": 46.91,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://sportschuetzen-zizers.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T09:58:48.685Z"
     },
     {
       "id": "social-767c60e446c9",
@@ -11045,26 +10736,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-07T10:20:18.774Z"
-    },
-    {
-      "id": "social-bf7f1c014fcc",
-      "title": "Jahreskonzert 2026",
-      "category": "music",
-      "description": "Jahreskonzert der 2-Länder Musikanten.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans GR",
-      "lat": 46.993,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://2lm.ch/konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:28:14.620Z"
     },
     {
       "id": "social-5eba0140981a",
@@ -12929,47 +12600,6 @@
       "scrapedAt": "2026-07-17T09:09:48.154Z"
     },
     {
-      "id": "social-d8eb36c17153",
-      "title": "AC/DC Tribute Konzert mit der Band Barock",
-      "category": "music",
-      "description": "Ein AC/DC Tribute Konzert mit der bekannten Band Barock im Forum in Landquart.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.949,
-      "lng": 9.541,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-OemMSRpWb7YucX76HG9pAvJ-6v56JKCh4FmVzepSQ2O3EOjpAQivaIGe-QXccwc9-JF5MBsZmk7ZhCzIJeZOP3wiQE-loFg8mQK4JQCjiu0E85CV6Aic7QtRoqc3kpzPWNCkxmYCw5XzahP97FdXzbfN8Yq2zObGhpZ9wJViK6oZROjNOMUDRIOA5CklnFX_r2ZV7JZJQ=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtOx7Wg9YWUT6n49y3jXLX9jKxc6VAF6zwdOBcrJ_upGzayWvHIAw9UXwdoW0-W9rn1DwnbCCFeK0wR9CYQupBcxgpfnb1nycMycPLhsbdgpUKS1u0-_QnRVCsC0TKV0knR2QZn2I="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhBxdkM8_rYDoZ5t4Pe3rB0Zf3u8K6DOOkf1VgNttQSWdhrYjrlfx2W-cC6mEHNHBIn1PKrFSNaHqZ602qwL0IbDujfkbdNMkESZ51YO2HDSNDn9XU-7FQ4i-U_uNa-JeGq1LGxYOB9DJB"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHC_NBRw9LjXvOboeolJnh9EG52m9HZdv1AYpube7aDB8d3HkpSSQd-AB71RhmwFSXiTWs4GYTe9q4FJfuD9R9VtY39j2nBN8XR9PdYdabJIodNjKqJvhpDxBTP-jgEnuKGA8XMp3Rro9pDg=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeNE3idUewQq18jmIJrMzk0Qf3hmU1lww71gBa63wK7rZ2OFqHW2RKUEwr6DegwIrmswXFrQDDKAVMzHnBhQgniPhxpRlDMnvu2FkKCemh4WbC5_LfxvOHFFS3W-cPOj0n5ha5PiwzUDnFzy0xwIduUUEg8AcbiURPV3Noyt_fKZv1uJm1pBmCSQWV_JEmAw=="
-        }
-      ],
-      "scrapedAt": "2026-07-17T09:13:27.547Z"
-    },
-    {
       "id": "social-1c45cef832d7",
       "title": "Marie Louise Werth & Band - Merry Christmas Tour 2026",
       "category": "music",
@@ -13091,39 +12721,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:44:43.472Z"
-    },
-    {
-      "id": "social-72a2d13dc31d",
-      "title": "Hegetag Vallatscha mit den Jägern",
-      "category": "family",
-      "description": "Hegetag Vallatscha mit den Jägern.",
-      "date": "2026-10-17",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Bonaduz",
-      "locationName": "Vallatscha",
-      "lat": 46.848,
-      "lng": 9.408,
-      "image": "",
-      "organizerUrl": "https://www.naturvereinbonaduz.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3mhZ2OY0j_moEwHNsjrGdgYCdN65CzTOibxbWwvoYdk1NmcCwRf-Du1q6pm89ScA9a4qaGLLokSKZuSosSkL8B7JxOJElHK1i27C3nB-NNr81wRA5BNv3Z_5FbtV5Vpsroj83l9uJKOwoaj5qJsd-dmLurSt_jytSC5k6VJq7zcK87LyNUuvO3mQUpvn9l9xgA9pqA9N-"
-        },
-        {
-          "title": "naturverein.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhn3bxlPTwVpofkmQUP1QCel1ZjvS-X9p57xg4aUpjdUYxNYXKFb-soWdzpzXbt3I8j3-DWehO-VzzU6g51uZ22Y0C0JUhQft2GrRYSG9wGOdecpYLi0J5RLz5ifKagU0n"
-        },
-        {
-          "title": "gewerbe-bonaduz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyXq29xwiikg70UVgmqwAGp_aArTwEUxh52l1wI8BhKyOpl207wnwXwLk4hYkj4tt_AidZE5loQ-72a5YNISDYkl28rzMYrHzTry0BDLEYPNlCcUeHuq_KTqa6wA087BbqNw=="
-        }
-      ],
-      "scrapedAt": "2026-07-18T08:51:09.050Z"
     },
     {
       "id": "social-9c60ae25cc9b",
