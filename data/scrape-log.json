@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-21T10:43:16.677Z",
-  "eventsTotal": 50,
+  "timestamp": "2026-10-22T10:44:59.229Z",
+  "eventsTotal": 46,
   "eventsNew": 0,
   "eventsUpdated": 0,
   "eventsEnriched": 0,
   "enrichmentErrors": 0,
-  "eventsCleaned": 0,
+  "eventsCleaned": 4,
   "sources": [
     {
       "name": "Chur-Kultur",
