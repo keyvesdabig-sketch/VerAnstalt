@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T11:44:31.963Z",
+  "lastUpdated": "2026-10-25T12:14:28.345Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -621,26 +621,6 @@
       "legacyId": "social-1779632363346-Thusis-33"
     },
     {
-      "id": "social-f4913c7db9d9",
-      "title": "Oktoberfest 2026",
-      "category": "family",
-      "description": "Zünftige Gemütlichkeit mit Bier, Brezn und bester Stimmung.",
-      "date": "2026-10-24",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "AREON Eventhalle Chur",
-      "lat": 46.8521,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://areon-eventhalle.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
       "id": "social-0cc7b12fa3e2",
       "title": "Oktoberfest 2026",
       "category": "family",
@@ -1064,47 +1044,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-8b2014e0074a",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-10-24",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-fc7d4f7e930e",
@@ -2128,26 +2067,6 @@
       "scrapedAt": "2026-05-31T09:55:09.510Z"
     },
     {
-      "id": "social-523473201440",
-      "title": "Das Kriminal Dinner Eine Leiche im Louvre",
-      "category": "stage",
-      "description": "Interaktives Krimidinner-Erlebnis.",
-      "date": "2026-10-24",
-      "time": "19:00 - 22:00",
-      "price": "ab CHF 97.80",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://www.ticketcorner.ch/artist/das-kriminal-dinner/",
-      "ticketUrl": "https://www.ticketcorner.ch/artist/das-kriminal-dinner/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
       "id": "social-4cc6ed1bf54c",
       "title": "Dido und Aeneas, Henry Purcell",
       "category": "music",
@@ -2207,26 +2126,6 @@
         }
       ],
       "scrapedAt": "2026-06-01T12:33:34.997Z"
-    },
-    {
-      "id": "social-123c83585c0e",
-      "title": "Malanser-Cup",
-      "category": "sport",
-      "description": "Der Malanser-Cup ist ein lokaler Sportwettkampf.",
-      "date": "2026-10-24",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Malans",
-      "lat": 46.991,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://www.tvmalans.ch/jahresprogramm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:40:43.695Z"
     },
     {
       "id": "social-dc6b3efa9703",
@@ -6137,47 +6036,6 @@
       "scrapedAt": "2026-06-14T10:23:49.455Z"
     },
     {
-      "id": "social-05bdae650479",
-      "title": "Offene Turnhalle",
-      "category": "sport",
-      "description": "Offene Turnhalle für Jedermann. Findet jeden zweiten Samstag nach den Herbstferien bis zu den Frühlingsferien statt.",
-      "date": "2026-10-24",
-      "time": "20:00 - 22:00",
-      "price": "Unbekannt",
-      "municipality": "Zizers",
-      "locationName": "Turnhalle Feld",
-      "lat": 46.914,
-      "lng": 9.554,
-      "image": "",
-      "organizerUrl": "https://www.zizers.ch/jugend/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFauB4H_-MqJ83ectM7kDD-VlReGzLaYuqb3mlkce0v7q-FoFyaoMBdZxqsD89lb5yHvBAkWCQdCbuFpbcHIntiaHmrrKoVEpICWbqI9ve6DE5XsTyUmCbyrfrvK0m43Zc1WBoYtlIDgZSlAu8ZWPrwMPW1ba-mX28Axk9EF4KgMH8_VDcnnOZN"
-        },
-        {
-          "title": "zizerserdorfzitig.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiTdaJkhHQ-5AfUms0CCpURvSmC3RCijQMlQZMw_WppkI3tzfnpp208zppKmtQyKOdNoZfTMZokCtcrAyMMx8Fp2-ltj_C25uN9tSjbUlw5PVgF6i0rlxfrWLEfRU2btliDmaV"
-        },
-        {
-          "title": "sportschuetzen-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSY1NIVpGmNycYH-psj66d2OT0sNmn9DoWu90AxdyPZgbur3eNz3Dy1sjZ76C3EXYmfrV28Es7eo0Lvg1Q9lUMBWb6KTgxQxAZnihmVnjlHOzsODjmWR_Imnkswgc3bg=="
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU0JfFpValoMl_3X1O4qvIatA3xoMZuFqvz5YJyxSDTG1AVHjP0s3_emFCrhCFmQaG1-gvU3Ih8ghr82z1cH7vQbsgdKbPOO8-4YU6C7JXgXyYn-5nFeQvGhnSsGHJWlABaXnm9xrVjNW_oivCF18UqmQ6kPyaYbSGPtn6ElZlXcu1XMxuaS4u2UTlNkE2KGpdsYoJfP7L1L_Q5ScMlsuMywrrUj6pyT_vTzil9kE="
-        },
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFntIp1OCO7WFouK_WABAl3EstFYt-ODIqBf7VTHdCqgX3mgNb_GYoW4BwcoBxuDtBDsFbqt5ICDLiQcInICYe13PrF1Gww0w7eabZZ5Jdo72iKEhowBzXGu06AQFTWk-xwmjJ0jQ=="
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:25:11.829Z"
-    },
-    {
       "id": "social-b29999233907",
       "title": "Offene Turnhalle",
       "category": "sport",
@@ -6730,47 +6588,6 @@
       "scrapedAt": "2026-06-15T13:11:16.675Z"
     },
     {
-      "id": "social-d31b4d293e22",
-      "title": "Sträucher Tauschaktion",
-      "category": "family",
-      "description": "Tauschen Sie gebietsfremde Gartensträucher gegen einheimische Arten. Beitrag für Insekten, Vögel und Kleinsäuger in unserer Gemeinde.",
-      "date": "2026-10-24",
-      "time": "",
-      "price": "Gratis",
-      "municipality": "Cazis",
-      "locationName": "Cazis",
-      "lat": 46.73,
-      "lng": 9.44,
-      "image": "",
-      "organizerUrl": "https://www.cazis.ch/Aktuelles/Veranstaltungen/Details?itemId=338605",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH47vjKPCdiRRLfUVV45zFcrUBJ2C9TfwGFuXTGou9R8_3Rmlr7fVtKkcn9O0EIWv6PBsunYtV2e90v3PmQlEklR-tJN9p3jMtxYRWIDwG1mvVyj-JbhH4T7QjAllmXuOvhUsnRUBncluZQn89kX2Pfd5_PW0JS9lY2u8BZOPzGtQlTAzjl1GViOs_cYA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKR5TFlYzs3R4x7P_zuk3DzPSIyxvqkeGqmdGYpdBIeY9haS5qe1VYhETvjx4Y4kRJ-b3x1QXADtprljBwUmNah_9bAAsKRaa468MHHy0doE97nTek-s6E-VXMfzHptLZl9LDfsjhrOwPuZkXGVJH4zOggOrauI8lLbyjslCu2Ky9SdFc9aTpYFJ1fFXQsgI-"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGTdjcrCrfOMgvoC0Mkejuw6syL97TUlwhu_T7WfhzthOLaSXRoJrYgg-J6DH-YAmF0bPbClAZPV1QoeibLobEb2sBnaTZWMPVqCTcHHDW6h015pvp6Cp0q65e7o_YO0CHfOBYxU9974py6yG8L19MZfs="
-        },
-        {
-          "title": "eventseeker.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZlUv2QA3oEThRyecVvIilLpA4Z_U9Rzz2pzFaU5okmkWJOwHL8xAYf2mLAgtYA0PEDbbmXss3MyQx89nJkcjyfXkwPC15vf69JZBssEImGNDhfiH2XF7nC5DVEqWQR-pM0ZnkF1vMg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTXMV0ft8auniHWtSJLeKgYumUhgYdKUV22-VUsH8ss6Vjpy3zDcq6jRkXYeRro9CjcSYd0CuaNYMbrrGL5tMKVYm5lbg0IbLH-MTh6v3VBuBCAVu7M8PLXF3DsEUgI6I_u_el5A42m47-h2rCLuYoUQ-xTLli1YtwkM0tKwcTWrEoG4rqoRKSzMMLO1MmrXgMay4i2w=="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:11:16.675Z"
-    },
-    {
       "id": "social-0378cb707a68",
       "title": "Konzert BERISKA, Kiewer Bandura Ensemble",
       "category": "music",
@@ -7076,43 +6893,6 @@
       "scrapedAt": "2026-06-17T11:39:10.374Z"
     },
     {
-      "id": "social-55484ffe7f0e",
-      "title": "Das Kriminal Dinner - Eine Leiche im Louvre",
-      "category": "stage",
-      "description": "",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "price": "ab CHF 97.80",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw_3swQkhsOeSQdi1h_ogNnSed_AFXbwJjFDXOkqhddOiQ3qM4yrKEPpXq0Rgi2kO-WT4vlfwXTJ8-ghSItW3gqXM6Vqb50budl4ftKCP64-xhPnvGfAWbyRua9j6-V7A9qvjirw0JlA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Z9pYIYSJ_42X4N27BT8Kz9iliCY-AiQhAWoY9vtzAYWpLVowPz_2Xqn-EdlIsZzexdtOv8Ey9Y_I98bhj-R1UIu-3j5Pa0Klj8i8AqXOFn5gX1j81-5zNUnN_Ls-ogDxnje3atKuj9uVIMYuA-2tIoJb7VTE-sazXHLCAfzpJtDnZ-mbAw_x8hZQPJLWQs-5E0AalA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwpX4ZNeUmfxuw1siJ_mGsDrZtzjDKX9nwjmKVW9mzFW7xWNCaTmR8IxzvqdzufFJCzYWrzkL7OeurKdHKBJoBQKUX_gJYuGLEOcQIQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrJUcWZ9BUl4fXZmQEZD72AZo0rKHq5DCZ8ZmqxHo2m0mdGimOeiXyQPfwbZwbg90jj3laPTqVlc_OCguPIaG2nvqp2R1E6PZa6GZRld0TScPy95DcwTvFJb92K7zF93Zp8M-L"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:06:42.479Z"
-    },
-    {
       "id": "social-14543851ca42",
       "title": "Dido und Aeneas, Henry Purcell",
       "category": "music",
@@ -7250,35 +7030,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:10:23.171Z"
-    },
-    {
-      "id": "social-c8092edc1cb8",
-      "title": "Transruinaulta Curta",
-      "category": "sport",
-      "description": "Ein Trailmarathon über 24 Kilometer von Ilanz nach Rhäzüns mit anspruchsvollen Anstiegen und Panoramaausblicken.",
-      "date": "2026-10-24",
-      "time": "08:00 - 18:00",
-      "price": "Keine Angabe",
-      "municipality": "Rhäzüns",
-      "locationName": "Rhäzüns (Zielort)",
-      "lat": 46.799554,
-      "lng": 9.3973409,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/veranstaltungen/event-details/?referrer=search&id=214534",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi1293QJt7MrhPrId5OqUWQtPl8obNarwaOBoHVy11v8tUjf_A8C9_oYGJbb_-FRwALahG-FADR5R6C2ydXUQ1PGm328xEszwzCTs6T4XQA0K4AnM3rQGZE47emGoFslozGH5MPqMP8lMH"
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFigx0k-znOzrGEsqgbF9L8mhbo7q1UjRoUIrL6nGfQtTGl2qlwCYcITjhLKgkidWe1oIG9w2rJLyEtFchLGkV09fcsbmOGjUKiZs2y9PPwFzSMVJH-9HM"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:13:50.691Z"
     },
     {
       "id": "social-937e209bd361",
@@ -7727,26 +7478,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-2ac8e5184aac",
-      "title": "Oktoberfest",
-      "category": "family",
-      "description": "Oktoberfest in der AREON EVENTHALLE CHUR.",
-      "date": "2026-10-24",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Chur",
-      "locationName": "AREON EVENTHALLE CHUR",
-      "lat": 46.8517,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://areon.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-19T11:16:46.878Z"
     },
     {
       "id": "social-e2b60f92d749",
