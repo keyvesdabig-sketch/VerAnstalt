@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T13:46:19.900Z",
+  "lastUpdated": "2026-10-27T12:53:19.664Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -577,26 +577,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:19:23.346Z",
       "legacyId": "social-1779632363346-Thusis-33"
-    },
-    {
-      "id": "social-72fb12543062",
-      "title": "Oktoberfest 2026",
-      "category": "family",
-      "description": "Zünftige Gemütlichkeit mit Bier, Brezn und bester Stimmung.",
-      "date": "2026-10-26",
-      "time": "Ganztägig",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "AREON Eventhalle Chur",
-      "lat": 46.8521,
-      "lng": 9.5292,
-      "image": "",
-      "organizerUrl": "https://areon-eventhalle.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-5d1fce436c3c",
@@ -6321,47 +6301,6 @@
       "scrapedAt": "2026-06-15T13:10:20.242Z"
     },
     {
-      "id": "social-0ff5b5b6b110",
-      "title": "Öffentliche Schlachtmärkte Grossvieh",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt für Grossvieh in der Bündner Arena.",
-      "date": "2026-10-26",
-      "time": "08:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.73,
-      "lng": 9.44,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch/oeffentliche-maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH47vjKPCdiRRLfUVV45zFcrUBJ2C9TfwGFuXTGou9R8_3Rmlr7fVtKkcn9O0EIWv6PBsunYtV2e90v3PmQlEklR-tJN9p3jMtxYRWIDwG1mvVyj-JbhH4T7QjAllmXuOvhUsnRUBncluZQn89kX2Pfd5_PW0JS9lY2u8BZOPzGtQlTAzjl1GViOs_cYA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErKR5TFlYzs3R4x7P_zuk3DzPSIyxvqkeGqmdGYpdBIeY9haS5qe1VYhETvjx4Y4kRJ-b3x1QXADtprljBwUmNah_9bAAsKRaa468MHHy0doE97nTek-s6E-VXMfzHptLZl9LDfsjhrOwPuZkXGVJH4zOggOrauI8lLbyjslCu2Ky9SdFc9aTpYFJ1fFXQsgI-"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGTdjcrCrfOMgvoC0Mkejuw6syL97TUlwhu_T7WfhzthOLaSXRoJrYgg-J6DH-YAmF0bPbClAZPV1QoeibLobEb2sBnaTZWMPVqCTcHHDW6h015pvp6Cp0q65e7o_YO0CHfOBYxU9974py6yG8L19MZfs="
-        },
-        {
-          "title": "eventseeker.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZlUv2QA3oEThRyecVvIilLpA4Z_U9Rzz2pzFaU5okmkWJOwHL8xAYf2mLAgtYA0PEDbbmXss3MyQx89nJkcjyfXkwPC15vf69JZBssEImGNDhfiH2XF7nC5DVEqWQR-pM0ZnkF1vMg=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTXMV0ft8auniHWtSJLeKgYumUhgYdKUV22-VUsH8ss6Vjpy3zDcq6jRkXYeRro9CjcSYd0CuaNYMbrrGL5tMKVYm5lbg0IbLH-MTh6v3VBuBCAVu7M8PLXF3DsEUgI6I_u_el5A42m47-h2rCLuYoUQ-xTLli1YtwkM0tKwcTWrEoG4rqoRKSzMMLO1MmrXgMay4i2w=="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:11:16.675Z"
-    },
-    {
       "id": "social-260062a908e4",
       "title": "Öffentliche Schlachtmärkte Grossvieh",
       "category": "markets",
@@ -6970,26 +6909,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-937e209bd361",
-      "title": "Buchstart für Kinder (0 - 3 Jahre)",
-      "category": "family",
-      "description": "Veranstaltung für Kinder von 0-3 Jahren im Rahmen des Buchstarts.",
-      "date": "2026-10-26",
-      "time": "15:00 - 15:45",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
       "id": "social-c5c2e99a72ed",
       "title": "Lesen mit Giotto",
       "category": "family",
@@ -7088,47 +7007,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
-      "id": "social-f95cfd9ace22",
-      "title": "Öffentlicher Schlachtmarkt Grossvieh",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt der graubündenVIEH AG. Die Märkte zeichnen sich durch neutrale Taxation und Preistransparenz aus.",
-      "date": "2026-10-26",
-      "time": "08:00 - ",
-      "price": "Verkaufsgebühren für Tiere (CHF 10.00-15.00 für Grossvieh)",
-      "municipality": "Cazis",
-      "locationName": "graubündenVIEH AG, Italienische Strasse 128",
-      "lat": 46.7297,
-      "lng": 9.4187,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch/oeffentliche-maerkte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9tGa16To2pQnF8u24xlpzOGTdCjOHJbe2w9tF-ZF5P0izRvTPwp24LmBdBzrFi9ZV4uSfNibo_MKEzf33vzmiXnFi_2iehpcbqsKR4zBripP3mqlBh3ZbA0J_FJsYj-mqrToiVY61NxTbSeEtq93yVWQTmk94MRmysLaglP13J4BY1IPLmtYAcCTJ4A=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGEevdI8cZ7s2Ci09BxLc86CacPXt6WgcpMgYD-ILeRea9agcuy_6G5zfWR_b8MSFaUR5EkXKi_sUXmaIzzzxKOg-aLGRjdQ-yXdGnryL48yw8oPFc3sr2j_Fz_tZfcA59nOeIPAXjPS3DD6RlFh9TaJEZBZN_OehMdad8btoja5xrGIoJhufGZBgZtsJpcqK0"
-        },
-        {
-          "title": "cazis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2kBricpYL6ktDfIbWMIF79e171yuUx9yz-i2l7BPX4MDqeR8OJt0m3JtiGXhpvgt0aWYxGJynffiP7-XtnTohkBkoZfHPfvMp2VBGv5x5Tl-LsJdO_P_rLFVagW8V0OP4Fdu-UuvKYSBwLgvo95-OtHw="
-        },
-        {
-          "title": "graubuendenvieh.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE479Gveh5UHNl1QL94dSERhP_9tPOEdZquYsjjLw2_Z02A3h0AAY7cqiw4WOcPmsoqegDfNUCCY1rb-NtWj-pda51sHjtKz_1NQGIamNWWcPnYApyMom1-lmM55bYBzhDD57U="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRb-pJVrda3GU8L-_nYfB-70QY-yA2J89PFfHaCXCDVqkXJRir0W7TPI81xHhM98e-46Ja1VFkiX3tx8YjZRab0lC6ByREDgIRUtv8Eoj0ADbNewsMR_9kKcruOFgk8HXmt_r2IhyJexUtAaegFuS7TEgRsHTdYqJ04g=="
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:18:11.850Z"
     },
     {
       "id": "social-a027512dabbc",
@@ -8001,26 +7879,6 @@
       "scrapedAt": "2026-06-22T12:48:33.748Z"
     },
     {
-      "id": "social-c61cafdcbb39",
-      "title": "Öffentlicher Schlachtmarkt Cazis",
-      "category": "markets",
-      "description": "Regelmässiger Schlachtviehmarkt (Grossvieh) mit neutraler Taxation und Preistransparenz.",
-      "date": "2026-10-26",
-      "time": "08:00 - ",
-      "price": "Unbekannt",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.7702,
-      "lng": 9.4429,
-      "image": "",
-      "organizerUrl": "https://www.graubuendenvieh.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-22T12:56:31.843Z"
-    },
-    {
       "id": "social-ca15155ef27f",
       "title": "Öffentlicher Schlachtmarkt Cazis",
       "category": "markets",
@@ -8201,26 +8059,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-23T10:31:56.516Z"
-    },
-    {
-      "id": "social-65c999f968aa",
-      "title": "1. Abokonzert Goethe String Quartet (GSQ)",
-      "category": "music",
-      "description": "Konzert des Goethe String Quartet mit Piano & 2.Violoncello, mit Werken von Franz Schubert und Antonin Dvořák.",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE",
-      "lat": 46.852,
-      "lng": 9.529,
-      "image": "",
-      "organizerUrl": "https://www.konzertverein-chur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:39:34.006Z"
     },
     {
       "id": "social-a6099e45c9a2",
@@ -8482,47 +8320,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-5fee1775aec8",
-      "title": "Konzertverein Chur - Goethe String Quartet (GSQ)",
-      "category": "music",
-      "description": "Klassisches Konzert mit dem Goethe String Quartet, Piano und 2. Violoncello.",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Postremise",
-      "lat": 46.8529,
-      "lng": 9.5228,
-      "image": "",
-      "organizerUrl": "https://www.konzertvereinchur.ch/konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-01f080448471",
@@ -8850,47 +8647,6 @@
       "scrapedAt": "2026-07-02T10:05:28.061Z"
     },
     {
-      "id": "social-66b66b8a911d",
-      "title": "Goethe String Quartet (GSQ)",
-      "category": "music",
-      "description": "1. Abokonzert der Saison 2026/27 mit dem Goethe String Quartet, Piano & 2. Violoncello, Werke von Schubert und Dvořák.",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "price": "N/A",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE, Engadinstrasse 43, 7000 Chur",
-      "lat": 46.8525,
-      "lng": 9.5269,
-      "image": "",
-      "organizerUrl": "https://konzertverein-chur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfUgFu1qaz3LoBjEG0iVBXrkbuj6VtmG1HN6JnI2aGXxRJQoOH0olD0aiAXeojbkyPWShhjC0z2Pc--6eTYZPkUgEFDJ1zY2ctR83Yg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTsfovXF9vDkNLzHV6WIP0PbuiVofvJXvFaePCc1yLJW-8oYVDvx3PskqYyoBBs7wYaicVMhzikCjSlOKY-yTEP_dueEbekrfsYCZlmhNZMT43XH9dGFrYzd6eJr2K_1k_xjKP7Qp8OA=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2gix7_WOrVGBjBNM6T9ghnUvVhkVlrbav62kiVwoQ0VcqElPR5rPR6WzvytzfyX_-g3DNxzk6k0MLHqWmXWwG2yApnj-I4OgU7Urv5pNiqhSvWsN4oTEj0AZVw0R-WVkaeUvx4TM556boihUunhfBf945rbe2FeIFIgNJ"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-HsIGsQinOKLentIfEEJ7VONIqe1L8fBaGG5_aNtgKVvVombUvjjyJye6n16TWmlnp2752Z9qSxNhRLUhdAxXIq5ir2pJ_hsuky89jfS9-8Ybc1Wz2lgr47rSl1XG0a9QqO3FhL2H26uX2gEHcNIctM="
-        },
-        {
-          "title": "planaterra.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqfK7yk9LVzm7wN2ONfxVTzyTKniCFjt0SfK05HYBxMccGo7Z8zwpqidxYBC4SbJbSxKOxyBNNWpMN7yv24dBZ2BD_pzYSf72W2lSwU2_sYQQU9uoNjpNUDHXr7yVHIdd37nDSBz0NDEVBizCSJeNBTBPJXGrL3aRs90v5V0C_P2XzN7L0fI="
-        }
-      ],
-      "scrapedAt": "2026-07-03T09:51:41.709Z"
-    },
-    {
       "id": "social-9714b27a4c38",
       "title": "Dido und Aeneas, Henry Purcell (Konzertante Aufführung)",
       "category": "music",
@@ -9072,47 +8828,6 @@
         }
       ],
       "scrapedAt": "2026-07-03T09:53:35.159Z"
-    },
-    {
-      "id": "social-4926e2704ef9",
-      "title": "Pilgermadonna Trimmis",
-      "category": "family",
-      "description": "Die Pilgermadonna ist vom 26. Oktober bis 6. November in der Kirche St. Carpophorus zu Besuch. Komm vorbei zum Gebet und begegne der Gottesmutter.",
-      "date": "2026-10-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Kirche St. Carpophorus",
-      "lat": 46.89,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.ave-maria.net/pilgermadonna-trimmis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFULnNYRgUfv1NUdTiHwN3D9xjCiwCDcKHEbfpEHfrmU-A_WItMq8RR2TPS5ux5Z8gInDhcoMZ9U3ZFBtt4JWZhkPjJLinyW1oM_CH2AUsW3dc0nzB8XC72_nkZ2WC38QBgo3zgesDjyP-LkmQCVA=="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2aS4yssW7IaCkBylMeWfidhldLDXEl8v3HQ-QaqB0Sxb7gtxnm85qxETFGwJQIFV_FUFw9WJUWf1P1cGoZGY7mhc3wxN4_wUePkphcO4EzXN1Xf5FIhxOhidu4g=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhfSHl1Xg0w-8XNhb3XlbyyRqlSKDCiUzCTbLIkmWHqaQfUjlVecsHKqTha23g2gZSjg_B7UxpYBvbRAX0QhH-PXcUZEXRcUhpIgAlIalMzp1dg_ya9BFClha5d4E3MuqhtK9i0kfmujLk-RepByhWhVwa51IHPjxmSg5lGReXiCX1vuSy"
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy0i8V5FKWJMZvQAgHumF6MyxlpHeiocrwCRfHMXsdG3ps6aC8LX1tq1ajXrNTMQyS7570xDes1i0fwPictuyUS1XGS0JBFDPDjx_QAKjeCWfy84GjaPcVpuiVDHhCtedzw45GDsUvfocpWCjYkYLOqeUVILhH99n2MJUC78ndwzCHCkotiO2nME-cmhMNdI_wvJoDnPq8EcI1wtlYnu6O2UMjOWTzgP-F9C126BMs0Ar-BgvPMdPxR8RlrWh3Pm9-k4fV1YPb-liVHbV6F-5wgw=="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzHjyPk6TytylMn6upNmA2CuQXheP2IID2f6aSba5ubn8Mh14TMnI4RNU3SqsBF8RLJQf_P4mafu4CnpLD4Jo2MF5dd42Zh3f854Ie7ghHpZ1VxLl4ZPY9-qRB"
-        }
-      ],
-      "scrapedAt": "2026-07-03T09:54:13.526Z"
     },
     {
       "id": "social-656c0cd153ff",
@@ -9532,47 +9247,6 @@
         }
       ],
       "scrapedAt": "2026-07-04T09:19:56.982Z"
-    },
-    {
-      "id": "social-cf9e170eeb6f",
-      "title": "1. Abokonzert Konzertverein Chur: Goethe String Quartet",
-      "category": "music",
-      "description": "Klassisches Konzert mit dem Goethe String Quartet (GSQ), mit Piano & 2. Violoncello. Programm: Franz Schubert Streichquintett in C-Dur, D 956, op. post.163 und Antonin Dvořák Klavierquintett A-Dur, op. 81.",
-      "date": "2026-10-26",
-      "time": "19:00 - N/A",
-      "price": "N/A",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE",
-      "lat": 46.851,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": "https://www.konzertvereinchur.ch/konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4mZOyHZEnUwpCrznWS33pAwgDF9Ttm92hw9h0ddDUfKDrhfNJkTYnFWYiPBv7DHX6ToHUMnKurSF-U47EcZnAC1g9R3wWxCzVGTfxeg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrepCql4BhLHShGL5qDzfoFetKAVqUhRJd_hYHHRGbqUny2BXFE9ej3OEZng0I1PIGqC_k8EYfyS1GUSYNCNnut_NCYHgbqQoVM5ZbKGncMDFrFFL_XQbod__MwlU80qm5ql9N_48E0O10tdfckWed1qZefDHgbEbIIzLW"
-        },
-        {
-          "title": "gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUIzgIcvWOaILikp0T6jkpviqosYGPzWwiF6h02NbTxrlqCM8paYIYILo3ncIKFFWAUwkF6-pZSwFAi_Kzs2DbZMcqbZhz-8pKOl_Xh7rD7A-Uz28Bga5kmeX2CcK-GSvjyb-brciJnkJ2V_OD9JqiB65-kbgsHyH2yxz5r7NOm7PgLQyf3KL_mBVMcmb2AVo="
-        },
-        {
-          "title": "gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuY0j7FrWYe1746KpZEDxvkYDUwbpNxiO3WEbFh0bAWBtPcDzH3HwcHio6FNFihkisPq2r0K3t6kAXm2M5prNccwFpf6u-sZNUi035IUne2_umT5r6xwgj-hT65Rktum0SDcQXJWZKAPeZMCmpAQ9SeMsnWqhJj9HO5rhW0_ZRnAKigdSMYg9wa8kM_Pmm89dwN7hjRZczfIyGG7YldN9Au41a"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW9mTBDa54vEVQmCddWvNhFJujWv-wwkviCJwxE4_74C1m0ia_WyCaIas6gO6nlpV82Z-DY4PylibtpXUFp4yokUqywHcjSS21Xzxhx8B6PCbK_uXerXZZZIs2p_RsBDOvvJN4_nNfkii51yBu"
-        }
-      ],
-      "scrapedAt": "2026-07-05T09:37:02.492Z"
     },
     {
       "id": "social-b395a2b98e74",
@@ -10267,26 +9941,6 @@
       "scrapedAt": "2026-07-10T10:26:44.151Z"
     },
     {
-      "id": "social-8d74a5e1266e",
-      "title": "Öffentlicher Schlachtmarkt Grossvieh Cazis",
-      "category": "markets",
-      "description": "Öffentlicher Schlachtviehmarkt für Grossvieh, gekennzeichnet durch neutrale Taxation und Preistransparenz für Produzenten.",
-      "date": "2026-10-26",
-      "time": "08:00",
-      "price": "Siehe Beschreibung (Gebühren für Verkäufer)",
-      "municipality": "Cazis",
-      "locationName": "Bündner Arena, Italienische Strasse 128",
-      "lat": 46.7725,
-      "lng": 9.4079,
-      "image": "",
-      "organizerUrl": "https://graubuendenvieh.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-10T10:27:20.583Z"
-    },
-    {
       "id": "social-26e4d675a6e7",
       "title": "Öffentlicher Schlachtmarkt Grossvieh Cazis",
       "category": "markets",
@@ -10853,47 +10507,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
-      "id": "social-698570127d33",
-      "title": "Goethe String Quartet (GSQ), mit Piano & 2.Violoncello",
-      "category": "music",
-      "description": "1. Abokonzert der Saison 2026/27 des Konzertvereins Chur mit Werken von Schubert und Dvořák.",
-      "date": "2026-10-26",
-      "time": "19:00 - 21:00",
-      "price": "Variiert",
-      "municipality": "Chur",
-      "locationName": "POSTREMISE",
-      "lat": 46.8504,
-      "lng": 9.5316,
-      "image": "",
-      "organizerUrl": "https://www.konzertvereinchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8zZDI8avxbnqKooW6JCftaM0Ff957V1YRRsg86D2qv_d9HDP22WqGsWV1ZxIfdFbTzapYk4rnTR3fmdQ92esXkwucs7AlhWZaOc9kCyZcscuRyJ5JCIT2nxj3XtRhWy3O4VAy21lV95cg0aYtovm_BvsJTATwYPRPL6kHe2bnnZoMmytsjU1gStRdrJ8zJ1cvBKs0"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWn6ZyVk87PYoUa21qnC_JgS7ow3AI3dRyuCx_--79yP2lRKl2WfT-Hxov0qN-wzKB_6QnFRVnAHRuM-_s9v3CcxkbiwyK5wMsOOJrl9c5XC5HBrQ2tRMkZQzf4mUIPRaHPb4YBF9GfjJzO_wiTT3uQBsnCKIcw4QudCx3"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI214oEz9eP3wjJ-b8vXZqi5HfcgGWPth3tIyTjJutCiFYk2MikgaBBVGn6s1OL7MTst3VWjID01NRf-MzFgbiFJYH21CvHHpgWce1h4Nq8W932CrNTNRhwyIqK4hWf7yVOECwN7Dge84kGKSPTsmKfYffIxRj1IkvduAyUi1TinUzrJdKlW7Nhc6_rRDGTJVvWpv-o-HwYw=="
-        },
-        {
-          "title": "guidle.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeo1-gC5H6sEN71sA_Wukcygk2Ogkl_UFKH8GzKUx7ONEOUX7ru-78Zk8Z4mHhBdz6j2OFxtOs77hf5gh4xk4K_q768rg-Q1hZ9RAStPx9hWtXe0Pn1c6YbeFEW3dpMDrmVis96k-83k8="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv2evYD8mTwPq6XKX_VGSExFxmzY4cBvKeNpu732oRD037xiMMNYkTSYacruoodq_TuHTANAzH7AFAtzDizlwTQGfzOrqUEGTpm7-qfKUh1u-naXLtdlkXHITflxj7g-LtA8f1d3pilod9q4L-uA0qyYCBduJV9R3T_jWr0QEQHfErDtyD9cQH0iGreSbB3UlCQb2EFrOzDbF7VCC_zlc="
-        }
-      ],
-      "scrapedAt": "2026-07-14T09:01:15.320Z"
     },
     {
       "id": "social-88524af9051c",
