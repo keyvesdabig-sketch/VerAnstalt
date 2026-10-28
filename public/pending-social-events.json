@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T12:53:19.664Z",
+  "lastUpdated": "2026-10-28T13:41:53.712Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -4413,47 +4413,6 @@
       "scrapedAt": "2026-06-08T12:01:13.890Z"
     },
     {
-      "id": "social-8973be6bca52",
-      "title": "Weltfilmtage Thusis",
-      "category": "stage",
-      "description": "Das älteste und grösste Filmfestival Graubündens, präsentiert eine vielfältige Auswahl an Filmen.",
-      "date": "2026-10-27",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia",
-      "lat": 46.7,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.suedostschweiz.ch/aus-der-region/graubuenden/2026-diese-events-gehoeren-in-eure-agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeFDXTEJ25oR-NNpvPcpSkWx-dED6rZFMnfBpgccxRzXAl_B27b5FVgvGMxJaiuZ00uK1mrxChBfwMBICG34elHdGDAW5jC1N_1Bsy_2BYd_Rb2Y9sTGZQcaHaNHHj7i00fCfIrLdwCtRG7_WFlI-aXkB4q4X1UDJCZS91VguHuoL28VBFFai1_BAS5s7c"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVsehmdcnXUlGQMjaZPXRJiTCCS0AgUG5JsCzODk2iPnVCSAjWzqUh0JP4X6uPx6v2dfIShZaBnqMHF6DDZ6boE1hQDro6crYfzu3hdkXONYlhKU5UBIlBp7yepRxY6kK85qcwu9GzwqoebZvyMiKDXpdIJLa0RwZ-CJYPcrZbojxNxttiJdaA"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx-X660t2_5Np8_5ViFUqql-bOur_p4iNCJXXJaLO8glE3zGthKnAlfrPCr7bQko9bhRTiXYHqxfZ3ZK0UThsbdvnFicqTnuvpz9pP2IuySdphYhdSWlsNZmQs1sv19Ig2CJNqpwuU-8sL1c2gMSEHhkPHwHJ0e0nm"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCQGZv6vqEi8fLeWfHeTCuaYAvV0xsHSf1BWaU64wpkB8ioXbc8BJqkanPRGxyNID46ru6J8TMMIJyP_OatGFUB_8qCJsXua7uNFITolUS38zWCUy7g3ytrXSDWlN9m_oAiyrvUwWCOEn1tH9HLpAjqKxkpffejuZ7aH8VsDGPpzn3WWWMFxkUWhenVgl4iw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMul4zoGBSsK31sxfv7LcfMu6T4dLq8EKtLQVyyPPVrbBUdZ1MUG-GdnwJff5GVGIwhxzcTfPEhpKLUzMQCX-u2UNU-f3YA8xScR8O_VA--qwUFOD83CLkSsd7HYGti02WKlZr80-ZSNMHfFvu3GfX331ASHubEifcag=="
-        }
-      ],
-      "scrapedAt": "2026-06-08T12:02:21.455Z"
-    },
-    {
       "id": "social-58b1ab7befce",
       "title": "Vortrag Thema Biber",
       "category": "family",
@@ -8120,26 +8079,6 @@
         }
       ],
       "scrapedAt": "2026-07-01T10:42:11.569Z"
-    },
-    {
-      "id": "social-450840824de8",
-      "title": "Sprachtreff GR",
-      "category": "family",
-      "description": "Sprachtreff GR.",
-      "date": "2026-10-27",
-      "time": "14:00 - 15:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
       "id": "social-ebb75bab6736",
