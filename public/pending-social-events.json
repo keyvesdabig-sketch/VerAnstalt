@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T13:52:04.663Z",
+  "lastUpdated": "2026-10-30T13:44:40.810Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -5024,47 +5024,6 @@
         }
       ],
       "scrapedAt": "2026-06-11T11:20:27.034Z"
-    },
-    {
-      "id": "social-ef9d4d48b66b",
-      "title": "Öffentliche SAGENhafte Abendführung",
-      "category": "family",
-      "description": "Eine öffentliche Abendführung mit sagenhaften Geschichten.",
-      "date": "2026-10-29",
-      "time": "20:20 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8521,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://churkultur.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkhuU6esDpW-Fz7b8iMGqcQy-Hw3itq6nPoDdaskD5kzclMrN90ASUAINHTL-Vsz2XVpiX65tg3SYs8g2MRJxJyYbLpv8WduF8gOJi2KmlaYWL8v5uQz8rafeG_soGas90NtYtSr9B4g=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRX94c_-i9aV2dPKzZHf8moEoh2AQlRzwBWqSoKhs4hyqcNN5Dx8t1KDoDOyEtaSP5YUp0ukca3XyBocxpcaWFxkP1TafwSx2eS1P2SKD6uZHKMhRuT1SUWT41rcJexDmaZz5-GB7u2HazluGIPVl9PlndQ6oSOIETWWpAqEm2Mra5hQLHEde-tw8-UqNYu6a4nMItn314"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL5CsjCDGm_rC9cIhkJFv07_XLYyG0hvT7hJeMC-ykNci6L-JMuvlj2h7T94oSBi1KjwHosytjbIYGLGrWfdfRboWfw0Ua5Q_Dq13sOw=="
-        },
-        {
-          "title": "jazzchur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED_--edssILss_hZcX479eKvqNLIJMfTxrTOpOSkKHkQUG28xqi5L3iLkib3BLEp4oHN8NFoIavZW2cPjsERvHd1dUhlktTHIi0c9s7YZNGRDKcA=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_-zAumhLZktm_wBnSQ1g7Y1lQ4jGIpDqtDJ9jrm74Hnx8czuuHaxnRrWxx9i13X4jBwhH_RwJIkKDbHDKCh8LPUjZME8FTgSOmaP4TaLy8s0gUWMop2_4eeyNgl3YmZ4QeIgc"
-        }
-      ],
-      "scrapedAt": "2026-06-12T10:58:18.374Z"
     },
     {
       "id": "social-1f3349a99863",
