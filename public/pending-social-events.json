@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T13:44:40.810Z",
+  "lastUpdated": "2026-10-31T13:13:41.390Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -2256,47 +2256,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:14:08.037Z"
-    },
-    {
-      "id": "social-f725b84ff717",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-10-30",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-8e8784c1ed5b",
@@ -7457,46 +7416,6 @@
       "scrapedAt": "2026-06-20T10:08:46.431Z"
     },
     {
-      "id": "social-4fb72a078bd5",
-      "title": "Gian Marchet COLANI",
-      "category": "stage",
-      "description": "Eine Büdner Jäger-Oper in deutscher und romanischer Sprache. Frei nach Carl Maria von Webers DER FREISCHÜTZ. Die Opera Engiadina produziert im Oktober 2026 eine «Bündner Jäger-Oper».",
-      "date": "2026-10-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Cazis",
-      "locationName": "Cazis",
-      "lat": 46.72,
-      "lng": 9.43,
-      "image": "",
-      "organizerUrl": "https://eventfrog.ch/de/p/oper-operette/gian-marchet-colani-7033100645580556209.html",
-      "ticketUrl": "https://eventfrog.ch/de/p/oper-operette/gian-marchet-colani-7033100645580556209.html",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T10:09:50.451Z"
-    },
-    {
-      "id": "social-27db3e76401c",
-      "title": "Stubete Gäng Samichlaus Tour",
-      "category": "music",
-      "description": "Concert as part of the Samichlaus Tour.",
-      "date": "2026-10-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "AREON EVENTHALLE CHUR",
-      "lat": 46.8521,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://areon-eventhalle.ch/programm/",
-      "ticketUrl": "https://www.ticketcorner.ch/artist/stubete-gaeng/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.338Z"
-    },
-    {
       "id": "social-3dc2c947843c",
       "title": "Franck und Mendelssohn. Chorkonzert.",
       "category": "music",
@@ -10788,26 +10707,6 @@
       "sourcePlatform": "Guidle",
       "citations": [],
       "scrapedAt": "2026-07-16T09:10:04.188Z"
-    },
-    {
-      "id": "social-7823f04535f8",
-      "title": "Theater Zizers",
-      "category": "stage",
-      "description": "Theateraufführung des Theater Zizers.",
-      "date": "2026-10-30",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Lärchensaal",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.zizers.ch/veranstaltungen/96387",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
     },
     {
       "id": "social-7eda4e5b743f",
