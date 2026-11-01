@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T13:13:41.390Z",
+  "lastUpdated": "2026-11-01T13:56:56.539Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -422,40 +422,6 @@
       "legacyId": "social-1779632029600-Tamins-28"
     },
     {
-      "id": "social-78c9b6e21c0e",
-      "title": "30. Plantahoftag",
-      "category": "family",
-      "description": "Anlass von LandquartKultur, voraussichtlich ein Tag der offenen Tür oder ähnliches beim landwirtschaftlichen Bildungszentrum Plantahof.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Nicht spezifiziert",
-      "municipality": "Landquart",
-      "locationName": "Plantahof",
-      "lat": 46.968,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://landquartkultur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5yhCDTN6cNwoaKFfhC15rTSb3FrITzukvtuS6HHgNjNLXxK8S8Dyi_7MpOhxF5nREUaVG-dSjxtd8ffBC6SP_y8__SaVyuLzgHi6QFFUpdew7zT-PO21nWfyUBmxwNj9kIbl3w_VeiZmFQlT0ag=="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYlzsvko8CWiFpTvVcnMMjt08FC3D8WkjuqS8xbN_x2Jb65jzz65UL42C-7V25nvJU_L7Sdw5sByFQUtVgRXdlymeq7k0BD6_A8evuNM-VxF9YfGV23w-HF20aSsPSEWE5xMPXPSqvZ4l3_GIHhXgQsQ=="
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHeBthQLbsOtLQVVXqc-hYyYxIGUMHDgZEvRByJ24rggbxfyoE46eRKmX-nrED5yepbiquH9_UTDSOYzwPp6JTuu0KbEbVNjU4U2FRoBSPm-yz0pZhU3Fb1yWxPE="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:18:06.939Z",
-      "legacyId": "social-1779632286939-Landquart-12"
-    },
-    {
       "id": "social-b85a6ffc16b3",
       "title": "internes Hallenturnier FC Landquart",
       "category": "sport",
@@ -556,27 +522,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-8f9796594176",
-      "title": "Jahreskonzert MG Thusis",
-      "category": "music",
-      "description": "Unterhaltungsabend zusammen mit dem Männerchor Thusis.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.723,
-      "lng": 9.432,
-      "image": "",
-      "organizerUrl": "http://www.mgthusis.ch/aktuell/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:19:23.346Z",
-      "legacyId": "social-1779632363346-Thusis-33"
     },
     {
       "id": "social-5d1fce436c3c",
@@ -942,67 +887,6 @@
         }
       ],
       "scrapedAt": "2026-05-27T11:00:54.781Z"
-    },
-    {
-      "id": "social-591d42c5d977",
-      "title": "Cazner Markt",
-      "category": "markets",
-      "description": "Unser traditioneller Markt im Dorfkern von Cazis. Sämtliche Informationen sowie das Anmeldeformular für Marktstände werden Sie unter Cazner Markt finden.",
-      "date": "2026-10-31",
-      "time": "09:00 - 16:00",
-      "price": "Eintritt frei",
-      "municipality": "Cazis",
-      "locationName": "Dorfkern von Cazis",
-      "lat": 46.7208,
-      "lng": 9.4302,
-      "image": "",
-      "organizerUrl": "https://www.cazis.ch/cazner-markt",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T11:03:08.822Z"
-    },
-    {
-      "id": "social-fc7d4f7e930e",
-      "title": "Churer Wochenmarkt",
-      "category": "markets",
-      "description": "Der Churer Wochenmarkt bringt jeden Samstag von 08.00 Uhr bis 12.00 Uhr Leben, Genuss und Regionalität in die Altstadt. Produzenten aus Graubünden bieten frische, saisonale Waren direkt an, von Alpkäse und Brot bis Obst und Gemüse.",
-      "date": "2026-10-31",
-      "time": "08:00 - 12:00",
-      "price": "kostenlos",
-      "municipality": "Chur",
-      "locationName": "Churer Altstadt (Obere Gasse / Untere Gasse)",
-      "lat": 46.8508,
-      "lng": 9.5304,
-      "image": "",
-      "organizerUrl": "https://www.chur.ch/veranstaltungen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-05268cbf7173",
@@ -2046,80 +1930,6 @@
       "scrapedAt": "2026-06-01T12:33:34.997Z"
     },
     {
-      "id": "social-dc6b3efa9703",
-      "title": "Plantahoftag",
-      "category": "family",
-      "description": "30. Plantahoftag.",
-      "date": "2026-10-31",
-      "time": "HH:MM - HH:MM",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.landquartkultur.ch/unsere-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1jJ9yKjjZS17cSx8IqRVml41tu3rifPVpIJQpdyfjiMVEt-tJqElXaep8XqX7K0OCr-EPDKntgmiud2EkOx1p2w3aTTyqooC3qD0UE5gwK05nxEy7pViz2n1C0_dx1ga2gBUe4Mz"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMGSsCTe7cxxGZfrO7DTmzASHdU_V-b6hZmQGDY9bAtzzcBdklUteFlsyab1kUSZmsWtDNmVWV2Us8C-luJHl1L0gJAOMGzcLXcdidu0LPByr2U661LhPnPLIcaMJ0Onzm3azlJ3FXxqiXcMU="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu3f_C-4jghIWS59UsmYJoGGo_8Ehs1osyI6zyaX043lvxXdYkC3Dof_slGriReG5li5-GRvRzC3snZTsxxsunjOJySzM23Xiosp7pt3fqNc-WxYjz389j_Oy5AnpET3uEiWFl5THo7iT41EoEwNNhCtE27xdnTSiV2jDtChll79NiOqk-owdCA4DAjQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyCQOjt3iAYwUvVPuKPYgwmhgY65Nk9j7bOG8hlJ3EFut9CaOXcJSjmqVgr4MsH36eFs7s-9rXxX8n9DPeB61dZRmtmKaKYX4CzPTybTqmsy09woWgb76EeKXaAT3JDiviA3zUwbBH0ok2n_MoJWehW7_H0eN4r20Q4Ng="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:41:25.243Z"
-    },
-    {
-      "id": "social-12fa047d5d3e",
-      "title": "Oropax - Zwei wie kein anderer",
-      "category": "stage",
-      "description": "Comedy-Programm von Oropax.",
-      "date": "2026-10-31",
-      "time": "HH:MM - HH:MM",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.ticketcorner.ch/artist/oropax/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1jJ9yKjjZS17cSx8IqRVml41tu3rifPVpIJQpdyfjiMVEt-tJqElXaep8XqX7K0OCr-EPDKntgmiud2EkOx1p2w3aTTyqooC3qD0UE5gwK05nxEy7pViz2n1C0_dx1ga2gBUe4Mz"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMGSsCTe7cxxGZfrO7DTmzASHdU_V-b6hZmQGDY9bAtzzcBdklUteFlsyab1kUSZmsWtDNmVWV2Us8C-luJHl1L0gJAOMGzcLXcdidu0LPByr2U661LhPnPLIcaMJ0Onzm3azlJ3FXxqiXcMU="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu3f_C-4jghIWS59UsmYJoGGo_8Ehs1osyI6zyaX043lvxXdYkC3Dof_slGriReG5li5-GRvRzC3snZTsxxsunjOJySzM23Xiosp7pt3fqNc-WxYjz389j_Oy5AnpET3uEiWFl5THo7iT41EoEwNNhCtE27xdnTSiV2jDtChll79NiOqk-owdCA4DAjQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyCQOjt3iAYwUvVPuKPYgwmhgY65Nk9j7bOG8hlJ3EFut9CaOXcJSjmqVgr4MsH36eFs7s-9rXxX8n9DPeB61dZRmtmKaKYX4CzPTybTqmsy09woWgb76EeKXaAT3JDiviA3zUwbBH0ok2n_MoJWehW7_H0eN4r20Q4Ng="
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:41:25.243Z"
-    },
-    {
       "id": "social-15f1168ad873",
       "title": "Adventsfenster",
       "category": "family",
@@ -2914,26 +2724,6 @@
       "scrapedAt": "2026-06-02T11:25:01.963Z"
     },
     {
-      "id": "social-c359db1758ee",
-      "title": "Gesundheits-Tag Landquart 2026",
-      "category": "markets",
-      "description": "Gesundheits-Tag Landquart im Forum Landquart – Fokus: Gesundheit, Begegnung, Austausch.",
-      "date": "2026-10-31",
-      "time": "13:00 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9525,
-      "lng": 9.5441,
-      "image": "",
-      "organizerUrl": "https://gesundheitstag.ch/landquart-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T12:00:38.582Z"
-    },
-    {
       "id": "social-b458d641a6e0",
       "title": "Gesundheits-Tag Landquart 2026",
       "category": "markets",
@@ -3259,47 +3049,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:46:28.558Z"
-    },
-    {
-      "id": "social-829eae475577",
-      "title": "Theater Produktion (Andrea Zogg)",
-      "category": "stage",
-      "description": "Eine Inszenierung von Andrea Zogg, die Weihnachten als Bühne für Frustration, Untreue und emotionale Distanz beleuchtet.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Theatersaal Comander Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.theaterproduktionchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxdT84E0HU_LIHP5Aqk9Te-1d0kxSk4kU0BnUHZX7y4h-wa8mAHY5IU2YV0CgG9d97EyjGA-JSD_OxWqQ2HN_I8pXBu28GjtsiIsib6Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIauVxwW3y1Bnsv6PaLNl3AmsDvoHavOEJzqQDkuUauNBmK1wHI79WbCPBDGuxsko6B06zQYU16THeIg_1JQNlJBBXfNqHKzzKwXxg7VTdsaXZ0B7M-V9G-CVZmTKHK2HPm5Qk4L_Y0A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHclMuvq7tyE49pHj645Gu00B3B4cjBF9euUs5TqXaTytygZVjH7OAXSUlOXXMtybgUE8Zq7Jl9X0ObUREzxOtUNfZTkK3Nie4ATMXeVbJF7xbPx8DMkivAbyxdc5o6MMVqAfSQew2992ZfWlG5imjpwXy8DnaIwaXvxShTmyv9Qoi5Nmk_C-AP4nlM6sZpC0gykahRv5HJBmxy3tG9w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEndEmsM6UfXuNdb_DmDl7ISjuIhQQ2NJsxArpJxC9YT59Hltm7dJnK_pbwstde0zN_s7Jh-wqEkA13LdbgmeMjLoSRDzkpJB4rsdViaAHfJWAEOlDSKmI4urhbP9bZrf1F3kvVVYXvam4GG6nS8Oc7K9FpZ94pRPTcP8t0"
-        },
-        {
-          "title": "flohmarkt-chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnE7VxXxR8J603Tdm--XJDz3WnuP2I0y6Cm-D5Rgt8JVGWn679SDm7Ux1x6ZfPawc2TnSeznplQUEgG4AzUTK9jC7Qrg5fTU9iUJRGJRKV5AHv0fTR"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:42:18.631Z"
     },
     {
       "id": "social-2394d65007e1",
@@ -6565,47 +6314,6 @@
       "scrapedAt": "2026-06-17T11:37:49.687Z"
     },
     {
-      "id": "social-87569a9b2e73",
-      "title": "Gesundheits-Tage Landquart 2026",
-      "category": "markets",
-      "description": "Messe zu Gesundheit, Begegnung und Austausch.",
-      "date": "2026-10-31",
-      "time": "13:00 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.945,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://gesundheits-tag.ch/landquart-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFubOTClYE-eLAZTY8Lx9BSlov787OfAez0xXYYqX2V6HebzbtWZt29Vj1bKhvkfx0B8YpLOwL0rCknFBJiZmst9BgEZhrTX8ohLikDOQtZ6HVS85FkVNfqQW_EH0XDpi3D7Svwl1hF8lGzGA=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMXqQSQSliTQ7jTktFfRRVWRQTkKOs_jrG2lnXXkMjtY_1Nywi8sF_iovului5zXJ6op_IhitHuI4rAj88OFp39nbfh9V576AFIvO5cUNDHeu6dK7mbC2_Hbav_ygmUdkqE7vS7bM="
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZckbR6OIvywVT6x_AtHNiYPgDgwLM4EYk4FczS6gxvav41R5q-CikrqlsEduHBcZTa8ERb2QZ8BtB2AKBBr1BPo9ZfWrOWF5MOZu0hwOtPnnMPNqjHlqcWSn4PssqiBSlrX-UNlQhzu-rm7rR0ymDA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZDsJnnXQgsNjx0_rpbPpVA0T5IhX_IjtLpby4dWldwe9y90QXmJE8zFu2LSOdt9g4sx-m0nRfS96eWseMCiRdGN4WNk8yg9PQSgAhAV4XUV5hLkDx_uBVKJz202Gme3csu9ZQzfGEGc8enIZN3UwtkFB6ZRoaS5C9zzRZvt7O_F9rd-hbi6gk1UFIeG4sY0cd2ClD3JWfbw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlw6qbM7MwjobAyhYOSlsENP3F-zanRk02ZBX9P_oyZo52LGL4U9ODIMscmwH7yK89VZmnHlAFnwolAdgLzamlHQSbKfcRFszvcsczs2wc0pu8KNOvh4QKFbJgdcCx0OuMIJYYd-ViqeywH1s3etdiX91TrARH"
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:39:10.374Z"
-    },
-    {
       "id": "social-85821d8b4c68",
       "title": "Gesundheits-Tage Landquart 2026",
       "category": "markets",
@@ -7171,47 +6879,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-4aa76ef264db",
-      "title": "Gesundheits-Tage Landquart",
-      "category": "markets",
-      "description": "Messe rund um Gesundheit, Begegnung und Austausch. Neu an zwei Tagen.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9442,
-      "lng": 9.5484,
-      "image": "",
-      "organizerUrl": "gesundheitstage.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN5-WxiKZv0o218aSsY4FvkWmbbAzbpx82mxIZiTYpO7PPanTDJ_X0VYd0YCrFjxrPkWZ--mJqA739F7Ph1m5jTHHtii9ECx4qCEpsaPb67qzG4SqCcEep_6R0Tsbxwb8rrqhHN7bsPpBCOBLfSgmcoJ8jSbPCf5zEKkq-sVSwEEYMfQA3"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDoibCYJhAWqPBZmfrThAGYx_jnSUava2uRwYZpzUXfTtO8bHFvri8L_1W5jIG95Mzu72F1zOJFa-a6hupfLi0x3McRPdasrZVzR30ixY_rERW7DZ626PpIP_sUn0neyEM4IewA3CX53_voQ=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZ8qX7u7eVk57iDCRwljp_5Ho-FcPqruOcO1r2jE4FUj4iRFrsg3lKM5V5t16giiKIAhwCZQ-PwBEc6NcZEb5-rQAdgG7t9m_Ib-VA5chFQ4uzqtQORcUuRZhzSUnyf5TCooMkKc="
-        },
-        {
-          "title": "cloudfront.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL-IaqbQJJZl2nLfPgpH6GaMAFy3XgKBOIoZ2cEoT5R3Ts37SdZXZk3pbJuDABjU8I7CTYXoMcxXGBXe9dVPMzBN3tIPkp4tZZnKcKC4VNi_dnwltEG9Zb0I78X11JesUNk5SrRLWbMMQvLb-K4DkI8FzGeqoNkGvyx8l1ViahGP-UB7zozRIRTPh5Se8UN6CP4MQi73bN0lntqzty"
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8l5MYYzKcaz340TMlGjP8Rlj_w4MQG37i8U3sSwipzaOo7uFbls6MEJLsu9Yy87TjtD52Komko1GWXSV1vuAy1zt_RSNWy8h5GZP0LKCfXqQ48PzMAqS37BkbQ_kr-2P5sVB_29S3YyrrDjtBlj3c4w=="
-        }
-      ],
-      "scrapedAt": "2026-06-19T11:25:42.188Z"
     },
     {
       "id": "social-e0fee6c055a7",
@@ -8729,47 +8396,6 @@
       "scrapedAt": "2026-07-03T10:00:54.073Z"
     },
     {
-      "id": "social-2c79c1a014af",
-      "title": "Theaterproduktion Chur",
-      "category": "stage",
-      "description": "Eine Theaterproduktion, die Ayckbourns grosses Talent für Timing und Situationskomik zeigt. Das Stück befasst sich mit familiären Dynamiken zur Weihnachtszeit.",
-      "date": "2026-10-31",
-      "time": "null",
-      "price": "null",
-      "municipality": "Chur",
-      "locationName": "Theatersaal Comander Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://theaterproduktionchur.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9w2Cv81GyQnjEu3LOStCuUSInKhbE7g9a9OC4oiWwrswuRp9I2ajG1jC_C6TBoFstILzZEo3B2WsEAZShP2rRK5gozPhfe95x8_3Z"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg5Zl215bMJay-2ntdwFO8bB27_EN_-p0fsINaiBo-_WSX7_9XS0OzSMcZlrz2-QyAZeCEyUc7ZBcCgpZTpMeZBJeuZL-Q-UbuCLzZWS7RQU7G_N55Q_nkWWzGquZR9ws9QsysLl06"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-VceQGrOkfBe7Rg3MifEF0bRkSzUTce0MnR9LHOKj8KglrdacUKPoHFw3iJYgL-BlxrrDLF6PMNi1y1LMCzLiiwP1UyFIYJ1-ClBHmK4fGqVqCkNJW-rRxxPF5h0oIKDYS9xnixAF4nM7xUM1AIZHi9TsV1SFrfmm3Fw="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA2qBnCtd0MT-yHVlvrep6HJhSJzotJkjEA_XZLIV7QYLTJz2lU0CoeG741nVW6-_KhPCXn4Mta6vxBBp6bm5mxvlBIkpe6bLxIo4zdmXHS7Hm6BMGxp4i2YICyCv2-I7vytgiWqrtAhvdUF9U2aYGXw=="
-        },
-        {
-          "title": "planaterra.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpOASpXMJePclf8XIG0rCUrdgEqPNEcRVhv5S9V4Jd-sHKA32dNKZy5fUcMJyZVlNVLMSSFl62I1sQDJDvNSR5tFbjhEtl0IjKg_JnGUoPyR3-XDtiHMCYyWvSrFGRuGTVLKVBEmujMit7S5R6ywz0Bh9J5eoOJUDomHgZciuGICQ0p0msFA=="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:15:31.313Z"
-    },
-    {
       "id": "social-d65786968f0b",
       "title": "Jubilarenkonzert Musikgesellschaft",
       "category": "music",
@@ -9222,35 +8848,6 @@
       "scrapedAt": "2026-07-05T09:40:25.446Z"
     },
     {
-      "id": "social-9efd76d61497",
-      "title": "Herbstmarkt",
-      "category": "markets",
-      "description": "Ein Herbstmarkt findet in Trin statt.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Trin",
-      "lat": 46.85,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-felsberg.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErjuSz6Bg1j5oCnpQ7XcovbR77IEvH11LePsC2biUu47sdMaEVCBuz1s3nkrrZcyRzYZVYxNx7Pn8SS50dfTugeAfPnPQBmwsxWLPqU2QLy9pvweOb7aD0L45HOgeUTFOD6gIJ"
-        },
-        {
-          "title": "mgfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcjmxu8bd4kWCdIUz-VAu1pbgdja_95kxdJKUOOmqvA0xxLb8ZgQp5GvEvx0s3xyGUw0u5YxDiqUwxDnf-JP-Y1XznDC6fqjYeFY1DZXbPQKCaMg6QuKUGuzIehx74"
-        }
-      ],
-      "scrapedAt": "2026-07-06T11:25:12.974Z"
-    },
-    {
       "id": "social-c5983dd166b8",
       "title": "Dorfkaffi Tamins",
       "category": "family",
@@ -9552,26 +9149,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-08T09:32:16.685Z"
-    },
-    {
-      "id": "social-5da1aa885c7b",
-      "title": "Theater Produktion Chur",
-      "category": "stage",
-      "description": "Theateraufführung über Weihnachten als Bühne für Frustration und Untreue. Mehrere Aufführungsdaten im November 2026.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Theatersaal Comander Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.theaterproduktionchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-09T10:19:54.230Z"
     },
     {
       "id": "social-c20c8dbfc17c",
@@ -10709,26 +10286,6 @@
       "scrapedAt": "2026-07-16T09:10:04.188Z"
     },
     {
-      "id": "social-7eda4e5b743f",
-      "title": "Theater Zizers",
-      "category": "stage",
-      "description": "Theateraufführung des Theater Zizers.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Lärchensaal",
-      "lat": 46.92,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.zizers.ch/veranstaltungen/96387",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
       "id": "social-901178a78d80",
       "title": "Mittagstisch für Erwachsene",
       "category": "family",
@@ -11050,47 +10607,6 @@
         }
       ],
       "scrapedAt": "2026-07-17T09:13:27.547Z"
-    },
-    {
-      "id": "social-392e0fb96728",
-      "title": "Theaterproduktion im Theatersaal Comander",
-      "category": "stage",
-      "description": "A theatre production at Theatersaal Comander featuring perfectly choreographed chaos and exploring the discrepancy between external expectations and internal reality. Starting on October 31, 2026, with further dates in November.",
-      "date": "2026-10-31",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Theatersaal Comander Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7XKphHrPsvjeXNEuNMt_TawSYU_Fj8uEqFzjEMB87wftcBSiglptZX5-FRBn6tErMLig_tpngi30UdWfb8UuYTWB0jDRiXlAKMcEZ_TEzKR3ps1F07tjb9B5p2TiclBqOuY4C6qMJA06uoJFNL-dSZh_Wpza265XaG4daWXYL0k6nXVkTczTBZ3QMcns4Wiq3GcxRl3ln"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBoV7MnkoeYW88HWrsbGNMMVtGLXYbKPDHTYqGGXpZdljXXjlKtIdsN9sNg7YYtgFLQ8h5Hh9p2FdmLTVOffSqhCYdpCZGiQtVSZQRqsed0Kq9RE1Aq96XVKN4IlMfCYSxEKPoQwMa8EeIV_VoItKZUSDRHlcyP6OQOL4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtDhZXCcq3hfvsdSeNfZATZBwTbFlUVrM0qBhQU2NboqxRyL8pOHvI0kZkNbZsP58uOXe9T_lMLNdAU-C-nVtRRWXIDLCQZphuBIhrpxwcoXPGci10lgfK4XQAZXtCnhg5mA2Lxiog"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIF-RTUeS7dp-F9wPXHZLJpcce1scQDcTeY_T9QF9tU5luCBVRyzDPqXAuwcuG-pZbyBzfmXA9CkpYDnZo1r28XQFyy3DxSlfVMnFEU0mW8KZOhE6sqoBIYKsDTlDWFPKalsb8NWV_6JNF0hyhTKnzJGgIsuQESFq1YFOaJyYG9_Gg-p2ycF_jYKqGjqDrGWG4yXFDG3gbVANsZIUsfA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGieGlvsuayQ-RUX8u9xEbV2ZKkLDmuDEsbbUdGL33GnWBLTYJFEFcTHW9h0TLflwSDN2K6_ob5GFRiXZCVZGigJ4f_XeLkeG15XFBiu8LSOnXEf1p5TxAg-WIES1beRJwbwtxDEZOThk7RNtCMzqQNthuNH_FnmbV_O7gSwQHECLPUcsgdtcV5sOU_IELQhvz5MJSXQehVBKB5BEczavvrVO38dckzcgUH77h2UwCX"
-        }
-      ],
-      "scrapedAt": "2026-07-18T08:44:43.472Z"
     },
     {
       "id": "social-994a50b08062",
