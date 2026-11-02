@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T13:56:56.539Z",
+  "lastUpdated": "2026-11-02T16:42:51.075Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -2722,26 +2722,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:25:01.963Z"
-    },
-    {
-      "id": "social-b458d641a6e0",
-      "title": "Gesundheits-Tag Landquart 2026",
-      "category": "markets",
-      "description": "Gesundheits-Tag Landquart im Forum Landquart – Fokus: Gesundheit, Begegnung, Austausch.",
-      "date": "2026-11-01",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9525,
-      "lng": 9.5441,
-      "image": "",
-      "organizerUrl": "https://gesundheitstag.ch/landquart-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-03T12:00:38.582Z"
     },
     {
       "id": "social-886e65c79601",
@@ -6314,47 +6294,6 @@
       "scrapedAt": "2026-06-17T11:37:49.687Z"
     },
     {
-      "id": "social-85821d8b4c68",
-      "title": "Gesundheits-Tage Landquart 2026",
-      "category": "markets",
-      "description": "Messe zu Gesundheit, Begegnung und Austausch.",
-      "date": "2026-11-01",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.945,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://gesundheits-tag.ch/landquart-2026/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFubOTClYE-eLAZTY8Lx9BSlov787OfAez0xXYYqX2V6HebzbtWZt29Vj1bKhvkfx0B8YpLOwL0rCknFBJiZmst9BgEZhrTX8ohLikDOQtZ6HVS85FkVNfqQW_EH0XDpi3D7Svwl1hF8lGzGA=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMXqQSQSliTQ7jTktFfRRVWRQTkKOs_jrG2lnXXkMjtY_1Nywi8sF_iovului5zXJ6op_IhitHuI4rAj88OFp39nbfh9V576AFIvO5cUNDHeu6dK7mbC2_Hbav_ygmUdkqE7vS7bM="
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZckbR6OIvywVT6x_AtHNiYPgDgwLM4EYk4FczS6gxvav41R5q-CikrqlsEduHBcZTa8ERb2QZ8BtB2AKBBr1BPo9ZfWrOWF5MOZu0hwOtPnnMPNqjHlqcWSn4PssqiBSlrX-UNlQhzu-rm7rR0ymDA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZDsJnnXQgsNjx0_rpbPpVA0T5IhX_IjtLpby4dWldwe9y90QXmJE8zFu2LSOdt9g4sx-m0nRfS96eWseMCiRdGN4WNk8yg9PQSgAhAV4XUV5hLkDx_uBVKJz202Gme3csu9ZQzfGEGc8enIZN3UwtkFB6ZRoaS5C9zzRZvt7O_F9rd-hbi6gk1UFIeG4sY0cd2ClD3JWfbw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlw6qbM7MwjobAyhYOSlsENP3F-zanRk02ZBX9P_oyZo52LGL4U9ODIMscmwH7yK89VZmnHlAFnwolAdgLzamlHQSbKfcRFszvcsczs2wc0pu8KNOvh4QKFbJgdcCx0OuMIJYYd-ViqeywH1s3etdiX91TrARH"
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:39:10.374Z"
-    },
-    {
       "id": "social-14543851ca42",
       "title": "Dido und Aeneas, Henry Purcell",
       "category": "music",
@@ -6879,47 +6818,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:18:11.850Z"
-    },
-    {
-      "id": "social-e0fee6c055a7",
-      "title": "Gesundheits-Tage Landquart",
-      "category": "markets",
-      "description": "Messe rund um Gesundheit, Begegnung und Austausch. Neu an zwei Tagen.",
-      "date": "2026-11-01",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.9442,
-      "lng": 9.5484,
-      "image": "",
-      "organizerUrl": "gesundheitstage.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN5-WxiKZv0o218aSsY4FvkWmbbAzbpx82mxIZiTYpO7PPanTDJ_X0VYd0YCrFjxrPkWZ--mJqA739F7Ph1m5jTHHtii9ECx4qCEpsaPb67qzG4SqCcEep_6R0Tsbxwb8rrqhHN7bsPpBCOBLfSgmcoJ8jSbPCf5zEKkq-sVSwEEYMfQA3"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDoibCYJhAWqPBZmfrThAGYx_jnSUava2uRwYZpzUXfTtO8bHFvri8L_1W5jIG95Mzu72F1zOJFa-a6hupfLi0x3McRPdasrZVzR30ixY_rERW7DZ626PpIP_sUn0neyEM4IewA3CX53_voQ=="
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZ8qX7u7eVk57iDCRwljp_5Ho-FcPqruOcO1r2jE4FUj4iRFrsg3lKM5V5t16giiKIAhwCZQ-PwBEc6NcZEb5-rQAdgG7t9m_Ib-VA5chFQ4uzqtQORcUuRZhzSUnyf5TCooMkKc="
-        },
-        {
-          "title": "cloudfront.net",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL-IaqbQJJZl2nLfPgpH6GaMAFy3XgKBOIoZ2cEoT5R3Ts37SdZXZk3pbJuDABjU8I7CTYXoMcxXGBXe9dVPMzBN3tIPkp4tZZnKcKC4VNi_dnwltEG9Zb0I78X11JesUNk5SrRLWbMMQvLb-K4DkI8FzGeqoNkGvyx8l1ViahGP-UB7zozRIRTPh5Se8UN6CP4MQi73bN0lntqzty"
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8l5MYYzKcaz340TMlGjP8Rlj_w4MQG37i8U3sSwipzaOo7uFbls6MEJLsu9Yy87TjtD52Komko1GWXSV1vuAy1zt_RSNWy8h5GZP0LKCfXqQ48PzMAqS37BkbQ_kr-2P5sVB_29S3YyrrDjtBlj3c4w=="
-        }
-      ],
-      "scrapedAt": "2026-06-19T11:25:42.188Z"
     },
     {
       "id": "social-b4dd89fbef97",
