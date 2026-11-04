@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T14:47:07.692Z",
+  "lastUpdated": "2026-11-04T14:59:10.264Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -6351,26 +6351,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-c5c2e99a72ed",
-      "title": "Lesen mit Giotto",
-      "category": "family",
-      "description": "Leseveranstaltung mit Giotto für Kinder.",
-      "date": "2026-11-03",
-      "time": "16:30 - 17:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
       "id": "social-a2359fa7d5b7",
       "title": "ReparierBar im Kinderlab",
       "category": "family",
@@ -7826,26 +7806,6 @@
       "scrapedAt": "2026-07-02T09:57:35.208Z"
     },
     {
-      "id": "social-767c60e446c9",
-      "title": "Learning Lunch",
-      "category": "family",
-      "description": "Diese Plattform wird von unterschiedlichen ReferentInnen genutzt, die gerne etwas zu teilen haben und mal mehr, mal weniger interaktiv mit den Teilnehmenden im Austausch stehen. Online-Anmeldung nötig.",
-      "date": "2026-11-03",
-      "time": "12:15 - 13:15",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "#Coworking der Story",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/kultur-brauchtum/learning-lunch-thusis",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-02T10:04:45.689Z"
-    },
-    {
       "id": "social-7c2af6c9979e",
       "title": "Learning Lunch",
       "category": "family",
@@ -8329,35 +8289,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-04T09:18:47.913Z"
-    },
-    {
-      "id": "social-3f083adee5ae",
-      "title": "Abendgebet mit Liedern aus Taizé",
-      "category": "music",
-      "description": "Ruhiges, gemeinsames Gebet, das seine höchste Entfaltung in anhaltenden Gesängen findet.",
-      "date": "2026-11-03",
-      "time": "19:00 - 20:00",
-      "price": "N/A",
-      "municipality": "Zizers",
-      "locationName": "Ev.-ref. Kirche Zizers, Obergasse",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.localcities.ch/events/veranstaltung-in-zizers-abendgebet-mit-liedern-aus-taize-localcities",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "frauenverein-zizers.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBTpqkGLU01W33NtJorx5WcnLncMP_8dVJPq2BwpD-V3Aldcv4y7blZGvD-4ejEMxP_CQQOJ9RW4fn6YZRFFYUt-bIIvn1gX5FCePrKOdZpcNF7EokgECru0qAiyR5RuNXiIeUXw=="
-        },
-        {
-          "title": "heidiland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnTNhFsffGID4iuFi7XcD1v2YpzbzINl0qNwVSzSsAb3oQCDTvHEhyLU3Ls_ZumRctaxWP8BmnjoAmdVD6o1Owg226HOkA_xo30Av61253DSCJ1oWo3NYJL5HplIZIyyK9qWp8K-lk5pdCg6Dy1q3aO8u07D4Yj-E-2yA_yaMRzkHuHhbs85u2-z4oBwChl1ocrYfZDRUtKppoA-nvHdtmQ6jebrRmp_FqXmp3ZnpiPkmkJ9DRyWZguRuyG5CIXjJSutjKa2Q="
-        }
-      ],
-      "scrapedAt": "2026-07-04T09:19:56.982Z"
     },
     {
       "id": "social-e68a02248bef",
@@ -9959,26 +9890,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-15T09:12:14.059Z"
-    },
-    {
-      "id": "social-9028bd842edc",
-      "title": "Dungeons & Dragons zwischen Büchern",
-      "category": "family",
-      "description": "Spannende One-Shots und kreatives Rollenspiel in der Stadtbibliothek Chur.",
-      "date": "2026-11-03",
-      "time": "19:00 - 22:00",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Stadtbibliothek Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.188Z"
     },
     {
       "id": "social-ff76b70af10c",
