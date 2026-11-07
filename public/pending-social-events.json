@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T14:43:43.639Z",
+  "lastUpdated": "2026-11-07T13:40:57.988Z",
   "events": [
     {
       "id": "social-bb3f770ef78b",
@@ -2025,88 +2025,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:14:08.037Z"
-    },
-    {
-      "id": "social-8e8784c1ed5b",
-      "title": "Jubilarenkonzert Musikgesellschaft Trimmis",
-      "category": "music",
-      "description": "Konzert der Musikgesellschaft Trimmis zu Ehren der Jubilare.",
-      "date": "2026-11-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Aula",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.mg-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
-    },
-    {
-      "id": "social-f5b85649569e",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-11-06",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-a9540a451066",
@@ -4166,47 +4084,6 @@
       "scrapedAt": "2026-06-10T10:52:25.650Z"
     },
     {
-      "id": "social-4fa7aa0a28bc",
-      "title": "Jubilarenkonzert",
-      "category": "music",
-      "description": "Konzert der Musikgesellschaft Trimmis.",
-      "date": "2026-11-06",
-      "time": "20:00 - 22:00",
-      "price": "Nicht spezifiziert",
-      "municipality": "Trimmis",
-      "locationName": "Aula",
-      "lat": 46.9016,
-      "lng": 9.5398,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QBua8gqAgD2yvth2BZAE61Lw7-38_F0qsp3QA4e14XhERFwxSj8Je5jqF7UxZxG6oG74MsSwO5JJUlPqqAsZHXBY_OumN2yUOHDjmgH1L4JQAjLSJNKp4dC6UQ=="
-        },
-        {
-          "title": "kyokushinkai-trimmis.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4hvOhHKW_sSPzXXyaYP_N5cF4FUgixYnfhBfU-vJxWe4HKX7yhCw99SRFr-WbOYeRw2hvANfbpSznUGhn_RGb1s_Rlyt4qs5H9use3y3Fwi35WVjXNgEnVA8TBu9iHgAWD_dFfX-mL6gFng=="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdT5Ko-EvsYoj5Ol3qP_jPL-bmEX0YxLBBQuG43hYxSUe1L6EaVifc5abQ18Jp9cOR51DawlrGMmuDUQGksSNsZzHPAYwHxj4agCbl93mCmZmywcY73a0OB2DoBg=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT0cfY7LTi7hIOBoVlpwo0bYEF5K78KYbOzE4IUs2IpUrYUzl9ZRNM7lSE1l3JgmvdWFfCvojveEvno6l61mxNgZV-avdSYMCzTlN6rRR5Oj6-Lm7_h1k-ruZ1HebYz-N64Y0CtWJRo3vciLVEq7c5H37sQy2loWXCauo42Rgi6UWkWkM="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCqo1FGclv0iN_8YWpORd_UnZKKo5RtfwJDaqOrvaeHrW9XhTAezUSuSHFsccjjbnKMRw8hMUZQ9m42PIUvjxve8iuiB0lK9DuRvWPQC9oHNkXfZqloPFlcddiAKpFO9JVPlyqb9U76cAgn4fevlKkJHLRrSedwd-z0igMOTRSYQyHKZD5ERxDk_PuZNUq9-0P0Un6IxybfdBjS8fGt2F7RiXzOJQGKeoejTVMuq3oL2RYOPTyPkLDGSFbSNPHk9k1p2vNFDraCf42nNNdvsofrA=="
-        }
-      ],
-      "scrapedAt": "2026-06-10T10:54:42.214Z"
-    },
-    {
       "id": "social-0f1f1e42e57b",
       "title": "Weihnachtsmarkt Tamins",
       "category": "markets",
@@ -6032,47 +5909,6 @@
       "scrapedAt": "2026-06-16T12:17:18.204Z"
     },
     {
-      "id": "social-213428ae4868",
-      "title": "«graubündenVIVA im Fokus» Zu Besuch beim Weingut Schifferli",
-      "category": "family",
-      "description": "Ein Besuch beim Weingut Schifferli in Malans im Rahmen der 'graubündenVIVA im Fokus' Reihe.",
-      "date": "2026-11-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Weingut Schifferli",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.malans.ch/anlaesse-termine",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "svmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxlQHEg8Iv011_U91izqGBQ2uLiIcQj9ajV1Y30dQ3hsavYkxxO1jsbSBSQ0sn3XDCIbDIYGdCTlMO3j7oZcMWpeBeLcDtegB65NqTa6RP2uM8OkUmmq99ENVeFS5i7WjjSPZmXH5ijcOdRpxyyf0="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHixGJtPc5zy2Jc7Bc5_AwrifhJxJSq32yEpHNdfsDbD5RKf6KDDxvmVxPaW4MKYk29zjF_jv-vxSr0Oz0Ri1npbJjitREForQNv5gVmFn60hShUJOkPFInF5kWvTpPbUrhNHxfoGYRaEZlGJwrzgDT5hg60tvXMCsx0tbcIvJQabkNTW51Qw="
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLIh0_taeHV5KCUn589vnURkK0vdlpqqsJVxRx4OI3AoPIGBr8FVPWmJU0o10svkF6SxiKK2aGGB_tVAF67tMWNQrmR_ZvtMhlYCYTDUvcsiGpNlb62U45NjbBKk_hiviZPBS78XAj"
-        },
-        {
-          "title": "malans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1xG4SC1Ka8R4bgEjqamezai5xfogNKciAO_HLlCuHeMXSR1Jo0Ls8HEU1EK_Tm6nXf1aVkSVqiNvW-i2pLRuKJuVjp0u9cRLDCz5OSn1ax4Wlu6jRCmw9G-w5N7_EcKsP8tiJL81txpwOL_Tf0oYJhyt7PY46UA_FDDdqZ-bpRl6a-BccwWI="
-        },
-        {
-          "title": "tvmalans.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEba7i2yPiPn09fprU1sd2DfwjE8ykGNxySaKTQC8uLEEH0IPWi67yeoT7pCpIwxrjSScGtYs8cEE4xpSnFEXCC0psSIiBYC2lGQ72Ql-wIeC-65HWxZ3yHaR5bBAd24kg="
-        }
-      ],
-      "scrapedAt": "2026-06-17T11:37:49.687Z"
-    },
-    {
       "id": "social-874f7aef7fa3",
       "title": "Raclette-Essen",
       "category": "family",
@@ -6251,26 +6087,6 @@
         }
       ],
       "scrapedAt": "2026-06-18T11:10:23.171Z"
-    },
-    {
-      "id": "social-a2359fa7d5b7",
-      "title": "ReparierBar im Kinderlab",
-      "category": "family",
-      "description": "Workshop für Kinder in der ReparierBar im Kinderlab.",
-      "date": "2026-11-06",
-      "time": "17:00 - 19:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
     },
     {
       "id": "social-f2f0df59ea21",
@@ -8011,26 +7827,6 @@
         }
       ],
       "scrapedAt": "2026-07-03T10:00:54.073Z"
-    },
-    {
-      "id": "social-d65786968f0b",
-      "title": "Jubilarenkonzert Musikgesellschaft",
-      "category": "music",
-      "description": "Konzert der Musikgesellschaft Trimmis für Jubilare.",
-      "date": "2026-11-06",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Aula",
-      "lat": 46.913,
-      "lng": 9.558,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/verwaltung/informationen/led-dorftafel",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:18:47.913Z"
     },
     {
       "id": "social-eff70b911af4",
