@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-11-07T13:40:57.988Z",
+  "lastUpdated": "2026-11-08T13:59:27.744Z",
   "events": [
-    {
-      "id": "social-bb3f770ef78b",
-      "title": "Dido und Aeneas, Henry Purcell (Kammerchor Chur)",
-      "category": "music",
-      "description": "Aufführung der Oper 'Dido und Aeneas' von Henry Purcell durch den Kammerchor Chur.",
-      "date": "2026-11-07",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.8488,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://kammerchor-chur.ch/kommende-konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-22"
-    },
     {
       "id": "social-dece556c5d84",
       "title": "Dido und Aeneas, Henry Purcell (Kammerchor Chur)",
@@ -522,26 +480,6 @@
       ],
       "scrapedAt": "2026-05-24T14:18:06.939Z",
       "legacyId": "social-1779632286939-Landquart-16"
-    },
-    {
-      "id": "social-5d1fce436c3c",
-      "title": "Floh- und Gänggalimarkt Chur",
-      "category": "markets",
-      "description": "Grösster Flohmarkt in der Süd-Ost-Schweiz mit vielfältigem Angebot.",
-      "date": "2026-11-07",
-      "time": "07:00 - 14:00",
-      "price": "CHF 5.00 - CHF 15.00 pro m²",
-      "municipality": "Chur",
-      "locationName": "Arcas",
-      "lat": 46.8488,
-      "lng": 9.5322,
-      "image": "",
-      "organizerUrl": "https://flohmarkt-chur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
     },
     {
       "id": "social-901bc9516653",
@@ -1828,26 +1766,6 @@
       "scrapedAt": "2026-05-31T09:55:09.510Z"
     },
     {
-      "id": "social-4cc6ed1bf54c",
-      "title": "Dido und Aeneas, Henry Purcell",
-      "category": "music",
-      "description": "Opernaufführung von Henry Purcells Dido und Aeneas durch den Kammerchor Chur.",
-      "date": "2026-11-07",
-      "time": "19:30 - 21:30",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.8505,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "http://www.kammerchorchur.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-01T12:31:41.629Z"
-    },
-    {
       "id": "social-a78a9ddcc928",
       "title": "Stubete",
       "category": "music",
@@ -2025,47 +1943,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:14:08.037Z"
-    },
-    {
-      "id": "social-a9540a451066",
-      "title": "Laternenumzug mit Risotto",
-      "category": "family",
-      "description": "Laternenumzug mit anschliessendem Risotto, organisiert vom ELKI-Verein.",
-      "date": "2026-11-07",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Pausenplatz Primarschule",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "http://www.elki-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-cb850a068fba",
@@ -2601,47 +2478,6 @@
       "scrapedAt": "2026-06-02T11:25:01.963Z"
     },
     {
-      "id": "social-886e65c79601",
-      "title": "Franck und Mendelssohn (Chorkonzert)",
-      "category": "music",
-      "description": "Ein Chorkonzert mit Werken von Franck und Mendelssohn.",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKq2uL4qA3zskUCExD8X0MBbiP_T2xWORRgy5rVjehMcDz4B2a0dIBh82UsCQ7Wnu1GSY_E2mPGcD5YtanSO3E9iuDfTULe68akKWroG0fZR5JFM0OKs4kiK_a_SLO4TmW7-ElQ8bMuCPPBCubIQ6XYdQmtYv96CNdLGXKtxbl"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbAqhvkfbGwhnFnw6rb8QjU7rUCJ7t7JlO9OlxpiVzuUukbF9FfZJbimrTPQJED5RaibIExNNfon3q1Ar9dRPa5zO2wwsubPH_UACjYzT_skC153mJ-RoeOjkOdyc6mPT6Up1s3l3cVphVQp5zLQx0aL82CsC2uUL2Ukbv"
-        },
-        {
-          "title": "chur-kultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtMTGNnc66V_3SeX1SghWCjaFAmggYBXLbq-Is4tSWXjr1-yJvBp6Z7WMWByk-GnpqQ8790hAlqjubDD-Ei76rLT_obNJDF83pJmK8sP3AM0zHFSljcVg8zMy9DDfWFw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRrt8gOL6672w6wEjAPtmGoeK5ioalT8TZb7cORXUnC6Czv1UMjlew0w5djwUTq4GpnRXOWxcmHTN-t-7DN679bZPaL24og27kAvGA130layxZbpohhvtyrevdiVcu4Wt4oOl83Ly-KA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHNniC9ER6f-vwvksZ1aSlHY8lVbxt4TorAWoHJzABAt_xfBHwxzVgmVAXOKTfuCs4mKU0WkvSGXIGLgnLhgRDGc71EdDrdZNEgMDteg=="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:35:30.043Z"
-    },
-    {
       "id": "social-97b7e4a0b314",
       "title": "Kirchenkonzert",
       "category": "music",
@@ -2742,47 +2578,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:39:44.339Z"
-    },
-    {
-      "id": "social-9ae184129e25",
-      "title": "Multimediashow zum Wolf mit Peter Dettling",
-      "category": "stage",
-      "description": "Eine spannende Multimediashow über Wölfe vom Naturfotografen, Maler, Filmemacher und Autor Peter Dettling.",
-      "date": "2026-11-07",
-      "time": "14:45 - 16:15",
-      "price": "Keine Angabe",
-      "municipality": "Versam",
-      "locationName": "Arezen 1, 7104 Versam",
-      "lat": 46.77,
-      "lng": 9.29,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/multimediashow-zum-wolf-mit-peter-dettling-in-versam/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq5sT0jW_kg79GRAJ-clZXfQCd_1SQ-oK6zp5tirJ9e7L46PyXzDZgPunHaE4eeQkMVdR13I20KKkVTFuop9mPpCMhHZdd4D5uqbm4JebiLYLTqc_ZjTmi05VbjLxIoeRQwavxS9Zltg=="
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkKCIKBybZVB8M-F8Dtsy9Il4Gy4B-E-q6Vq5vBj_EeYWipwmoNPs5wUwZB4maGdvOlnBcxUQ6XsGAcmoATO3HwZc_Mkl-Oi9mEKyCwilRnws532Df-W8TjIt9Yp89ldr-9ixJNaOVy3s="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNDqMZHqr0k3WlY04jaIaJwQCGzXYb0XTH7ZsXkryk2RiNZoKk9C9tGjwbljwm5ygxSOuk67zt6cxlcRYkoqqTroAn-rjBfc-odpoYKfu7ogbj27CQt7TuK1iC1IcE_HUdJIESmw-VaGIFgPpcVLjwv0WSMdw6kps7mW3QzlmYcEVT2_6IE-6WjO6nAOe94RptH3rsFcHw9f1qzUqfpC4="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVje_y_6XBQTObrs0sgLO6WmLxuWtnXPof2Xjrm7wSwujWoh-9Uid-rVHWHfvTlkM4HytgqJykSNuNF1x0q5fsnBkiEczglAn2xkfHPt3QxIAvH9I7Y1-MhIISmGiykAYqx1EEjqVAzT5btpamOUyhTJQn2n3NLstyYrnUw2ouUPP7sOUvKmGEH2I-a0aAOD4qDHkEinRbiFM-nYzVRwJ8"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd5hrzpb7Iw1GAGrsUUlJTE3y_OE8gMews25BawpL6_hgwxJgHSPrJxCntreq09aKXLMZcgKxfJidgdgaYPUn-IW8Teu8gmHg6m5wWiU2BzCbUkm10oN1m9jCEyf4wpB_916G0KuNUTsvL8wcmX1cWGXd61Zmscm5UAqXwYHKGIa-Yqz5G4Ug0M7oSUWGuM9hDozG6Ch5K1O-bRo6Pmw=="
-        }
-      ],
-      "scrapedAt": "2026-06-04T10:40:31.060Z"
     },
     {
       "id": "social-3d6e9fb4c2e6",
@@ -2906,47 +2701,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:46:28.558Z"
-    },
-    {
-      "id": "social-2394d65007e1",
-      "title": "Franck und Mendelssohn",
-      "category": "music",
-      "description": "Chorkonzert mit Werken von Franck und Mendelssohn.",
-      "date": "2026-11-07",
-      "time": "20:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.849,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxdT84E0HU_LIHP5Aqk9Te-1d0kxSk4kU0BnUHZX7y4h-wa8mAHY5IU2YV0CgG9d97EyjGA-JSD_OxWqQ2HN_I8pXBu28GjtsiIsib6Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIauVxwW3y1Bnsv6PaLNl3AmsDvoHavOEJzqQDkuUauNBmK1wHI79WbCPBDGuxsko6B06zQYU16THeIg_1JQNlJBBXfNqHKzzKwXxg7VTdsaXZ0B7M-V9G-CVZmTKHK2HPm5Qk4L_Y0A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHclMuvq7tyE49pHj645Gu00B3B4cjBF9euUs5TqXaTytygZVjH7OAXSUlOXXMtybgUE8Zq7Jl9X0ObUREzxOtUNfZTkK3Nie4ATMXeVbJF7xbPx8DMkivAbyxdc5o6MMVqAfSQew2992ZfWlG5imjpwXy8DnaIwaXvxShTmyv9Qoi5Nmk_C-AP4nlM6sZpC0gykahRv5HJBmxy3tG9w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEndEmsM6UfXuNdb_DmDl7ISjuIhQQ2NJsxArpJxC9YT59Hltm7dJnK_pbwstde0zN_s7Jh-wqEkA13LdbgmeMjLoSRDzkpJB4rsdViaAHfJWAEOlDSKmI4urhbP9bZrf1F3kvVVYXvam4GG6nS8Oc7K9FpZ94pRPTcP8t0"
-        },
-        {
-          "title": "flohmarkt-chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnE7VxXxR8J603Tdm--XJDz3WnuP2I0y6Cm-D5Rgt8JVGWn679SDm7Ux1x6ZfPawc2TnSeznplQUEgG4AzUTK9jC7Qrg5fTU9iUJRGJRKV5AHv0fTR"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:42:18.631Z"
     },
     {
       "id": "social-ac2d5d2f15e4",
@@ -3175,47 +2929,6 @@
       "scrapedAt": "2026-06-05T10:43:57.523Z"
     },
     {
-      "id": "social-9950918bd13a",
-      "title": "Bundesprogramm/Feldschiessen Nachschiesskurs",
-      "category": "sport",
-      "description": "Die vereinigte Schützengesellschaft Chur und Umgebung führt im Jahr 2026 einen Nachschiesskurs für das Bundesprogramm durch.",
-      "date": "2026-11-07",
-      "time": "08:00 - 12:00",
-      "price": "Unbekannt",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.877,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch/bundesprogramm-feldschiessen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3dcQ2HDEhHqK6YNHyH-P78sWJbcxGBcfz03BYH9XnnAJwwZGB3rgg0ISyQJ7DZQXO-beeA67DZZSMHFNgmPDrpTWcih-XD0YPxYamT0fYQIhrsPNA4VwQd0Q8PHLWKNCeEzYMw6SShONCNnQ1urkZTjsr-Ams_Yip4jkvmRJUtmeL-qBzhrKs754wgWNnmVKZm1Y-Kdg="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV0q8tqliG9K1isIisAf_JbTDvCPVEqFAHHDzCwEC1fs4OVwPwedQiOuIuZxzYevgbBViF_ScwUDGaIG8yYSxMOeJUIGIsHKfV_GgeY6I87YEODzZ1xbuoan82YLI7r7l7zHJVxaBnriBobeS7yChTU5nFtyvx18fRD7j18VRWBym7_e1dcsbve8oXuzkLrewGiClZQX9J0fjUPaYmdTXxkgCHE5zUgfVbkQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEqyNgZliX6Akii-e_5YyRcipz01zd21dCftKPNkvvcXbMvr6ZIecs9cRiLMNmaC-SFk6HTfy4j3aerdN2mruQoYzBgvKESBkrwfEYYp7w8t7DCrEcA6Yq9Zx8X5wzbPc4a4IN0K1DA5KIOIgtN83TmGdKN2YVO5o_oZ9vSq_JegWd6_FjxFCkvoVpjx97QCA6J0YReUMvu1nKWNG477xmbZNmA=="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRDpID_NJ1d9tMdqE8cHH49JjgjlOlmx3NhswdwuwwVY8NYzYLNgjbTiIOrdAI9Bq5hjFWY9Lydw3iPiil9l3EgOlfY3ihgZX8Bxa2joHTSYm7maUzlFAby1f7hdu3zTzi3wCzWJRfo0DvhrYA7rVOlz7bE7w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNEYJb8f1K7dqVytUL0qH40fjgyPsmcYj-duNucfKMfVgRuQtbXENyPTWGTAYbFdbcbjGqcTmLhCpPkYkrmdTGyaboxqjSdFV_cyO1DypIkTK9Bde26n8v_hTBUsXGvBWnI-ShiBcOkR-jguSoXbCOhCPkkXRc0Jcc67OOepsjvh4PFHqZdsXKkvPeQvvV670wZTRRo0zmBdH9VAn-71xf4g=="
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:44:39.735Z"
-    },
-    {
       "id": "social-bf19680cda24",
       "title": "Konzert Rumänisches Nationales Sinfonieorchester",
       "category": "music",
@@ -3390,47 +3103,6 @@
         }
       ],
       "scrapedAt": "2026-06-06T09:30:13.512Z"
-    },
-    {
-      "id": "social-70d2f6fa8e18",
-      "title": "Franck und Mendelssohn. Chorkonzert",
-      "category": "music",
-      "description": "Chorkonzert mit Werken von Franck und Mendelssohn.",
-      "date": "2026-11-07",
-      "time": "20:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8488,
-      "lng": 9.5319,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte/",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/konzerte/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
     },
     {
       "id": "social-7cff0cf105ea",
@@ -3829,26 +3501,6 @@
       "price": "Keine Angabe",
       "municipality": "Chur",
       "locationName": "Stadtzentrum – Altstadt Chur",
-      "lat": 46.848,
-      "lng": 9.532,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T11:51:07.392Z"
-    },
-    {
-      "id": "social-019f9f8232a5",
-      "title": "Gänggali-Markt",
-      "category": "markets",
-      "description": "Erster Samstag im Monat, jeweils ab 07.00 bis 14.00 Uhr.",
-      "date": "2026-11-07",
-      "time": "07:00 - 14:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinsplatz/Arcas Chur",
       "lat": 46.848,
       "lng": 9.532,
       "image": "",
@@ -4633,47 +4285,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-13T09:53:02.024Z"
-    },
-    {
-      "id": "social-8d638c6cba98",
-      "title": "Obligatorisches Schiessen 2026 (Nachschiesskurs)",
-      "category": "sport",
-      "description": "Nachschiesskurs für das obligatorische Schiessen der Vereinigten Schützengesellschaft Chur und Umgebung. Mitzubringen sind Aufforderungsschreiben, Dienstbüchlein, Schiessbüchlein, amtlicher Ausweis, persönliche Dienstwaffe mit Putzzeug und Gehörschutz.",
-      "date": "2026-11-07",
-      "time": "08:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage SG Haldenstein",
-      "lat": 46.883,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfLFtz8CO-4ktgPLCvCtcyt5L2_uyoCTZOm-H1K5FbN5l6kAhLRfNffJASOBTcvfC27UhM2hvIu0o-Mw1AHxfLC1N2MHxNHXirrKjGT_vOkVdL14dzSy1Q8c7V21LnTNa6l_0OASlC-hNuPG4FzYoRCMs-R84ns-Jf14vewVW387nCV26X6o-YlLhy24o-MWNEPTRCYMe0earYd13iHYyddHsvXj7dmSEIBw=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH21ieA2qNAZy4S9wq22w9p5E98LciUwHf1UiBf3QR3BzeKwOmsHSGvKSUzUI1-feWCa5Gpzj551jbzMCjH83aegYGUOfLqHsyHnxoJCMXilLJsIc6VOD2ignxyAWBouvGekPXaNYGg0M_0-fe_yvqv_kP_OSxvTHfak6xJ7HNzOr-FpUZ6-pP55Kr5RQvBRWhpMy3FGeWKjKTh"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGofBa3hZDovLCLcDxmoApkDRmaGRbp-IYwQcKREFe-4OJfH187Uaq36ciVoMMZbtEP8ip2_UxevHklOmM6oYges-CRBBoMKEBL6gCESC6XENBRmR3EH750EeVs6f1JNOUvc0dl2ldMjxBjuQuEfyFt-LXqC9MKon9RD-A5ftGiXg1oX3__12FrBJPdAxI="
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xPDIOxAxbTitCLPnvzKgqCwTnB6zuLRZdn_h58WqpLQYMqOVzVybCl2UKQSgZKnkRdOEktl1QwHr1Go-Y5xf0G6rO8UzZOJJqLbpAZY3XyJJUJrdConKO3Wa79Dk0oC1jk3H3NEjBKXd2Nkj8oOxziydvtM="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUgaiRPfpEfc7p2zhvNhbj7ZUoB1vHWoy7AbtLIaOjlkHbqxKn5-T6udN1NkMPzTThBsfce5aGE4CpekMyvxos5_Qqy6ZcHrGBKYIpXqbEsnhovJSF2tU0yST_GW34IZZUJD9YUHcn"
-        }
-      ],
-      "scrapedAt": "2026-06-13T09:55:17.671Z"
     },
     {
       "id": "social-68682d1c0291",
@@ -6556,26 +6167,6 @@
       "scrapedAt": "2026-06-20T10:08:46.431Z"
     },
     {
-      "id": "social-3dc2c947843c",
-      "title": "Franck und Mendelssohn. Chorkonzert.",
-      "category": "music",
-      "description": "Choral concert.",
-      "date": "2026-11-07",
-      "time": "20:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8521,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.338Z"
-    },
-    {
       "id": "social-e502a3062d42",
       "title": "Beethoven und Yusupov. Sinfoniekonzert.",
       "category": "music",
@@ -7259,47 +6850,6 @@
       "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
-      "id": "social-01f080448471",
-      "title": "Kammerchor Chur - Dido und Aeneas, Henry Purcell",
-      "category": "music",
-      "description": "Konzertante Aufführung von Henry Purcells Oper.",
-      "date": "2026-11-07",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.851,
-      "lng": 9.534,
-      "image": "",
-      "organizerUrl": "https://kammerchor-chur.ch/kommende-konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
-    },
-    {
       "id": "social-0d56e09072e4",
       "title": "Kammerchor Chur - Dido und Aeneas, Henry Purcell",
       "category": "music",
@@ -7564,47 +7114,6 @@
       "scrapedAt": "2026-07-02T10:05:28.061Z"
     },
     {
-      "id": "social-9714b27a4c38",
-      "title": "Dido und Aeneas, Henry Purcell (Konzertante Aufführung)",
-      "category": "music",
-      "description": "Konzertante Aufführung von Henry Purcells Oper mit Dorothée Rabsch, Isabella Gantner, Matthias Horn und dem Barockorchester le phénix.",
-      "date": "2026-11-07",
-      "time": "N/A",
-      "price": "N/A",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.8465,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfUgFu1qaz3LoBjEG0iVBXrkbuj6VtmG1HN6JnI2aGXxRJQoOH0olD0aiAXeojbkyPWShhjC0z2Pc--6eTYZPkUgEFDJ1zY2ctR83Yg=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTsfovXF9vDkNLzHV6WIP0PbuiVofvJXvFaePCc1yLJW-8oYVDvx3PskqYyoBBs7wYaicVMhzikCjSlOKY-yTEP_dueEbekrfsYCZlmhNZMT43XH9dGFrYzd6eJr2K_1k_xjKP7Qp8OA=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2gix7_WOrVGBjBNM6T9ghnUvVhkVlrbav62kiVwoQ0VcqElPR5rPR6WzvytzfyX_-g3DNxzk6k0MLHqWmXWwG2yApnj-I4OgU7Urv5pNiqhSvWsN4oTEj0AZVw0R-WVkaeUvx4TM556boihUunhfBf945rbe2FeIFIgNJ"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe-HsIGsQinOKLentIfEEJ7VONIqe1L8fBaGG5_aNtgKVvVombUvjjyJye6n16TWmlnp2752Z9qSxNhRLUhdAxXIq5ir2pJ_hsuky89jfS9-8Ybc1Wz2lgr47rSl1XG0a9QqO3FhL2H26uX2gEHcNIctM="
-        },
-        {
-          "title": "planaterra.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqfK7yk9LVzm7wN2ONfxVTzyTKniCFjt0SfK05HYBxMccGo7Z8zwpqidxYBC4SbJbSxKOxyBNNWpMN7yv24dBZ2BD_pzYSf72W2lSwU2_sYQQU9uoNjpNUDHXr7yVHIdd37nDSBz0NDEVBizCSJeNBTBPJXGrL3aRs90v5V0C_P2XzN7L0fI="
-        }
-      ],
-      "scrapedAt": "2026-07-03T09:51:41.709Z"
-    },
-    {
       "id": "social-c9f5509b180b",
       "title": "Can Çakmur, Piano (2. Abokonzert)",
       "category": "music",
@@ -7706,47 +7215,6 @@
       "scrapedAt": "2026-07-03T09:52:27.576Z"
     },
     {
-      "id": "social-b6ae26a1be85",
-      "title": "Nachschiesskurs Obligatorisches Schiessen 2026",
-      "category": "sport",
-      "description": "Die vereinigte Schützengesellschaft Chur und Umgebung führt einen Nachschiesskurs in Haldenstein durch.",
-      "date": "2026-11-07",
-      "time": "08:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.88,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU1YeUIbUX_U2EbqwQ28FuAYDTkoWgdb68Q4jlLOUzpFcGVJ3WNvyFJBbyPZ_vHxMXHME3zkw6YE1lckTqBgBLWRa65aTY65sOqIA4qHdG3ZWkjUSd-5J1DBK2FPIN8y83wrzOVPCu0Q=="
-        },
-        {
-          "title": "schuetzenportal.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgL01LJvytxQyIyNswh3t8gP3YHui443A8QkBkGGuPXvQ2dRW9iO0GeWCdio9cJ5KB4UcDH65OMliuJCZKTMwTycGgXGuwW7iuhH65inbalbbxYsnJdRBrNXFyQ8L3kaTG-LCbYIE47sKo2IM9OJTJiYur4Ls1f1UxhUk0psNA9LlFtiicPWV97CUBpyRZ46jO_pRA9I-EslsgvQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-8UgGT52Zjdnpq_BiMNVIikTI0MhdBCx9g6vabRZncym8Zv2VthNmT1LalejU8kCn1Hc4Q_ajUX9F9Q0DiujpkmJM-8Q2scylDkgjDd_9jRESg4-EbChZ2ICSXvNHvVBJCD-1GwrYk7RwEyVarXkQRufB_Jr6vqBICZ80z5_GsyVGH1PH4oR4A4c0isMW"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP2AkY6OTBkZrrQkjFBLooqdvJIwaDsqE7q6zhVfXg6jzmem2PCZAeyfiBsAea68TFx0qZtvu2RdLpGfoobeca7ZSnl1aAdIo2C2B7lUmhqYoDrSni4C4QXfPT8BKpHV6jtaYJeAa2lo4iWKCsAKOWkvXdm2PUMNZPxc5SI4vM1xkMcRMvBW8lodRVTiSD"
-        },
-        {
-          "title": "kammerphilharmonie.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMNxD-WjVEO_nuiEACpjGophPCfCpgJi-7pNfs3ElAbvpd7EEVuaiSRakaVTnno24-xXIYlMtmoumXWgUxC3OujTuKlQ184X5t5ymox8QesfI1MMNhcZgb3N_3Hr28HXwmfsQrdEv06Sap9Dyv4LknWTKwssJI"
-        }
-      ],
-      "scrapedAt": "2026-07-03T09:53:35.159Z"
-    },
-    {
       "id": "social-656c0cd153ff",
       "title": "Adventsanlass Senioren",
       "category": "family",
@@ -7827,26 +7295,6 @@
         }
       ],
       "scrapedAt": "2026-07-03T10:00:54.073Z"
-    },
-    {
-      "id": "social-eff70b911af4",
-      "title": "Völki Nacht JuMa Trimmis",
-      "category": "sport",
-      "description": "Völkerball-Nacht für Teams mit Action, Teamgeist und unterhaltsamem Abend in der Festwirtschaft.",
-      "date": "2026-11-07",
-      "time": "18:00 - 03:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Doppelturnhalle",
-      "lat": 46.913,
-      "lng": 9.558,
-      "image": "",
-      "organizerUrl": "https://juma-trimmis.ch/voelki-nacht",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-04T09:18:47.913Z"
     },
     {
       "id": "social-5a4ff787d286",
@@ -8941,26 +8389,6 @@
       "scrapedAt": "2026-07-11T08:45:39.848Z"
     },
     {
-      "id": "social-97baad9ddfff",
-      "title": "Obligatorisches Schiessen",
-      "category": "sport",
-      "description": "Schiesspflichtige trainieren am Bundesprogramm.",
-      "date": "2026-11-07",
-      "time": "08:00 - 12:00",
-      "price": "Keine Angabe",
-      "municipality": "Haldenstein",
-      "locationName": "SG Haldenstein Schiessanlage",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.sghaldenstein.ch/bundesprogramm-feldschiessen",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-11T08:45:39.848Z"
-    },
-    {
       "id": "social-a281693df4f4",
       "title": "Waren- und Viehmärkte 2026",
       "category": "markets",
@@ -9347,26 +8775,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-14T09:01:59.560Z"
-    },
-    {
-      "id": "social-8c4b1d76b3b9",
-      "title": "Nachschiesskurs Obligatorisches Schiessen",
-      "category": "sport",
-      "description": "Nachschiesskurs für das Obligatorische Schiessen, durchgeführt von der vereinigten Schützengesellschaft Chur und Umgebung.",
-      "date": "2026-11-07",
-      "time": "08:00 - 12:00",
-      "price": "Unbekannt",
-      "municipality": "Haldenstein",
-      "locationName": "Schiessanlage Haldenstein",
-      "lat": 46.87,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://sg-haldenstein.ch/bundesprogramm-feldschiessen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-14T09:03:18.186Z"
     },
     {
       "id": "social-b1efc9f039a7",
