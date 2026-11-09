@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-11-08T13:59:27.744Z",
+  "lastUpdated": "2026-11-09T17:00:27.855Z",
   "events": [
-    {
-      "id": "social-dece556c5d84",
-      "title": "Dido und Aeneas, Henry Purcell (Kammerchor Chur)",
-      "category": "music",
-      "description": "Aufführung der Oper 'Dido und Aeneas' von Henry Purcell durch den Kammerchor Chur.",
-      "date": "2026-11-08",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.8488,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://kammerchor-chur.ch/kommende-konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmW3rcOG_rRa8kOEFh3RwGISzSTlZrG4FZWZDRLvhOsiBKud-HpDxHjONfsdv9iw8TV6pjsD_iJngCy7QErFbxf3PD1Bpnl2T2Nzsns1MQ8UiJ_-9wVAVovLeYp0IHnr7GwVH3YSemmUT5c7g="
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVNFAJt5sgpOCkBoJAJTKaMKjB5IW6ADKBiJziNbbyJS7glrziW4XaJsBhz2z7MjWURY7qtXHFCK4jW-iHjleiOphFRn0OkTVl_1oItpN07Cv8eM8sICUr"
-        },
-        {
-          "title": "graubuendenviva.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJScGKgsiu-SXbbxzkmp164jjbJ1jJ6JyqrRf0nNUWB-2E72zlPOtjERjSAHG8G_p2tUHohIe9L2nku7vUXl2Ooti-WiGwPESCD_xMkAayktzbfYypCKFqAi0a1nZ5aud7gTp2Kzd1U3mn1stjogWU2KeW9yG_vxDJ1XyQUzBDqqfPTYY="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVFS9xBr_BbSTtQko7lW9lmmjBiNd8wemjTytPTwMSbgo2ZJr2OS3n5eh4EL3g0-qse9Mgl7MnBt_8tLxxmiy1POfsFevncTuk0Yz5Q6prYdPXPHqGq9U="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPXNshD7iCpOwpj0KixzTmG8YJa4QrwGgDIPSAnS3tkaOoB2GqTL_RRLtZ3qb9BuUqMjv7tBIx-D3N9AzcUq4V32ETwP7SSQMOGxWNhdkRQPZR3j4Ft7bqEm3rV9DaIbBbtvvRGd4sMphCv34f4Dk4Bw=="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:02.820Z",
-      "legacyId": "social-1779631802820-Chur-23"
-    },
     {
       "id": "social-34f5669a7235",
       "title": "Emser Weihnachtsmarkt",
@@ -2703,47 +2661,6 @@
       "scrapedAt": "2026-06-04T10:46:28.558Z"
     },
     {
-      "id": "social-ac2d5d2f15e4",
-      "title": "Franck und Mendelssohn",
-      "category": "music",
-      "description": "Chorkonzert mit Werken von Franck und Mendelssohn.",
-      "date": "2026-11-08",
-      "time": "17:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.849,
-      "lng": 9.533,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxdT84E0HU_LIHP5Aqk9Te-1d0kxSk4kU0BnUHZX7y4h-wa8mAHY5IU2YV0CgG9d97EyjGA-JSD_OxWqQ2HN_I8pXBu28GjtsiIsib6Q=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIauVxwW3y1Bnsv6PaLNl3AmsDvoHavOEJzqQDkuUauNBmK1wHI79WbCPBDGuxsko6B06zQYU16THeIg_1JQNlJBBXfNqHKzzKwXxg7VTdsaXZ0B7M-V9G-CVZmTKHK2HPm5Qk4L_Y0A=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHclMuvq7tyE49pHj645Gu00B3B4cjBF9euUs5TqXaTytygZVjH7OAXSUlOXXMtybgUE8Zq7Jl9X0ObUREzxOtUNfZTkK3Nie4ATMXeVbJF7xbPx8DMkivAbyxdc5o6MMVqAfSQew2992ZfWlG5imjpwXy8DnaIwaXvxShTmyv9Qoi5Nmk_C-AP4nlM6sZpC0gykahRv5HJBmxy3tG9w=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEndEmsM6UfXuNdb_DmDl7ISjuIhQQ2NJsxArpJxC9YT59Hltm7dJnK_pbwstde0zN_s7Jh-wqEkA13LdbgmeMjLoSRDzkpJB4rsdViaAHfJWAEOlDSKmI4urhbP9bZrf1F3kvVVYXvam4GG6nS8Oc7K9FpZ94pRPTcP8t0"
-        },
-        {
-          "title": "flohmarkt-chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnE7VxXxR8J603Tdm--XJDz3WnuP2I0y6Cm-D5Rgt8JVGWn679SDm7Ux1x6ZfPawc2TnSeznplQUEgG4AzUTK9jC7Qrg5fTU9iUJRGJRKV5AHv0fTR"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:42:18.631Z"
-    },
-    {
       "id": "social-daf9dd847fca",
       "title": "Splera-Treff",
       "category": "family",
@@ -3571,26 +3488,6 @@
         }
       ],
       "scrapedAt": "2026-06-08T11:53:51.962Z"
-    },
-    {
-      "id": "social-836a5d9feb75",
-      "title": "Gregor Meyle - Unplugged 2026",
-      "category": "music",
-      "description": "Akustikkonzert von Gregor Meyle.",
-      "date": "2026-11-08",
-      "time": "19:00 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart (genaue Lokalität nicht spezifiziert)",
-      "lat": 46.958,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.eventim.de/artist/gregor-meyle/",
-      "ticketUrl": "https://www.eventim.de/artist/gregor-meyle/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-08T12:01:13.890Z"
     },
     {
       "id": "social-58b1ab7befce",
@@ -4950,47 +4847,6 @@
       "scrapedAt": "2026-06-14T10:25:11.829Z"
     },
     {
-      "id": "social-8127b961124f",
-      "title": "Franck und Mendelssohn (Chorkonzert)",
-      "category": "music",
-      "description": "Chorkonzert der Kammerphilharmonie Graubünden.",
-      "date": "2026-11-08",
-      "time": "17:00 - Unbekannt",
-      "price": "Unbekannt",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.849,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/tickets",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGISXBvFGphorC4ASccyIF_SKB6jzlW8arAQlawKJhW1QSNtiYtZveQyu5kGnNaUrd81ApzmJDQUZVWdvUwR4UNVBOKl5bDv0CCE-dF60iPbCzAJXocQ_zr"
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBusz9cZki3Kx-rSOmZd2Lso6q4lg88WCmTDjHmhPX6bycJVqzqp-Njq8HvlYarfyOMfpswvQsWv27L9SyHbhE8aZMGJernY1m-YTzC6p20l8gs_74jFxnVZ2GQZKuQ1D1JABZbFmU6vl-By4="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52YTN6TukcHmhGUiovvbNM-TJiFk6kkr0fH7JXLhY30pjWpRrHH6EpsDmIHMSsg8VubLOI9mjx5lNshmk0tQ2WHpelGXZbeRJ_uwQtSe9AYlMlCTUcyBQ7RM5jsTR-PytndeAt9xZ"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyXriZrRU7azZcq64eYy8uzWeLm7CMjE3zNLcHS6-CTHEOitoU-KgG47s5rJKxUdmCZVrRI6cMld2xANVacbna8tT4jiDP94QmvJd7SywJBhf3Net_g1p4KPPgtPnWxxOYapQRPXVxtw5h7HnjGgW2Ovx0f1mYiovlURjsiNVwQwq6JGh9HnWbOSEQYvF0AFWqJ1w="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0QJgHm7ESC-WIMzAJzNxne2vr9gOLbgj9Fdy49GCmkwoXpb6CdpwWZ4idw6x1bdFDRFsY6FT6Qjzp5nHlJVxifUCKJGVxRc1DtaYV9cemZ0rvMwDP-5W_Uz-4Llz2B7W_PgGXMY8aRF-3QY9ilYFCL-TLaROCZkb9dkI="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:00:02.366Z"
-    },
-    {
       "id": "social-b074b923772b",
       "title": "«Das Original» – Stephen Sachs",
       "category": "stage",
@@ -5559,43 +5415,6 @@
         }
       ],
       "scrapedAt": "2026-06-17T11:37:49.687Z"
-    },
-    {
-      "id": "social-14543851ca42",
-      "title": "Dido und Aeneas, Henry Purcell",
-      "category": "music",
-      "description": "",
-      "date": "2026-11-08",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw_3swQkhsOeSQdi1h_ogNnSed_AFXbwJjFDXOkqhddOiQ3qM4yrKEPpXq0Rgi2kO-WT4vlfwXTJ8-ghSItW3gqXM6Vqb50budl4ftKCP64-xhPnvGfAWbyRua9j6-V7A9qvjirw0JlA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Z9pYIYSJ_42X4N27BT8Kz9iliCY-AiQhAWoY9vtzAYWpLVowPz_2Xqn-EdlIsZzexdtOv8Ey9Y_I98bhj-R1UIu-3j5Pa0Klj8i8AqXOFn5gX1j81-5zNUnN_Ls-ogDxnje3atKuj9uVIMYuA-2tIoJb7VTE-sazXHLCAfzpJtDnZ-mbAw_x8hZQPJLWQs-5E0AalA=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwpX4ZNeUmfxuw1siJ_mGsDrZtzjDKX9nwjmKVW9mzFW7xWNCaTmR8IxzvqdzufFJCzYWrzkL7OeurKdHKBJoBQKUX_gJYuGLEOcQIQ=="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrJUcWZ9BUl4fXZmQEZD72AZo0rKHq5DCZ8ZmqxHo2m0mdGimOeiXyQPfwbZwbg90jj3laPTqVlc_OCguPIaG2nvqp2R1E6PZa6GZRld0TScPy95DcwTvFJb92K7zF93Zp8M-L"
-        }
-      ],
-      "scrapedAt": "2026-06-18T11:06:42.479Z"
     },
     {
       "id": "social-3a51ad3acfe4",
@@ -6670,26 +6489,6 @@
       "scrapedAt": "2026-07-01T10:42:11.569Z"
     },
     {
-      "id": "social-ebb75bab6736",
-      "title": "Eltern-Kind-Treff SpiCool Landquart",
-      "category": "family",
-      "description": "Im Eltern-Kind-Treff wird gespielt, gehüpft, ausgetauscht, gelacht und vieles mehr. Ein ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugsperson.",
-      "date": "2026-11-08",
-      "time": "09:00 - 11:00",
-      "price": "kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
       "id": "social-de8bb87dd1f2",
       "title": "Sprachtreff GR",
       "category": "family",
@@ -6848,47 +6647,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-01T10:48:24.275Z"
-    },
-    {
-      "id": "social-0d56e09072e4",
-      "title": "Kammerchor Chur - Dido und Aeneas, Henry Purcell",
-      "category": "music",
-      "description": "Konzertante Aufführung von Henry Purcells Oper.",
-      "date": "2026-11-08",
-      "time": "siehe Website",
-      "price": "siehe Website",
-      "municipality": "Chur",
-      "locationName": "Rittersaal Bischöfliches Schloss Chur",
-      "lat": 46.851,
-      "lng": 9.534,
-      "image": "",
-      "organizerUrl": "https://kammerchor-chur.ch/kommende-konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVFjrb_aRGA7zOt5u6WiwF-8faLNvsaM65Ye4ldxJsU-U4a7qMpClH8bJAE8DGVcgJHlDcKDH9F1X9T1BydOIvDkmPmdZpY4IH-E_mQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8AiVlaEWkZwKxx5fe9OxuF-RHhFdy9Ue5IoyFk122jWMhTRFy9QqjyqGWXgSIaI_fBXZdM4iXQPNgKTIQ_Ek7SZmxDYYM1K7gDijcvSCX9zSxPwdAt1AssRHFAHcpYe3eS4zSeGNvYg=="
-        },
-        {
-          "title": "suedostschweiz.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGeB1UbwiNQ2gL_WRa-mRP53qg8KuREesEbdkMkwMlD3FX7gaH4DIx3hMFIqf4xDEB9XLSsU2X9-KwjPRjbDMTK1aSJTSXOLy-ISOVQpsE_dScOz3lExSue5AWmseoUAvIj2euadoQi27inRMXNSI19GL4tlkE9piwImHpHvYAyJhtB8X1jxCcGN-k6aPm32bz__s6RF12RAfbJ0KVX65_L7M="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwKsEKNoBwr78N19ysPL4MeExUK2369-x7B9xV2ehRYA9GyuQxAVZv_w-uhHK9MdEwDWdRP0yqmbF0SIid1EheSNl9HnQtp340dji360gyG7jF1SbzEOribEQ3E4ajSIBMKNmRYFpIBQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYeArnKP5b6jdj3o2NIzBRRYf871YJ6bOVb_xsoeRHIN5DQJaYAhOrQ8uqNXXHqH037-h4nzkbJwZqoH34u35Adtr1lrFH0XX2pRd7ct6_0jkvE7su69OpzwNBBlUaaqG-u2mjOb5r-3mocJJL"
-        }
-      ],
-      "scrapedAt": "2026-07-02T09:54:56.002Z"
     },
     {
       "id": "social-d9ede3ce1e70",
@@ -9016,26 +8774,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-16T09:14:04.621Z"
-    },
-    {
-      "id": "social-014d59af706e",
-      "title": "Eltern-Kind-Treff",
-      "category": "family",
-      "description": "Ein ungezwungenes Zusammenkommen für Kinder von 0-5 Jahren mit Bezugspersonen zum Spielen, Hüpfen und Austauschen.",
-      "date": "2026-11-08",
-      "time": "09:00 - 11:00",
-      "price": "kostenfrei",
-      "municipality": "Landquart",
-      "locationName": "Kath. Pfarreizentrum Landquart",
-      "lat": 46.9508,
-      "lng": 9.5445,
-      "image": "",
-      "organizerUrl": "https://www.elternnotruf.ch/fileadmin/user_upload/Elternbildung/SpiCool_Landquart_2026.pdf",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:18:49.850Z"
     },
     {
       "id": "social-3c2eb4e34843",
