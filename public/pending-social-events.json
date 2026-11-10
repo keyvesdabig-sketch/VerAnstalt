@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T17:00:27.855Z",
+  "lastUpdated": "2026-11-10T15:20:15.410Z",
   "events": [
     {
       "id": "social-34f5669a7235",
@@ -2946,39 +2946,6 @@
         }
       ],
       "scrapedAt": "2026-06-05T10:51:43.865Z"
-    },
-    {
-      "id": "social-f31494fbcc40",
-      "title": "Auftritt Seniorenheim Cadonau",
-      "category": "music",
-      "description": "Auftritt der Schwyzerörgeli Fründa Felsberg im Seniorenheim Cadonau.",
-      "date": "2026-11-09",
-      "time": "18:30 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Seniorenheim Cadonau",
-      "lat": 46.837,
-      "lng": 9.471,
-      "image": "",
-      "organizerUrl": "https://www.schwyzeroergeli-felsberg.ch/auftritte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaJSxzbNZW1AC4fkoc4oYcz857RUCx2zj44AGimvtHuqoSJuodFZeLHnfNkB8uBdtxqkJQ-RwcZykfBAkUNRuVL0iOvAQ9hyXGqVKT-HzbqgRRNuSB9nR7RmLKx_DTCmDyaw4="
-        },
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDjf_-DC4DOtGrq189X8BfXZ0z40T9WS_8OhFTYX_lFitHuUke1J8Xq0rAXkcaQloDhID6aSTx0T0z0dYyYjByerOVblsue4VKqSPFJX8ISpZQypu2aYUMnr9F"
-        },
-        {
-          "title": "sf-felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9PhgWUJ0eJb0rquaCcVpVPuYWnf2hZW-DbNLGMpKKZNFYqcI6u1T8Wsdr4kitpVxHzH1b5YNRlfm7G6IEiV0kDS0ioSJ79Daj2LOU753087MDfB_9SuiaOQjLTk9-j2_Rt9Q3drpIPgphSDs-"
-        }
-      ],
-      "scrapedAt": "2026-06-06T09:23:00.281Z"
     },
     {
       "id": "social-94a0a95251aa",
