@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T15:20:15.410Z",
+  "lastUpdated": "2026-11-11T14:50:53.412Z",
   "events": [
     {
       "id": "social-34f5669a7235",
@@ -210,27 +210,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:12:07.899Z",
       "legacyId": "social-1779631927899-Trimmis-10"
-    },
-    {
-      "id": "social-326ff2064a2c",
-      "title": "Konzert BERISKA",
-      "category": "music",
-      "description": "Ein Konzert der Evangelisch-Reformierten Kirchgemeinde Untervaz.",
-      "date": "2026-11-10",
-      "time": "19:30 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Untervaz",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.kirche-untervaz.ch/konzerte/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:12:36.501Z",
-      "legacyId": "social-1779631956501-Untervaz-11"
     },
     {
       "id": "social-6c8cdc8be22a",
@@ -2659,43 +2638,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:46:28.558Z"
-    },
-    {
-      "id": "social-daf9dd847fca",
-      "title": "Splera-Treff",
-      "category": "family",
-      "description": "Monatliches Gruppentreffen für Familien mit Kindern von 0-5 Jahren zum Austausch und freien Spiel. Kostenlos, keine Anmeldung.",
-      "date": "2026-11-10",
-      "time": "09:00 - 11:00",
-      "price": "Kostenlos",
-      "municipality": "Felsberg",
-      "locationName": "Gemeindehaus Felsberg (2. Stock, Schulstrasse 1)",
-      "lat": 46.83,
-      "lng": 9.51,
-      "image": "",
-      "organizerUrl": "https://www.projunior-gr.ch/unsere-angebote/pat-mit-eltern-lernen-graubuenden/gruppentreffen-felsberg",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb0_YscLah0kwWM5qdK_88Kq7tg6V_vnGzyvF2I3ctgJ2hWiUR_fb3Gd8JIK0U2vIOFTLYcX1mUOfpCkgGK1EDFMEgrkyD5KBec7EY58zRCQR1VQU_WKwjrFXY-A=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ79zutsYGX4VbCb9u4V0mawe8nhW6RJleZvy5xleJCAkJEzjnHOL4k-hTqoRFiHaU87m2K8qjlqtgSWlwbYGp9sdJP4Jq87AwsXHax0rhVCOX8JITusdNcP-c67qfhOSAkJMK"
-        },
-        {
-          "title": "projunior-gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOtl5Shw2S469VlSJDqMDRd38mZKLty9AV3JRORXXoLhSgT4_wGO_V-WeX-8llunalW-sRakbBGtkCqCFsP57hvoWRPG1T55yGTqoU9J8VPkbK_5ExDEXFiTDjtIdZKq9oPIYeSIw6uAac_ecTwxM="
-        },
-        {
-          "title": "unihockeyfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmD9qs26viVKjog6okiwZ3ohl18eVGsuQv_wB8h1xND5EtkOIkqpJ_IC_dIyRvFbEi5MpmsQx5oDQ6apE7cOfvdpEu8--jAmz0XCwVtQA-fN_Snzx9nODJ3lzyjTNuHcMQNSdzMDeO8z-DQBVQJuo1JVQKvPqL8bxHJn44"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:43:57.523Z"
     },
     {
       "id": "social-2c8e46cd1823",
@@ -5202,26 +5144,6 @@
       "scrapedAt": "2026-06-15T13:11:16.675Z"
     },
     {
-      "id": "social-0378cb707a68",
-      "title": "Konzert BERISKA, Kiewer Bandura Ensemble",
-      "category": "music",
-      "description": "Concert by the Kiewer Bandura Ensemble.",
-      "date": "2026-11-10",
-      "time": "19:30",
-      "price": "not specified",
-      "municipality": "Untervaz",
-      "locationName": "Evangelisch-Reformierte Kirchgemeinde Untervaz",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.ref-untervaz.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:10:03.769Z"
-    },
-    {
       "id": "social-6e492e3d7b1d",
       "title": "Konzert für Frieden und Freiheit - L'VIV NATIONAL PHILHARMONIC ORCHESTRA OF UKRAINE",
       "category": "music",
@@ -6454,26 +6376,6 @@
         }
       ],
       "scrapedAt": "2026-07-01T10:42:11.569Z"
-    },
-    {
-      "id": "social-de8bb87dd1f2",
-      "title": "Sprachtreff GR",
-      "category": "family",
-      "description": "Sprachtreff GR.",
-      "date": "2026-11-10",
-      "time": "14:00 - 15:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
       "id": "social-0744360a9328",
