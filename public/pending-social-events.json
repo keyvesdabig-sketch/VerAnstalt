@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T14:50:53.412Z",
+  "lastUpdated": "2026-11-12T15:42:12.057Z",
   "events": [
     {
       "id": "social-34f5669a7235",
@@ -210,27 +210,6 @@
       "citations": [],
       "scrapedAt": "2026-05-24T14:12:07.899Z",
       "legacyId": "social-1779631927899-Trimmis-10"
-    },
-    {
-      "id": "social-6c8cdc8be22a",
-      "title": "Dorfkaffi",
-      "category": "family",
-      "description": "Community coffee gathering organized by Verein elterntamins.",
-      "date": "2026-11-11",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Gemeindezentrum",
-      "lat": 46.85,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:13:49.600Z",
-      "legacyId": "social-1779632029600-Tamins-24"
     },
     {
       "id": "social-1466eb804f02",
@@ -844,47 +823,6 @@
         }
       ],
       "scrapedAt": "2026-05-28T10:47:27.641Z"
-    },
-    {
-      "id": "social-95d3da9b6c54",
-      "title": "Sgarella-Auftakt",
-      "category": "family",
-      "description": "Sternmarsch Richtung Dorfplatz mit Platzkonzert und Festwirtschaft.",
-      "date": "2026-11-11",
-      "time": "17:30 - 24:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Dorfplatz",
-      "lat": 46.82,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/veranstaltung/sgarella-auftakt-6979679",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVhi1AcNWekwe9CL7Grb3SfS0fMQKfewYIMqqAMd1MI0SMz5_wJEZV4fqAKi9gY9b44BoWLzqyrk6EO-jVIacQLqbePcngnvu2VXt_vrkSFzEqufqz21PFc6t53gelPE5wqj1mxe2VU5PpA2XYenpeu1EfYUkPZNeRrmF4DqwbbrPFg-1H35FVRzFWf4muZDZhK6o2U2Dhv29XbAwz44RguzH7nf5d"
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbmbKIroC5cWbZuUSh4-Oz9z5P-kw2BzGRonYEx98ZF_w-2bxq_MK-cO8IjkHF1yz00KpOZiGNbtkq6BzoY6OSfvQ-5Io1zNNsjccwggq3AFGAtRK0bURhpJBha7x-ltlvWiTvkQFGtu6eC-Yz"
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJnmuSLgbJEN0tYfVLo16aM3OFcl1O9fV5L2-KCRRnejMeLxV5LH9Av0pX0I5XGwLoQ4zPp9qs4ekkwtEU1gdpuOVjvkZ_GwFC47xSenqu9kQT74sIy3ewfILHsW-Lahd6b603aThKh39RaCCq"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB3Zkd77_vGnozXWm8XsqryHihZSPDuGh64r1metEwHeyoS3riWz88sNcvR7S-qh-VyhQRieE359Ff9UHcg5V0A2ArO9bqeSYIoYfuZhldCLBT9hyGNz0a3gGY7q9_ny8JkIWMWRigqezo4IJPW0LOw6d6BG7bD-kkw0tuqwMk1g4h0dI8iq_Se5W4v1fEjvc0r6LsBdwrB8m6j_SCYHYgygUX5rktUnT3Z23FcxIda7CysA=="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsNzqigITMQR9BwUHdcuZVtB245kxmzjyYeMorTsRf98fFm5cXnT-U4tXT6Aov7cqkfsceC62IB72sblUkBmzyHJAsDxFI3baKL8A1m2URnHd_Pp8NqveZrFsqFzSqRZw2FgwTFkD7CfUkcNLP"
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:48:01.148Z"
     },
     {
       "id": "social-777ee0963326",
@@ -7307,26 +7245,6 @@
       "scrapedAt": "2026-07-05T09:40:25.446Z"
     },
     {
-      "id": "social-c5983dd166b8",
-      "title": "Dorfkaffi Tamins",
-      "category": "family",
-      "description": "Ein gemütliches Treffen für die Dorfgemeinschaft.",
-      "date": "2026-11-11",
-      "time": "...",
-      "price": "...",
-      "municipality": "Tamins",
-      "locationName": "Gemeindezentrum Tamins",
-      "lat": 46.83,
-      "lng": 9.46,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/de/leben-freizeit/veranstaltungen/aktuell",
-      "ticketUrl": null,
-      "sourceUrl": "https://...",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-06T11:28:51.276Z"
-    },
-    {
       "id": "social-9063a55e30e3",
       "title": "Kerzenziehen Tamins",
       "category": "family",
@@ -7712,47 +7630,6 @@
       "scrapedAt": "2026-07-10T10:16:52.722Z"
     },
     {
-      "id": "social-0c566ac7be54",
-      "title": "Zauberlaterne Thusis",
-      "category": "family",
-      "description": "Filmklub für Kinder von 6 bis 12 Jahren. Jede Saison zeigen wir 9 spannende und abwechslungsreiche Filme aus der Geschichte des Kinos.",
-      "date": "2026-11-11",
-      "time": "14:45 - 16:15",
-      "price": "CHF 40.– (Saisonabo), CHF 30.– (zweites Kind), kostenfrei (weitere Kinder)",
-      "municipality": "Thusis",
-      "locationName": "Kino Theater Raetia",
-      "lat": 46.6906,
-      "lng": 9.4239,
-      "image": "",
-      "organizerUrl": "www.zauberlaterne.org",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJoc1lvrjaXIkEXwNF8vjKsYYVzSt4YlCxnC6EjFcXp7t2xhfieAukDoUMjpnZaOVzo4brEtRJBBik1NQ3Epm6h4QSLGpt41TBm-ftbBpKhGPfKExpLji31Kqw8gPzSyvcTy04acieJvEZpKNNpQ=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoHPCJyN_TU6pe1r_3TajdP8xJ2pd_9xcekHsYSXMoJ_WuoiSt0IGQqSHMQZO9lSnL39z5pg1Cu33MgzMdfdpQL7FEVb9seV1HwlGUoaC6x8nA571YwmZMJxNTZTfKWGpCoGxMTuZlkgCBocxIYfaJrNkwEMVEYOPXbGuU7KbdE0TefARXAB7xyb5BMhFxVWbyEPsxLQ=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmJ4vI8p00EAQ3BbBDaxYEeiviF23etJtsER5sV_UPPrwW1WCtZMmxM_tOaMEF9AYEjFGNv7lh_uaXSgbO7X-1y5jJlohd7gUyEcqKIha7r7qoLuzLwcmPalR6Mx1LGC1yghrpcdfqDH8XBWCITvXeAIlg"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG2xdiQw1obYkgGaY9c3hIGWdO2qJ-UHXF2zVDGAo0Oyuh--FoG-vhFfwnVcXl6Sk1Kn3Fo8ykjXHp28Qr_Z9rS_wgJ-v7dOt7LsPylJOnIFtKYtEyq7bOyC_REJHo7kbQ8mhHKFDk7mL_eYj5S32m-cv5lLB7I7ozgY6s_MY8gUgX9m3eMzQtiFr7Fh2rhG4o5g=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrVfxye_ti36f66wRvoOOqntTOPUqOaB6DpWuivmIMh2xCkFp8R4JjW_27gB4uVhPrnMMQnN4N2AixNQ12dZqp7K7SR4Hl_qICuxoqtftBax0Ipa-XcsVjIq_jWC986zkoOx67rOE2Pj96A2b8BqE25qXLPsnFT5DHh1L6bMqYADvni1_nqYDHrOIcow7z"
-        }
-      ],
-      "scrapedAt": "2026-07-10T10:26:44.151Z"
-    },
-    {
       "id": "social-dcb698dca49d",
       "title": "Zauberlaterne Thusis",
       "category": "family",
@@ -8077,47 +7954,6 @@
       "scrapedAt": "2026-07-11T08:49:13.334Z"
     },
     {
-      "id": "social-63ab1a2c913d",
-      "title": "Zauberlaterne Thusis (Filmklub für Kinder)",
-      "category": "family",
-      "description": "Filmklub für Kinder von 6 bis 12 Jahren. Zeigt 9 spannende und abwechslungsreiche Filme aus der Geschichte des Kinos.",
-      "date": "2026-11-11",
-      "time": "14:45",
-      "price": "CHF 40.– Saisonabo",
-      "municipality": "Thusis",
-      "locationName": "Kino Theater Raetia, Obere Stallstrasse 14, 7430 Thusis",
-      "lat": 46.7112,
-      "lng": 9.4077,
-      "image": "",
-      "organizerUrl": "https://www.zauberlaterne.org/",
-      "ticketUrl": "https://www.zauberlaterne.org/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs5oq2UB-HHytSroYfXJSM5xgbdfSz08BabKzGnRyQw7_ZiIhq7aMFUNWoNGpA_TCndBSeCx3aObzqMnTI7RSmAs3-fP7IvkiUmjL8kVNAjSWzikgEbLV7tq3tY4Uv76w="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY6N9tCNEjOi6LfBE6jNIR2gzLJhWVgKiZJyZpR8wnlFsG_w85T0P6ZfhRfvw9vr0YxbxHAeWLlRSwPtX7FWzRZ7-dC4bltWqqxbxPxSpC6njH8sZWNoLpFlzhrqqWbl2sF-vZmYDDUSL7jpezvU11NlSaiJPWK5jIxhiJFJGZfRBsrvG8KKPOl0ungtwm"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFrh-f2Plp0et0hSb5JCSfwB7aJT_c0vvMtTyZ2e1nQa7I1yIzc6AeAGFA71OzD2qy93xdO3bwEq1VoZ7s3BB8sO_lZE8O9u6_vGkKm-nZIP-kzgf0E1iGoI2_2oNhlztB3c9zJ0cnlCmZadHa5Cp-qcY="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa60g3qcYHg2ZHNVrWInqy5dk52g5Rq8jXd-GAxv2R8B2buQf2PRjqFYa8_JCwZzkhCv5Cg4vSMUnjdeGaUlDxfkTG4f9LgelNUJa5BEBUZh33MteJiYNGtUGBx6c3n4xp3sW2aek3DKMGskRtw2nxhkwz3RjZ56XS3M37pGezuub5WhMa7pUz2jBASmwSO_sg7EN9ug=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjPE3Yd_Fmpf9N5grl-hdRlUKz4TyOywSqfPGpDo0oy4B7IVRFcV9KE8cc7d2TedH87nsICP1w2UtVZ8lwscilAGgeFcPe6T3AhngyMosPNfg-zFeZx2TSmt8808S8YCFu1K68yN6ew-BOFGngFlbyFObO"
-        }
-      ],
-      "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
       "id": "social-324e8d6e2e56",
       "title": "Roger Stein: Alles vor dem Aber…ist egal",
       "category": "stage",
@@ -8422,26 +8258,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-14T09:10:09.874Z"
-    },
-    {
-      "id": "social-6f295349cbef",
-      "title": "Die Zauberlaterne",
-      "category": "family",
-      "description": "Filmklub für Kinder von 6 bis 12 Jahren mit spannenden und abwechslungsreichen Filmen.",
-      "date": "2026-11-11",
-      "time": "14:45 - open end",
-      "price": "CHF 40.00 (Saison)",
-      "municipality": "Thusis",
-      "locationName": "Kino Theater Raetia, Obere Stallstrasse 14",
-      "lat": 46.69,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.zauberlaterne.org/de/klubs/thusis/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-14T09:11:07.196Z"
     },
     {
       "id": "social-83896520bc49",
@@ -8805,26 +8621,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-17T09:06:06.388Z"
-    },
-    {
-      "id": "social-666d810cee24",
-      "title": "Dorfkaffi Tamins (November)",
-      "category": "family",
-      "description": "Gemütliches Beisammensein im Gemeindezentrum, organisiert vom Verein elterntamins.",
-      "date": "2026-11-11",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Tamins",
-      "locationName": "Gemeindezentrum",
-      "lat": 46.83,
-      "lng": 9.42,
-      "image": "",
-      "organizerUrl": "https://www.tamins.ch/aktuelles/anlaesse",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:09:48.154Z"
     },
     {
       "id": "social-214d97d42562",
