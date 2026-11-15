@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T13:53:40.862Z",
+  "lastUpdated": "2026-11-15T14:27:08.309Z",
   "events": [
     {
       "id": "social-34f5669a7235",
@@ -84,27 +84,6 @@
       ],
       "scrapedAt": "2026-05-24T14:10:44.547Z",
       "legacyId": "social-1779631844547-DomatEms-13"
-    },
-    {
-      "id": "social-9e84a5a37f65",
-      "title": "Mini Volleyballturnier",
-      "category": "sport",
-      "description": "Mini Volleyballturnier, organisiert von den Turnvereinen Trimmis.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Trimmis",
-      "lat": 46.892,
-      "lng": 9.547,
-      "image": "",
-      "organizerUrl": "https://www.tnvt.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:12:07.899Z",
-      "legacyId": "social-1779631927899-Trimmis-5"
     },
     {
       "id": "social-fa11f5a116b2",
@@ -581,26 +560,6 @@
       "scrapedAt": "2026-05-27T10:53:05.727Z"
     },
     {
-      "id": "social-fb27f3da3819",
-      "title": "Platzkonzert Gugga",
-      "category": "music",
-      "description": "Platzkonzert der Guggamusik Fänza Fäzer.",
-      "date": "2026-11-14",
-      "time": "11:11 - 12:00",
-      "price": "Eintritt frei",
-      "municipality": "Untervaz",
-      "locationName": "vor der Mehrzweckhalle Quader",
-      "lat": 46.91,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:55:21.295Z"
-    },
-    {
       "id": "social-0b91e9df6d1e",
       "title": "TTO mit DJ Susanne",
       "category": "music",
@@ -864,47 +823,6 @@
         }
       ],
       "scrapedAt": "2026-05-28T10:48:01.148Z"
-    },
-    {
-      "id": "social-11fd0a4f8ee2",
-      "title": "Kinderdisco",
-      "category": "family",
-      "description": "Kinderdisco für die 3. bis 6. Klasse.",
-      "date": "2026-11-14",
-      "time": "unknown",
-      "price": "unknown",
-      "municipality": "Tamins",
-      "locationName": "Tamins",
-      "lat": 46.85,
-      "lng": 9.4,
-      "image": "",
-      "organizerUrl": "https://www.vereinelterntamins.ch/events/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhwARCI227ud5wFTjMvJ9AO7SewPWyBh6dGuDiEXYJ0-pWXAVR2E-YDfQt4pBuIKIFLiEdZ5BVWEme-5Cl6atqaTaQIgOWhQYj3XbsvI7KiN6BpD9YSV_hFHXbE1NWJWaT"
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErGmiZM4P9DtSyD42oISvXssqv81if1Hyqr7_J3S6rKpOMscyR05A29UCd5PXcdOoO0fOUPKOaNxFzUoNzseSf3OA-BFJffzZWjrScpfAb5CdN8DvLksWitr_rNlFF7_yzSAmUd4_FP0k="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRvI93Uked_Ry2QouX3lGZL5Zozz5s7hY8ipQ7Ni3pVK8JmO5kkPtozzTC01gzrPoAk_W0WDFq_yjXI_sQYQVZ1qPGoYsyHNKWmzWD82_mX15xZahJPPHam0Gc_YgVq2Arww898KLGffm-8hkLG5y1_9gBGNX8jNsn_R67ApYZJ8n3jXeacg7FM8_-57Gn3YIjpqSjnDYnGZQvOkN8fn8="
-        },
-        {
-          "title": "elterntamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb448nwCQs-Dy-kK-PoQY2JAeAgLDqwjHbQi0-3AGi1sKEGbB6RdsrfnCmM2uMH8Iz2zsrAjweg61PbdAeJUvjDSM3voyWT4pSv8a2P4YVv11rfd0IdQ=="
-        },
-        {
-          "title": "tamins.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa2VGMveZy6MjDS08htThFp6H5wtEw3LKhEIty7IGgxEWVgUyg06Czn8xoJZX4xwH6fcr-4_5H2H1O11kU0wnqnDVbRGSGqJdfSswjnaKtf0HdWOz3FQUIfGzDXM9xXJcTZkxYIduQflw="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:51:30.982Z"
     },
     {
       "id": "social-861701990e17",
@@ -1497,26 +1415,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:44:57.714Z"
-    },
-    {
-      "id": "social-749743b4affd",
-      "title": "24. Guggaball im Hännastall",
-      "category": "music",
-      "description": "24. Guggaball im Hännastall, organisiert von der Guggamusik Fänza Fäzer.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Untervaz",
-      "locationName": "Mehrzweckhalle Quader",
-      "lat": 46.9,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.untervaz.ch/anlaesseaktuelles",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-31T09:48:14.343Z"
     },
     {
       "id": "social-f74507e0f464",
@@ -2746,47 +2644,6 @@
       "scrapedAt": "2026-06-06T09:30:13.512Z"
     },
     {
-      "id": "social-7cff0cf105ea",
-      "title": "Johann von Tscharner - Kammerspiel (Ausstellung)",
-      "category": "stage",
-      "description": "Ausstellung \"Kammerspiel\" von Johann von Tscharner.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Sala Capauliana",
-      "lat": 46.8522,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://www.capauliana.ch/ausstellungen-events",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
-    },
-    {
       "id": "social-0a6fedcad8f5",
       "title": "Beethoven und Yusupov. Sinfoniekonzert",
       "category": "music",
@@ -2990,26 +2847,6 @@
         }
       ],
       "scrapedAt": "2026-06-07T09:58:33.981Z"
-    },
-    {
-      "id": "social-68342274fb4c",
-      "title": "Minivolleyball Turnier",
-      "category": "sport",
-      "description": "Minivolleyball Turnier.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Mehrzweckhalle Trimmis",
-      "lat": 46.8942,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-07T10:00:28.044Z"
     },
     {
       "id": "social-ff2ca589ac95",
@@ -3825,26 +3662,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-12T11:01:34.672Z"
-    },
-    {
-      "id": "social-6ccb5387baa5",
-      "title": "Inspirationstag Kirche Kunterbunt",
-      "category": "family",
-      "description": "Ein Inspirationstag für Familien und Kinder im Rahmen der Kirche Kunterbunt.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.945,
-      "lng": 9.544,
-      "image": "",
-      "organizerUrl": "https://www.switzerland.com/de/reiseziele/landquart/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-12T11:07:00.791Z"
     },
     {
       "id": "social-475dd0cccc3b",
@@ -7101,26 +6918,6 @@
       "scrapedAt": "2026-07-06T11:28:51.276Z"
     },
     {
-      "id": "social-40d2b11cb2d1",
-      "title": "Langer Samstag",
-      "category": "stage",
-      "description": "Chur wird zum grossen Kulturfestival mit über 20 Häusern, 250 Veranstaltungen und 100 Kurzprogrammen.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.8509,
-      "lng": 9.5312,
-      "image": "",
-      "organizerUrl": "https://www.churtourismus.ch/de/top-events/langer-samstag",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-07T10:20:18.774Z"
-    },
-    {
       "id": "social-1f295d692459",
       "title": "Adventsverkauf Frauenverein Trimmis",
       "category": "markets",
@@ -7894,26 +7691,6 @@
       "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
-      "id": "social-5dd9f93b40d7",
-      "title": "Haussmann Studiolo",
-      "category": "stage",
-      "description": "Exhibition \"Haussmann Studiolo\".",
-      "date": "2026-11-14",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-13T10:19:21.387Z"
-    },
-    {
       "id": "social-88524af9051c",
       "title": "Can Çakmur, Piano",
       "category": "music",
@@ -8116,47 +7893,6 @@
       "scrapedAt": "2026-07-15T09:07:46.458Z"
     },
     {
-      "id": "social-a42cfb49b76e",
-      "title": "Minivolleyballturnier",
-      "category": "sport",
-      "description": "Minivolleyball tournament by Turnerinnenverein.",
-      "date": "2026-11-14",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "MZH/DTH (Mehrzweckhalle/Doppelturnhalle)",
-      "lat": 46.88,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.tnvt.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBvFYLpDeIZ4T4KiOf6us0zPM1kxJPXpoPVyv8gpBmqakHS2Fq7E1ZcD8cts8Lchb5UBD6Vkr1R4K_ebMqif9FGWH62jy4B3eVoUT8XN0UZDw1uLgWVZwzZ7h03Tt5eJEd"
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg4kytuR41ALhB6RP5H8h1M9MIQCOvMOkmSyHxaTFUBxwYh5QMX-sT38yej4aC33MRMAXOhLMYmacEvzChLlxepLm7AGHTsMTJPDXFbhzyIx88w6eNw-yLYFXQyqdF"
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVJDM4xOqMjeGd3temZpB1dAdtpIwhxBUui6B92YpPu0mDFtWpMiwAswf4wlP6XvE5e6nL4eBp8hhBFzbV98SPyeN9qznpuo6cJP509oxEC8OTADxcIjVdCM82GYm949uKmsQCGHDK2flifeJIn2IMFvDTOwLtGlwmzSZoTfTB4KfJN561h7Qc0xxKxdu3PxUJhHS9D83-tXXF9rHEjTFi1Vs-JnuM_PnJ7H_UF4jPxgwMjak8SirAUywJJSg-jbxMQM_JsSGVDv3dlF3bUOW4zw=="
-        },
-        {
-          "title": "kath-kirchetrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOzffIQAKdWjTKtgtCyjXrFMzxfSyTke1ZL12zQNOFDvMz27qt7E_HnHTO4EIuS3mqqtIi3tIu5CMHHMMYQzxm-txvDHnZxqzEJfd5Hl0e5Ll3m-Raqr7I1CiJKLMC6A3VHBwDmGzOZVj0D-qk8ew2BuLQM30HPUvoIURlHt1RTmYV5cYmaLcjNkMPx38dYkQ="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnQOOcyUNcV3EGSLHSrZazuHy0nzPwNP4B0C3up0jHKStygfu4CYbQp-Ve_d6SnOnCpIeC8gH89HvIL8CMzAJXKxX6_6TcQC8mC2BtVm5Yi_u3ua8phQZkZVBh"
-        }
-      ],
-      "scrapedAt": "2026-07-15T09:09:19.919Z"
-    },
-    {
       "id": "social-3ebf0f461850",
       "title": "Markt in Tschiertschen",
       "category": "markets",
@@ -8175,26 +7911,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-15T09:12:14.059Z"
-    },
-    {
-      "id": "social-ff76b70af10c",
-      "title": "Haussmann Studiolo Vernissage",
-      "category": "stage",
-      "description": "Vernissage der Ausstellung 'Haussmann Studiolo' im Bündner Kunstmuseum.",
-      "date": "2026-11-14",
-      "time": "18:00 - Unbekannt",
-      "price": "Freier Eintritt",
-      "municipality": "Chur",
-      "locationName": "Bündner Kunstmuseum, Chur",
-      "lat": 46.85218,
-      "lng": 9.53177,
-      "image": "",
-      "organizerUrl": "https://www.buendnerkunstverein.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-16T09:10:04.188Z"
     },
     {
       "id": "social-8467cff53f11",
