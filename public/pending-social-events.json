@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T14:27:08.309Z",
+  "lastUpdated": "2026-11-16T16:39:38.145Z",
   "events": [
     {
       "id": "social-34f5669a7235",
@@ -7607,47 +7607,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
-      "id": "social-ee261866fd21",
-      "title": "Ninas Lieder",
-      "category": "music",
-      "description": "Liederabend.",
-      "date": "2026-11-15",
-      "time": "17:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.69916,
-      "lng": 9.43635,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PDWQovwedE4m3_PLyDKxy-ENJrEGBOH3MNzuA_0VCLqw4dX3SHKCKyqFfYbYnuBsyQnT4rWPIOArey9erlcYHPX4xvGkI-W1vSfdbIVzOVqukfoVgEQHggHXQV4nzBp_-2sHQNr0DiQ8yxfBVw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWSYC-VzQ-zI5uUWzgpvRiucH183eC_kXjvWnFN2r7Yu8hiII61RiMaWvgZTyDWbaHBKhqa2JVEtJyqt5gU2zzZl1XC82FLfSQGS5Adp0kZOic9b4OwvZjxy17QMgPnIIdUhhloT4Z9AZfNSoGosAdy8S"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY2au0Kffqj2J6FpdmUS4Mdk1ff45sN9kf6NuLnSCDhgbauH3a8blLlSJbk4gsgut5pqTRKZKsszKQkcClUiqoKppDFtKXPNW_NdqOQ7zRJUbqOCqSoKtTjf0WYSDW-YWgwA8LlOzz8bN"
-        },
-        {
-          "title": "story-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsYIFB4je8rSxHnTuh84jdI6CR2WAem4XeuEmZf0Q6tQD9JG730YuAy8g6cTmrlPUu2MfzvpFlmLyga9CZhLJUkGv90yCsUun3Fnqeae1Uh1Q"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3gl1HxRgyeOGHcJWGNzysh5QdaWkHPSwUuuhfumy16bNRhUMJDx-8STm1WhT6575pzkVQcGioIhksGtdw_UIKD4kJri4k4piU54Jsi4QezYF7V-OPTxuWWC_1BrNV5ZH8FDtgeVCSICwH_nf7j7JIqV1nzxkIG7avkRuuwlFsyo1ICkyloK6nQHav5RD4dcgfZPYUw=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
       "id": "social-95d397f317e1",
