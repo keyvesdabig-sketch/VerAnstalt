@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T16:05:03.046Z",
+  "lastUpdated": "2026-11-19T16:12:30.730Z",
   "events": [
     {
       "id": "social-34f5669a7235",
@@ -866,26 +866,6 @@
       "scrapedAt": "2026-05-28T10:51:30.982Z"
     },
     {
-      "id": "social-0b985b8f6103",
-      "title": "Team-Event der Malanser Turnvereine",
-      "category": "sport",
-      "description": "Team-Event der Malanser Turnvereine.",
-      "date": "2026-11-18",
-      "time": "19:00 - 22:00",
-      "price": "Keine Angabe",
-      "municipality": "Malans",
-      "locationName": "Turnhalle Eschergut, blaue Halle",
-      "lat": 46.9822,
-      "lng": 9.5706,
-      "image": "",
-      "organizerUrl": "https://www.maennerriegen-malans.ch/wp-content/uploads/2026/01/Jahresprogramm-MR_2026.pdf",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-28T10:55:16.620Z"
-    },
-    {
       "id": "social-eab6fc95f4f9",
       "title": "It's Christmas Time (Christoph Walter Orchestra & Nelly Patty)",
       "category": "music",
@@ -1333,47 +1313,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-30T09:14:03.282Z"
-    },
-    {
-      "id": "social-c08f0a3b1806",
-      "title": "Kids Nachmittag mit Disco",
-      "category": "family",
-      "description": "Mit Baby Dance für unsere kleinen Gäste! Zieh dein Lieblingsoutfit an und feiere mit uns einen bunten, fröhlichen Nachmittag! Die Kinderdisco wird durch Laura und Riccarda angeleitet. Anschliessend gibt es ein Kids Z'Vieri Buffet mit frischen Früchten, Kuchen und Süssigkeiten.",
-      "date": "2026-11-18",
-      "time": "15:00 - 16:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "STORY Thusis, Unterer Rosenbühl 5",
-      "lat": 46.6879,
-      "lng": 9.4137,
-      "image": "",
-      "organizerUrl": "https://story-thusis.ch/events/kids-nachmittag-mit-disco",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6ly-Wqj65UC_Vr7cNA65eEfGlsDGVQX_QsnmmIgDmgMXXjM_ERLF48Gf3u_AYE53g677eZMpOTAldWQ25OVT7Q2O50TvVbcgvzODNvFhnzpspFc5fL_QAosy68CKxWngfFSXnwOXhgrj3c3p4bg1J2YQlkP2nnhAiSapz"
-        },
-        {
-          "title": "thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJdEGVsxCDatZLd-wS6UbfaoMF4BmaeM1jGD00lH8SAI0HhtZG5AUsbA-DHfJ8Wll6nw3pOPFr_A8O1JakDnnWd17c8DfS2IVa_RCVA=="
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8eJBDETle06KNVqMKPyK1lUWR4FIFZFilO7l7PQg9Aepi2WMnkN9qkPt04utGkLv98fv_NDRNizwUpPs2YlpX7d9isKhTwPW6YGbReIS5gsSduKIXpwNpUKpdGZ9F5k4ctnjDD25J2bKfCF93PFt1Nzi7CQ5tlG-B0PJjEjVpXjvbjVv3Dlwcj3Fl7yuL"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgD-tLNo0_MiYHvazKr4L3Llc1WwbRq1acSVo-D2DQ8hP6yTxLYx1GFdVzVEnLv9wBH37A5FnmcsgIPpRWmFAsXum9ndcf99568xajTC9aYHIiHZti5xZwWWsnfIzrzc-3d8mB59hi4BvPneSNQ1a4Sc4OhIOmxuf_lS7HFB7QI8lcUOswCnYNIcdzBCOOg0XCjN05S48="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtRjMhsPjXpc6SW4ihLyuchq1NNCdtlr0CFsAhNjkikOge2IIrYN2cjQjcbLrV1XmvjMk4Qy55CPDuOcrpsqIKnpFIXZ819izunh-y25VomZCy-GxSIFOPPfIFl6pRGV_FXjo4Tt19s4f_2r7_-BTpLa6P3cttrvyp8K34ZI5wW8PBHlAVEY0oc-praSw1bLXFBA-N_c4m48PbwCvVcr7QRGo8"
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:21:14.949Z"
     },
     {
       "id": "social-2376ee2d24cd",
@@ -2351,43 +2290,6 @@
         }
       ],
       "scrapedAt": "2026-06-04T10:46:28.558Z"
-    },
-    {
-      "id": "social-2c8e46cd1823",
-      "title": "Kraft der Stille - Sitzen im Schweigen",
-      "category": "stage",
-      "description": "Innerlich zur Ruhe kommen und sich auf das Wesentliche besinnen.",
-      "date": "2026-11-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Felsberg",
-      "locationName": "Evang.-ref. Kirche Felsberg",
-      "lat": 46.83,
-      "lng": 9.51,
-      "image": "",
-      "organizerUrl": "https://www.evang-felsberg.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb0_YscLah0kwWM5qdK_88Kq7tg6V_vnGzyvF2I3ctgJ2hWiUR_fb3Gd8JIK0U2vIOFTLYcX1mUOfpCkgGK1EDFMEgrkyD5KBec7EY58zRCQR1VQU_WKwjrFXY-A=="
-        },
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ79zutsYGX4VbCb9u4V0mawe8nhW6RJleZvy5xleJCAkJEzjnHOL4k-hTqoRFiHaU87m2K8qjlqtgSWlwbYGp9sdJP4Jq87AwsXHax0rhVCOX8JITusdNcP-c67qfhOSAkJMK"
-        },
-        {
-          "title": "projunior-gr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOtl5Shw2S469VlSJDqMDRd38mZKLty9AV3JRORXXoLhSgT4_wGO_V-WeX-8llunalW-sRakbBGtkCqCFsP57hvoWRPG1T55yGTqoU9J8VPkbK_5ExDEXFiTDjtIdZKq9oPIYeSIw6uAac_ecTwxM="
-        },
-        {
-          "title": "unihockeyfelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmD9qs26viVKjog6okiwZ3ohl18eVGsuQv_wB8h1xND5EtkOIkqpJ_IC_dIyRvFbEi5MpmsQx5oDQ6apE7cOfvdpEu8--jAmz0XCwVtQA-fN_Snzx9nODJ3lzyjTNuHcMQNSdzMDeO8z-DQBVQJuo1JVQKvPqL8bxHJn44"
-        }
-      ],
-      "scrapedAt": "2026-06-05T10:43:57.523Z"
     },
     {
       "id": "social-69c4952a7371",
@@ -4755,26 +4657,6 @@
       "scrapedAt": "2026-06-16T12:15:52.955Z"
     },
     {
-      "id": "social-e34ec0836acc",
-      "title": "Story Kinderdisco",
-      "category": "family",
-      "description": "Eine Kinderdisco in der Story Thusis mit Musik und Spass für die Kleinsten.",
-      "date": "2026-11-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Thusis",
-      "lat": 46.6901,
-      "lng": 9.4005,
-      "image": "",
-      "organizerUrl": "https://www.myswitzerland.com/de-ch/erlebnisse/events/story-kinderdisco/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-16T12:17:18.204Z"
-    },
-    {
       "id": "social-c5e4d700197e",
       "title": "Spiel- und Jassnachmittag",
       "category": "family",
@@ -5264,26 +5146,6 @@
       "scrapedAt": "2026-06-19T11:25:42.188Z"
     },
     {
-      "id": "social-fd3c025cb4be",
-      "title": "Geschenke-Bazar und kleiner Flohmarkt des Frauenarbeitskreises",
-      "category": "markets",
-      "description": "Bazar für Geschenke und kleiner Flohmarkt, organisiert vom Frauenarbeitskreis.",
-      "date": "2026-11-18",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
       "id": "social-188b01003c36",
       "title": "Adventsmarkt",
       "category": "markets",
@@ -5501,26 +5363,6 @@
       "scrapedAt": "2026-06-21T10:35:48.017Z"
     },
     {
-      "id": "social-97deac7c1fb8",
-      "title": "'Story' Kinderdisco",
-      "category": "family",
-      "description": "Kinderdisco mit Baby Dance, angeleitet von Laura und Riccarda. Anschliessend Kids Z'Vieri Buffet mit frischen Früchten, Kuchen und Süssigkeiten.",
-      "date": "2026-11-18",
-      "time": "15:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Story Thusis, Unterer Rosenbühl 5",
-      "lat": 46.6917,
-      "lng": 9.4312,
-      "image": "",
-      "organizerUrl": "https://story-thusis.ch/de/events-detail",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:36:39.231Z"
-    },
-    {
       "id": "social-1fbf072ba5c3",
       "title": "Kirchenkonzert Musikgesellschaft Trimmis",
       "category": "music",
@@ -5723,47 +5565,6 @@
         }
       ],
       "scrapedAt": "2026-06-23T10:30:13.183Z"
-    },
-    {
-      "id": "social-7e18ae65cb10",
-      "title": "Bastel- und Spielnachmittag für Kinder",
-      "category": "family",
-      "description": "Bastel- und Spielnachmittag für Kinder in der Gemeindebibliothek.",
-      "date": "2026-11-18",
-      "time": "14:00 - 15:15",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Gemeindebibliothek Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.kultur-ems.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFlvcswzQ1ypz8jw5B_etye3GVsyWi_O22RRbGQ6rerdGHVFRghr85SWH_4VgWoIuHrgsaZcTurFOdMW4IacKy-4wNa6EIuBBP4zhwZx9-kSE2Ho0="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtqJn55vffK2ajlmdaSlZ1CQImTSoblXTUM5cPK7s6VXm1AmtVyDxwo3EJ10fn_U-I2p8SF8w2C-rqMnUUQQIFS00RoygBi_eTVHQUfy286OimtSDwfoGowJAKWhtXv9MfAele2g=="
-        },
-        {
-          "title": "kulturems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPFTVY-vbnURLqte6ve7ep8pqco6NEvjjJxCoP3uMOfun3mrkp73fEUZhajubrmb4BujiZBHxTQFmQp0hebStCMxYVinUNP4Q2WYkLsFqTNA=="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Xl_1Wd5pzqVYJNBOPYfPI9QvrWEk9TB-TleuhMySD6IOjv0wd2L0H5ahi5tDsn9XCet1ZCvSiGFG4O5cKx8Hv779F0ZR1QsoibNLORljimVxQ8QT24H5r9sl0Pfs09HOet1lmWW43kP0SPBa5gYg17BT4Z5YdieuS7VSZXBHVBtAsY0Ct0Tg"
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrgi523L8dEEWE7mIz7AF4IKQ7uH1IezW_d5XDcwjhWCVUHT8T8JUfBnSHpxzEY8qgC8WxqI2ILJQuK-WXECnwf1jmxkuLtj1ECBwPdCgRk8eleb5a79PJX-joGiSQwBhoiUM="
-        }
-      ],
-      "scrapedAt": "2026-06-23T10:31:06.695Z"
     },
     {
       "id": "social-62be0348a8ca",
@@ -8043,35 +7844,6 @@
         }
       ],
       "scrapedAt": "2026-07-18T08:44:43.472Z"
-    },
-    {
-      "id": "social-b0f59b9e6981",
-      "title": "Pilates",
-      "category": "sport",
-      "description": "Pilates is an exceptionally gentle and effective workout that quickly develops your awareness of your own body. It creates a new sense of your body and a naturally upright posture.",
-      "date": "2026-11-18",
-      "time": "19:00 - 20:00",
-      "price": "CHF 28",
-      "municipality": "Tamins",
-      "locationName": "Pilates Surselva, Aligstrasse 1",
-      "lat": 46.84,
-      "lng": 9.424,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [
-        {
-          "title": "eventsmapped.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo5zJMAi6p0pCVWgKBPyNTrT1kw7dLwzAzSu0QPttERYp1Gcg6On-rSVXwqdO36HyEVGrpEYrH57WD3unbkmXjfiZIXBiveg3nfRIwmj3GDC9scv7pRIfVySMLfremTuDRpj3ZxiWc_g=="
-        },
-        {
-          "title": "freizeitmonster.de",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAG5s3QQqiHOc_g5HAgQp21LRraLFkJwAluUk_z-2rWdFz9OsGtytycRS8fdMX3X9IN0mNOG-cgeC7TgqBM7I-vQ8f-oPBIMqxSgxhs00bylhc-USb1rk7_lI53FOPgZV885SXHYMzsedEWNuoT1B8uNZWFuWYVozvrxNlz7PXwLtSohI9moLy806vFwkVCjUhAqw5pg=="
-        }
-      ],
-      "scrapedAt": "2026-11-17T16:35:58.167Z"
     }
   ]
 }
