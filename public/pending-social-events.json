@@ -1,48 +1,6 @@
 {
-  "lastUpdated": "2026-11-20T15:51:57.255Z",
+  "lastUpdated": "2026-11-21T15:01:09.916Z",
   "events": [
-    {
-      "id": "social-34f5669a7235",
-      "title": "Emser Weihnachtsmarkt",
-      "category": "markets",
-      "description": "Traditioneller Weihnachtsmarkt mit rund 60 Ausstellern, kulinarischen Leckerbissen, individuellen Weihnachtsgeschenken, Handwerksarbeiten, Samichlaus, Kinderkarussell und musikalischer Unterhaltung.",
-      "date": "2026-11-20",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Dorfplatz und Gassen",
-      "lat": 46.818,
-      "lng": 9.485,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfcNRkqvEjq77pFumCCJESGF5PcDVuNRF10QGZ8cybLQGz-qy95wQpKEqaj0qmcpZQroXTZviALjFHupkkriGEfj-TJKDfU9qfZWZxL3oJuTiwHX4RTzIDk2Zof_Psb8txNo1Y36y4Zuv17Mo="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFDkmOidsIsGPBT--UbBnAHgKev_7qaVnLFcQXiLg89us6LCnU56bJur4H1ZaraQVoj8iOJSGzzp7OnpE7DcIHKYIbFOfhET5fZs2XqbVG2ldna1ez3Qib3OHNqL-_mujTf3TSJv6mWWEa52OMS8p3BCW95BWV0kED2XazYu1tyHdR3kIyuXA="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD77AG9z2qu_CXcdDeaJ83SW0b3T9B8NRTQ--vlmo1LIg00u5ifs4ullktOr0imwdZ8JAxCxUUhw4DT0X6u5hmi8yzKjpEtyAwGDsVrTlZkR62tQJyKBrGZnu8GCCN9frCLa4Y8kQQMw9B6w4="
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVgpvFCDAY8mzM6siB51CVNPNO57tN7lVtYzd-JCpovnFO8utBdvJIvc0tIJVP7ZhSgOQYcpnAsBPYYbN-_CvQAGB3KhomWwVPOD_o5zqlD6DvxWPXVZIqP9hjNdiTE9-S4QTiBrRJxUn5Jm-gXXX9FuApvxHMWF2Dr6kXNVpx59Ul-XXKn8_4NmrevVnAkM0_Ppj9QP7LM865orRhf4gXMkR7IQ=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELEJaOLnwPXC4awDIpmZfT9Jo1hmiXJNTprvGoG6N65msaEANcV75NOd-CVqsAgnnRUz0dSUTdsc8Iqi2UpiFoC-Fik7Tm1W6BPLblrqDeI3mPKP5w2CtduC6rK75X4TPWfzpNogOR9RJEHaV0XBJIF060YTgGjIV0IUcNm3w_jnHO8G9eOzljKWM0rqo2WdvlhPTHDxlt-yzbegixUdnMefIS2th61qVL2TngnFDECHNU"
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:10:44.547Z",
-      "legacyId": "social-1779631844547-DomatEms-12"
-    },
     {
       "id": "social-46de4fafa09e",
       "title": "Adventskonzert Chor viril Domat",
@@ -275,40 +233,6 @@
       "legacyId": "social-1779632029600-Tamins-28"
     },
     {
-      "id": "social-b85a6ffc16b3",
-      "title": "internes Hallenturnier FC Landquart",
-      "category": "sport",
-      "description": "Internes Hallenfussballturnier des FC Landquart.",
-      "date": "2026-11-20",
-      "time": "",
-      "price": "Nicht spezifiziert",
-      "municipality": "Landquart",
-      "locationName": "Nicht spezifiziert (Landquart)",
-      "lat": 46.968,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://fc-landquart.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5yhCDTN6cNwoaKFfhC15rTSb3FrITzukvtuS6HHgNjNLXxK8S8Dyi_7MpOhxF5nREUaVG-dSjxtd8ffBC6SP_y8__SaVyuLzgHi6QFFUpdew7zT-PO21nWfyUBmxwNj9kIbl3w_VeiZmFQlT0ag=="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYlzsvko8CWiFpTvVcnMMjt08FC3D8WkjuqS8xbN_x2Jb65jzz65UL42C-7V25nvJU_L7Sdw5sByFQUtVgRXdlymeq7k0BD6_A8evuNM-VxF9YfGV23w-HF20aSsPSEWE5xMPXPSqvZ4l3_GIHhXgQsQ=="
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHeBthQLbsOtLQVVXqc-hYyYxIGUMHDgZEvRByJ24rggbxfyoE46eRKmX-nrED5yepbiquH9_UTDSOYzwPp6JTuu0KbEbVNjU4U2FRoBSPm-yz0pZhU3Fb1yWxPE="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:18:06.939Z",
-      "legacyId": "social-1779632286939-Landquart-14"
-    },
-    {
       "id": "social-585bf6d38a66",
       "title": "internes Hallenturnier FC Landquart",
       "category": "sport",
@@ -377,26 +301,6 @@
       "legacyId": "social-1779632286939-Landquart-16"
     },
     {
-      "id": "social-901bc9516653",
-      "title": "Beethoven und Yusupov",
-      "category": "music",
-      "description": "Sinfoniekonzert der Kammerphilharmonie Graubünden.",
-      "date": "2026-11-20",
-      "time": "19:00 - 21:00",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8493,
-      "lng": 9.5314,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/konzerte/",
-      "ticketUrl": "https://kammerphilharmonie.ch/konzerte/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
       "id": "social-09ba6c213c56",
       "title": "Floh- und Gänggalimarkt Chur",
       "category": "markets",
@@ -435,47 +339,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
-      "id": "social-945e026dc172",
-      "title": "Weihnachtsmarkt",
-      "category": "markets",
-      "description": "Der Dorfkern bietet die perfekte Kulisse für eine gemütliche Weihnachtsstimmung. Traditioneller Weihnachtsmarkt mit rund 60 Ausstellern, kulinarischen Spezialitäten, Geschenken und Handwerksarbeiten. Mit Samichlaus, Kinderkarussell und musikalischer Unterhaltung.",
-      "date": "2026-11-20",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Dorfplatz Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.48,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzcgL1i6RSVodMTSN3UP8u5afN5eCMrHYK_WL7CF0muyCjfyDX18vXKF0jDD0XVcRZGGMcbhr3iPIFcU5shefexGkCwjAmlpIyrslZup0-UWrGGgUNRZVcjJESAyhdofUrs6A_OugPFLlHUSm"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuemUGfDrMIS2sujgBAfZRZ_MoY2z71Ligvv9i0bPyC6HGbRziQuWvIyX3rNZdqK0HcEOpQkM-S9u44na94wsPmwHIEhFtO68W8iz5rZ4-qmumePifjN0PiAkQUMc9DcUOPKBgoa_hUW3Fi1uLRz48wo3k_wqf1SC_8Gb9Op3cibeUJ6EVsh_59AdZHuVd0mpV-m1vrSrUWvGMwSYu3nVpJT5VZULk"
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb9cSn18nhbMpobqlEGmUCjYm-TP4l6Q6J0EshTTOLZt4jYqPSnVQYADg6Pzp7Q2APaZ_yR223TA67Gxi40FJEAKSA6AtDVBVeT7Tz6MkbHhI05CwZizvBiTiXrPBBpW95Jt3ruCG-IC8Rcajg"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwm6OKRdacyyjt9cEOoMnpYlNQ-G9S0fpVra4-V66gzKY4njDsuHlmZ-YoQHLP7tl5s0jZxoBAtC5_WCN_5m5WMdqp2hREli3ampbgwtCkhkrf3toIuOZw-nM6-bUFQAu4mvDBMBhG3JbEukkjRuYYfAmrx2JIMNxggl_S-OZeA4tNT6o9x2rM0v8SVdpZSc0c4VAgGBaoWmg4YuZB9r3BFrI0V0E="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9AtVZWbjEbQO1IZhF6v5fauxF0CmEnuTPpWcY53N6HbfhzhL06zyWxuTa_EPV9uemOgrK4GcXGflm8IcZTnwA0iAzrbXRYta6KKc0x16Ugv3DvcsVQyP9nHzL3GbzFMhiX88eoePwHD2DrcExbfsItYS9gq-hwBJtsnd0vii6_buCjhDOXblGM9fUGyFI7hbW8iYHutaawF8f7I88P1uOpi23NEKo3FkCDZAV0dfwM2YCYw=="
-        }
-      ],
-      "scrapedAt": "2026-05-27T10:53:05.727Z"
     },
     {
       "id": "social-d38e6672c889",
@@ -558,26 +421,6 @@
         }
       ],
       "scrapedAt": "2026-05-27T10:53:05.727Z"
-    },
-    {
-      "id": "social-0b91e9df6d1e",
-      "title": "TTO mit DJ Susanne",
-      "category": "music",
-      "description": "Linedance-Abend mit DJ Susanne veranstaltet von Capricorn Line Dancer Zizers.",
-      "date": "2026-11-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Zizers",
-      "locationName": "Zizers",
-      "lat": 46.91,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.capricorn-linedancer.ch/aktuell/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-27T10:56:12.874Z"
     },
     {
       "id": "social-1bb95afe22d2",
@@ -700,47 +543,6 @@
         }
       ],
       "scrapedAt": "2026-05-27T11:00:54.781Z"
-    },
-    {
-      "id": "social-05268cbf7173",
-      "title": "Beethoven und Yusupov (Sinfoniekonzert)",
-      "category": "music",
-      "description": "Sinfoniekonzert mit Werken von Beethoven und Yusupov in der Martinskirche Chur.",
-      "date": "2026-11-20",
-      "time": "19:00 - 21:00",
-      "price": "siehe Webseite",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8492,
-      "lng": 9.5323,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/kommende-veranstaltungen/",
-      "ticketUrl": "https://kammerphilharmonie.ch/tickets/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCIY2UbRJc_n3SDlwnIgrJWA0RPk9dden1c--Tsb87yLJL6E56TWm9rjURqSucjvjZ1k5KMawT9ciu5dor-QhL-kyJcl3hhDjgvIJSVMwgoiLeZwvUGa94yaaGxFC_iGYs4EJQS6qnTnMUOAwn"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM-NEyKH3LcstFsp2yoorpYEnjM0GLdUCgWB-_GwlvYWDZvVyhMVKfPvbVi8ulXeK0gsEPq87v6V-qeiMUeOPsDf7H9-9nu4Uhd5g7fK14bFYnwWGkowNnw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTjH_9eZ0rWrXJnj6yhhhuLOe1vtGQ3hIaRKpMXTLgkOCEhZdKs0e-JGtjNNCzoNOZdKoAH2h16Rixj3lUatmRQllbR1fNd_ZfK3LH4y_FUMbVd-eeRkqFAr5zQR_S7GYd6dU_Q1GkPNuFynxlEqPslyXm_vPacch48xoxTmqR2NumnfdINZNrsFfchNfm6TfNtiSc"
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATP10ktvFRKr91tHCMyc-6qXPJQMmRUVFtzD1VYjeN9McuOymaiPP8OeP4pANqnJkhXe9EII0GTCbkmuPEwa64JlYcRj8nOsJhGNySw=="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdo3EoVlPfvWtynLXKrKSEuM3Z-7uVOFHo0mVzBhXZtuuCmWdTEPw0zdIo_aSJtcbZPz8vBhFVkCCaHwxKA09laKIz8K8o4t-hfYIswzLu_e5rvbaJyMHXMWODbusMxV2H4CA0JuGMiQ=="
-        }
-      ],
-      "scrapedAt": "2026-05-28T10:47:27.641Z"
     },
     {
       "id": "social-da78f02874e2",
@@ -1254,47 +1056,6 @@
       "scrapedAt": "2026-05-30T09:12:05.233Z"
     },
     {
-      "id": "social-4c724a853263",
-      "title": "Weihnachtsmarkt Domat/Ems",
-      "category": "markets",
-      "description": "Traditioneller Weihnachtsmarkt mit Ausstellern, kulinarischen Leckerbissen, Handwerksarbeiten, Samichlaus, Kinderkarussell, musikalischer Unterhaltung. Findet vom 20. bis 21. November 2026 statt.",
-      "date": "2026-11-20",
-      "time": "10:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Casa Falveng",
-      "lat": 46.82,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://www.domat-ems.ch/behoerden/verwaltung/fachstellen/gemeindekanzlei/jahresanlaesse/weihnachtsmarkt",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEsACueElsJwJCo18yXNbdLoe06GCTBwmY8J_aTYDd8iPbkCY60cPqprhD-4GljYsQEono7WhueVIElKhKNEEtUTHKz2Rn0tZDgEU1S1iLI5RuXZ5YR6ZFhriImmVenMYB4Cdscg=="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi9kIHpLWBnGnqMkjNmdsFls-k4EO0TR_oLSX0KECxfcZspy1WNUYP2vmJr_RH3nNBF11sAO2l0vNG2d0gzQUTlEZrIZRnMFAnUbafWFTt07h2tPwcBmXfpgVdF7yU83wpnLX0EvHp7n68RCTN27ij0ihsAWU0iB-g78O59M4vzL2UYV85JCnO4JI3PH4="
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsK6gCwg5GIn9r7qxWFdwZSkATmUiWObCIxA7XCN0EjxucSJwaHgxHgtM2Wwg_G2XexnT4G9Nt9JLWgZuX84aau7QI_iFlz62GO-Fa2aZyHJXVK5mQHdmryg3hSrXi8Xph9kyBgzGYrnZLVr-9"
-        },
-        {
-          "title": "casa-falveng.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3j4A_FJySVpJ-uYIfal_-KfmTDocj_6IMsCD2rxB_gflw7Wj007xENiXfDVEMfGFxTTjSvV51iUmY7RETUJ3uNjzbd8U0cyweeTPzfovLB3OKLo0dIo-Jpd3AESq4ilRIX3xFQ3o="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxRB3FbfDxsKiNkpFJmpkvSdJ_In5HB51qkTX3ImLov0ZWHDqbVczdapjUS6nEsjSzdtUHEHsa64r43s_II9_ALx9uYf291kDd6FU3cJGopebPuAdiksMcd8971T6jCS_c38SmFPFkRqy8NZe_7VaPIpCUeFL1hVbNNYfXIneXgeUslTR3-5zFRv_71BvSk7VqwKtEtp2LiB0hiBK47wrzvdYfgSmrMqn6u7dGPg8utL9a1A=="
-        }
-      ],
-      "scrapedAt": "2026-05-30T09:12:56.539Z"
-    },
-    {
       "id": "social-e64cfeced104",
       "title": "Maurice Storrer concert",
       "category": "music",
@@ -1435,47 +1196,6 @@
         }
       ],
       "scrapedAt": "2026-05-31T09:55:09.510Z"
-    },
-    {
-      "id": "social-a78a9ddcc928",
-      "title": "Stubete",
-      "category": "music",
-      "description": "Eine traditionelle Schweizer Volksmusik-Veranstaltung (Stubete).",
-      "date": "2026-11-20",
-      "time": "20:00 - 23:55",
-      "price": "nicht spezifiziert",
-      "municipality": "Felsberg",
-      "locationName": "Restaurant Weiss-Kreuz, Felsberg",
-      "lat": 46.8489,
-      "lng": 9.477572,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "felsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdNCobpxqHG1rgVJIa36g79nd41RpYgLJ0lSkkBy_s08cCq_hRiy_1dvPHP7_ORNfp-rbsCV8x8ttdZ1pWL-oI3kbW2UprEDsX-LFI5diZKaFJcWXLxwUcuehxeql67PTMIPds"
-        },
-        {
-          "title": "felsberg-vereint.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMfpDw73F-MvjhlTB2Ri7eY7oeyNFLcYlBCBPEr2MWnjVKdB7MzyxfvKJTRjvieLLrcbFUscX-AZXycRHHoz4ZyJA-CwnDECRh7dpfzPXApK4sy6Kg0QHkV5dfiI6Dgw=="
-        },
-        {
-          "title": "kirchefelsberg.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTSiMq3aWhadHQuUJh6EW0WXA4CZVnUUBUsSeKo8C_h1z3iSiEo5gFC7X4wA_6ycvE3Gcub9lC80F4BzuzxFLBbseE8aKTcaYyYbE5WVJ9wa6gDWu-"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqIBNw8fipeRZLPAg2-OvyDihmxhtZc0nVWriudFVP-0vmWBg6eaEf7C2uBOu9wN3t77yKMUfd7DX2k9cPvxLS1XN1-_WcszxLQlrogsgGKoFlE_at4F22vhQkES4tB3c8e7i_a0R2E2lYoq_54f8="
-        },
-        {
-          "title": "rtr.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm4mrVPs-WmqglsFwsGltBaNQSLlbvhgBHa3ha8GSgkjLioHYPWeI39DDYTHHeBl-od4Dyjy3Gh-dJmYVnsCBWHOgk-YoWKEE_7kjFlqMQ_chKM2aLx3eHSIyViRPDtDVn0keG1rwGryQTP4CRZ5N6vq3MBWrU-Marog9lELL7BAQXahGmqBdej_APRjA7aFIOsbOjTThDNH4-5oOuR34p6kzGJMTiNFIzeBdnfe_eGrbqxxM5dFnn2Dffxh5HQktZkSchjhKms3yqU1Qn7GTNDOasfsMueVtm"
-        }
-      ],
-      "scrapedAt": "2026-06-01T12:33:34.997Z"
     },
     {
       "id": "social-15f1168ad873",
@@ -1629,47 +1349,6 @@
       "lng": 9.54,
       "image": "",
       "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
-    },
-    {
-      "id": "social-94485e8bfb12",
-      "title": "Wochenmarkt Trimmis",
-      "category": "markets",
-      "description": "Wochenmarkt mit saisonalen Produkten einheimischer Bauernbetriebe inkl. Sayser Gmüas und Treffpunkt im Kaffeeklatsch.",
-      "date": "2026-11-20",
-      "time": "09:00 - 11:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.trimmis.ch/de/aktuelles/infos-led-dorftafel",
       "ticketUrl": null,
       "sourceUrl": "",
       "sourcePlatform": "Other",
@@ -2546,47 +2225,6 @@
       "scrapedAt": "2026-06-06T09:30:13.512Z"
     },
     {
-      "id": "social-0a6fedcad8f5",
-      "title": "Beethoven und Yusupov. Sinfoniekonzert",
-      "category": "music",
-      "description": "Sinfoniekonzert mit Werken von Beethoven und Yusupov.",
-      "date": "2026-11-20",
-      "time": "19:00 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8488,
-      "lng": 9.5319,
-      "image": "",
-      "organizerUrl": "https://www.kammerphilharmonie.ch/konzerte/",
-      "ticketUrl": "https://www.kammerphilharmonie.ch/konzerte/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ4tamPMA0JI4baszSC2bIQ2cn8WL10C4YYWNFCESQmmg02x8ws9KOt1R_zuoSz272IPAbL4LR2LMxMv0QAU1yk_zERmRnazJ0pJnXilZm_OSDo__Y4ZqKnbIBj7gm3LCM_6_CbntIEg=="
-        },
-        {
-          "title": "gr2026.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE2-GUoFFXL0PIPBvsxKAQPfD4By_RX6bkZmEIZnl9wiX3cOM83RUs0r1djfs844LtgkhNYozIG4MW9t0dpKTuOoamauZvs-NLzZrrQ=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp6pBqFAF5mSuG3l2L7ajGZejSydNl9LlyaG-L9kkFV4FEIY_KGwayiq395dHP76ioOdXd9cVQ-277B8fDXumlVhbzuW-UnhCFaMm3v8IGPuusDmTcsahWWQ3e8-514mEqLX0mKMMnqua5_Zy8"
-        },
-        {
-          "title": "churer-wochenmarkt.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMVcVDX7GHFUFlLu0fWVKzRzmaseZbsVsvKLNbtp2yQqSvigitqlgkTswQp3l5AdXl3s15mJ1vU19HEThNRtaNyzSXhk4Hj_0AJy9doXHemM05eutFdns8OA=="
-        },
-        {
-          "title": "chur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhLs_3WLFTMkp-4KD_Xb4tjol307hkja6HEC_QLeZ1AKiPN60i0KTNCU538PySRbAmfmiKlpEp1tBkdoiSMv0epICJhEAloBvhedqYWrZsZ5JUaMWhe4k"
-        }
-      ],
-      "scrapedAt": "2026-06-07T09:57:55.113Z"
-    },
-    {
       "id": "social-bead058834e5",
       "title": "Jahresausstellung der Bündner Künstlerinnen und Künstler",
       "category": "stage",
@@ -3134,47 +2772,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-10T10:59:15.254Z"
-    },
-    {
-      "id": "social-c0939002ad20",
-      "title": "Plausch-Jassen TV Landquart",
-      "category": "family",
-      "description": "Ein gemütlicher Jass-Plausch des Turnvereins Landquart.",
-      "date": "2026-11-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Ried",
-      "lat": 46.9455,
-      "lng": 9.5434,
-      "image": "",
-      "organizerUrl": "https://tvlandquart.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "fclandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHbKWLxX79cWl_-ATpXG8_MfpyfbSOfJ_7tpQ9TDg1qH_ol_JCulek9NMx-eQItz5I1vE5l1j0n8BLfOpLbOwMG7FrOlDqHIqaSwgy1FUnQTFF4mp_umKEmpsb7P8VeDENwMviLfdvd90="
-        },
-        {
-          "title": "seetickets.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlecyadShSdV8aTpz4BC6ug31vPv1OAiwmSqi4_bUAgsv7Xqt0wKCAV3tcq9CmXYYiOAqwbU3cA0n8ucEjpFjhE6e8_6XYXEqGKk10-bKRaV2EZz12VtYcZIj5LOdLMdaatydCvvZ0H6tBLk6DiXr9ZSonxetFck7odOUBdRDGVHqWOo0M"
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfLLJ1zDSa35_qcUNo3g0sYVLEk3wiQv4fTJPx63u5WkGJIsDIlOJugmfuPJGKbcTWSkWd8iLyEqvwfHiMpvjrgU_ArSLKc5RpjetdsnrreLybo0HNhknH3M6X0QMeZH-gHRHVOzqjSnffbw=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz9HlrxGDU81A7VJl51LzeyVYr7G0t2PYSIgnTEeQ8u-LHLorK2ULYNSdUdBE1w1D0r-BHcFwM0Uhc01OVnSAyOY3s8dytnu_MvqLf9xZtUUy8iRX3_z6bd7BgQKVwFIou3c8CMicg0MvRQ39-qSvzJdEtv3da0TSZ4Uyl-Ow1qhCu1BdvupFIvZ_N7MRQHSacbjeMuP5-jx-GRil4yc8="
-        },
-        {
-          "title": "ticketcorner.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvCzc7NJ0ikF3UiVLbva9cxTTKl1Es7apKab6ZiAytLtU3P91-lsi0Hji_lbTWrtQZ759GVfZL39MKE8a13aO3fncLTB4jSoaoBfmO__S-mZpnsYzvfiS-CSRCiSl2MOxyzsQrMajSNmGu_Oi_pe_fbuqNdnABhWWZ4X0MESHZo0QbgeX5v3sQUJa86c8uMh31PdumVzS3N8gZSst2P0Vv9UYuiiDna_E="
-        }
-      ],
-      "scrapedAt": "2026-06-10T11:02:25.271Z"
     },
     {
       "id": "social-507cab505b07",
@@ -4127,26 +3724,6 @@
       "scrapedAt": "2026-06-13T10:03:08.667Z"
     },
     {
-      "id": "social-0c7b8fa28e5a",
-      "title": "Claudio Zuccolini - Der Vorsorger",
-      "category": "stage",
-      "description": "Claudio Zuccolini mit humorvoller und tiefgründiger Stand-Up-Comedy über das Älterwerden, voller Selbstironie und alltäglicher Sorgen.",
-      "date": "2026-11-20",
-      "time": "20:00 - ",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Forum Landquart",
-      "lat": 46.95,
-      "lng": 9.55,
-      "image": "",
-      "organizerUrl": "https://www.ticketcorner.ch/event/claudio-zuccolini-der-vorsorger-forum-landquart-19597143/",
-      "ticketUrl": "https://www.ticketcorner.ch/event/claudio-zuccolini-der-vorsorger-forum-landquart-19597143/",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-13T10:03:54.991Z"
-    },
-    {
       "id": "social-4893f4855751",
       "title": "Merry Blissmas ist zurück",
       "category": "music",
@@ -4614,47 +4191,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-16T12:10:03.769Z"
-    },
-    {
-      "id": "social-2d15328b97bc",
-      "title": "FC Landquart internes Hallenturnier",
-      "category": "sport",
-      "description": "Internes Hallenturnier des FC Landquart.",
-      "date": "2026-11-20",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.95,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://www.fc-landquart.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5MH3-wzLG2HJDUgf2YjUIvqdvrGzBZbg6C1IJ5nCtDxnBAs_xCu6f85sJvFJa8FfZ28PR8XrT2rX6otNJK3Si6vaCMcle5tIbD11iQyOXKb5gTHtgD8b40K3dEohJDmbCB8khOPCN"
-        },
-        {
-          "title": "landquartkultur.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkF1Fgxy3BiZcW4r9FsgC-PnWJstiZJadBc7nddDrmYFU1oB2NETvu_kTmZ5NCjYI1ZIBuIG6oZ28gY5DQhDIqM5vojST94egoifsylTgHCwC6OTOEbJPdLBfDh0uB3pVGHw-zBTsW20EObCs="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcv-QOzyzi_DGwWUnn6lyuJE_Z56e6wKSbc6Rb-jeehrKlNj2u3JKVDphBpy66XmvG9VD1BJmBcxZeFkJK8RS9rBjX6T_bKD_58iyMkLAXx7UszktZ6kbLHswBOMlP4r1_yjD1iiLlNZWFwxh6hvsZDGOPIMRiow=="
-        },
-        {
-          "title": "landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF84Icd-pDmMCoZa3Cl-ptviAo-mrvar4GIfWTSQ7w8o2FEm-_-dmO3zLaQwBUppbSPENfE3zNbQHKNAAXbW5X7Jdp15tjzerorT2qM-tqG-XQbj3SP8LIwYjzQ4lX_knjXCR4CJ_3biUlLUJ0OpWHiZ1I="
-        },
-        {
-          "title": "hgvl.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9gpVxNdt6F8I-WhJToYY4l4dHGVyIdQLptqHdU-ACLmh-7qcYdx28hgRATemnP6u5UBm68iEtVrJzrg1JuAnKVvfw1DqLSgeJPlEsIRAXXTjIf2Ds5Y0="
-        }
-      ],
-      "scrapedAt": "2026-06-16T12:15:52.955Z"
     },
     {
       "id": "social-c5e4d700197e",
@@ -5183,26 +4719,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-20T10:08:46.431Z"
-    },
-    {
-      "id": "social-e502a3062d42",
-      "title": "Beethoven und Yusupov. Sinfoniekonzert.",
-      "category": "music",
-      "description": "Symphony concert.",
-      "date": "2026-11-20",
-      "time": "19:00 - 21:00",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Martinskirche Chur",
-      "lat": 46.8521,
-      "lng": 9.5317,
-      "image": "",
-      "organizerUrl": "https://kammerphilharmonie.ch/konzerte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-21T10:27:10.338Z"
     },
     {
       "id": "social-2323c5bf3146",
@@ -5989,26 +5505,6 @@
         }
       ],
       "scrapedAt": "2026-07-03T09:51:41.709Z"
-    },
-    {
-      "id": "social-37b5e1047da1",
-      "title": "Weihnachtsmarkt Casa Falveng",
-      "category": "markets",
-      "description": "Ein Weihnachtsmarkt im Seniorenzentrum Casa Falveng.",
-      "date": "2026-11-20",
-      "time": "10:00 - 17:00",
-      "price": "Unbekannt",
-      "municipality": "Domat/Ems",
-      "locationName": "Casa Falveng",
-      "lat": 46.83,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://www.guidle.com/de/domat-ems/weihnachtsmarkt",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Guidle",
-      "citations": [],
-      "scrapedAt": "2026-07-03T09:52:27.576Z"
     },
     {
       "id": "social-ed28eba90b0b",
@@ -7196,47 +6692,6 @@
         }
       ],
       "scrapedAt": "2026-07-11T08:53:35.370Z"
-    },
-    {
-      "id": "social-95d397f317e1",
-      "title": "Jubiläum Überraschungsfilm",
-      "category": "stage",
-      "description": "Jubiläums-Überraschungsfilm.",
-      "date": "2026-11-20",
-      "time": "14:00",
-      "price": "Keine Angabe",
-      "municipality": "Thusis",
-      "locationName": "Kino Rätia Thusis",
-      "lat": 46.69916,
-      "lng": 9.43635,
-      "image": "",
-      "organizerUrl": "https://kinoraetia.ch/programm/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8PDWQovwedE4m3_PLyDKxy-ENJrEGBOH3MNzuA_0VCLqw4dX3SHKCKyqFfYbYnuBsyQnT4rWPIOArey9erlcYHPX4xvGkI-W1vSfdbIVzOVqukfoVgEQHggHXQV4nzBp_-2sHQNr0DiQ8yxfBVw=="
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWSYC-VzQ-zI5uUWzgpvRiucH183eC_kXjvWnFN2r7Yu8hiII61RiMaWvgZTyDWbaHBKhqa2JVEtJyqt5gU2zzZl1XC82FLfSQGS5Adp0kZOic9b4OwvZjxy17QMgPnIIdUhhloT4Z9AZfNSoGosAdy8S"
-        },
-        {
-          "title": "viamala.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKY2au0Kffqj2J6FpdmUS4Mdk1ff45sN9kf6NuLnSCDhgbauH3a8blLlSJbk4gsgut5pqTRKZKsszKQkcClUiqoKppDFtKXPNW_NdqOQ7zRJUbqOCqSoKtTjf0WYSDW-YWgwA8LlOzz8bN"
-        },
-        {
-          "title": "story-thusis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvsYIFB4je8rSxHnTuh84jdI6CR2WAem4XeuEmZf0Q6tQD9JG730YuAy8g6cTmrlPUu2MfzvpFlmLyga9CZhLJUkGv90yCsUun3Fnqeae1Uh1Q"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA3gl1HxRgyeOGHcJWGNzysh5QdaWkHPSwUuuhfumy16bNRhUMJDx-8STm1WhT6575pzkVQcGioIhksGtdw_UIKD4kJri4k4piU54Jsi4QezYF7V-OPTxuWWC_1BrNV5ZH8FDtgeVCSICwH_nf7j7JIqV1nzxkIG7avkRuuwlFsyo1ICkyloK6nQHav5RD4dcgfZPYUw=="
-        }
-      ],
-      "scrapedAt": "2026-07-12T09:09:30.723Z"
     },
     {
       "id": "social-88524af9051c",
