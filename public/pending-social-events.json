@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T15:01:09.916Z",
+  "lastUpdated": "2026-11-22T14:59:21.172Z",
   "events": [
     {
       "id": "social-46de4fafa09e",
@@ -233,40 +233,6 @@
       "legacyId": "social-1779632029600-Tamins-28"
     },
     {
-      "id": "social-585bf6d38a66",
-      "title": "internes Hallenturnier FC Landquart",
-      "category": "sport",
-      "description": "Internes Hallenfussballturnier des FC Landquart.",
-      "date": "2026-11-21",
-      "time": "",
-      "price": "Nicht spezifiziert",
-      "municipality": "Landquart",
-      "locationName": "Nicht spezifiziert (Landquart)",
-      "lat": 46.968,
-      "lng": 9.563,
-      "image": "",
-      "organizerUrl": "https://fc-landquart.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5yhCDTN6cNwoaKFfhC15rTSb3FrITzukvtuS6HHgNjNLXxK8S8Dyi_7MpOhxF5nREUaVG-dSjxtd8ffBC6SP_y8__SaVyuLzgHi6QFFUpdew7zT-PO21nWfyUBmxwNj9kIbl3w_VeiZmFQlT0ag=="
-        },
-        {
-          "title": "wikipedia.org",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYlzsvko8CWiFpTvVcnMMjt08FC3D8WkjuqS8xbN_x2Jb65jzz65UL42C-7V25nvJU_L7Sdw5sByFQUtVgRXdlymeq7k0BD6_A8evuNM-VxF9YfGV23w-HF20aSsPSEWE5xMPXPSqvZ4l3_GIHhXgQsQ=="
-        },
-        {
-          "title": "maptons.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFHeBthQLbsOtLQVVXqc-hYyYxIGUMHDgZEvRByJ24rggbxfyoE46eRKmX-nrED5yepbiquH9_UTDSOYzwPp6JTuu0KbEbVNjU4U2FRoBSPm-yz0pZhU3Fb1yWxPE="
-        }
-      ],
-      "scrapedAt": "2026-05-24T14:18:06.939Z",
-      "legacyId": "social-1779632286939-Landquart-15"
-    },
-    {
       "id": "social-149f121b6aeb",
       "title": "Advent Volleyball Plauschturnier",
       "category": "sport",
@@ -339,47 +305,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:52:24.610Z"
-    },
-    {
-      "id": "social-d38e6672c889",
-      "title": "Weihnachtsmarkt",
-      "category": "markets",
-      "description": "Der Dorfkern bietet die perfekte Kulisse für eine gemütliche Weihnachtsstimmung. Traditioneller Weihnachtsmarkt mit rund 60 Ausstellern, kulinarischen Spezialitäten, Geschenken und Handwerksarbeiten. Mit Samichlaus, Kinderkarussell und musikalischer Unterhaltung.",
-      "date": "2026-11-21",
-      "time": "14:00 - 20:00",
-      "price": "Keine Angabe",
-      "municipality": "Domat/Ems",
-      "locationName": "Dorfplatz Domat/Ems",
-      "lat": 46.82,
-      "lng": 9.48,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzcgL1i6RSVodMTSN3UP8u5afN5eCMrHYK_WL7CF0muyCjfyDX18vXKF0jDD0XVcRZGGMcbhr3iPIFcU5shefexGkCwjAmlpIyrslZup0-UWrGGgUNRZVcjJESAyhdofUrs6A_OugPFLlHUSm"
-        },
-        {
-          "title": "localcities.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuemUGfDrMIS2sujgBAfZRZ_MoY2z71Ligvv9i0bPyC6HGbRziQuWvIyX3rNZdqK0HcEOpQkM-S9u44na94wsPmwHIEhFtO68W8iz5rZ4-qmumePifjN0PiAkQUMc9DcUOPKBgoa_hUW3Fi1uLRz48wo3k_wqf1SC_8Gb9Op3cibeUJ6EVsh_59AdZHuVd0mpV-m1vrSrUWvGMwSYu3nVpJT5VZULk"
-        },
-        {
-          "title": "domat-ems.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb9cSn18nhbMpobqlEGmUCjYm-TP4l6Q6J0EshTTOLZt4jYqPSnVQYADg6Pzp7Q2APaZ_yR223TA67Gxi40FJEAKSA6AtDVBVeT7Tz6MkbHhI05CwZizvBiTiXrPBBpW95Jt3ruCG-IC8Rcajg"
-        },
-        {
-          "title": "myswitzerland.com",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwm6OKRdacyyjt9cEOoMnpYlNQ-G9S0fpVra4-V66gzKY4njDsuHlmZ-YoQHLP7tl5s0jZxoBAtC5_WCN_5m5WMdqp2hREli3ampbgwtCkhkrf3toIuOZw-nM6-bUFQAu4mvDBMBhG3JbEukkjRuYYfAmrx2JIMNxggl_S-OZeA4tNT6o9x2rM0v8SVdpZSc0c4VAgGBaoWmg4YuZB9r3BFrI0V0E="
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9AtVZWbjEbQO1IZhF6v5fauxF0CmEnuTPpWcY53N6HbfhzhL06zyWxuTa_EPV9uemOgrK4GcXGflm8IcZTnwA0iAzrbXRYta6KKc0x16Ugv3DvcsVQyP9nHzL3GbzFMhiX88eoePwHD2DrcExbfsItYS9gq-hwBJtsnd0vii6_buCjhDOXblGM9fUGyFI7hbW8iYHutaawF8f7I88P1uOpi23NEKo3FkCDZAV0dfwM2YCYw=="
-        }
-      ],
-      "scrapedAt": "2026-05-27T10:53:05.727Z"
     },
     {
       "id": "social-8c6c04cac8b3",
@@ -1785,26 +1710,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:25:01.963Z"
-    },
-    {
-      "id": "social-97b7e4a0b314",
-      "title": "Kirchenkonzert",
-      "category": "music",
-      "description": "Kirchenkonzert der Musikgesellschaft Trimmis. Weitere Informationen zur Uhrzeit und zum Programm folgen.",
-      "date": "2026-11-21",
-      "time": "Uhrzeit noch offen",
-      "price": "Unbekannt",
-      "municipality": "Trimmis",
-      "locationName": "Katholische Kirche Trimmis",
-      "lat": 46.8833,
-      "lng": 9.5333,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-04T10:38:06.051Z"
     },
     {
       "id": "social-66af7562454a",
@@ -3744,47 +3649,6 @@
       "scrapedAt": "2026-06-14T10:21:06.359Z"
     },
     {
-      "id": "social-5d1a1816be2c",
-      "title": "Kirchenkonzert der Musikgesellschaft Trimmis",
-      "category": "music",
-      "description": "Nach langer Zeit wieder ein Konzert der Musikgesellschaft Trimmis in der katholischen Kirche. Weitere Infos folgen.",
-      "date": "2026-11-21",
-      "time": "11:00 - open end",
-      "price": "Unbekannt",
-      "municipality": "Trimmis",
-      "locationName": "Katholische Kirche Trimmis",
-      "lat": 46.89,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "https://mgtrimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEfR_9NQtEj_AOhyxtEteBbBG_7fooyuwNkrPVWcGmN4T_jsVxXZ5T1Mhyz68Bg-Pxc1mNxkUOKdQl-F1eptyM4V5gaAIEVm-WGWcfJF1tjLiS-6p4i-pbkkP-yw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIShmwcmUnlo1tRTlk8m_LqdCO7zCFz5tZTmm6mkZdrRpN_g03h1WfGcRMQegGBE8vp7AhkHgnYLoOf9cYwoRYnRJlvpIPbt1kFYuurNYledzEDyqbb0fNoilVySqUY75HDFLse-5tjVuIuGvcFA=="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmK_Tfp_nemqusx8XfpzDbWGYkIGrL8w_ZhmHxdyhcCQM69HYQP7KOHGbi8E-trOPa7eeIuUhMbFRTzzBjwhw6iOXbc_odXrcCVVOVifjgF4HgCKmQqrxqswCCuuGD60MuhpVW7AWyeUAVt3aWvM__7ES6EzBqINGbPtUmnGv2LseQaOE="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfEdsUslJEBug6ORZP-WnYNuqMrWZq4qbGRwyUUJcSbLfnDEjKUte7NQtVo1DZvRlgYoIbGzaOqJTJv7VYmeiHYEMV7Ci_ev9Cm99fh2IGJi-i8zVe--yUm04Uf64geBq0S0ROsw3mT4LJ43aSWEEEu6_yZ1PgFNxt4TOnbZEvRICUKNZvQZtL54QdXZQtalzBqRShvJP-iHuT0Q85yIAlZfOK_lNIkA=="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvT73-Uzf7dkfCPGzR3lGRsJdMK4kWFXuYyVstjsvQ08B2u6eMV-Dr5J8mdCjQd-opf0kyncs4Wo6znp3710XmmXnKkSBMntS2g8Exv4zAjMNNdOBafqPJPmg9"
-        }
-      ],
-      "scrapedAt": "2026-06-14T10:23:49.455Z"
-    },
-    {
       "id": "social-b29999233907",
       "title": "Offene Turnhalle",
       "category": "sport",
@@ -4641,26 +4505,6 @@
       "scrapedAt": "2026-06-19T11:25:42.188Z"
     },
     {
-      "id": "social-188b01003c36",
-      "title": "Adventsmarkt",
-      "category": "markets",
-      "description": "Ein Adventsmarkt in Chur.",
-      "date": "2026-11-21",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
-    },
-    {
       "id": "social-2f94b65b9b02",
       "title": "Weihnachtsbazar",
       "category": "markets",
@@ -4836,47 +4680,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-06-21T10:35:48.017Z"
-    },
-    {
-      "id": "social-1fbf072ba5c3",
-      "title": "Kirchenkonzert Musikgesellschaft Trimmis",
-      "category": "music",
-      "description": "Konzert der Musikgesellschaft Trimmis in der katholischen Kirche. Findet am 21. und 22. November statt.",
-      "date": "2026-11-21",
-      "time": "11:00 - 13:00",
-      "price": "Nicht angegeben",
-      "municipality": "Trimmis",
-      "locationName": "Katholische Kirche Trimmis",
-      "lat": 46.915,
-      "lng": 9.531,
-      "image": "",
-      "organizerUrl": "https://www.mgtrimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpIZQG--aA-q-kV5WjrgtkEohwlrqsWrjhj0Co05Fq9WF1F3wY6csPaguQ3IXjzYDT3NvIiaYaVLxT0ZvbEbyh113tF1xwUA3I5a2e-wOrYPhw6cdoUtCeDDyeBho="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX1hJOEcGjQ71DuNkFadNLN7SDvG-cFta0DIZQzRom3XwDKKX5C0UR4b9WEyHuboG9n4yFeKCKiHFX28VCwGbFP7vEmNF_hBpMeae_9oD0UHPHzYjj_JtRSP2nTbQQa_1NCJ0zJe__sXhbZC_PbL8="
-        },
-        {
-          "title": "juma-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUvb4bJwo4GP4VQvR8-WZ_WuM14oVA5wohM3oSHa4T-zFvYG5L1A40Oo4OvQaSqoax5L974wYm_dEGO15pjyb8yuCT-8CLN6-KxCXdf8ypPiVmqi8xamKeCS2IfEo="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKNtRvJI2GnOAk9X06-ET_FoYJr0-FeAr4EYhAfce7Kwf_rqEyCn9rHA4Tbi1D2_eTwibi02gGC21ZTaWsTJsjhLh-rPySpCUX83vdpWc0eFpEAwYoT9QBc2U35PzGwg=="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjG-We7PGoTndBTuR-rB0qLZUedCSqFD8TQHQIEJEkCkQaELoe-g4EUd0rt1571dHPQ1dveRr1dBlel4lb9r5aVqals3GHUB22RaBy5YSQBVY7hGpUv894Gf7x8Q9pRyaDQLtjtb0F4EXUTotsMTDsF1aV1LoHbw-JJq-i_EMkMTRElHek0qpWfisjUkY_Pp64q-uZGkzekvU0hGZCasKzqi-hLiwUxBYazB51Nq5dNTKAzUXcZbN1cuajqxWOCisJVLOkhuD358wB699jjjF_Eq0="
-        }
-      ],
-      "scrapedAt": "2026-06-22T12:47:53.213Z"
     },
     {
       "id": "social-89fe9e27d735",
@@ -5386,26 +5189,6 @@
       "scrapedAt": "2026-07-02T09:55:47.190Z"
     },
     {
-      "id": "social-c3783414e5a9",
-      "title": "Kirchenkonzert (Musikgesellschaft Trimmis)",
-      "category": "music",
-      "description": "Die Musikgesellschaft Trimmis spielt nach langer Zeit wieder ein Konzert in der katholischen Kirche.",
-      "date": "2026-11-21",
-      "time": "11:00 - Not specified",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Kath. Kirche Trimmis",
-      "lat": 46.896,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-trimmis.ch/auftritte",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-02T09:57:35.208Z"
-    },
-    {
       "id": "social-c43a84f5bfd5",
       "title": "Kirchenkonzert (Musikgesellschaft Trimmis)",
       "category": "music",
@@ -5907,43 +5690,6 @@
         }
       ],
       "scrapedAt": "2026-07-05T09:37:02.492Z"
-    },
-    {
-      "id": "social-3b935117cbaf",
-      "title": "Kirchenkonzert 2026",
-      "category": "music",
-      "description": "Die Musikgesellschaft Trimmis freut sich, nach langer Zeit wieder ein Konzert in der katholischen Kirche zu spielen. Weitere Infos folgen.",
-      "date": "2026-11-21",
-      "time": "TBD",
-      "price": "TBD",
-      "municipality": "Trimmis",
-      "locationName": "Katholische Kirche Trimmis",
-      "lat": 46.9038,
-      "lng": 9.5492,
-      "image": "",
-      "organizerUrl": "https://www.musikgesellschaft-trimmis.ch/uftritt/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzjPHHnVY9UC_ocRIYw52_DKpLUnCbQ1bkG7c39dcMKDORgjFWqIj8_tIvgEZjM9LQ-ogj3VHEOGZm_gzgXKBSNLDQYBD-M322tb5jSthzps-JYPNo3I0RJCJU"
-        },
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyus8RJMjURJIHXUsx7-Rb9vJn6sLXjQRXoPDB4mbqfrBNN0AUoTxaiLXceOj1Pb0G87KOJZnRX_DtoiM2ZmfJx71sPPgVhbOBrmOdajsRGgx7j00OFKKt2p0bKw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwICvKtgHQ3czHKhuLj_MHBnvPmVU7xAcVJDK1Zu_GdPKDqKd_-Xk-v31f0Q2UJJiLPJ87dnrGASMTzQcq_1NBzP3CHHlsY6VthT_Owv84UsMEjSN0gBcbb1nrVNUWg8muzX8kLUV63PbXbTYf6g=="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1-agFkSnKMdKzXJfLs6PXFH0Wpj7BXlvsLo9Gly199Ncp0Jb_0ggKHEksyMxXQz6x--OrkDRScEj-CvMF8m7tQQ6KFRcpJJEnjFMs46PPqO7SKPkTliX-exe33k0e2_vvFaFsUi7cshl5GiGx3GW0bzOukfD8Mp0wNsO-zM1qqxVZnFOM1Jsv5Y3uw3V7wN_57aAlIpMc9lDKCKktB-LtQ6R97uQBCwm7CBkPm15V6nklO-CDpabmmRR10ThApXSG-7VESss9LgZYRHduZGjAyQ=="
-        }
-      ],
-      "scrapedAt": "2026-07-05T09:40:25.446Z"
     },
     {
       "id": "social-a152f893faa3",
@@ -7076,26 +6822,6 @@
         }
       ],
       "scrapedAt": "2026-07-17T09:05:33.973Z"
-    },
-    {
-      "id": "social-4601be8bbed2",
-      "title": "Weihnachtsmarkt Domat/Ems",
-      "category": "markets",
-      "description": "Weihnachtsmarkt in der Casa Falveng.",
-      "date": "2026-11-21",
-      "time": "10:00 - 17:00",
-      "price": "Unbekannt",
-      "municipality": "Domat/Ems",
-      "locationName": "Casa Falveng",
-      "lat": 46.82,
-      "lng": 9.47,
-      "image": "",
-      "organizerUrl": "https://myfarm.ch/veranstaltungen/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-17T09:06:06.388Z"
     },
     {
       "id": "social-afcf6881f268",
