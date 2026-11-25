@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T18:29:36.482Z",
+  "lastUpdated": "2026-11-25T17:43:39.722Z",
   "events": [
     {
       "id": "social-46de4fafa09e",
@@ -42,27 +42,6 @@
       ],
       "scrapedAt": "2026-05-24T14:10:44.547Z",
       "legacyId": "social-1779631844547-DomatEms-13"
-    },
-    {
-      "id": "social-8cc93853e82c",
-      "title": "Kranzen und Gestecke",
-      "category": "family",
-      "description": "Workshop zum Kranzen und Gestecke gestalten, organisiert vom Gemeinnützigen Frauenverein Trimmis.",
-      "date": "2026-11-24",
-      "time": "09:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Begegnungsraum Quadera",
-      "lat": 46.892,
-      "lng": 9.547,
-      "image": "",
-      "organizerUrl": "http://www.frauenverein-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:12:07.899Z",
-      "legacyId": "social-1779631927899-Trimmis-7"
     },
     {
       "id": "social-7154e318e1d7",
@@ -4719,26 +4698,6 @@
         }
       ],
       "scrapedAt": "2026-07-01T10:42:11.569Z"
-    },
-    {
-      "id": "social-ae36429ff710",
-      "title": "Sprachtreff GR",
-      "category": "family",
-      "description": "Sprachtreff GR.",
-      "date": "2026-11-24",
-      "time": "14:00 - 15:30",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.96,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-01T10:48:24.275Z"
     },
     {
       "id": "social-8a8309335f8b",
