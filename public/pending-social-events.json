@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T17:43:39.722Z",
+  "lastUpdated": "2026-11-26T17:27:50.423Z",
   "events": [
     {
       "id": "social-46de4fafa09e",
@@ -344,47 +344,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-05-27T10:57:09.269Z"
-    },
-    {
-      "id": "social-33a2cfeaf9db",
-      "title": "The Original USA Gospel Singers & Band",
-      "category": "music",
-      "description": "Die Original USA Gospel Singers & Band faszinieren live mit authentischem Gospel, packendem Ruf-Antwort-Gesang und afroamerikanischen Klängen in einem mitreissenden Konzert.",
-      "date": "2026-11-25",
-      "time": "20:00",
-      "price": "Tickets",
-      "municipality": "Landquart",
-      "locationName": "Landquart",
-      "lat": 46.938,
-      "lng": 9.539,
-      "image": "",
-      "organizerUrl": "https://www.ticketcorner.ch",
-      "ticketUrl": "https://www.ticketcorner.ch",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "landi.swiss",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_rCXxZWqzI9bRk4-dIPieFh-Qzs2IfmReofDZQPnsmD9h4zq1-2kR0Lpi8ht0BqdZQQ6jUUW_ip1d0iLfAuIVV6ejCAUUD3p67FxpYQquTt5FtAPl8LnwGx1lNYKlCTUAQ0h_hqaFHZDemSdoVzQfhg4QrXpI7P_-GW7trOTOijDphT9bjnqV"
-        },
-        {
-          "title": "graubuenden.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiN_AEm9usawOoTiVponhSUGB4PtMY4JAlHFjJbh_yGgBjawBCnayoCAscrZsWnCPhw1XxlkYmzjSnpOGXOHzjFjlP3KMdE411lJw8fPhJtNgbxWwX-mBzZCMv9oYvFDaNNuUnZbt2GIorb4rtnyEMW1mXp0zbbDY40NQ-ERfbuAU="
-        },
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAd93NmDyuj_qvdUMsI2G7-Joc3IbQ8jIPjFzoQ2-o-maF4U19X-5A0-9Egt2cdl3yuMzWUw7Urso77_O0n_z5kSQLEBxbyyKagQ_q_8Bv-4FNPsZdZfnTQlEaCBV-daDtBupEo25VAyJ0iN0YBHUOrc8GyxwSQ1WtKnr3geVm"
-        },
-        {
-          "title": "tvlandquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB6pfZ5GUjD-swnyf50GpqDsRt9uNFzQu4fsWrvkIeXJsDxUwc5cnjj136T3R6GxYjYbNnMU3oDYjj3mA2O07hsTE-wB6a8NchCcu0bYyqag35T9N4o710Lz7pygSxlDB4G3xkIASQYDyHA_wgZ_zmtSia4CIiaoviscLzYZC6AxQQoLcQ"
-        },
-        {
-          "title": "forum-landquart.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH246ClbSRzda0jzTtnPOACXoJbF94NuILXRhq0We33K4Gyi216TNLU4wHoImqVQVI5oTVQZKFuqiztYCX7NhXR0V00-fCZt1uSPEfVkOgzwtRYHAebCj2XPngMpbEusGI3GxdHSBM="
-        }
-      ],
-      "scrapedAt": "2026-05-27T11:00:54.781Z"
     },
     {
       "id": "social-52f8a0307b24",
@@ -6197,26 +6156,6 @@
         }
       ],
       "scrapedAt": "2026-07-14T09:01:15.320Z"
-    },
-    {
-      "id": "social-c8f0cff5ca21",
-      "title": "Öffentliche Führung EMSORAMA",
-      "category": "family",
-      "description": "Besuchen Sie das erste Bündner Science Center 'EMSORAMA' in Domat/Ems. Erkunden Sie auf ca. 400 m2 über 50 faszinierende Phänomene und Experimente aus Technik und Naturwissenschaft.",
-      "date": "2026-11-25",
-      "time": "16:00 - 17:30",
-      "price": "0.00 CHF",
-      "municipality": "Domat/Ems",
-      "locationName": "Pforte EMS-Chemie",
-      "lat": 46.82,
-      "lng": 9.49,
-      "image": "",
-      "organizerUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013005600103?globalReset=1",
-      "ticketUrl": "https://shop.churtourismus.ch/CHUR/experience/detail/TDS00020013005600103?globalReset=1",
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-07-14T09:01:59.560Z"
     },
     {
       "id": "social-b1efc9f039a7",
