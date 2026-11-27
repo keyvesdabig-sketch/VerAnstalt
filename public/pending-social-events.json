@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T17:27:50.423Z",
+  "lastUpdated": "2026-11-27T17:06:04.524Z",
   "events": [
     {
       "id": "social-46de4fafa09e",
@@ -42,27 +42,6 @@
       ],
       "scrapedAt": "2026-05-24T14:10:44.547Z",
       "legacyId": "social-1779631844547-DomatEms-13"
-    },
-    {
-      "id": "social-7154e318e1d7",
-      "title": "Adventsverkauf",
-      "category": "markets",
-      "description": "Adventsverkauf auf dem Rathausplatz, organisiert vom Gemeinnützigen Frauenverein Trimmis.",
-      "date": "2026-11-26",
-      "time": "Ganztägig",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.892,
-      "lng": 9.547,
-      "image": "",
-      "organizerUrl": "http://www.frauenverein-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-05-24T14:12:07.899Z",
-      "legacyId": "social-1779631927899-Trimmis-8"
     },
     {
       "id": "social-10ef9796bd83",
@@ -1176,47 +1155,6 @@
         }
       ],
       "scrapedAt": "2026-06-02T11:14:08.037Z"
-    },
-    {
-      "id": "social-04e9f2062d4b",
-      "title": "Adventsverkauf Frauenverein",
-      "category": "markets",
-      "description": "Adventsverkauf des Gemeinnützigen Frauenvereins Trimmis.",
-      "date": "2026-11-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.9,
-      "lng": 9.54,
-      "image": "",
-      "organizerUrl": "http://www.frauenverein-trimmis.ch/",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI4u_nlo-BwQvQ001MDhmClHPIxDSdNt488eenPeyHT8l4ycxcWpU9TDSBtEZeD05EP12XIH5MYG3soo4-Pkn9b2-mZBsBZmtaZ5wb6WgIEpbglEulrHCP_DCSbMSXZNt61XTgITJk88iXJiJjL6whVpmwUTjp7S8wTdIbB5uFlbVLOT9phrdhkT_C_CeMaw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyU10xBQkjG7b58PbfSv8sUhGvg43aw9BUMDAIojXGtHu5aELy2uIE05zzGzUwxRl9Gb40Cudc9pfqEVFVQvtak99LxdPPByFF8s7vxuzhKmBaynjfXb-qSkuxqPb13wXwP9StV2YkidZciDO0CEIs1p6t0wf_9KdGhfASTkRNyrW9UursDXOfJSBbm3vb7w=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMGMdm5xUSMxuDs0jNbZeGj4UXnllWuvsxnN6Gfs_N8eq8e1DAacuJBBLnYkgg5VZnLdzztN2ExhlLK02KTHs2ie9qfHR0I-RVfNBO89ep3GP9LzzOu-rVmswv7JF0wAqz_-BkvTGRscAOh_xidhIfd7NJjgxHMkvMxjXLgbtZD5T4E4euMuCAKB1uz2KmLw=="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkw5y1HNN7sLrs4YTgztEkPQuK8OD-vjRKi_u3ZOnqNYXcWwmKFPbTFeqO26Ynix2aOL1uGV6Z6-wxYqo7Kw3UgTnPFWHhQqwfGp0_f8b9DNamHOqSVAJk6LH5TGaUtEYdYFY3nI8wud1F7fKYGvo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWVRz3RP6U5yVumeY-6t2G344i2hZxCKWRbWo0dlx2BJMJh1yHtViU0Ujr_c9RfCW6QT35If7ZVEAZYCKSVLDaKUNilqVNoWH5oLxuvPA3Rw_fUSyRrZb1lK3_ncKnZa5ddJU_lvDzQ2UPneysyntHlQ0uLllKsTR8ZbllONUNfAbdUFPqIw=="
-        }
-      ],
-      "scrapedAt": "2026-06-02T11:17:46.168Z"
     },
     {
       "id": "social-d4b6d437eb0c",
@@ -3587,47 +3525,6 @@
       "scrapedAt": "2026-06-15T13:00:02.366Z"
     },
     {
-      "id": "social-24dd82da96f2",
-      "title": "Adventsverkauf Rathausplatz",
-      "category": "markets",
-      "description": "Adventsverkauf des Gemeinnützigen Frauenvereins Trimmis auf dem Rathausplatz.",
-      "date": "2026-11-26",
-      "time": "09:00 - 17:00",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz, Trimmis",
-      "lat": 46.882,
-      "lng": 9.554,
-      "image": "",
-      "organizerUrl": "http://www.frauenverein-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdOJpv0vPusezVZvmj3rzRiBOa3aY6Kokfg5YpfQcGL928iIdmIRpeS6CNf1KzUPkHVd-mGrZLHUoPka4f9hBWZ9xr4VVHoy3wf4MrxgWS-sc-jY6-3HL-tWPZeXo="
-        },
-        {
-          "title": "eventfrog.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECMQ3c7dl43kZbMolHD5ikB8lZybGhTFIq5F5dBi4Sy0JgfiZ9JCrIR3W6pGT2Ypv97hKmIxi-R9xW62QLLQhfeaMHoVvgMtAH8xkO7t12-xy-sJrYZuSjz9oyIYCn27Mp5Qrr1f4ObG9BWcTerOaMLDh2AGOhlO_mdIXKJtjqEZpahc2K"
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRBcd3Kh-WMLrQvUe2v4COSW3Y2e7hBdND5SyPvxyqzCU91xmT6qZuvhRcH_IqF0xPifOCuW8JMx5o8XUObVo21lYsEPmzDkx6AYlBJ2kEdeXbRNCHO0usIUtj156Rnu2vgKlDtCdvOpvzyXxfV2We_rjM9mqpHvrALzl5_5mOfvODj3oB2UlOwuihzl0IDizg59I-4D48sX07NWtT849rwNTo6FMVrskanUmxQUhU8XWP30PZm3gyFHlFJN_JDBrgoKnCiKDJ18NqI7Yo9XDsf0A="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVm10CkuBbjBzSej5BrsD8mRuPtHzP1WhC58m1nPAypkogCRnWntXHX_A3RKoI7GM9dnyv-JPaRUDbSrA43P8BYE5vhLDIacrOLesemgAeNiLStC2XamkBLYAQXncrBA=="
-        },
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe8hkkNX9rnpc5eIX2qA01c0-l8my2q9Et9Ce90yXLt7iAqG4YFu74UPfJHZKrNIaKEGya-ziP73kQbPCyNd1m9yRzZzTkQsJQktKRq_bUw9agttvJFH8b4aPS-w=="
-        }
-      ],
-      "scrapedAt": "2026-06-15T13:02:57.068Z"
-    },
-    {
       "id": "social-4ae0f6cfcb90",
       "title": "Raclette-Essen TV Malans",
       "category": "family",
@@ -3973,26 +3870,6 @@
       "scrapedAt": "2026-06-18T11:10:23.171Z"
     },
     {
-      "id": "social-f2f0df59ea21",
-      "title": "Geschichten aus der Schatzkiste",
-      "category": "family",
-      "description": "Geschichten für Kinder aus der Schatzkiste.",
-      "date": "2026-11-26",
-      "time": "09:15 - 10:00",
-      "price": "Keine Angabe",
-      "municipality": "Landquart",
-      "locationName": "Bibliothek Landquart und Umgebung",
-      "lat": 46.953,
-      "lng": 9.537,
-      "image": "",
-      "organizerUrl": "https://www.bibliothek-landquart.ch/agenda",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-18T11:16:00.472Z"
-    },
-    {
       "id": "social-cc22723885ef",
       "title": "Lesen mit Giotto",
       "category": "family",
@@ -4277,26 +4154,6 @@
         }
       ],
       "scrapedAt": "2026-06-19T11:25:42.188Z"
-    },
-    {
-      "id": "social-2f94b65b9b02",
-      "title": "Weihnachtsbazar",
-      "category": "markets",
-      "description": "Ein Weihnachtsbazar in Chur.",
-      "date": "2026-11-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Chur",
-      "locationName": "Chur",
-      "lat": 46.85,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": null,
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [],
-      "scrapedAt": "2026-06-20T09:59:23.049Z"
     },
     {
       "id": "social-25d58545485e",
@@ -5403,47 +5260,6 @@
       "sourcePlatform": "Other",
       "citations": [],
       "scrapedAt": "2026-07-06T11:28:51.276Z"
-    },
-    {
-      "id": "social-1f295d692459",
-      "title": "Adventsverkauf Frauenverein Trimmis",
-      "category": "markets",
-      "description": "Verkauf von Adventskränzen und Gestecken durch den Gemeinnützigen Frauenverein Trimmis auf dem Rathausplatz.",
-      "date": "2026-11-26",
-      "time": "",
-      "price": "Keine Angabe",
-      "municipality": "Trimmis",
-      "locationName": "Rathausplatz",
-      "lat": 46.901,
-      "lng": 9.53,
-      "image": "",
-      "organizerUrl": "http://www.frauenverein-trimmis.ch",
-      "ticketUrl": null,
-      "sourceUrl": "",
-      "sourcePlatform": "Other",
-      "citations": [
-        {
-          "title": "dorfmarkt-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYFYHv9JEkdQY9NIgUitqOGqczjAm_6Ouc_LBRaqk2kCTXKGFSWcsDNylVR9HaE1o8CBqYs3-hly4D03V8vnQfw_nN9o_Yx449Wo4ibFaJTwWA6ZjTMHJJmCzqyg=="
-        },
-        {
-          "title": "frauenverein-trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsM6mnolPIRrSdkEL0gux3F2KNfDGjiux7WiFcjJrwfNYBq5oJ_7LLC3k-f00ORltFTtfoA1wkgnxSoCCeuv4Dv7ApZDp6GoaLUJ49NvbH4MEgziH2hqLTFpDZnJmDFDlYulhta9dZuyLMmZpgxtph4OwPr68f0r3-SHbYj6gPbAMJykK2c41A4byO25V8biDmMioF00vWC7D59j4T5U6Fa7b_8jYts4E-VhjNVWNDgoNwzYk4h5Nyrg6E14kRt3kKxt7GFecymxR5o2BVx7OnzSU="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg6jP9V7Ef7rXMqgwbjlZmeUAWfA3QUvO2K6i9jH96MPub-860ArDZYJGbIe-nk3xQEZKf6-wFhQmbHUQegWwBhueezu0maA4ozutsF1ILYKIhKin0uS4AwWUDQdJePy-37vtuaXA6DL2nQ1MVRJ8="
-        },
-        {
-          "title": "trimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzlC2_so3bnb9FTuGRE-doMl9SOqnX_3y0KJJnq041k8fSFO3Lmd7SAqhW5rheUUci2GxAFs3xo0AN-cfeTe6SrN5Ss3BGdXODV6DAL21zz13HKHPuSIQrP-B6P4hP8IGngwI="
-        },
-        {
-          "title": "mgtrimmis.ch",
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqPIXbCcAb8SpqeC_dEnb2aTLrs9EV2yU1vNHtJQgqLlKdQU-SvQZKR9I75JN5B92x4eV4kg2Z1uRcprbJtKXMAsQqv2wkTD4IT0qQc73-vijXCAUT8rsEQetCsvQ="
-        }
-      ],
-      "scrapedAt": "2026-07-08T09:25:20.855Z"
     },
     {
       "id": "social-1846d2095148",
